@@ -13,13 +13,9 @@ export function setupGoogleAuth() {
 
   // Determine callback URL based on environment
   let callbackURL: string;
-  if (process.env.GOOGLE_CALLBACK_URL) {
-    // Explicitly configured callback URL (for production)
-    callbackURL = process.env.GOOGLE_CALLBACK_URL;
-  } else if (process.env.REPLIT_DEPLOYMENT === "1") {
-    // Production deployment - use the deployment domain
-    const deploymentDomain = process.env.REPLIT_DEV_DOMAIN?.replace("-00-", "-") || "";
-    callbackURL = `https://${deploymentDomain}/api/auth/google/callback`;
+  if (process.env.BASE_URL) {
+    // Production: use BASE_URL (e.g., https://askthem.xyz)
+    callbackURL = `${process.env.BASE_URL}/api/auth/google/callback`;
   } else if (process.env.REPLIT_DOMAINS) {
     // Development environment with Replit domains
     callbackURL = `https://${process.env.REPLIT_DOMAINS.split(",")[0]}/api/auth/google/callback`;

@@ -126,15 +126,38 @@ export class DatabaseStorage implements IStorage {
   }
 
   async createOrGetUserByGoogleId(data: GoogleUserData): Promise<User> {
-    const [existingUser] = await db
+    // First check by google_id
+    const [existingByGoogleId] = await db
       .select()
       .from(users)
       .where(eq(users.googleId, data.googleId));
     
-    if (existingUser) {
-      return existingUser;
+    if (existingByGoogleId) {
+      return existingByGoogleId;
     }
     
+    // Check if user exists by email - if so, update their google_id
+    if (data.email) {
+      const [existingByEmail] = await db
+        .select()
+        .from(users)
+        .where(eq(users.email, data.email));
+      
+      if (existingByEmail) {
+        // Update existing user with google_id
+        const [updatedUser] = await db
+          .update(users)
+          .set({ 
+            googleId: data.googleId,
+            profileImageUrl: data.profileImage || existingByEmail.profileImageUrl,
+          })
+          .where(eq(users.id, existingByEmail.id))
+          .returning();
+        return updatedUser;
+      }
+    }
+    
+    // Create new user
     const username = data.email 
       ? data.email.split("@")[0].toLowerCase().replace(/[^a-z0-9_-]/g, '')
       : `google_${data.googleId.slice(-8)}`;

@@ -1,0 +1,50 @@
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="c942504f-5325-42c9" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="807abd48-e797-4ddb" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="82681c71-5162-49bc" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="a4702981-b73f-4008" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="0a545e4f-91d0-44e4" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="fc0ca240-a9a7-4dcb" responseTimeMS=0 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="217c2a65-0a39-4780" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="ff700d90-a9bb-4624" responseTimeMS=3 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="0dabfc42-44ec-4c62" responseTimeMS=0 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="1c35c0bb-5f9f-40da" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="62a0e216-458d-44d2" responseTimeMS=3 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="b2e89490-e0f8-4732" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="63840d3b-b5df-4fa0" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="403a2dab-8a6b-4fff" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="4e804672-9412-436f" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="dbd2ef83-19a5-4ba4" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="b1c71059-360e-432c" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="5d4168f3-a0b5-4b09" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="50422886-ba60-48f0" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="c83d54ce-cbb2-44c8" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="3e368b6d-5015-4a03" responseTimeMS=1 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="a7e62057-e640-4f28" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="7853716c-3abc-42e4" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="50f1e934-4084-49b3" responseTimeMS=2 responseBytes=301 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:04Z clientIP="98.121.128.140" requestID="9a33e256-7f10-4c49" responseTimeMS=5 responseBytes=210 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36"
+2026-01-21T10:56:59Z clientIP="91.196.152.155" requestID="" responseTimeMS=0 responseBytes=127 userAgent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0"
+2026-01-21T11:01:00.403999407Z ==> Setting WEB_CONCURRENCY=1 by default, based on available CPUs in the instance
+2026-01-21T11:01:00.425286005Z ==> Deploying...
+2026-01-21T11:02:26.163521776Z ==> No open ports detected, continuing to scan...
+2026-01-21T11:02:26.285356937Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2026-01-21T11:02:26.848589546Z ==> Running 'npm run start'
+2026-01-21T11:02:27.148072659Z 
+2026-01-21T11:02:27.148218253Z > rest-express@1.0.0 start
+2026-01-21T11:02:27.148224234Z > NODE_ENV=production node dist/index.js
+2026-01-21T11:02:27.148226303Z 
+2026-01-21T11:02:30.775458258Z Warning: connect.session() MemoryStore is not
+2026-01-21T11:02:30.775474378Z designed for a production environment, as it will leak
+2026-01-21T11:02:30.775477138Z memory, and will not scale past a single process.
+2026-01-21T11:02:30.776148187Z [Google Auth] Configuring with callback URL: https://askthem.xyz/api/auth/google/callback
+2026-01-21T11:02:30.777828395Z [Google Auth] Google OAuth routes registered
+2026-01-21T11:02:30.845804067Z 11:02:30 AM [express] Serving static files from: /opt/render/project/src/dist/public
+2026-01-21T11:02:30.851434877Z 11:02:30 AM [express] serving on port 10000
+2026-01-21T11:02:32.359126916Z ==> Your service is live 🎉
+2026-01-21T11:02:32.443652529Z ==> 
+2026-01-21T11:02:32.481954497Z ==> ///////////////////////////////////////////////////////////
+2026-01-21T11:02:32.521328093Z ==> 
+2026-01-21T11:02:32.557615831Z ==> Available at your primary URL https://askthem.xyz + 2 more domains
+2026-01-21T11:02:32.596324628Z ==> 
+2026-01-21T11:02:32.633398235Z ==> ///////////////////////////////////////////////////////////
+2026-01-21T11:02:33Z clientIP="35.197.80.206" requestID="96cb0985-0ea2-4df4" responseTimeMS=18 responseBytes=948 userAgent="Go-http-client/2.0"

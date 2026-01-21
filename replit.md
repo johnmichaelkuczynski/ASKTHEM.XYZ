@@ -1,6 +1,14 @@
 # Ask A Philosopher - Philosophical Q&A Application
 
-### Recent Changes (January 11, 2026)
+### Recent Changes (January 21, 2026)
+- **Google OAuth Login**: Added Google login option alongside existing username-based login
+  - Users can now sign in with their Google accounts
+  - Uses passport-google-oauth20 for secure OAuth 2.0 flow
+  - Google button appears in header login area when user is not authenticated
+  - User data stored with google_id in users table for unique identification
+  - Callback URL: `/api/auth/google/callback`
+
+### Previous Changes (January 11, 2026)
 - **All Generators Support 50,000 Words**: Paper Writer, Dialogue Creator, Interview Creator, and Debate Creator now support manual word count input from 100 to 50,000 words
   - Manual numeric input replaces sliders/dropdowns - no presets, only user-specified word counts
   - Backend endpoints dynamically calculate token limits based on requested word length

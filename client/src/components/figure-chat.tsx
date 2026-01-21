@@ -659,6 +659,9 @@ export function FigureChat({ figure, open, onOpenChange, onTransferContent }: Fi
         figureName={figure.name}
         figureId={figure.id}
         onSelectPrompt={(prompt) => {
+          // Open audit panel and clear previous data before sending
+          setAuditData(null);
+          setAuditPanelOpen(true);
           sendMessageMutation.mutate(prompt);
         }}
       />

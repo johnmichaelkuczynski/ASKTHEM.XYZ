@@ -28,6 +28,13 @@ export type Thinker = {
   icon: string;
 };
 
+export interface GoogleUserData {
+  googleId: string;
+  email?: string;
+  displayName: string;
+  profileImage?: string;
+}
+
 export interface IStorage {
   // User operations (Replit Auth integration)
   getUser(id: string): Promise<User | undefined>;
@@ -35,6 +42,7 @@ export interface IStorage {
   upsertUser(user: UpsertUser): Promise<User>;
   createUser(user: InsertUser): Promise<User>;
   createOrGetUserByUsername(username: string): Promise<User>;
+  createOrGetUserByGoogleId(data: GoogleUserData): Promise<User>;
   getCurrentUser(): Promise<User | undefined>;
 
   // Persona settings operations
@@ -112,6 +120,34 @@ export class DatabaseStorage implements IStorage {
         firstName: username,
         lastName: null,
         profileImageUrl: null,
+      })
+      .returning();
+    return newUser;
+  }
+
+  async createOrGetUserByGoogleId(data: GoogleUserData): Promise<User> {
+    const [existingUser] = await db
+      .select()
+      .from(users)
+      .where(eq(users.googleId, data.googleId));
+    
+    if (existingUser) {
+      return existingUser;
+    }
+    
+    const username = data.email 
+      ? data.email.split("@")[0].toLowerCase().replace(/[^a-z0-9_-]/g, '')
+      : `google_${data.googleId.slice(-8)}`;
+    
+    const [newUser] = await db
+      .insert(users)
+      .values({
+        username,
+        email: data.email || null,
+        firstName: data.displayName,
+        lastName: null,
+        profileImageUrl: data.profileImage || null,
+        googleId: data.googleId,
       })
       .returning();
     return newUser;

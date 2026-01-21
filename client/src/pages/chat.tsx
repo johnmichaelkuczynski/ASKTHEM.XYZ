@@ -16,6 +16,7 @@ import { Badge } from "@/components/ui/badge";
 import { Switch } from "@/components/ui/switch";
 import { useToast } from "@/hooks/use-toast";
 import { Sparkles, Search, Users, Star, User, LogOut, History, Download, MessageSquare, Plus } from "lucide-react";
+import { SiGoogle } from "react-icons/si";
 import type { Message, PersonaSettings, Figure } from "@shared/schema";
 import kuczynskiIcon from "@assets/image_1767777610408.png";
 import { ComparisonModal } from "@/components/comparison-modal";
@@ -631,24 +632,37 @@ export default function Chat() {
                   </Button>
                 </>
               ) : (
-                <form onSubmit={handleLogin} className="flex items-center gap-2">
-                  <Input
-                    type="text"
-                    placeholder="Username"
-                    value={loginUsername}
-                    onChange={(e) => setLoginUsername(e.target.value)}
-                    className="h-8 w-32 text-sm"
-                    data-testid="input-login-username"
-                  />
+                <div className="flex items-center gap-3">
+                  <form onSubmit={handleLogin} className="flex items-center gap-2">
+                    <Input
+                      type="text"
+                      placeholder="Username"
+                      value={loginUsername}
+                      onChange={(e) => setLoginUsername(e.target.value)}
+                      className="h-8 w-32 text-sm"
+                      data-testid="input-login-username"
+                    />
+                    <Button
+                      type="submit"
+                      size="sm"
+                      disabled={loginUsername.trim().length < 2 || loginMutation.isPending}
+                      data-testid="button-login"
+                    >
+                      {loginMutation.isPending ? "..." : "Login"}
+                    </Button>
+                  </form>
+                  <span className="text-xs text-muted-foreground">or</span>
                   <Button
-                    type="submit"
+                    variant="outline"
                     size="sm"
-                    disabled={loginUsername.trim().length < 2 || loginMutation.isPending}
-                    data-testid="button-login"
+                    onClick={() => window.location.href = "/api/auth/google"}
+                    className="gap-2"
+                    data-testid="button-google-login"
                   >
-                    {loginMutation.isPending ? "..." : "Login"}
+                    <SiGoogle className="w-4 h-4" />
+                    Google
                   </Button>
-                </form>
+                </div>
               )}
               <Button
                 onClick={() => setComparisonModalOpen(true)}

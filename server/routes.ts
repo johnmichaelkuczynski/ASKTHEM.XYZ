@@ -288,6 +288,42 @@ export async function registerRoutes(app: Express): Promise<Server> {
     },
   }));
 
+  // ============ GOOGLE OAUTH LOGIN ============
+  const { setupGoogleAuth } = await import("./googleAuth");
+  const passport = (await import("passport")).default;
+  
+  const googleAuthEnabled = setupGoogleAuth();
+  
+  if (googleAuthEnabled) {
+    app.use(passport.initialize());
+    app.use(passport.session());
+    
+    app.get("/api/auth/google", passport.authenticate("google", { 
+      scope: ["profile", "email"] 
+    }));
+    
+    app.get("/api/auth/google/callback", 
+      passport.authenticate("google", { failureRedirect: "/" }),
+      async (req: any, res) => {
+        try {
+          const user = req.user;
+          if (user) {
+            req.session.userId = user.id;
+            req.session.username = user.username;
+          }
+          res.redirect("/");
+        } catch (error) {
+          console.error("[Google Auth] Callback error:", error);
+          res.redirect("/");
+        }
+      }
+    );
+    
+    console.log("[Google Auth] Google OAuth routes registered");
+  } else {
+    console.log("[Google Auth] Skipping Google OAuth routes - credentials not configured");
+  }
+
   // ============ USERNAME-BASED LOGIN (NO PASSWORD) ============
   
   // Login with username - creates user if not exists

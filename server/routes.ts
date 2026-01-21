@@ -303,7 +303,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }));
     
     app.get("/api/auth/google/callback", 
-      passport.authenticate("google", { failureRedirect: "/" }),
+      passport.authenticate("google", { failureRedirect: "/?auth=failed" }),
       async (req: any, res) => {
         try {
           const user = req.user;
@@ -311,10 +311,10 @@ export async function registerRoutes(app: Express): Promise<Server> {
             req.session.userId = user.id;
             req.session.username = user.username;
           }
-          res.redirect("/");
+          res.redirect("/?auth=success");
         } catch (error) {
           console.error("[Google Auth] Callback error:", error);
-          res.redirect("/");
+          res.redirect("/?auth=error");
         }
       }
     );

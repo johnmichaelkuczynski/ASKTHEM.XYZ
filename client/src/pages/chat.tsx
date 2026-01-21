@@ -116,15 +116,7 @@ export default function Chat() {
     queryKey: ["/api/user"],
   });
   
-  // Auto-login with Google - redirect to Google OAuth if not logged in
-  const [autoLoginAttempted, setAutoLoginAttempted] = useState(false);
-  useEffect(() => {
-    if (!userLoading && !userData?.user && !autoLoginAttempted) {
-      setAutoLoginAttempted(true);
-      // Redirect to Google login
-      window.location.href = "/api/auth/google";
-    }
-  }, [userLoading, userData, autoLoginAttempted]);
+  // No auto-redirect - user clicks Google button to login
 
   // Chat history
   const { data: chatHistoryData, refetch: refetchChatHistory } = useQuery<{ 

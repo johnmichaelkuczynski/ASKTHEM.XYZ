@@ -1,7 +1,6 @@
-import { useState } from "react";
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { Button } from "@/components/ui/button";
-import { ChevronDown, ChevronRight, HelpCircle, MessageSquare, Send } from "lucide-react";
+import { HelpCircle, MessageSquare } from "lucide-react";
 import { kuczynskiTopics, type TopicQuestion } from "@/data/kuczynski-topics";
 import { freudTopics } from "@/data/freud-topics";
 import { jungTopics } from "@/data/jung-topics";
@@ -63,7 +62,6 @@ export function WhatToAskModal({
   figureId,
   onSelectPrompt 
 }: WhatToAskModalProps) {
-  const [expandedTopic, setExpandedTopic] = useState<string | null>(null);
 
   const getTopicsForFigure = (figureId: string): TopicQuestion[] => {
     if (figureId === "common" || figureName.toLowerCase().includes("kuczynski") || figureId === "jmk") {
@@ -206,20 +204,13 @@ export function WhatToAskModal({
 
   const topics = getTopicsForFigure(figureId);
 
-  const handleTopicClick = (topic: string) => {
-    onSelectPrompt(`TELL ME ABOUT ${topic.toUpperCase()}`);
-    onOpenChange(false);
-  };
-
   const handleQuestionClick = (question: string) => {
     onSelectPrompt(question);
     onOpenChange(false);
   };
 
-  const toggleTopic = (topic: string, e: React.MouseEvent) => {
-    e.stopPropagation();
-    setExpandedTopic(expandedTopic === topic ? null : topic);
-  };
+  // Flatten all questions into a single list for immediate access
+  const allQuestions = topics.flatMap(t => t.questions);
 
   if (topics.length === 0) {
     return (
@@ -252,80 +243,31 @@ export function WhatToAskModal({
             What to Ask {figureName}
           </DialogTitle>
           <DialogDescription>
-            Click a topic to expand and see questions. Click a question to auto-fill the input.
+            Click any question to ask it immediately.
           </DialogDescription>
         </DialogHeader>
 
         <div className="flex-1 min-h-0 overflow-y-auto pr-2" style={{ maxHeight: 'calc(85vh - 160px)' }}>
-          <div className="space-y-2 py-2">
-            {topics.map((topicData, index) => (
-              <div 
-                key={index} 
-                className="border rounded-lg overflow-hidden bg-card"
+          <div className="space-y-1 py-2">
+            {allQuestions.map((question, index) => (
+              <Button
+                key={index}
+                variant="ghost"
+                size="sm"
+                className="w-full justify-start text-left h-auto py-2 px-3 text-sm hover:bg-primary/10"
+                onClick={() => handleQuestionClick(question)}
+                data-testid={`question-${index}`}
               >
-                <div 
-                  className="flex items-center gap-3 p-3 cursor-pointer hover:bg-muted/50 transition-colors"
-                  onClick={(e) => toggleTopic(topicData.topic, e)}
-                  data-testid={`topic-row-${index}`}
-                >
-                  <div className="flex-shrink-0 text-primary">
-                    {expandedTopic === topicData.topic ? (
-                      <ChevronDown className="w-5 h-5" />
-                    ) : (
-                      <ChevronRight className="w-5 h-5" />
-                    )}
-                  </div>
-                  <div className="flex-1 min-w-0">
-                    <div className="font-medium text-foreground">{topicData.topic}</div>
-                    <div className="text-xs text-muted-foreground mt-0.5 line-clamp-1">
-                      {topicData.description}
-                    </div>
-                  </div>
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    className="flex-shrink-0 gap-1 text-xs"
-                    onClick={(e) => {
-                      e.stopPropagation();
-                      handleTopicClick(topicData.topic);
-                    }}
-                    data-testid={`ask-topic-${index}`}
-                  >
-                    <Send className="w-3 h-3" />
-                    Ask
-                  </Button>
-                </div>
-
-                {expandedTopic === topicData.topic && (
-                  <div className="border-t bg-muted/30">
-                    <div className="p-2 space-y-1 max-h-64 overflow-y-auto">
-                      <div className="px-3 py-1 text-xs font-medium text-muted-foreground sticky top-0 bg-muted/30">
-                        {topicData.questions.length} questions:
-                      </div>
-                      {topicData.questions.map((question, qIndex) => (
-                        <Button
-                          key={qIndex}
-                          variant="ghost"
-                          size="sm"
-                          className="w-full justify-start text-left h-auto py-2 px-3 text-sm hover:bg-primary/10"
-                          onClick={() => handleQuestionClick(question)}
-                          data-testid={`question-${index}-${qIndex}`}
-                        >
-                          <MessageSquare className="w-3 h-3 mr-2 flex-shrink-0 text-primary" />
-                          <span className="line-clamp-2">{question}</span>
-                        </Button>
-                      ))}
-                    </div>
-                  </div>
-                )}
-              </div>
+                <MessageSquare className="w-3 h-3 mr-2 flex-shrink-0 text-primary" />
+                <span className="line-clamp-2">{question}</span>
+              </Button>
             ))}
           </div>
         </div>
 
         <div className="pt-4 border-t text-center">
           <p className="text-xs text-muted-foreground">
-            {topics.length} topics • {topics.reduce((sum, t) => sum + t.questions.length, 0)} suggested questions
+            {allQuestions.length} suggested questions
           </p>
         </div>
       </DialogContent>

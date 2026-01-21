@@ -590,7 +590,7 @@ export default function Chat() {
                 />
               </div>
               <h1 className="font-display text-xl font-light whitespace-nowrap">
-                Analytic Philosophy
+                Ask Them
               </h1>
             </div>
             <div className="flex items-center gap-2">
@@ -718,7 +718,7 @@ export default function Chat() {
                     </div>
                     <div className="space-y-3">
                       <h2 className="text-2xl font-display font-light text-[#0f172a] dark:text-slate-100">
-                        Ask A Thinker
+                        Ask Them
                       </h2>
                       <p className="text-[#0f172a]/80 dark:text-slate-200/70 text-sm leading-relaxed max-w-md mx-auto">
                         Powered by Zhi's proprietary LLM, trained directly on complete works—not summaries, not paraphrases, not third-party interpretations.

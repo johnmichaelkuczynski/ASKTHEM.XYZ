@@ -619,7 +619,17 @@ export default function Chat() {
                     <LogOut className="w-4 h-4" />
                   </Button>
                 </>
-              ) : null}
+              ) : (
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => window.location.href = "/api/auth/google"}
+                  className="gap-2"
+                  data-testid="button-google-login"
+                >
+                  Sign in with Google
+                </Button>
+              )}
               <Button
                 onClick={() => setComparisonModalOpen(true)}
                 variant="outline"

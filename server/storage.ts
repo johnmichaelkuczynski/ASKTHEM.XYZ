@@ -28,6 +28,12 @@ export type Thinker = {
   icon: string;
 };
 
+export interface GoogleUserData {
+  googleId: string;
+  email?: string;
+  displayName: string;
+  profileImage?: string;
+}
 
 export interface IStorage {
   // User operations (Replit Auth integration)
@@ -36,6 +42,7 @@ export interface IStorage {
   upsertUser(user: UpsertUser): Promise<User>;
   createUser(user: InsertUser): Promise<User>;
   createOrGetUserByUsername(username: string): Promise<User>;
+  createOrGetUserByGoogleId(data: GoogleUserData): Promise<User>;
   getCurrentUser(): Promise<User | undefined>;
 
   // Persona settings operations
@@ -118,6 +125,56 @@ export class DatabaseStorage implements IStorage {
     return newUser;
   }
 
+  async createOrGetUserByGoogleId(data: GoogleUserData): Promise<User> {
+    // First check by google_id
+    const [existingByGoogleId] = await db
+      .select()
+      .from(users)
+      .where(eq(users.googleId, data.googleId));
+    
+    if (existingByGoogleId) {
+      return existingByGoogleId;
+    }
+    
+    // Check if user exists by email - if so, update their google_id
+    if (data.email) {
+      const [existingByEmail] = await db
+        .select()
+        .from(users)
+        .where(eq(users.email, data.email));
+      
+      if (existingByEmail) {
+        // Update existing user with google_id
+        const [updatedUser] = await db
+          .update(users)
+          .set({ 
+            googleId: data.googleId,
+            profileImageUrl: data.profileImage || existingByEmail.profileImageUrl,
+          })
+          .where(eq(users.id, existingByEmail.id))
+          .returning();
+        return updatedUser;
+      }
+    }
+    
+    // Create new user
+    const username = data.email 
+      ? data.email.split("@")[0].toLowerCase().replace(/[^a-z0-9_-]/g, '')
+      : `google_${data.googleId.slice(-8)}`;
+    
+    const [newUser] = await db
+      .insert(users)
+      .values({
+        username,
+        email: data.email || null,
+        firstName: data.displayName,
+        lastName: null,
+        profileImageUrl: data.profileImage || null,
+        googleId: data.googleId,
+      })
+      .returning();
+    return newUser;
+  }
 
   async getCurrentUser(): Promise<User | undefined> {
     const [user] = await db.select().from(users).limit(1);

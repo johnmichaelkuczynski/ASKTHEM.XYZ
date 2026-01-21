@@ -116,16 +116,13 @@ export default function Chat() {
     queryKey: ["/api/user"],
   });
   
-  // Auto-login JMK - always logged in as required
+  // Auto-login with Google - redirect to Google OAuth if not logged in
   const [autoLoginAttempted, setAutoLoginAttempted] = useState(false);
   useEffect(() => {
     if (!userLoading && !userData?.user && !autoLoginAttempted) {
       setAutoLoginAttempted(true);
-      // Auto-login as JMK
-      apiRequest("POST", "/api/login", { username: "JMK" }).then(() => {
-        queryClient.invalidateQueries({ queryKey: ["/api/user"] });
-        queryClient.invalidateQueries({ queryKey: ["/api/chat-history"] });
-      });
+      // Redirect to Google login
+      window.location.href = "/api/auth/google";
     }
   }, [userLoading, userData, autoLoginAttempted]);
 
@@ -632,37 +629,16 @@ export default function Chat() {
                   </Button>
                 </>
               ) : (
-                <div className="flex items-center gap-3">
-                  <form onSubmit={handleLogin} className="flex items-center gap-2">
-                    <Input
-                      type="text"
-                      placeholder="Username"
-                      value={loginUsername}
-                      onChange={(e) => setLoginUsername(e.target.value)}
-                      className="h-8 w-32 text-sm"
-                      data-testid="input-login-username"
-                    />
-                    <Button
-                      type="submit"
-                      size="sm"
-                      disabled={loginUsername.trim().length < 2 || loginMutation.isPending}
-                      data-testid="button-login"
-                    >
-                      {loginMutation.isPending ? "..." : "Login"}
-                    </Button>
-                  </form>
-                  <span className="text-xs text-muted-foreground">or</span>
-                  <Button
-                    variant="outline"
-                    size="sm"
-                    onClick={() => window.location.href = "/api/auth/google"}
-                    className="gap-2"
-                    data-testid="button-google-login"
-                  >
-                    <SiGoogle className="w-4 h-4" />
-                    Google
-                  </Button>
-                </div>
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={() => window.location.href = "/api/auth/google"}
+                  className="gap-2"
+                  data-testid="button-google-login"
+                >
+                  <SiGoogle className="w-4 h-4" />
+                  Sign in with Google
+                </Button>
               )}
               <Button
                 onClick={() => setComparisonModalOpen(true)}

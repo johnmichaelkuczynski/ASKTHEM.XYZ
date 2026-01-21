@@ -16,7 +16,6 @@ import { Badge } from "@/components/ui/badge";
 import { Switch } from "@/components/ui/switch";
 import { useToast } from "@/hooks/use-toast";
 import { Sparkles, Search, Users, Star, User, LogOut, History, Download, MessageSquare, Plus } from "lucide-react";
-import { SiGoogle } from "react-icons/si";
 import type { Message, PersonaSettings, Figure } from "@shared/schema";
 import kuczynskiIcon from "@assets/image_1767777610408.png";
 import { ComparisonModal } from "@/components/comparison-modal";
@@ -620,18 +619,7 @@ export default function Chat() {
                     <LogOut className="w-4 h-4" />
                   </Button>
                 </>
-              ) : (
-                <Button
-                  variant="outline"
-                  size="sm"
-                  onClick={() => window.location.href = "/api/auth/google"}
-                  className="gap-2"
-                  data-testid="button-google-login"
-                >
-                  <SiGoogle className="w-4 h-4" />
-                  Sign in with Google
-                </Button>
-              )}
+              ) : null}
               <Button
                 onClick={() => setComparisonModalOpen(true)}
                 variant="outline"

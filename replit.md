@@ -1,12 +1,8 @@
 # Ask A Philosopher - Philosophical Q&A Application
 
 ### Recent Changes (January 21, 2026)
-- **Google OAuth Login**: Added Google login option alongside existing username-based login
-  - Users can now sign in with their Google accounts
-  - Uses passport-google-oauth20 for secure OAuth 2.0 flow
-  - Google button appears in header login area when user is not authenticated
-  - User data stored with google_id in users table for unique identification
-  - Callback URL: `/api/auth/google/callback`
+- **Google OAuth Removed**: Removed Google login - app now uses username-only login for simplicity
+- **500 New Kuczynski Questions**: Added 500 new questions to Kuczynski's "What to Ask" section organized into 48 topic categories
 
 ### Previous Changes (January 11, 2026)
 - **All Generators Support 50,000 Words**: Paper Writer, Dialogue Creator, Interview Creator, and Debate Creator now support manual word count input from 100 to 50,000 words

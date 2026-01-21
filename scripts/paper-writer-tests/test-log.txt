@@ -1,0 +1,8 @@
+============================================================
+PAPER WRITER COMPREHENSIVE TEST
+Target: 2540 words per thinker
+============================================================
+
+Found 42 thinkers to test
+
+[1/42] Testing adler...

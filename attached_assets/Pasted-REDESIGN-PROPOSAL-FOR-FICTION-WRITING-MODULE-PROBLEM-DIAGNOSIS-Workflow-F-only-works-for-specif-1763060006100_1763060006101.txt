@@ -1,0 +1,46 @@
+REDESIGN PROPOSAL FOR FICTION WRITING MODULE
+
+PROBLEM DIAGNOSIS:
+Workflow F only works for specific input types. The philosophy of mind text failed because you can't "show a world" where an abstract cognitive thesis is true—it's invisible, internal, and doesn't produce distinctive observable social patterns.
+
+WORKFLOW COMPATIBILITY BY INPUT TYPE:
+
+**Workflow F (Thesis to World)** - ONLY works for:
+- Claims about how people/society BEHAVES
+- Observable social patterns
+- Examples: "People are selfish," "Capitalism bifurcates society," "Modern institutions reward the strong"
+- Does NOT work for: abstract epistemology, cognitive architecture, metaphysical claims
+
+**Workflow E (Prediction Realized)** - ONLY works for:
+- Explicit predictions about future events
+- Examples: Marx on capitalism, demographic predictions, technology forecasts
+- Limited applicability
+
+**Workflow A (Nightmare)** - Works for MOST passionate non-fiction:
+- Identify the author's underlying anxiety/fear
+- Show realistic scenario where that fear materializes
+- Works for: psychology, philosophy, politics, personal essays, academic disputes
+- Most universal application
+
+RECOMMENDATION:
+**Start with Workflow A (Nightmare) as the first function, NOT Workflow F.**
+
+Why:
+1. Most non-fiction is anxiety-driven (that's why people write it)
+2. Identifying fear is easier than categorizing thesis types
+3. Nightmare scenarios naturally create tension/stakes (unlike documentary lists)
+4. Works across disciplines (philosophy, psychology, politics, personal)
+
+The philosophy of mind input would work as nightmare:
+- Author fears linguistic-turn philosophy has imprisoned thought
+- Show world where everyone's cognition becomes fully linguistically mediated
+- Direct perception atrophies, everything requires verbal decoding
+- People lose ability to think without inner monologue
+- Write as realistic, matter-of-fact reportage of this happening
+
+PROPOSED FIRST IMPLEMENTATION:
+"Convert to Nightmare" - Input non-fiction → Identify core anxiety → Depict realistic scenario where it materializes
+
+Then add others later: B (wish-fulfillment), C/D (love stories), E (prediction), F (behavioral thesis)
+
+Should I write the nightmare workflow prompt?

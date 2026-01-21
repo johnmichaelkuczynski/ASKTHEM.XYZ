@@ -1,0 +1,201 @@
+What is a Law of Logic?
+
+A Dialogue
+
+J.-M. Kuczynski PhD
+
+
+MAX: Dr. K, what is a law of logic?
+
+Dr. K: The expression ‘law of logic’ has two meanings. On the one hand, a ‘law of logic’ is any statement that belongs to a system of logic. On the other hand, a ‘law of logic’ is any statement that describes a condition that must be satisfied by any such system.  
+
+MAX: I don’t understand. You are going to have to explain pretty every single word of that statement to me. 
+
+Dr. K: And I will do so, starting with the term ‘logic’ itself. A logic---equivalently, a system of logic---is a recursively defined statement-set. 
+
+MAX:  What is a statement-set? 
+
+Dr. K: A set whose elements are statements. 
+
+MAX: So the English language is a statement-set. 
+
+Dr. K: Correct: 
+
+MAX: What is a recursively defined set? 
+
+Dr. K: A recursively defined set is the smallest set containing some object alpha and also containing phi of x whenever it contains x, where phi is some function that is defined for each of its own outputs. 
+
+MAX: So the class of natural numbers is a recursively defined statement-set.  
+
+Dr. K: Exactly. It is the smallest class contaiing 0 and containing n+1 whenever it contains n.
+
+MAX: So F(x)=x+1 is a recursive function. 
+
+Dr. K: Correct.
+
+MAX: And a recursive function is one that is defined for each of its own outputs. 
+
+Dr. K: Yes. And a recursive statement-function is a recursive function that assigns statements to statements.   
+
+MAX: So the negation-function---the function that assigns the negation of a statement to that statement---is a recursive statement-function. 
+
+Dr. K: Correct. 
+
+MAX: And a logic is a recursively defined statement-set. 
+
+Dr. K: Yes. But in order for a logic to have any value, it must be consistent. 
+
+MAX: You mean, no two of its statement can be incompatible with each other. 
+
+Dr. K: Yes. And a corollary is that, if phi is the recursion that generates a given logic, phi is truth-preservative. 
+
+MAX: Meaning that if p is a true statement, then phi of p is also a true statement.
+
+Dr. K: Right. And given that phi of p is true whenever p is true, it follows that phi of p is a consequence of p. 
+
+MAX: So q is a consequence of p if there exists a truth-preservative recursion phi such that phi of p equals q. 
+
+Dr. K: Or, to put it more simply, if p is true, and q follows from p, then q is true. 
+
+MAX: Which, of course, is the Law of Detachment, better known as modus ponens. If p, and if p then q, then q.  
+
+Dr. K:  Correct. But the term ‘modus ponens’ is ambiguous. It has one meaning that is not logic specific---one meaning that holds of systems of logic in general, and isn’t specific to any one system of logic. At the same time, given any specific system of logic, it has a meaning that is specific that logic. 
+
+MAX: Explain, starting with the first point. 
+
+Dr. K: If phi is a truth-preservative recursion, and psi is a different truth-preservative recursion, then phi of p is a consequence of p, and psi of p is also a consequence of p, even though the relation that p bears to phi of p may otherwise be very different from the relatoin that psi of p bears to p.
+
+MAX: I think I understand. Let phi be the function that, when given a statement S, generates the statement ‘it is possible that S.’ So if S is ‘snow is white’, then phi of S is ‘it is possible that is white.’ And let  psi be the function that, when given S, generates ‘it is false that it is false that S.’ So if S is ‘snow is white’, then psi of S is ‘it is false that it is false that snow is white.’ 
+
+Dr. K: This is good, Max. Continue.
+
+MAX: Phi is a truth-preservative recursion, and so is psi. And phi of p is a consequence of p, and so is psi of p. But the relation that p bears to phi of p is otherwise different from the relation that psi of p bears to p. 
+
+Dr. K: Exactly. 
+
+MAX: So phi is one specification, for lack of a better word, of the consequence-relation wears many hats, and psi is another. 
+
+Dr. K: Exactly. 
+
+MAX: And modus ponens can be taken to say that, if chi is any chosen specification of the conequence relation, then chi of p is true whenever p is true. 
+
+Dr. K: Exactly. 
+
+MAX: But if L is some specific logic, then there is an L-specific version of modus ponens.
+
+Dr. K:  Exactly. If zeta is the recursion that generates some specific statement-set L, then the L-specific version of modus ponens says that  zeta of s is true whenever s is true.
+
+MAX: And the same thing mutatis mutandis is true of the law of transitivity.
+
+Dr. K: You are right. But I would like you to state your reasoning as explicitly as possible. 
+
+MAX: According to the principle of transitivity, if p entails q and q entails r, then p entails r.  This principle has a general meaning---one that is true of all systems of logic, and isn’t specific to any one system of logic. 
+
+Dr. K: And what exactly is the logic-non-specific interpretation of the principle of transitivity? 
+
+MAX: That, given any truth-preservative recursion phi, phi of phi of p is true when p is true. 
+
+Dr. K: Exactly. 
+
+MAX: At the same time, if L is some specific system of logic, and psi is the recursion that generates L, the L-specific version of transitity is that psi of psi of p is true if p is true. 
+
+Dr. K: Exactly. The L-specific version of transitity doesn’t talk about all truth-preservative recursions. It only concerns psi.
+
+MAX: And everything that we just said about modus ponens and transitivity is also true of modus tollens, this being the principle that if p entails q and q is false, then p is false. 
+
+Dr. K: That’s right. 
+
+MAX: But I don’t see how to extend this line of reasoning to other laws of logic, such as double negation, excluded middle, and non-contradiction. 
+
+Dr. K:  Actually, the justifications, and therefore the very meanings, of those statements are to be understood in terms of the very points you’ve been making, and there is no other way to understand them. 
+
+MAX: Please explain. 
+
+Dr. K:  Consider the so-called law of excluded middle. 
+
+MAX: Either p or not p. 
+
+Dr. K:  Right. Suppose you deny it. What follows?
+
+MAX: That p may be neither true nor false. 
+
+Dr. K:  That’s right.  Now, a logic consists of a set of statements that are assumed to be true, along with the consequences of those statements. 
+
+MAX: Right. 
+
+Dr. K:  So if a statement s belongs to a logic, that is either because (a) s is an axiom, and therefore true by hypothesis, or (b) some statements t belongs to that logic and phi of t = s, where phi is the recursion that generates that logic.
+  
+MAX: So s is either assumed to be true or it is a conseuquence of a statement that is assumed to be true. 
+
+Dr. K:   Right.  
+
+MAX:   And not-s is either the negation of a statement that is assumed to be true, in which case it is false, or it is negation of a consequence of such a statement, in which case it is false.  
+
+Dr. K:  Right. There is no way that not-s can fail to be false. 
+
+MAX: Given any system of logic L, a statement s is true, by L’s lights, if s belongs to L; and a statement s is false, by L’s lights, if s is the negation of a statement belongs to L. And L cannot recognize any statement that doesn’t fall into in any one of those categories.  
+
+Dr. K:  And that is the L-specific version of the Law of Excluded Middle.   
+
+MAX: So, as far as any given system of logic is concerned, any given statement is either true or false. 
+
+Dr. K:  And that is the logic-non-specific version of the Law of Excluded Middle.  
+
+MAX: What about the Law of Non-contradiction, this being the principle that no statement is both true and false?
+
+Dr. K: Suppose that some system of logic L contains both s and not-s. 
+
+MAX: In that case, L contains the negation of any given statement that it contains. 
+
+Dr. K:   And it therefore yields no unequivocal verdict as to the truth or falsity of any given statement and is therefore worthless. 
+
+MAX:  So given some particular system of logic L, the L-specific version of the Law of Excluded Middle is: if p belongs to L, then not-p does not belong to L.
+
+Dr. K:  And what is the L-non-specific version?
+
+MAX: That no system of logic contains the negation of any given statement that it contains. 
+
+Dr. K:  Exactly. 
+
+MAX: So even if there does exist some some statement that is neither true nor false, or that is both true and false, that statement has no place in any logic. 
+
+Dr. K:  And the fact that it has no place in any logic means that it has no place anywhere, i.e. there exists no such statement. 
+
+MAX: Explain.
+
+Dr. K:  A logic is simply a way of organizing statements in such a way that their deductive interrelations are made clear. For reasons that you and I discuss elsewhere, there is no logic that contains every true statement. 
+
+MAX: Because true statements about a given logic do not themselves, as a rule, belong to that logic. 
+
+Dr. K: That’s right. So even though, for that reason, no logic contains every true statement, nonetheless, any given true statement belongs to many a logic. In fact, any such statement itself generates a logic. 
+
+MAX: Right. Because if S is true, then, given some truth-preservative recursion phi, the posterity of S under phi is a logic.  
+
+Dr. K:  Right. And if S is false, then not-S generates a logic. 
+
+MAX: And it’s only if S is neither true nor false that neither S nor its negation generates a logic. 
+
+Dr. K:  Right. And supposing that neither S nor its negation belongs to any logic, what follows?
+
+MAX: That, when stating how two or more statements bear on one another, it is not necessary to affirm S, and it is not necessary to deny S. Wherefore, S is as good as non-existent. 
+
+Dr. K:  Because that’s what it is. Non-existent. A statement that is neither nor false is one whose consequences are neither true nor false, whose negation is neither true nor false, and the consequences of whose negation are neither true nor false. Such a statement is a perfect nullity. 
+
+MAX: So the various logicians and philosophers who fiddle about with multi-valued logics, what are they doing? 
+
+Dr. K:  You just answered your own question, Max. See you tomorrow. 
+
+MAX:    See you tomorrow, Sir. 
+
+  
+
+ 
+ 
+    
+ 
+   
+ 
+
+   
+
+

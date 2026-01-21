@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Sophistical Refutations***
+
+1. This work concerns **apparent but not genuine refutations**—arguments that seem to refute but do not actually establish a contradiction.
+
+2. A genuine **refutation (elenchus)** is a syllogism that establishes the contradictory of a given thesis; sophistical refutations only appear to do this.
+
+3. Sophistry is the **appearance of wisdom without the reality**; the sophist trades in apparent rather than genuine arguments.
+
+4. There are exactly **thirteen types of fallacy**, divided into two main classes.
+
+5. **Six fallacies depend on language (in dictione)**: homonymy, amphiboly, combination, division, accent, and form of expression.
+
+6. **Seven fallacies are independent of language (extra dictionem)**: accident, secundum quid, ignoratio elenchi, begging the question, consequent, non-cause as cause, and many questions.
+
+7. **Homonymy** occurs when a word has multiple meanings and the argument exploits this ambiguity at the term level.
+
+8. **Amphiboly** occurs when a whole phrase or sentence admits multiple interpretations due to grammatical structure.
+
+9. **Combination and division** involve shifting how words are grouped together or separated across premises and conclusion.
+
+10. **Accent** (in Greek) involves exploitation of differences in breathing or pitch that alter meaning.
+
+11. **Form of expression** occurs when grammatical similarity suggests ontological similarity—treating a quality-word as if it named a substance.
+
+12. The fallacy of **accident** illegitimately transfers a predicate from a subject to something accidentally related to that subject.
+
+13. **Secundum quid** ignores a qualification—what is true in a certain respect is treated as true absolutely.
+
+14. **Ignoratio elenchi** occurs when one refutes something other than the thesis actually maintained—missing the point.
+
+15. **Begging the question (petitio principii)** occurs when the premise assumes what was to be proved, either directly or through equivalents.
+
+16. The fallacy of the **consequent** illicitly infers the antecedent from the consequent or converts a universal affirmative simply.
+
+17. **Non-cause as cause** treats as essential to the refutation a premise that plays no genuine role in deriving the contradiction.
+
+18. **Many questions** disguises multiple questions as one, extracting a single answer that commits the respondent to more than intended.
+
+19. The **solution to each fallacy** consists in identifying which of the thirteen types it instantiates and showing precisely where the appearance of validity breaks down.
+
+20. Dialectical training in recognizing fallacies is essential for **philosophy itself**—the philosopher must be able to detect sophistical traps to pursue genuine inquiry into truth.

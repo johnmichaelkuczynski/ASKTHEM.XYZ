@@ -1,0 +1,206 @@
+2 KUCZYNSKI POSITION STATEMENTS
+
+20 POSITIONS FROM "WHAT IS A FORMAL LANGUAGE?"
+by J.-M. Kuczynski, PhD
+
+
+ON THE STRUCTURE OF LANGUAGE
+
+1. A formal language may be identified with an ordered triple consisting of primitive expressions, grammar/syntax, and a meaning-function/semantics.
+
+2. A primitive expression is one that cannot be decomposed into other expressions.
+
+3. A grammar is a set of rules that strings of primitive expressions must satisfy to be grammatical.
+
+4. An ungrammatical string is not an expression of any kind.
+
+5. If a language has non-negligible expressive capabilities, its grammar is a recursion—defined for its own outputs.
+
+6. All languages are recursively defined expression-classes.
+
+7. A language is a recursive expression-class coupled with a meaning-function; without the meaning-function, it is merely an uninterpreted formal calculus.
+
+
+ON NON-RECURSIVE EXPRESSION-CLASSES
+
+8. No language can be infinite but not recursively defined, because expressions belonging to such a language would be unintelligible.
+
+9. A non-recursive expression-class contains only finitely many symbols and is therefore vanishingly small compared to any natural language.
+
+10. A non-recursive expression-class cannot make statements about its own statements and cannot identify logical relations among its sentences.
+
+11. Two expressions belong to the same language only if they can be combined into a meaningful expression or one shares at least one constituent with the other.
+
+12. An expression has expressive power only to the extent that what it means doesn't always collapse into what its users believe it to mean.
+
+
+ON MEANING AND SEMANTICS
+
+13. A meaning-function is a set of rules that identify, for any sentence, under what circumstances it is true and under what circumstances it is false.
+
+14. The expression "meaning" is ambiguous between meaning-what (semantics/truth-conditions) and meaning-how (semantic decomposition/syntax).
+
+15. Two sentences can have the same truth-conditions yet differ in meaning because they have different semantic decompositions.
+
+
+ON FORMAL VS. NATURAL LANGUAGES
+
+16. All languages are formal languages; a "formal language" is simply a language that is formally described.
+
+17. Natural languages are not less formal than artificial formal languages—they are in fact hyper-formal, possessing too much structural integrity for their rules to be easily identified.
+
+18. The positivist position that natural languages lack structural integrity is the exact opposite of the truth.
+
+19. The concept of a perfectly formal language (where logical form is completely determined by syntax) is incoherent—a surd like a square circle.
+
+20. A sentence's logical form is nothing other than its meaning, because a sentence's meaning is completely known when its inferential relations to all other sentences are known.
+
+
+================================================================================
+
+
+20 POSITIONS FROM "WHAT IS BORDERLINE PERSONALITY DISORDER?"
+
+
+ON THE BASIC STRUCTURE OF BPD
+
+1. People with borderline personality disorder have two distinct, simultaneously operative psychological "operating systems."
+
+2. One of these operating systems is appropriately adult and sane; the other is infantile in nature.
+
+3. One part of the BPD person's mind remained "stuck" or "fixated" at an early phase of life, usually very early childhood.
+
+4. The part that remained stuck in early childhood did so because of a trauma, usually sexual molestation.
+
+5. People with BPD oscillate between these two psychological integrations—sometimes the adult system is operative, sometimes the infantile one.
+
+
+ON BPD BEHAVIOR AND PERCEPTION
+
+6. People with BPD may instantaneously and frequently shift between their two modalities.
+
+7. This shifting makes them appear to be lying or "playing games" when in fact they are shifting between two distinct and incongruent worldviews.
+
+8. People with BPD may be extremely intelligent and intellectually developed.
+
+9. During their lucid moments, they may seem—and in fact be—utterly sane and also utterly decent.
+
+10. When they shift into their infantile mode, they become accusatory, narcissistic, and oftentimes violent.
+
+
+ON BPD VS. PSYCHOPATHY
+
+11. People with BPD are not psychopaths.
+
+12. When the BPD person's infantile side predominates, they act in the same entitled, limitlessly self-servingly narcissistic way as psychopaths.
+
+13. The psychopath is simply a phony who sometimes puts on a mask of sanity and decency.
+
+14. The BPD person is genuinely two-sided—one side sane and decent, the other infantile and tyrannical—each side being genuine and therefore neither being a mask.
+
+15. When the psychopath acts non-psychopathically, it is because he is just acting; when the BPD person acts non-psychopathically, it is because she is being true to one side of her personality.
+
+
+ON SPLITTING VS. REPRESSION
+
+16. The BPD person's preferred psychological defense is not repression but rather splitting.
+
+17. The BPD personality-structure is itself the result of splitting.
+
+18. Repression involves having a single psychological architecture and shoving incompatible feelings or drives into the abyss of the unconscious.
+
+19. Splitting involves not having to repress because one shifts between one's adult side and one's infantile side—keeping infantilisms in a concurrently operative sphere rather than the unconscious.
+
+20. The essence of BPD is that splitting (separation of the psyche into two distinct operating systems) takes the place of repression (depositing psychological discards into an unconscious subordinate to a non-infantile operating system).
+
+15 ADDITIONAL POSITIONS FROM "WHAT IS A FORMAL LANGUAGE?"
+by J.-M. Kuczynski, PhD
+
+
+ON RECURSION AND EXPRESSION
+
+21. A grammar is typically a recursion consisting of many other recursions.
+
+22. Given any sentence in a language, it is possible to form a new sentence out of it (via one-place or two-place sentential operators, etc.).
+
+23. Points about formal languages are to be understood in terms of analogous truths about natural language.
+
+24. Any recursively defined expression-class contains ℵ₀ (aleph-null) many expressions—the cardinality of the natural numbers.
+
+25. A recursively defined class contains infinitely many times as many symbols as a non-recursively defined symbol-class.
+
+26. A finite expression-class cannot possibly constitute a language, even an expressively impoverished one.
+
+
+ON MEANING AND PRIMITIVE EXPRESSIONS
+
+27. Proper names are defined contextually no less than predicates, logical operators, and grammatical markers.
+
+28. A meaning-function identifies truth-conditions of sentences indirectly—by specifying how each primitive expression contributes to truth-conditions.
+
+29. A sentence's semantics is known when its truth-conditions are known; its syntax is known when it is known how the rules assign those truth-conditions.
+
+30. A sentence's meaning includes the information borne by it in virtue of both its semantics and its semantic-decomposition.
+
+
+ON PERSPICUITY AND FORMALITY
+
+31. A sentence is perspicuous to the extent that what it says can be absorbed into its syntax—i.e., its grammar and logical form are in alignment.
+
+32. The extent to which inferences can be made about a sentence's logical form from its syntax is a function of what the examiner already knows.
+
+33. The more primitive semantic rules a language has for outfitting sentence-level expressions with meanings, the less perspicuous its sentences are likely to be.
+
+34. The degree to which a language's sentences are perspicuous is proportional to the number of primitive expressions composing those sentences.
+
+35. One language is more formal than another if it contains fewer sentence-specific primitive semantic rules.
+
+
+================================================================================
+
+
+15 ADDITIONAL POSITIONS FROM "WHAT IS BORDERLINE PERSONALITY DISORDER?"
+
+
+ON THE NATURE OF BPD OSCILLATION
+
+21. The two operating systems in BPD are simultaneously operative, though only one dominates at any given time.
+
+22. The infantile operating system in BPD absorbs the subject's various infantilisms and other psychological "discards."
+
+23. Neither operating system in BPD has complete dominance over the other.
+
+24. When the BPD person's infantile side dominates, this represents a regression, not a mask falling.
+
+
+ON THE MECHANISM OF SPLITTING
+
+25. The normal (non-BPD) person's psyche keeps its infantilism in the abyss of the unconscious.
+
+26. The BPD person's psyche does not repress infantilisms but rather keeps them in a concurrently operative sphere of mental activity.
+
+27. In BPD, the concurrently operative infantile sphere sometimes becomes the dominant one.
+
+28. Splitting is the separation of the psyche into two distinct operating systems.
+
+
+ON MISPERCEPTION OF BPD
+
+29. When BPD individuals shift into their infantile mode, observers wrongly assume they were simply lying all along.
+
+30. Observers wrongly conclude that BPD individuals are psychopaths wearing a mask of sanity and decency.
+
+31. This inference—that BPD individuals were always deceptive—is the wrong inference to make.
+
+
+ON THE BPD-PSYCHOPATHY DISTINCTION
+
+32. There is a pronounced streak of psychopathy within the BPD person, but this differs from full-blown psychopathy.
+
+33. When the psychopath acts psychopathically, it is because the mask has fallen; when the BPD person acts psychopathically, it is because she is regressing.
+
+34. The psychopath's non-psychopathic behavior is acting; the BPD person's non-psychopathic behavior is genuine expression of one side of her personality.
+
+35. Each side of the BPD person's personality is genuine—neither is a mask—whereas the psychopath's decency is always a mask.
+
+

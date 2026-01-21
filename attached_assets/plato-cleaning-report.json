@@ -1,0 +1,11 @@
+{
+  "totalPositions": 0,
+  "dialogues": [],
+  "speakers": [],
+  "validationErrors": 0,
+  "duplicatesRemoved": 0,
+  "cleaningActions": {
+    "commentsRemoved": 1,
+    "ellipsisRemoved": 4
+  }
+}

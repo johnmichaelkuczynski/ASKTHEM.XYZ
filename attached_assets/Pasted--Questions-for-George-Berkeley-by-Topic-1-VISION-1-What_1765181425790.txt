@@ -1,0 +1,288 @@
+# Questions for George Berkeley by Topic
+
+## 1. VISION
+
+1. What is the relationship between what I see and the physical objects I believe I'm looking at?
+2. How do I perceive distance through sight when the retinal image is flat?
+3. Is there anything in the visual field itself that tells me how far away an object is?
+4. Why do objects appear smaller when they're farther away, and what does this tell us about the nature of visual perception?
+5. What is the connection between the sensations I get from touching an object and the sensations I get from seeing it?
+6. Can a purely visual experience, without any tactile associations, give me knowledge of three-dimensional space?
+7. How do we learn to correlate what we see with what we can touch and manipulate?
+8. Is the visual field a kind of language that must be learned, or is spatial perception innate?
+9. What role does past experience play in how I interpret what I currently see?
+10. If visual ideas are distinct from tangible ideas, what unifies them into a coherent perception of a single object?
+
+---
+
+## 2. MOLYNEUX'S PROBLEM
+
+1. If a person born blind gains sight, will they immediately recognize shapes they previously knew only by touch?
+2. What would the initial visual experience of a formerly blind person actually be like?
+3. Is there any necessary connection between the way a sphere looks and the way it feels?
+4. Does the answer to Molyneux's problem tell us something important about whether spatial knowledge is innate?
+5. Why might someone think the newly sighted person would immediately recognize the cube and sphere, and what's wrong with that reasoning?
+6. What must the newly sighted person learn before they can connect their visual and tactile experiences?
+7. If visual and tactile ideas are entirely heterogeneous, how do we ever come to associate them?
+8. What does the case of the newly sighted person reveal about the role of experience in perception?
+9. Could there be a universal language of spatial experience that transcends individual sense modalities?
+10. What experiments or observations would help us understand how the senses become coordinated?
+
+---
+
+## 3. HOW THE SENSES INTERACT TO GIVE US KNOWLEDGE OF THE EXTERNAL WORLD
+
+1. How do I come to believe that what I see and what I touch are properties of the same object?
+2. Is there a "master sense" that unifies the deliverances of the other senses, or does unification happen some other way?
+3. What grounds the correlation between visual signs and tactile realities?
+4. When I see fire and feel heat, what justifies my belief that both sensations come from the same source?
+5. How reliable is the coordination between senses, and can the senses ever systematically mislead us together?
+6. Does the regularity and predictability of sense-correlations tell us anything about reality?
+7. What would it mean for one sense to "correct" another, and is this possible?
+8. How does repeated experience teach us to anticipate one kind of sensation from another?
+9. Is the external world as I conceive it simply a construction from coordinated sensory patterns?
+10. What is the role of memory in synthesizing information from different senses into unified objects?
+
+---
+
+## 4. EMPIRICISM
+
+1. Can I have any legitimate idea that doesn't ultimately derive from sensory experience?
+2. What is the origin of our ideas of substance, cause, and identity?
+3. How do abstract general ideas arise if all our experience is of particulars?
+4. Is there any knowledge that reason alone can give us, independent of experience?
+5. What happens when philosophers use words that don't correspond to any genuine experiential content?
+6. How should we evaluate claims about things that cannot, in principle, be experienced?
+7. What is the test for whether a concept is meaningful or merely verbal?
+8. Can mathematical knowledge be grounded in experience, or does it require something more?
+9. What errors arise from assuming that every word in our vocabulary names something real?
+10. How does attending carefully to the actual contents of experience help us avoid philosophical confusion?
+
+---
+
+## 5. WHETHER (AND IF SO WHY) EMPIRICISM WARRANTS IDEALISM
+
+1. If all my knowledge comes from experience, and experience consists of ideas, what grounds do I have for positing matter beyond ideas?
+2. What could "matter" even mean if it's defined as something that can never be experienced?
+3. Is the concept of a mind-independent material substrate coherent, or is it an empty abstraction?
+4. If I can only know ideas, how could I ever verify that something non-ideal corresponds to them?
+5. What explanatory work does the hypothesis of matter actually do that ideas alone cannot accomplish?
+6. Does the regularity and coherence of experience require a material cause, or could it have another explanation?
+7. Isn't the notion of "matter" just an inference from experience—and if so, what justifies that inference?
+8. How does the impossibility of comparing ideas with non-ideas affect our ontological commitments?
+9. What would count as evidence for the existence of something fundamentally unlike any possible experience?
+10. If strict empiricism leads to idealism, should we accept idealism or reject strict empiricism?
+
+---
+
+## 6. PHENOMENALISM
+
+1. Can the existence of physical objects be analyzed entirely in terms of actual and possible experiences?
+2. What does it mean to say that a tree exists when no one is perceiving it?
+3. How do we account for the continuity and independence of objects if they're constituted by experiences?
+4. Is there a difference between saying "the table exists" and saying "certain experiences would occur under certain conditions"?
+5. What makes some experiences "veridical" and others illusory if there's nothing beyond experience to check them against?
+6. How do counterfactual statements about what we would experience relate to actual existence?
+7. Can a phenomenalist account for the lawfulness and predictability of nature?
+8. What role does God play in grounding the stability and continuity of the phenomenal world?
+9. Is phenomenalism a reduction of physical objects to experiences, or a reinterpretation of what physical existence means?
+10. Does phenomenalism eliminate matter, or does it simply clarify what talk of matter legitimately amounts to?
+
+---
+
+## 7. DATA MODELLING
+
+1. When we construct a model to predict observations, are we discovering truths about reality or just organizing appearances?
+2. What is the relationship between a successful predictive model and the underlying nature of things?
+3. Should we expect our best models to uniquely correspond to reality, or might very different models fit the same data equally well?
+4. What criteria determine whether a model is good, beyond mere predictive accuracy?
+5. Is simplicity in a model a guide to truth, or merely a practical convenience?
+6. Can a model that treats unobservable entities as real be justified, or should models stick to observables?
+7. What's lost when we substitute a mathematical model for direct experiential knowledge?
+8. How should we interpret the theoretical terms in our models—as referring to real entities or as useful fictions?
+9. Is the goal of science to produce accurate models or to discover the true nature of things, and are these the same?
+10. When two incompatible models both save the phenomena, what should we conclude about reality?
+
+---
+
+## 8. THE PHENOMENAL REDUCTION
+
+1. What do we gain by translating claims about physical objects into claims about experiences?
+2. Can every meaningful statement about the world be reformulated in purely phenomenal terms?
+3. What is lost, if anything, when we eliminate reference to unexperienceable entities from our discourse?
+4. Is the phenomenal reduction a clarification of meaning or a restriction on legitimate inquiry?
+5. How does reducing talk of matter to talk of ideas help resolve philosophical disputes?
+6. Can statements about the past or future be adequately translated into statements about present and possible experiences?
+7. What motivates the phenomenal reduction—verificationism, anti-skepticism, or something else?
+8. Does the reduction capture the full meaning of ordinary object-talk, or does it change the subject?
+9. How do we handle statements about other minds within a phenomenal reduction?
+10. Is the phenomenal reduction an epistemological thesis, a semantic thesis, or a metaphysical thesis?
+
+---
+
+## 9. WHETHER THERE IS A DIFFERENCE BETWEEN DATA MODELLING AND TRUTH DISCOVERY
+
+1. When a model successfully predicts observations, have we thereby discovered a truth about reality?
+2. Is there a meaningful distinction between "fitting the data" and "getting things right"?
+3. Could our best theories be empirically adequate yet false about the nature of what they describe?
+4. What would it take for model-building to count as genuine discovery rather than mere invention?
+5. Are theoretical entities like forces and fields discovered or constructed?
+6. Does science aim at truth about unobservable reality, or only at organizing observable experience?
+7. If different models can equally account for all possible observations, is there a fact about which is true?
+8. What is the relationship between explanatory power and truth?
+9. Should we believe in the existence of the entities posited by our best models?
+10. Is the pragmatic success of a model evidence for its correspondence to reality?
+
+---
+
+## 10. THE CALCULUS
+
+1. What are the foundations of the calculus, and are they secure?
+2. How should we understand quantities that are neither zero nor any assignable finite amount?
+3. Can the calculus be justified by its practical success, even if its foundations are obscure?
+4. What does it mean to speak of a ratio of quantities that have vanished?
+5. Are the results of calculus true discoveries about magnitude, or useful computational fictions?
+6. How can we rigorously make sense of limits and infinitely small quantities?
+7. Is it legitimate to operate with quantities that we cannot coherently conceive?
+8. What errors arise from treating symbolic manipulations as if they revealed deep truths about quantity?
+9. Should mathematicians be held to the same standards of clarity as other reasoners?
+10. Can the calculus be reformulated to avoid reliance on obscure notions?
+
+---
+
+## 11. INFINITESIMALS
+
+1. Can there be a quantity smaller than any finite quantity yet greater than zero?
+2. What do we actually conceive when we use the term "infinitesimal"?
+3. Is the infinitesimal a genuine mathematical object or a convenient fiction?
+4. How can we justify operations on quantities whose very existence is unintelligible?
+5. Do infinitesimals represent something real about continuous magnitude?
+6. What goes wrong when we treat infinitesimals as actual existing quantities?
+7. Is it possible to do rigorous mathematics without infinitesimals?
+8. How should we understand "dx" and "dy" in differential notation?
+9. Are compensating errors responsible for the success of infinitesimal methods?
+10. What would a truly clear and rigorous foundation for analysis look like?
+
+---
+
+## 12. PERSONAL GROWTH AND HEALTH
+
+1. What is the relationship between bodily health and the health of the mind or spirit?
+2. How should one live in order to flourish as a whole person?
+3. What role does attention to one's body play in intellectual and moral development?
+4. How can philosophy contribute to practical well-being, not just theoretical understanding?
+5. What habits of mind and body conduce to a flourishing life?
+6. Is there a unity to human well-being, or are physical and spiritual goods separate?
+7. How should we balance the pursuit of knowledge with care for practical life?
+8. What role does providence play in human health and happiness?
+9. How can we cultivate the wisdom to live well in an uncertain world?
+10. What is the connection between clear thinking and personal flourishing?
+
+---
+
+## 13. TAR WATER
+
+1. What are the medicinal properties of tar water and how were they discovered?
+2. How does tar water work to promote health in the body?
+3. What is the relationship between simple natural remedies and complex medical interventions?
+4. Can close observation and practical experience ground medical knowledge as reliably as theoretical medicine?
+5. How should we evaluate folk remedies and traditional cures?
+6. What role does the vital principle or aether play in the efficacy of tar water?
+7. Is there a connection between the simplicity of a remedy and its safety and effectiveness?
+8. How can medicine address both bodily ailments and disorders of the mind or spirit?
+9. What philosophical insights can be drawn from reflection on health and medicine?
+10. How should we weigh testimony and experience in evaluating medical claims?
+
+---
+
+## 14. RELATIONSHIP BETWEEN FAITH AND PHILOSOPHY
+
+1. Can philosophical reasoning support religious faith, or are they fundamentally different modes of knowing?
+2. Does the existence of God follow from philosophical principles, or must it be accepted on faith?
+3. How does idealism relate to theism—does the one support the other?
+4. What is the proper role of philosophy in relation to revealed religion?
+5. Can philosophical argument remove obstacles to faith without directly proving articles of belief?
+6. Is skepticism about the material world compatible with—or even conducive to—faith in spiritual realities?
+7. How should we respond when philosophy and religious teaching appear to conflict?
+8. Does philosophy have boundaries beyond which faith must take over?
+9. What is the relationship between the God of the philosophers and the God of Abraham?
+10. Can the same mind hold both rigorous philosophical views and sincere religious devotion?
+
+---
+
+## 15. THE EXISTENCE OF UNOBSERVABLES
+
+1. What grounds could we have for believing in entities that are in principle unobservable?
+2. Is the concept of an unobservable entity coherent, or is it an empty abstraction?
+3. How should we interpret scientific theories that posit unobservable entities like atoms or forces?
+4. Can the explanatory success of a theory justify belief in its unobservable posits?
+5. Is there a difference between things we happen not to observe and things that cannot be observed?
+6. What does it mean to say that something exists if it can never be perceived by any mind?
+7. Should we be realists or instrumentalists about theoretical entities in science?
+8. Can we have genuine knowledge of unobservables, or only useful models involving them?
+9. What is the cash value of assertions about unobservable entities?
+10. Does parsimony favor eliminating unobservables from our ontology?
+
+---
+
+## 16. COUNTERFACTUAL AND THEORETICAL TRUTH
+
+1. What makes a counterfactual statement true, if it's not grounded in what actually happened?
+2. How do we know what would have been perceived if someone had been there to perceive it?
+3. Can theoretical truths about unobserved or unobservable entities be genuinely true?
+4. What is the truthmaker for statements about what would occur under conditions that don't obtain?
+5. Is there a fact of the matter about unactualized possibilities?
+6. How do laws of nature ground counterfactual claims?
+7. Can we give a phenomenalist account of counterfactual truth?
+8. What role does God's knowledge play in grounding truths about unperceived possibilities?
+9. Are theoretical statements in science literally true or merely useful instruments?
+10. How should we understand the truth conditions for statements that transcend actual experience?
+
+---
+
+## 17. KNOWLEDGE OF UNIVERSALS
+
+1. Do universal properties like "redness" or "triangularity" exist independently of particular instances?
+2. How do we form general ideas if all our experience is of particular things?
+3. Is abstraction a genuine mental operation, or is it based on a confusion?
+4. Can a particular idea represent all ideas of its kind, and if so, how?
+5. What is the relationship between a general word and the ideas it signifies?
+6. Do we need abstract general ideas to reason and communicate, or can particulars serve the same function?
+7. Is the mind capable of conceiving truly abstract entities, or only particular images?
+8. What errors arise from treating general ideas as if they were abstract objects?
+9. How does selective attention allow particular ideas to function generally?
+10. Does the rejection of abstract ideas affect our understanding of mathematics?
+
+---
+
+## 18. COMMON PHILOSOPHICAL ERRORS
+
+1. What are the main sources of philosophical confusion and error?
+2. How does the misuse of language generate pseudoproblems in philosophy?
+3. What goes wrong when philosophers assume every noun names a real entity?
+4. Why is the doctrine of abstract ideas a source of so much philosophical difficulty?
+5. How does inattention to the actual contents of our ideas lead to error?
+6. What errors arise from confusing signs with the things signified?
+7. How can we distinguish genuine philosophical problems from verbal disputes?
+8. Why do philosophers posit unobservable entities, and what's wrong with this practice?
+9. What habits of mind help us avoid common philosophical errors?
+10. How does returning to ordinary experience and common sense help resolve philosophical disputes?
+
+---
+
+## 19. PRAGMATISM (THE PRAGMATIC/INSTRUMENTALIST CONCEPTION OF TRUTH/KNOWLEDGE-ACQUISITION)
+
+1. Is the practical success of a belief evidence for its truth?
+2. Should we evaluate theoretical claims by their practical consequences rather than their correspondence to reality?
+3. Can a proposition be useful without being true, or does usefulness constitute a kind of truth?
+4. What is the aim of inquiry—to discover truth or to achieve practical success?
+5. Are scientific theories instruments for prediction, or descriptions of reality?
+6. How should we understand theoretical terms that help us predict but may not refer to anything real?
+7. Does it matter whether our successful theories are literally true, so long as they work?
+8. Is there a difference between believing something because it's true and believing it because it's useful?
+9. Can pragmatic criteria alone determine what we should believe?
+10. What is the relationship between truth, meaning, and practical efficacy?
+
+---
+
+These 190 questions are designed to elicit Berkeley's genuine philosophical positions while being questions a truth-seeker (not merely a historian of philosophy) would plausibly ask. They should work well for training your "Ask a Philosopher" bots to engage substantively rather than retreating into defensive academic commentary.

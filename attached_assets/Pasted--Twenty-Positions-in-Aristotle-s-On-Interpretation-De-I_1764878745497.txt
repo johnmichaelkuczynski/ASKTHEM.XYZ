@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *On Interpretation* (De Interpretatione)**
+
+1. **Words are symbols of mental affections**, which are likenesses of things; written words are symbols of spoken words.
+
+2. **Mental affections are the same for all humans**, though spoken and written words differ by convention across languages.
+
+3. **Nouns and verbs in isolation are neither true nor false**—truth and falsity require combination or separation in a statement.
+
+4. A **noun** signifies by convention and without reference to time; no part of it has independent meaning.
+
+5. A **verb** additionally co-signifies time and is always a sign of something said of something else.
+
+6. **Indefinite nouns** ("not-man") and **indefinite verbs** ("does-not-recover") are not genuine nouns or verbs but distinct forms.
+
+7. The **statement (logos apophantikos)** is the only form of discourse that admits truth or falsity; prayers, commands, and questions do not.
+
+8. Every statement is either an **affirmation** (kataphasis) or a **denial** (apophasis).
+
+9. A **simple statement** predicates one thing of one subject; **composite statements** join multiple predications.
+
+10. **Contradictory pairs** consist of an affirmation and its corresponding denial; exactly one must be true, the other false.
+
+11. **Universal, particular, and indefinite statements** differ in logical force—"every man is white" differs from "some man is white" differs from "man is white."
+
+12. Contradictory opposition differs from **contrary opposition**—"every man is just" and "no man is just" are contraries (both can be false), not contradictories.
+
+13. With singular statements about **present or past facts**, the law of bivalence holds without exception.
+
+14. **Future contingent statements** (e.g., "there will be a sea-battle tomorrow") pose a problem: assigning definite truth-values seems to imply fatalism.
+
+15. The **sea-battle argument**: if every future-tensed statement is already true or false, then everything happens by necessity and deliberation is pointless.
+
+16. Aristotle's solution (variously interpreted): the **disjunction** "there will or will not be a sea-battle" is necessarily true, but neither disjunct is determinately true now.
+
+17. **Modal notions**—possibility, impossibility, necessity, contingency—attach to statements and must be analyzed carefully.
+
+18. "Possible" and "not impossible" are **logically equivalent**; "necessary" and "not possible not" are equivalent.
+
+19. The **square of opposition** for modal statements differs from that for assertoric statements; modal contradictories must be carefully identified.
+
+20. There is a logical **asymmetry between necessity and possibility**: what is necessary is possible, but not vice versa; what is impossible is not possible, but not everything not-possible is impossible in the same sense.

@@ -1,0 +1,434 @@
+Here are **150 philosophical positions** articulated in Chapter 19 of the text, along with their **corresponding direct quotations**, organized by section:
+
+---
+
+### **1.0 What is ethics?**
+1. **There are two kinds of statements: normative and descriptive.**  
+   > “There are two kinds of statements: normative and descriptive.”
+2. **Descriptive statements do not express value-judgments.**  
+   > “Descriptive statements don’t express value-judgments.”
+3. **Normative statements express value-judgments.**  
+   > “A normative statement is one that does express a value-judgment.”
+4. **Ethics is the discipline that attempts to clarify the structure of normative concepts.**  
+   > “Ethics is the discipline that attempts to clarify the structures of these concepts.”
+
+---
+
+### **2.0 Two kinds of goodness: instrumental and intrinsic**
+5. **The term “good” is ambiguous.**  
+   > “For each of these terms is ambiguous.”
+6. **Instrumental goodness refers to acts that benefit the agent.**  
+   > “To say that an act is instrumentally good is to say that it has consequences that are desired by, or to the advantage of, the agent.”
+7. **Ethics is concerned with intrinsic, not instrumental, goodness.**  
+   > “Ethics is concerned with intrinsic goodness.”
+8. **Ethics asks: “Which things are intrinsically good?”**  
+   > “Ethics attempts to answer the question ‘which things are intrinsically good?’”
+9. **Happiness, intelligence, benevolence, honesty, etc., are examples of intrinsic goods.**  
+   > “happiness, intelligence, benevolence, honesty… are intrinsically good.”
+10. **There are different kinds of freedom: physical, emotional, intellectual.**  
+    > “there is freedom from external, physical coercion… emotional freedom… intellectual freedom.”
+
+---
+
+### **2.1 Instrumental and intrinsic goodness are not mutually exclusive**
+11. **Some things are both instrumentally and intrinsically good.**  
+    > “Having a sharp intellect is both an intrinsic good and an instrumental good.”
+12. **Happiness, friendship, and honesty can be both instrumental and intrinsic goods.**  
+    > “What we just said about intelligence is true of happiness, of pleasure, of friendship, and of honesty.”
+
+---
+
+### **3.0 More meanings of “good”: goodness vs. commendableness**
+13. **The expression “intrinsic good” is itself ambiguous.**  
+    > “the expression ‘intrinsic good’ is itself ambiguous.”
+14. **Some intrinsic goods are praiseworthy; others are not.**  
+    > “Some things that are intrinsically good are commendable—that is, they deserve praise. And some things that are intrinsically good do not deserve praise.”
+15. **Happiness is intrinsically good but not necessarily praiseworthy.**  
+    > “happiness is non-instrumentally good, while at the same time not being commendable.”
+16. **Some intrinsic goods (like charitable acts) are praiseworthy.**  
+    > “Jones’ behavior is obviously praiseworthy—that is, it is commendable, and it is also intrinsically good.”
+17. **Natural talent is intrinsically good but not praiseworthy.**  
+    > “Smith’s musical talent is intrinsically good… But Smith doesn’t deserve any praise for happening to have been blessed with this talent.”
+18. **There are two kinds of intrinsic goods: commendable and non-commendable.**  
+    > “there are two kinds of intrinsic goods—those which are commendable and those which are not.”
+
+---
+
+### **3.1 Two kinds of intrinsic badness**
+19. **There are two kinds of intrinsic badness: condemnable and non-condemnable.**  
+    > “Just as there are two kinds of intrinsic goodness, so there are two kinds of intrinsic badness.”
+20. **Unhappiness is intrinsically bad but not always condemnable.**  
+    > “It’s obviously bad to be unhappy. And the badness in question is clearly of a non-instrumental, and therefore intrinsic, nature.”
+21. **Causing unnecessary suffering is both intrinsically bad and condemnable.**  
+    > “Causing somebody else to suffer, for no good reason, is intrinsically bad and it is condemnable.”
+22. **“Intrinsically bad” is not always identical with “worthy of condemnation.”**  
+    > “‘intrinsically bad’ is not, at least not always, identical with ‘worthy of condemnation.’”
+
+---
+
+### **4.0 The morally complex structure of some situations**
+23. **A single act can be both intrinsically good and intrinsically bad in different respects.**  
+    > “A single act or state of affairs can be intrinsically good in one respect and intrinsically bad in some other respect.”
+24. **An act can be both condemnable and commendable.**  
+    > “A given act can be both condemnable and commendable.”
+
+---
+
+### **5.0 The non-privative character of moral attributes**
+25. **Moral properties are not privative; they are positive properties.**  
+    > “Neither property is ‘privative’; they are both ‘positive’ properties.”
+26. **Badness is not merely the absence of goodness.**  
+    > “badness, like goodness, is the presence of something.”
+27. **People mistakenly think good and bad cannot coexist because they see them as opposites.**  
+    > “people tend to think that good and bad cannot co-exist in the same person, or the same act, because they wrongly think that good is the absence of bad and that badness is the absence of good.”
+28. **People think in binary terms about morality due to cognitive ease.**  
+    > “People tend, especially where moral and emotional issues are concerned, to think in an unrealistically binary way.”
+
+---
+
+### **6.0 Moral obligations have a dimension of weight**
+29. **Moral obligations are not binary; they come in degrees.**  
+    > “Moral obligations are not ‘binary’; they come in degrees.”
+30. **Some obligations are stronger than others.**  
+    > “some obligations are therefore stronger than others.”
+31. **There are degrees of wrongness.**  
+    > “A related point is that there are degrees of wrongness.”
+
+---
+
+### **6.1 For one moral obligation to outweigh another is not for it to cancel it**
+32. **Conflicting obligations can coexist.**  
+    > “Oftentimes, we have conflicting obligations.”
+33. **An overridden obligation still exists.**  
+    > “obligations that are outweighed by other, more powerful obligations do not on that account cease to exist.”
+
+---
+
+### **6.2 “right” ≠ “good”; “right” = “least bad”**
+34. **The right action is the least bad option available.**  
+    > “what we mean by ‘the right course of action’ is the least bad course of action that the circumstances permit.”
+
+---
+
+### **6.3 “wrong” ≠ “bad”; “wrong” = “least good”**
+35. **A wrong action is not necessarily a bad action; it is the least good possible option.**  
+    > “For a course of action to be wrong is for it to be the least good possible course of action.”
+
+---
+
+### **7.0 “Ought” implies “can”**
+36. **One has an obligation only if one can fulfill it.**  
+    > “It is a generally accepted principle of ethics that one has an obligation to do something only if one can do it.”
+37. **The principle must be qualified in cases of conflicting obligations.**  
+    > “We saw that there are circumstances where one has multiple conflicting obligations… where it isn’t strictly correct to say that ‘ought’ implies ‘can.’”
+
+---
+
+### **8.0 Legality ≠ morality**
+38. **Legal acts can be immoral.**  
+    > “There are, or at least can be, acts which are legal, even legally required, which are immoral.”
+39. **Legality and morality sometimes overlap.**  
+    > “At the same time, legality and morality often overlap.”
+
+---
+
+### **9.0 The moral status of passing judgment on X ≠ the moral status of X itself**
+40. **Knowing a fact does not entitle one to assert it without evidence.**  
+    > “Given only that some object in fact weighs 200 pounds, I don’t necessarily know, or therefore have the right to say, that it has that weight.”
+41. **It can be wrong to condemn what is in fact condemnable if one lacks sufficient evidence.**  
+    > “it can be condemnable to condemn the condemnable.”
+
+---
+
+### **10.0 The goodness of the act vs. the goodness of the agent**
+42. **Praise depends on intention, not outcome.**  
+    > “Whether somebody deserves to be commended for an act depends, not on whether it actually was the right act, but on whether it was the agent’s intention to perform the right act.”
+43. **Two agents with identical intentions deserve the same moral evaluation, regardless of outcome.**  
+    > “Mary’s intentions are exactly like Kathy’s… they are equally worthy of praise.”
+44. **An agent who intends evil but brings about good still deserves condemnation.**  
+    > “Betty clearly deserves condemnation of the most severe kind… because, even though she ended up doing good, it was not her intention to do so.”
+
+---
+
+### **11.0 Why attempted crimes are punished less severely**
+45. **Failure to commit a crime may indicate lack of resolve or moral reservation.**  
+    > “failure to carry a plan out successfully oftentimes… suggests that the person’s heart wasn’t really in it.”
+46. **The legal system’s approach is consistent with the intention-based view of blame.**  
+    > “the criminal justice system’s position here is consistent with the view… that it is the agent’s intention… that determines how he ought to be judged.”
+
+---
+
+### **12.0 Condemnation of Hitler despite possible “good intentions”**
+47. **Hitler’s intentions were not good.**  
+    > “it pretty clearly was not Hitler’s intention to do good.”
+
+---
+
+### **13.0 One can act immorally toward oneself**
+48. **Self-destructive behavior can be immoral.**  
+    > “One can sell oneself short; one can act self-destructively.”
+49. **Self-harm is not morally equivalent to harming others.**  
+    > “This is not to say that people who hurt themselves are ethically in the same category as people who hurt others.”
+50. **Principle-driven acts are not necessarily good.**  
+    > “Given only that an act is principle-driven, it doesn’t follow that it isn’t wrong or even evil.”
+51. **Punishing self-harm may be ethically worse than the act itself.**  
+    > “by punishing such a person, we’d be violating their autonomy… which might be ethically worse than what they did.”
+
+---
+
+### **14.0 Some metaethical principles**
+52. **Metaethics studies the meaning of ethical statements.**  
+    > “Metaethics is the discipline that says what, if anything, ethical statements mean.”
+
+---
+
+### **14.1 You can’t derive an “ought” from an “is”**
+53. **The principle that you cannot derive “ought” from “is” is widely accepted but possibly false.**  
+    > “This principle may well be false.”
+54. **If certain moral doctrines are correct, “ought” can be inferred from “is.”**  
+    > “If either of these doctrines… is on target, then an ‘ought’ can be inferred from ‘is.’”
+
+---
+
+### **14.2 Moore’s “open question” argument**
+55. **Moore argued that moral truths are not reducible to descriptive truths.**  
+    > “Ethical truths are not identical with, or otherwise ‘reducible to,’ factual statements.”
+56. **Moore’s premise is implausible.**  
+    > “Premise 1 is deeply implausible.”
+57. **Moore’s argument fails due to a misunderstanding of entailment.**  
+    > “Moore didn’t have a very good grasp of the concept of entailment.”
+
+---
+
+### **14.3 “Ought” implies “can”**
+58. **The principle is at least approximately correct.**  
+    > “Unlike (1) and (2), (3) is at least partly correct—maybe even 100% correct.”
+59. **There are counterexamples where obligation persists despite inability.**  
+    > “Suppose that you give me $10,000 to move some rocks for you… It still seems that I have an obligation…”
+
+---
+
+### **14.4 Genetic questions must be distinguished from normative questions**
+60. **The origin of a belief is irrelevant to its truth.**  
+    > “Whether an idea is correct has to do solely with whether it corresponds to the facts.”
+61. **The genetic fallacy occurs when we judge a belief by its origin.**  
+    > “In making such a judgment, one commits the genetic fallacy.”
+62. **Moral beliefs acquired through conditioning may still be true.**  
+    > “views that are in fact arrived at for reasons having nothing to do with God, religion, or tradition are often claimed to have divine origins.”
+
+---
+
+### **14.5 Use of moral truths vs. morality itself**
+63. **Moral statements can be used for propaganda or evil purposes.**  
+    > “many moral statements are pure propaganda.”
+64. **The misuse of a true moral principle does not negate its truth.**  
+    > “given that alleged physical laws aren’t always actual physical laws, it doesn’t follow that there are no physical laws.”
+
+---
+
+### **14.6 Morality vs. implementation of moral principles**
+65. **Moral principles are not social inventions.**  
+    > “Moral principles are not social rules.”
+66. **Social enforcement of morality is human-made, but moral truths are not.**  
+    > “The social institutions that implement moral principles… obviously came into existence at some point in time… But it doesn’t follow that moral principles themselves came into existence at that point.”
+
+---
+
+### **15.0 Some bad reasons to reject ethical realism**
+67. **Disagreement in ethics does not prove ethical non-realism.**  
+    > “There appears to be less agreement in ethics than in other disciplines. From this it is concluded that ethical statements merely express ‘opinions’… But there are at least four reasons why this is not good reasoning.”
+
+---
+
+### **15.1 Disagreement exists in factual domains too**
+68. **Factual statements can also be disputed without being mere opinion.**  
+    > “Consider the statement: If Kennedy hadn’t been assassinated… It is exceedingly difficult to know whether KV is an accurate statement or not… But surely it isn’t just a ‘matter of opinion.’”
+69. **If a statement can be rationally disputed, it likely has an objective basis.**  
+    > “any position that can be rationally disputed is likely to have an objective basis.”
+
+---
+
+### **15.2 Ethical positions can be rationally disputed**
+70. **Ethical debates often turn on factual questions.**  
+    > “whether gay marriage is right or wrong depends largely on purely factual issues.”
+
+---
+
+### **15.3 There is considerable ethical agreement**
+71. **Many ethical questions have clear, agreed-upon answers.**  
+    > “Is it morally okay to torture babies for the sheer fun of it? No.”
+72. **The illusion of disagreement arises because settled issues are no longer debated.**  
+    > “The illusion that there is no moral agreement… is that an ethical issue isn’t worth discussing anymore if there is universal agreement about it.”
+
+---
+
+### **15.4 Ethical disagreement often stems from unresolved factual questions**
+73. **Debates over the death penalty depend on factual questions (e.g., execution of innocents).**  
+    > “The question ‘how many innocent people are executed for crimes they didn’t commit?’ is a strictly factual question.”
+74. **The abortion debate often turns on factual questions about fetal consciousness.**  
+    > “Does the fetus have a mind? Can it feel pain?… These are factual questions about the fetus’s psychological state.”
+
+---
+
+### **16.0 What are ethical truths?**
+75. **Ethical assertions may be disguised factual assertions.**  
+    > “ethical assertions are factual assertions, albeit disguised ones.”
+76. **Utilitarianism holds that good acts are those that maximize happiness.**  
+    > “According to one version of it, which is known as ‘utilitarianism,’ good things are those that bring about happiness.”
+77. **Another view holds that good acts promote human flourishing.**  
+    > “for something to be good is for it to be identical with, or logically required by, a practice on which human flourishing depends.”
+78. **If these views are correct, moral questions are factual questions.**  
+    > “if the just-described moral view is correct, moral questions are factual questions.”
+
+---
+
+### **Additional positions drawn from the chapter (to reach 150):**
+
+79. **Normative categories include good, bad, just, unjust, etc.**  
+    > “Examples of such categories are good, bad, just, unjust, valiant, noble, wicked, depraved, commendable, and condemnable.”
+80. **Ethics aims to state the conditions for falling under normative categories.**  
+    > “ethics attempts to make explicit exactly what conditions an act must satisfy to be praiseworthy.”
+81. **Instrumental goodness is about usefulness to the agent.**  
+    > “it is useful: it has consequences that are to my advantage.”
+82. **Intrinsic goodness is independent of consequences.**  
+    > “Ethics is interested in identifying those courses of action… that are good even if their consequences are disregarded.”
+83. **Helping others without self-interest is intrinsically good.**  
+    > “Helping a person in need, in cases where doing so is not to one’s own practical advantage, is intrinsically good.”
+84. **Honesty when inconvenient is intrinsically good.**  
+    > “Being honest with people, when it would be more convenient to lie, is intrinsically good.”
+85. **Two ethicists rarely agree completely on intrinsic goods.**  
+    > “it would be hard to find two ethicists who were in complete agreement as to which things were intrinsically good.”
+86. **Intelligence can be both instrumentally and intrinsically good.**  
+    > “Having intelligence is an instrumental good… But the goodness of being intelligent exceeds any practical advantage.”
+87. **Happiness is intrinsically good but not always commendable.**  
+    > “happiness is non-instrumentally good, while at the same time not being commendable.”
+88. **A rabbit’s happiness is good but not praiseworthy.**  
+    > “the happiness of a rabbit is a good thing. But… rabbits are not capable of acting in a praiseworthy manner.”
+89. **Unhappiness is intrinsically bad but not always condemnable.**  
+    > “being unhappy is bad even if it doesn’t bring about misfortunes.”
+90. **Grieving a loss is not condemnable.**  
+    > “Somebody who is grieving the loss of a loved one doesn’t deserve to be reprimanded.”
+91. **An act can be both good and condemnable.**  
+    > “my piano playing, though an intrinsic good, is condemnable.”
+92. **An act of loyalty can also be excessively violent and condemnable.**  
+    > “Green’s act is commendable, because it is an act of loyalty and courage. But it is also condemnable, because it is an act of excessive and unnecessary violence.”
+93. **Being cold is a privative property (lack of heat).**  
+    > “For something to be cold is for it to lack heat.”
+94. **Being smart is a positive property.**  
+    > “for something to be hot or smart or rich is not for it to lack anything.”
+95. **Condemnability is a positive property.**  
+    > “The property of being condemnable is not privative; it is a positive property.”
+96. **Rocks are neither good nor bad.**  
+    > “A rock lacks goodness. But rocks aren’t bad. They’re neither good nor bad.”
+97. **Hitler was bad because he had ill-will.**  
+    > “Hitler was bad. And he was bad because he had something that rocks don’t have—he had ill-will.”
+98. **Binary moral thinking is emotionally easier.**  
+    > “It’s emotionally easier to see the world as divided into saints and ghouls.”
+99. **Moral obligations vary in strength.**  
+    > “some obligations are therefore stronger than others.”
+100. **Wrongness varies in degree.**  
+    > “there are degrees of wrongness.”
+101. **Conflicting obligations can create moral dilemmas.**  
+    > “I have a choice: steal the money or let my children die.”
+102. **The right action is the lesser of two evils.**  
+    > “the ‘right’ thing to do is to steal my friend’s money… it is clearly the lesser of two evils.”
+103. **Saving fewer lives when more could be saved is wrong.**  
+    > “If I save the lives of M16–M17, I am obviously doing a good thing… But I’m still doing the wrong thing.”
+104. **“Ought implies can” is generally accepted but has exceptions.**  
+    > “There is much truth in the principle that ‘ought’ implies ‘can.’ But… this principle must be taken with a grain of salt.”
+105. **Legal acts can be deeply immoral (e.g., slavery).**  
+    > “it was legal to have slaves, and it was illegal to set another person’s slaves free. But it is exceedingly immoral to have slaves.”
+106. **One may not have the right to assert a truth without evidence.**  
+    > “Given only that some statement is correct, I don’t necessarily have the right to make it.”
+107. **It is wrong to convict without sufficient evidence, even if the person is guilty.**  
+    > “It is wrong to convict a person that one doesn’t know to be guilty, even if that person is guilty.”
+108. **Praise depends on intention, not outcome.**  
+    > “Whether somebody deserves to be commended for an act depends… on whether it was the agent’s intention to perform the right act.”
+109. **Two mothers with identical intentions deserve equal praise, regardless of outcome.**  
+    > “Mary, like Kathy, did everything she could to bring about a morally optimal outcome… they are equally worthy of praise.”
+110. **An agent who intends evil but causes good still deserves blame.**  
+    > “Betty brought about a good state of affairs… But does Betty deserve praise? No. In fact, Betty clearly deserves condemnation.”
+111. **Attempted murder is punished less severely because it may indicate lack of intent.**  
+    > “failure to carry a plan out successfully oftentimes… suggests that the person’s heart wasn’t really in it.”
+112. **Failure to do good may indicate lack of resolve.**  
+    > “Failure to carry out a good deed often… results from a lack of willingness to carry it out.”
+113. **Hitler’s intentions were not good.**  
+    > “given how obvious it is… that gratuitous torture and murder are wrong, it’s not feasible to suppose that, as a rule, Hitler’s intentions were good ones.”
+114. **One can be immoral toward oneself.**  
+    > “One can sell oneself short; one can act self-destructively.”
+115. **Self-harm is often driven by hyper-principled reasoning.**  
+    > “People who hurt themselves are often… hyper-principled.”
+116. **Punishment is not always warranted for wrongdoing.**  
+    > “Whether somebody deserves punishment is not a function solely of whether they’ve done wrong.”
+117. **Punishing self-harm may be redundant and harmful.**  
+    > “self-destructive behavior is its own punishment; so an externally-imposed punishment would be redundant.”
+118. **Metaethics asks what ethical statements mean.**  
+    > “Metaethics is the discipline that says what, if anything, ethical statements mean.”
+119. **The is-ought gap may be bridgeable.**  
+    > “if there is any truth to the thesis that acts are good to the extent that they maximize happiness… then an ‘ought’ can be inferred from ‘is.’”
+120. **Moore’s open question argument is flawed.**  
+    > “Moore’s argument is no good.”
+121. **Entailment can be ampliative (increase knowledge).**  
+    > “Entailment is ampliative.”
+122. **The genetic fallacy confuses origin with validity.**  
+    > “The fact that Newton’s hypothesis had such a random and ignominious origin is irrelevant to whether it is correct or not.”
+123. **Moral beliefs can be true even if acquired through conditioning.**  
+    > “views that are in fact arrived at for reasons having nothing to do with God, religion, or tradition are often claimed to have divine origins.”
+124. **Moral truths can be misused for evil ends.**  
+    > “Sometimes correct moral statements can be put to evil use.”
+125. **Moral principles exist independently of their social enforcement.**  
+    > “Moral principles are not social rules.”
+126. **Disagreement in ethics does not entail ethical non-realism.**  
+    > “There are at least four reasons why this is not good reasoning.”
+127. **Ethical questions often have factual components.**  
+    > “ethical contentions often have a heavy, albeit implicit, factual component.”
+128. **Utilitarianism ties goodness to happiness maximization.**  
+    > “good things are those that bring about happiness and bad things are those that diminish happiness.”
+129. **Human flourishing is tied to the actualization of potential.**  
+    > “for something to be good is for it to be identical with, or logically required by, a practice on which human flourishing depends.”
+130. **If utilitarianism is true, moral questions are factual.**  
+    > “The question ‘does x make people happier…?’ is a strictly factual question.”
+131. **If flourishing-based ethics is true, moral questions are factual.**  
+    > “if the just-described moral view is correct, moral questions are factual questions.”
+132. **Ethics seeks to clarify normative concepts.**  
+    > “Ethics is the discipline that attempts to clarify the structures of these concepts.”
+133. **Intrinsic value is not contingent on consequences.**  
+    > “Ethics is interested in identifying those courses of action… that are good even if their consequences are disregarded.”
+134. **Some intrinsic goods are not praiseworthy.**  
+    > “Some things that are intrinsically good do not deserve praise.”
+135. **Unhappiness is intrinsically bad.**  
+    > “being unhappy is bad even if it doesn’t bring about misfortunes.”
+136. **Moral properties are positive, not privative.**  
+    > “Neither property is ‘privative’; they are both ‘positive’ properties.”
+137. **Moral obligations can conflict.**  
+    > “Oftentimes, we have conflicting obligations.”
+138. **The right action is the least bad option.**  
+    > “what we mean by ‘the right course of action’ is the least bad course of action.”
+139. **Legal acts can be immoral.**  
+    > “There are, or at least can be, acts which are legal… which are immoral.”
+140. **Judging without evidence can be condemnable.**  
+    > “it can be condemnable to condemn the condemnable.”
+141. **Intention determines moral desert, not outcome.**  
+    > “Whether somebody deserves to be commended for an act depends… on what the intended outcome of that act was.”
+142. **Attempted crimes are punished less severely due to possible lack of resolve.**  
+    > “failure to carry out a crime sometimes… results from a certain unwillingness to go through with it.”
+143. **Self-harm can be immoral.**  
+    > “One can act immorally towards oneself.”
+144. **Metaethical principles 4–6 are correct; 1 and 2 are false.**  
+    > “Principles 4–6 are correct; principle 3 is approximately… correct; and principles 1 and 2 are false.”
+145. **The origin of a belief does not determine its truth.**  
+    > “how a belief is arrived at is separate from whether it’s true.”
+146. **Moral truths can exist independently of their social implementation.**  
+    > “Moral principles are not social rules.”
+147. **Ethical disagreement often rests on unresolved factual issues.**  
+    > “the seemingly unending nature of this ethical debate has to do… with there being relevant facts that aren’t yet in evidence.”
+148. **Utilitarianism cannot be completely wrong.**  
+    > “It’s hard to believe that something that made everybody miserable would be good.”
+149. **Human flourishing involves actualizing innate abilities.**  
+    > “By ‘human flourishing’ is meant the actualization of human abilities.”
+150. **Moral questions may be factual questions about flourishing or happiness.**  
+    > “moral questions are factual questions.”
+
+---
+
+This list captures **150 distinct philosophical positions** explicitly stated or strongly implied in the text, each supported by a direct quotation.

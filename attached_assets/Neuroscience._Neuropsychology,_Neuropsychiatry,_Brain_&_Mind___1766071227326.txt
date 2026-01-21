@@ -1,0 +1,4201 @@
+﻿Neuroscience:
+
+
+
+Neuropsychology, Neuropsychiatry, Brain & Mind
+
+
+Introduction, Primer, & Overview R. Joseph, Ph.D.
+
+
+University Press
+
+Copyright 2011
+Table of Contents
+Brain Atlas - 3
+
+I. Neuroscience: Neuropsychology, Neuropsychiatry, Brain & Mind -6
+  Localization & Functional Neuroanatomy of the Brain -10
+Knowing Yet Not Knowing: Disconnected Consciousness - 15
+The Visual Mind: Denial of Blindness - 17
+"Blind Sight" - 19
+Body Consciousness: Denial of the Body, and Phantom Limbs - 21
+Summary: Brain & Mind. -25
+The Brainstem - 26
+Brainstem Cranial Nerves - 31
+Cerebellum - 32
+Diencephalon: Hypothalamus and Thalamus - 36
+The Limbic System: Emotion & Motivation - 40
+Amygdala, Hippocampus, Septal Nuclei, Cingulate, Hypothalamus. - 40 Limbic System Sexuality - 41
+Social Behavioral & the Limbic System - 44
+Amygdala, Hippocampus & Memory -45
+Hippocampus, Memory & Amnesia - 46
+The Cingulate & Entorhinal Cortex - 48
+Limbic & Corpus Striatum -50
+Limbic System vs Neocortex: Consciousness - 53
+The Neocortex (Gray Matter) - 54
+Neocortical Layers - 55
+The Cytoarchitextural Neuronal, & Chemical Organization of the Neocortex - 59 Conscious & Unconscious Mind -62
+Frontal, Parietal, Temporal & Occipital Lobes - 65
+Frontal Lobes - 66
+Temporal Lobes - 69
+Parietal Lobes - 73
+Occipital Lobes & Vision - 78
+Primary, Secondary & Association Ares - 81
+Right & Left Hemisphere: Functional Laterality - 85
+Dissociation and Self-Consciousness -88
+Neuroanatomy of Mind - 91
+Overview: Consciousness, Awareness & the Neuroscience of Mind -92 References - 94
+
+Brain Atlas                                                      NEUROSCIENCE,
+
+NEUROPSYCHOLOGY, NEUROPSYCHIATRY, BRAIN & MIND
+Overview of the Brain and Mind
+
+  The  functional  neuroanatomy  of  the  human  brain  is  functionally
+
+localized, such that specific areas of the brain subserve specific functions. For
+
+example, if you were to suffer a severe injury to the left frontal-temporal
+
+region of your head and brain, you might lose the ability to talk. This is
+
+because,  the  left  frontal  tissues  known  as  Broca's  Area  mediates  the
+
+expression of speech. However, you would still be able to swear and sing
+
+because these abilities are mediated by the right frontal-temporal region of
+
+the brain  If instead, you suffered a massive stroke to the left temporal lobe (the
+
+brain  area  inside  your  skull  near  your  ear),  you  would  be  unable  to
+
+comprehend human speech. You would not understand what is being said to
+
+you. This is because the left temporal region, known as Wernicke's Area,
+
+subserves the ability to understand language.
+
+
+
+
+
+
+
+
+
+
+
+
+
+    However,  Wernicke’s  area  only  comprehends  the  words  and  temporal
+
+sequences of spoken language, not the melody. It is the right temporal lobe
+
+which perceives the melody and emotional qualities of the speaker’s voice.
+
+Therefore, if someone were to approach you in a nightclub or bar, and say:
+
+“Do you want to step outside?” it is the left temporal lobe which understand a
+
+question concern “outside” is being asked, but it is the right temporal lobe
+
+which understand the emotion and context, what the speaker means. Thus
+
+you  know  if  you  are  being  asked  outside  to  smoke  a  cigarette,  to  talk
+
+privately, or if you are being threatened with a punch in the nose.
+
+  It is the right temporal lobe which perceives emotion, melody, music, and
+
+sounds from the environment. Thus, if the right temporal lobe were damaged,
+
+the ability to hear music, sarcasm, emotion, or sounds from the environment
+
+would be lost to varying degrees depending on the extent of the injury. For
+
+example,  if  birds  were  singing,  water  was  dripping  from  a  faucet,  the
+
+telephone were ringing, or even if someone were knocking on the door--these
+
+sounds  may  no  longer  be  perceived  with  extensive  right  temporal  lobe
+
+damage.  And  just  as  the  right  temporal  lobe  perceives  the  melody  and
+
+environmental sounds, it is the right frontal ares which sing and provides the
+
+prosodic, emotional qualities to the voice. Therefore, if the right frontal lobe
+
+were injured, the voice may lose its emotional qualities and might sound
+
+blunted and dulled. Certainly, those with extensive right frontal lobe damage
+
+may no longer be able to sing.
+
+  These  brain  areas  do  not  act  in  isolation,  however.  The  mind  is  a
+
+multiplicity, and different regions act together. It takes both halves of the
+
+brain  to  make  music,  the  left  frontal  providing  the  words  and  temporal
+
+sequences,  the  right  temporal  perceiving  the  music,  the  right  frontal
+
+providing the melody, and the left temporal perceive the words and rhythm.
+
+
+
+
+
+
+
+
+
+
+
+
+  Broadly considered, there are two frontal, temporal, parietal, and occipital
+
+lobes, one in each hemisphere of the brain. Thus, the brain is a duality, as
+
+well as a multiplicity, as there are two hemispheres, a right and a left.                                            Split-brain  view,  showing  the  medial
+
+regions of the left hemisphere. 
+
+LOCALIZATION  &  FUNCTIONAL  NEUROANATOMY  OF  THE
+
+BRAIN
+
+  The  human  brain  can  be  broadly  described  as  consisting  of  1)  two
+
+cerebral hemispheres which are divided into frontal, parietal, temporal, and
+
+occipital lobes, 2) "gray matter" which covers the surface of the brain, and
+
+which  consists  of  6-7  major  layers  and  several  sublayers  of  specialized
+
+neurons, 3) subcortical structures consisting of 2-5 layers, and which include
+
+the  striatum  (caudate,  putaman,  globus  pallidus),  limbic  system
+
+(hypothalamus,  amygdala,  hippocampus,  septal  nuclei,  cingulate  gyrus),
+
+thalamus, cerebellum, and brainstem (midbrain, pons, medulla).
+
+  The human brain is thus a multiplicity with specific areas serving specific
+
+functions.  However,  even  specific  regions  serve  multiple  functions.  For
+
+example the frontal lobes, located at the front of the brain, not only speaks
+
+and sings, but maintains attention and concentration and acts to filter out and
+
+suppress sensory and perceptual information. In fact, much of the brain works
+
+by  inhibition,  otherwise,  the  mind  would  be  overwhelmed  by  sensory
+
+impressions.  Consider,  by  way  of  example,  you  are  sitting  in  your  office
+
+reading this text. The pressure of the chair, the physical sensations of your
+
+shoes and clothes, the musculature of your body as it holds one then another
+
+position,  the  temperature  of  the  room,  various  odors  and  fragrances,  a
+
+multitude  of  sounds,  visual  sensations  from  outside  your  area  of
+
+concentration and focus, and so on, are all being transmitted to the brainstem,
+
+midbrain,  and  olfactory  limbic  system.  These  signals  are  then  relayed  to
+
+various subnuclei within the thalamus  .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The  neural  tissues  of  the  brainstem,  midbrain,  limbic  system  and
+
+thalamus  are  associated  with  the  "old  brain."  However,  those  aspects  of
+
+consciousness we most closely associated with humans are associated with
+
+the "new brain" the neocortex (Joseph, 1982, 1992). Therefore, although you
+
+may be "aware" of these sensations while they are maintained within the old
+
+brain, you are not "conscious" of them, unless a decision is made to becomeconscious or they increase sufficiently in intensity that they are transferred to
+
+the neocortex via the the thalamus and frontal lobes, and forced into the focus
+
+of consciousness (Joseph, 1982, 1986b, 1992, 1999a).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The old brain is covered by a gray mantle of new cortex, neocortex. The
+
+sensations alluded to are transferred from the old brain to the thalamus which
+
+relays these signals to the neocortex. Human consciousness and the "higher"
+
+level of the multiplicity of mind, are associated with the "new brain."  (Left) The Corona Radiata. - The human Brainstem & Thalamus (Right)
+
+  For example, visual input is transmitted from the eyes to the midbrain and
+
+thalamus and is transferred to the primary visual receiving area maintained in
+
+the neocortex of the occipital lobe (Casagrande & Joseph 1978, 1980; Joseph
+
+and Casagrande, 1978). Auditory input is transmitted from the inner ears to
+
+the  brainstem,  midbrain,  and  thalamus,  and  is  transferred  to  the  primary
+
+auditory  receiving  area  within  the  neocortex  of  the  temporal  lobe.
+
+Tactualphysical stimuli are also transmitted from the thalamus to the primary
+
+somatosensory areas maintained in the neocortex of the parietal lobe. From
+
+the primary areas these signals are transferred to the adjoining "association"
+
+areas,  and  simple  percepts  become  more  complex  by  association  (Joseph,1996).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Monitoring all this perceptual and sensory activity within the thalamus
+
+and  neocortex  is  the  frontal  lobes  of  the  brain,  also  known  as  the  senior
+
+executive of the brain and personality (Joseph 1986b, 1999a; Joseph et al.,
+
+1981). It is the frontal lobes which maintain the focus of attention and which
+
+can selectively inhibit any additional processing of signals received in the
+
+primary areas.
+
+  There  are  two  frontal  lobes,  a  right  and  left  frontal  lobe  which
+
+communicate via a bridge of nerve fibers. Each frontal lobe, and subdivisions
+
+within each are concerned with different types of mental activity (Joseph,
+
+1999a).
+
+  The  left  frontal  lobe,  among  its  many  functions,  makes  possible  the
+
+ability to speak. It is associated with the verbally expressive, speaking aspects
+
+of  consciousness.  However,  there  are  different  aspects  of  consciousness
+
+associated not only with the frontal lobe, but with each lobe of the brain and
+
+its subdivisions (Joseph, 1986b; 1996, 1999a).
+
+Knowing Yet Not Knowing: Disconnected Consciousness
+
+    Consider the well known phenomenon of "word finding difficulty" also
+
+known  as  "tip  of  the  tongue."  You  know  the  word  you  want  (the
+
+"thingamajig") but at the same time, you can't gain access to it. That is, oneaspect  of  consciousness  knows  the  missing  word,  but  another  aspect  of
+
+consciousness  associated  with  talking  and  speech  can't  gain  access  to  the
+
+word. The mind is disconnected from itself. One aspect of mind knows, the
+
+other aspect of mind does not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  This same phenomenon, but much more severe and disabling, can occur if
+
+the nerve fiber pathway linking the language areas of the left hemisphere are
+
+damaged.  For  example,  Broca's  area  in  the  frontal  lobe  organizes  words
+
+received from the posterior langauge areas, and expresses humans speech.
+
+Wernicke's  area  in  the  temporal  lobe  comprehends  speech.  The  inferior
+
+parietal lobe sits at the junction of the visual (occipital), somesthetic (parietal)
+
+and auditory (temporal) areas and in association with the frontal lobes and
+
+Broca’s  area,  associates  and  assimilates  these  associations  so  that,  for
+
+example, we can say the word "dog" and come up with the names of dozens
+
+of  different  breeds  and  then  visualize  and  describe  them  (Joseph,  1982;
+
+Joseph and Gallagher 1985; Joseph et al., 1984). Therefore, if Broca's area is
+
+disconnected from the posterior language areas, one aspect of consciousness
+
+may know what it wants to say, but the speaking aspect of consciousness will
+
+be unable to gain access to it and will have nothing to say; called "conduction
+
+aphasia."  Or  consider  damage  which  disconnects  the  parietal  lobe  from  Broca's
+
+area. If you place an object, e.g., a comb, out-of-sight, in the person's right
+
+hand, and ask them to name the object, the speaking aspect of consciousness
+
+may know something is in the hand, but will be unable to name it. However,
+
+although they can't name it, and can't guess if shown pictures, if the patient is
+
+asked to point to the correct object, they will correctly pick out the comb
+
+(Joseph, 1996). Therefore, part of the brain and mind may act purposefully
+
+(e.g. picking out the comb), whereas another aspect of the brain and mind is
+
+denied access to the information that the disconnected part of the mind is
+
+acting on.
+
+  Thus, the part of the brain and mind which is perceiving and knowing, is
+
+not  the  same  as  the  part  of  the  brain  and  mind  which  is  speaking.  This
+
+phenomenon  occurs  even  in  undamaged  brains,  when  the  multiplicity  of
+
+minds which make up one of the dominant streams of consciousness, become
+
+disconnected and/or are unable to communicate.
+
+The Visual Mind: Denial of Blindness
+
+  All  visual  sensations  first  travel  from  the  eyes  to  the  thalamus  and
+
+midbrain. At this level, these visual impressions are outside of consciousness,
+
+though  we  may  be aware  of  them.  These  visual  sensations  are  then
+
+transferred  to  the  primary  visual  receiving  areas  and  to  the  adjacent
+
+association areas in the neocortex of the occipital lobe. Once these visualimpressions  reach  the  neocortex,  consciousness  of  the  visual  word  is
+
+achieved. Visual consciousness is made possible by the occipital lobe.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Destruction of the occipital lobe and its neocortical visual areas results in
+
+cortical blindness (Joseph, 1996). The consciousness mind is blinded and can
+
+not see or sense anything except vague sensations of lightness and darkness.
+
+However, because visual consciousness is normally maintained within the
+
+occipital lobe, with destruction of this tissue, the other mental systems will
+
+not know that they can't see. The remaining mental system do not know they
+
+are blind.
+
+    Wernicke's area in the left temporal lobe in association with the inferior
+
+parietal lobe comprehends and can generate complex language. Normally,
+
+visual input is transferred from the occipital to the inferior parietal lobe (IPL)
+
+which is adjacent to Wernicke's area and the visual areas of the occipital lobe.Once these signals arrive in the IPL a person can name what they see; the
+
+visual input is matched with auditory-verbal signals and the conscious mind
+
+can label and talk about what is viewed (Joseph, 1982, 1986b; Joseph et al.,
+
+1984). Talking and verbally describing what is seen is made possible when
+
+this stream of information is transferred to Broca's area in the left frontal lobe
+
+(Joseph, 1982, 1999a). It is Broca's area which speaks and talks.
+
+    Therefore,  with  complete  destruction  of  the  occipital  lobe,  visual
+
+consciousness is abolished whereas the other mental system remain intact but
+
+are unable to receive information about the visual world. In consequence, the
+
+verbal aspects of consciousness and the verbal-language mind does not know
+
+it can't see because the brain area responsible for informing these mental
+
+system  about  seeing,  no  longer  exists.  .  In  fact  the  languagedependent
+
+conscious  mind  will  deny  that  it  is  blind;  and  this  is  called:  Denial  of
+
+blindness.
+
+    Normally, if it gets dark, or you close your eyes, the visual mind becomes
+
+conscious of this change in light perception and will alert the other mental
+
+realms. These other mental realms do not process visual signals and therefore
+
+they must be informed about what the visual mind is seeing. If the occipital
+
+lobe is destroyed, visual consciousness is destroyed, and the rest of the brain
+
+cannot be told that visual consciousness can't see. Therefore, the rest of the
+
+brain does not know it is blind, and when asked, will deny blindness and will
+
+make up reasons for why they bump into furniture or can't recognize objects
+
+held before their eyes (Joseph, 1986b, 1988a).
+
+  For example, when unable to name objects, they might confabulate an
+
+explanation: "I see better at home." Or, "I tripped because someone moved
+
+the furniture."  Even if you tell them they are blind, they will deny blindness; that is, the
+
+verbal  aspects  of  consciousness  will  claim  it  can  see,  when  it  can't.  The
+
+Language-dependent aspects of consciousness does not know that it is blind
+
+because  information  concerning  blindness  is  not  being  received  from  the
+
+mental realms which support visual consciousness.
+
+  The same phenomenon occurs with small strokes destroying just part of
+
+the occipital lobe. Although a patient may lose a quarter or even half of their
+
+visual field, they may be unaware of it. This is because that aspect of visual
+
+consciousness no longer exists and can't inform the other mental realms of its
+
+condition.
+
+"Blind Sight"
+
+  The brains of reptiles, amphibians, and fish do not have neocortex. Visual
+
+input is processed in the midbrain and thalamus and other old-brain areas as
+
+these creatures do not possess neocortex or lobes of the brain. In humans, this
+
+information  is  also  received  in  the  brainstem  and  thalamus  and  is  then
+
+transferred to the newly evolved neocortex. As is evident in non-mammalian
+
+species, these creatures can see, and they are aware of their environment.
+
+They possess an older-cortical (brainstem-thalamus) visual awareness which
+
+in humans is dominated by neocortical visual consciousness.  (Left) Human Brain. Reptile Brain (Right)
+
+Therefore, even with complete destruction of the visual neocortex, and after
+
+the patient has had time to recover, some patients will demonstrate a non-
+
+conscious awareness of their visual environment. Although they are cortically
+
+blind and can't name objects and stumble over furniture and bump into walls,
+
+they may correctly indicate if an object is moving in front of their face, and
+
+they may turn their head or even reach out their arms to touch it-just as a frog
+
+can see a fly buzzing by and lap it up with its tongue. Although the patient
+
+can't name or see what has moved in front of his face, he may report that he
+
+has a "feeling" that something has moved.
+
+  Frogs do not have neocortex and they do not have language, and can'tdescribe what they see. However, humans and frogs have old cortex that
+
+process  visual  impressions  and  which  can  control  and  coordinate  body
+
+movements.  Therefore,  although  the  neocortical  realms  of  human
+
+consciousness are blind, the mental realms of the old brain can continue to
+
+see and can act on what it sees; and this is called: Blind sight (Joseph, 1996).
+
+Body Consciousness: Denial of the Body, and Phantom Limbs
+
+  All tactile and physical-sensory impressions are relayed from the body to
+
+the  brainstem  and  the  thalamus,  and  are  then  transferred  to  the  primary
+
+receiving and then the association area for somatosensory information located
+
+in the neocortex of the parietal lobe (Joseph, 1986b, 1996). The entire image
+
+of the body is represented in the parietal lobes (the right and left half of the
+
+body in the left and right parietal lobe respectively), albeit in correspondence
+
+with the sensory importance of each body part. Therefore, more neocortical
+
+space is devoted to the hands and fingers than to the elbow.
+
+  It is because the body image and body consciousness is maintained in the
+
+parietal area of the brain, that victims of traumatic amputation and who lose
+
+an arm or a leg, continue to feel as if their arm or their leg is still attached to
+
+the body. This is called: phantom limbs. They can see the leg is missing, but
+
+they feel as if it is still there; body-consciousness remains intact even though
+
+part of the body is missing (Joseph, 1986b, 1996). They may also continue to
+
+periodically  experience  the  pain  of  the  physical  trauma  which  led  to  the
+
+amputation, and this is called "phantom limb pain."  Thus, via the mental system of the parietal lobe, consciousness of what is
+
+not there, may appear to consciousness as if it is still there. This is not a
+
+hallucination. The image of the body is preserved in the brain and so to is
+
+consciousness of the body; and this is yet another example of experienced
+
+reality being a manifestation of the brain and mind. In this regard, reality is
+
+literally mapped into the brain and is represented within the brain, such that
+
+even when aspects of this "reality" are destroyed and no longer exists external
+
+to the brain, it nevertheless continues to be perceived and experienced by the
+
+brain and the associated realms of body-consciousness.
+
+    Conversely, if the parietal lobe is destroyed, particularly the right parietal
+
+lobe (which maintains an image of the left half of the body), half of the body
+
+image  may  be  erased  from  consciousness  (Joseph,  1986b,  1988a).  The
+
+remaining realms of mind will lose all consciousness of the left half of the
+
+body, which, in their minds, never existed.
+
+  Doctor: "Give me your right hand!" (Patient offers right hand). "Now
+
+give me your left!" (The patient presents the right hand again. The right hand
+
+is held.) "Give me your left!" (The patient looks puzzled and does not move.)
+
+"Is there anything wrong with your left hand?"
+
+Patient: "No, doctor."
+
+Doctor: "Why don't you move it, then?"
+
+Patient: "I don't know."
+
+Doctor: "Is this your hand?" (The left hand is held before her eyes.)
+
+Patient: "Not mine, doctor."
+
+Doctor: "Whose hand is it, then?"
+
+Patient: "I suppose it's yours, doctor."Doctor: "No, it's not; I've already got two hands. look at it carefully." (The
+
+left hand is again held before her eyes.)
+
+Patient: "It is not mine, doctor."
+
+Doctor:  "Yes  it  is,  look  at  that  ring;  whose  is  it?"  (Patient's  finger  with
+
+marriage ring is held before her eyes)
+
+Patient:  "That's  my  ring;  you've  got  my  ring,  doctor.  You're  wearing  my
+
+ring!"
+
+Doctor: "Look at it—it is your hand."
+
+Patient: "Oh, no doctor."
+
+Doctor: "Where is your left hand then?"
+
+Patient: "Somewhere here, I think." (Making groping movements near her left
+
+shoulder).
+
+  Because the body image has been destroyed, consciousness of that half of
+
+the body is also destroyed. The remaining mental systems and the language-
+
+dependent conscious mind will completely ignore and fail to recognize their
+
+left arm or leg because the mental system responsible for consciousness of
+
+the body image no longer exists. If the left arm or leg is shown to them, they
+
+will claim it belongs to someone else, such as the nurse or the doctor. They
+
+may dress or groom only the right half of their body, eat only off the right
+
+half of their plates, and even ignore painful stimuli applied to the left half of
+
+their bodies (Joseph, 1986b, 1988a).
+
+    However, if you show them their arm and leg (whose ownership they
+
+deny), they will admit these extremities exists, but will insist the leg or arm
+
+does not belong to them, even though the arm or the leg is wearing the same
+
+clothes  covering  the  rest  of  their  body.  Instead,  the  language  dependent
+
+aspects of consciousness will confabulate and make up explanations and thus
+
+create their own reality. One patient said the arm belonged to a little girl,
+
+whose arm had slipped into the patient's sleeve. Another declared (speaking
+
+of his left arm and leg), "That's an old man. He stays in bed all the time."
+
+  One such patient engaged in peculiar erotic behavior with his left arm and
+
+leg which he believed belonged to a woman. Some patients may develop a
+
+dislike for their left arms, try to throw them away, become agitated when they
+
+are  referred  to,  entertain  persecutory  delusions  regarding  them,  and  even
+
+complain of strange people sleeping in their beds due to their experience of
+
+bumping into their left limbs during the night (Joseph, 1986b, 1988a). One
+
+patient complained that the person sharing her bed, tried to push her out of
+
+the bed and then insisted that if it happened again she would sue the hospital.Another complained about "a hospital that makes people sleep together." A
+
+female patient expressed not only anger but concern least her husband should
+
+find out; she was convinced it was a man in her bed.
+
+  The right and left parietal lobes maintain a map and image of the left and
+
+right half of the body, respectively. Therefore, when the right parietal lobe is
+
+destroyed, the languagedependent mental systems of the left half of the brain,
+
+having access only to the body image for the right half of the body, is unable
+
+to become conscious of the left half of their body, except as body parts that
+
+they then deduce must belong to someone else.
+
+    However,  when  the  language  dominant  mental  system  of  the  left
+
+hemisphere denies ownerhip of the left extremity these mental system are in
+
+fact telling the truth. That is, the left arm and leg belongs to the right not the
+
+left hemisphere; the mental system that is capable of becoming conscious of
+
+the left half of their body no longer exist.
+
+  When the language axis (Joseph, 1982, 2000), i.e. the inferior parietal
+
+lobe, Broca's and Wernicke's areas, are functionally isolated from a particular
+
+source of information, the language dependent aspect of mind begins to make
+
+up a response based on the information available. To be informed about the
+
+left leg or left arm, it must be able to communicate with the cortical area (i.e.
+
+the  parietal  lobe)  which  is  responsible  for  perceiving  and  analyzing
+
+information  regarding  the  extremities.  When  no  message  is  received  and
+
+when  the  language  axis  is  not  informed  that  no  messages  are  being
+
+transmitted, the language zones instead relie on some other source even when
+
+that  source  provides  erroneous  input  (Joseph,  1982,  1986b;  Joseph  et  al.,
+
+1984); substitute material is assimilated and expressed and corrections cannot
+
+be  made  (due  to  loss  of  input  from  the  relevant  knowledge  source).  The
+
+patient begins to confabulate. This is because the patient who speaks to you is
+
+not the 'patient' who is perceiving- they are in fact, separate; multiple minds
+
+exist in the same head.
+
+    Summary: Brain & Mind . The brain and the mind are synonymous and
+
+are  hierarchically,  vertically,  and  horizontally  organized,  with  different
+
+regions engaging in both parallel and localized processing, with specialized
+
+neurons performing discrete functions, such as face recognition, and others
+
+participating in large neural networks to make complex cognitive functioning
+
+processing possible, including, for example, language and consciousness.
+
+  There  are  tissues  of  the  mind  which  mediate  language  and  complex
+
+cognition,  such  as  the  neocortex  and  lobes  of  the  brain,  those  aspectsassociated with sex, love and war, such as the limbic system and those areas
+
+which  respond  reflexively  and  completely  unconsciously,  laboring  to
+
+maintain homeostasis, and the rhythmics of waking, sleeping, dreaming, and
+
+of the heart, the respiratory systems, and the vegetative mind. These latter
+
+unconscious  activities  are  associated  with  the  functional  integrity  of  the
+
+brainstem, i.e., the medulla, pons, and midbrain, and to a much lesser extent,
+
+the adjacent diencephalon, i.e. the thalamus and hypothalamus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The  mind  and  brain  are  also  functionally  lateralized,  with  specific
+
+interactive subareas in the left hemisphere mediating the linguistic, temporal,sequential, arithmetical, and rhythmical aspects of consciousness and verbal
+
+thought. It is the right half of the brain which subserves and provides the
+
+foundations  for  an  interactive  non-verbal  awareness  encompassing  music,
+
+emotion, the body, prosodic language, and spatial thought.
+
+  Thus,  the  cerebrum  and  psyche  are  organized  such  that  several  semi-
+
+independent mental system coexist, literally one on top of the other, side by
+
+side,  distributed  and  localized,  with  the  limbic  system  and  brainstem
+
+providing much of the "food for thought" that is received by the neocortex
+
+and reflected upon by the conscious mind.
+
+THE BRAINSTEM
+
+  The  brainstem  is  exceedingly  ancient  and  complex  structure  (Aitkin,
+
+1986; Vertes, 1990), and is concerned with sensory reception, arousal, and
+
+reflexive movements of the body, including stereotyped and routine motor
+
+acts such as yawning, opening and closing the mouth, wiping the face, or
+
+lifting the legs, taking steps, walking or running (Aminoff, 1996; Blessing,
+
+1997;  Cohen,  et  al.  1988;  Klemm,  1990;  Skinner  &  Garcia-Rill,  1990).
+
+Although  capable  of  learning,  forming  simple  memories,  and  displaying
+
+synaptic plasticity (Jones & Pons, 1998; Isukahara, 1985; Moore & Aitkin,
+
+1975; Moore & Irvine, 1981), this portion of the brain cannot think, reason,
+
+or feel love or sorrow (Joseph, 1999c).  The brainstem is both diffusely organized and functionally specialized.
+
+When  specific  brainstem  nuclei  (and  associated  neural  networks)  are
+
+stimulated, sucking, chewing, swallowing, swimming, stepping, walking, and
+
+running  movements  can  be  induced  (Barman,  1990;  Cohen,  et  al.  1988;
+
+Klemm,  1990;  Mogenson,  1990;  Steriade  &  McCarley,  1990;  Skinner  &
+
+Garcia-Rill,  1990;  Vertes,  1990).  However,  these  movements  are
+
+hierarchically  organized  with  those  requiring  the  least  amount  of
+
+organizational or conscious control being localized near the medulla-spinal
+
+border. It is noteworthy, however, that this areas also contains neurons which
+
+when stimulated can trigger female sexual posturing (Benson, 1988; Rose,
+
+1990);  i.e.  the  lordosis  (or  "doggie")  position.  These  latter  neurons  are
+
+interconnected  with  the  amygdala  and  ventromedial  hypothalamus--nuclei
+
+which are also involved in sexual activities. At the level of the spinal cord,
+
+movement programs are exceedingly simplified and usually consist of only
+
+fragments of the entire motor display.
+
+  As one ascends from the spinal cord to the medulla, then the pons, and
+
+finally the midbrain, the degree, extent, and nature of these various motorprograms and behaviors becomes increasingly complex. For example, when
+
+the most caudal regions of the medulla are stimulated stepping motions can
+
+be induced, whereas stimulation of the midbrain can initiate eye movements,
+
+head turning, controlled walking, running (Cowie & Robinson 1994; Cowie
+
+et  al.  1994;  Skinner  &  Garcia-Rill,  1990)  and  vocalization--which  is
+
+produced  by  the  periaqueductal  gray  (Jurgens,  1994;  Larson  et  al.  1994;
+
+Zhang et al. 1994).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The periaqueductal gray coordinates the activity of the laryngeal, oral-
+
+facial,  and  principal  and  accessory  muscles  of  respiration  and  inspiration
+
+(Zhang  et  al.  1994)  and  receives  extensive  input  from  the  amygdala,  the
+
+anterior cingulate, and the left and right frontal lobes--structures which are all
+
+implicated in vocalization, and/or speech and language. However, it is the
+
+coordinated activity of the periaqueductal gray which enables an individual to
+
+laugh, cry, or howl, even if the rest of the brain (excepting the brainstem)
+
+were dead.
+
+  The brainstem is devoid of cognitive activity as it is designed to react
+
+immediately  and  reflexively  to  sensory  stimuli.  Consider,  for  example,
+
+infants born with only a brainstem, i.e. anencephalics, who are completelydevoid of any semblance of conscious or cognitive activity; and the same is
+
+true of adults who suffer a brainstem-forebrain transection. Although they
+
+live and breath, these latter unfortunate souls are essentially forebrain dead.  The  brainstem,  although  almost  wholly  unconscious,  maintains
+
+consciousness and promotes cognitive activity by feeding the forebrain with
+
+activating neurotransmitters such as norepinephrine (NE) Serotonin (5HT),
+
+and  dopamine  (DA)  and  by  controlling  arousal  through  the  reticular
+
+activating system (Blessing, 1997; Steriade & McCarley, 1990; Usher et al.,
+
+1999). Because of its importance in these and other life-preserving functions,
+
+the stereotypical consequences of brainstem injury, therefore, are prolonged
+
+unconscious and death.    Brainstem Cranial Nerves. With the exception of vision and olfactory
+
+sensations, all sensory information is relayed from the spinal cord and cranial
+
+nerves to the brainstem. From the brainstem this information is transmitted to
+
+the thalamus. Conversely, all motor commands, be it the movement of the
+
+lips, the tapping of a finger, or the blink of an eye, must be transmitted to the
+
+brainstem cranial nerves and/or spinal cord before they can be carried out.
+
+Cranial nerves also influence breathing and heart rate.
+
+THE CEREBELLUM
+
+  The cerebellum sits atop the brainstem and accounts for approximately
+
+25% of the brain. It communicates with almost all regions of the neuroaxis,
+
+with  the  single  exception  of  the  striatum,  and  has  been  implicated  in
+
+cognitive, emotional, sensory, motor and speech processing (Llinas & Sotelo,
+
+1992; Schmahmann, 1997; Silveri et al. 1994; Thach, 1997; van Dongen et
+
+al. 1994; Wallesch & Horn 1990) . The cerebellum has been shown to display
+
+neuroplasticity (Nimura et al., 1999) and learning and memory (Fiez et al.1992; Lavond et al. 1990; Molinari, et al., 1997; Thompson et al., 1997) and
+
+may  well  serve  as  an  integrative  interface  for  cognition,  emotion,  motor
+
+functioning and memory.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The  cerebellum  is  typically  thought  of  as  a  motor  center.  However,
+
+electrical-electrode stimulation or damage to this structure can trigger rage
+
+reactions (Bharos, et al. 1981), and hyperactivity (Carpenter, 1959), including
+
+"mania"  (Cutting,  1976).  Abnormalities  in  the  cerebellum  have  also  been
+
+implicated  in  the  pathogenesis  of  schizophrenia  and  autism  (Bauman  &
+
+Kemper,  1985;  Courchesne  &  Plante,  1996;  Gaffeny,  et  al.  1987;  Heath,
+
+1977; Heath, et al. 1979, 1982; Taylor 1991; Weinberger et al. 1979, 1980).
+
+Although  the  notion  that  abnormal  rearing  conditions  may  contribute  to
+
+autistic and schizophrenic behavior is no longer in fashion, it is noteworthy
+
+that  Heath  (1972)  found  that  monkeys  reared  under  deprived  conditions
+
+displayed abnormal electrophysiological activity in the cerebellum (dentate
+
+gyrus)  as  well  as  the  septal  nuclei.  These  animals  also  displayed  autistic
+
+behavior (Harlow & Harlow, 1965a,b). These findings are significant, for the
+
+cerebellum is an outgrowth of the vestibular system, and insufficient social-
+
+emotional or physical stimulation would also result in insufficient vestibular
+
+activation.  The  cerebellum  consists  of  a  number  of  structures  and  distinct  neural
+
+circuits associated with specific fiber systems, including climbing, parallel
+
+and mossy fibers. It also appears that different regions are concerned with
+
+different functions that also have a major motor component. These functions
+
+include speech (Silveri et al. 1994; van Dongen et al. 1994; Wallesch & Horn
+
+1990),  and  visual  processing,  including  the  visual  guidance  of  movement
+
+(Bloedel 1992; Stein & Glickstein 1992).
+
+  The cerebellum is tonically active, and presumably exerts a tonic and
+
+stabilizing influence on motor function (Llinas, 1981). Moreover, by altering
+
+its  activity  (e.g.,  Bloedel,  et  al.,  1985;  Thach,  1978),  it  can  apparently
+
+coordinate, smooth, fine tune, as well as exert a timing influence on motor
+
+movements (Ivry, 1997; Llinas, 1981; Llinas & Sotelo, 1992). In fact, some
+
+cerebellar neurons become activated just thinking about making a movement
+
+(e.g., Dacety et al. 1990). Indeed, the cerebellum is associated not just with
+
+motor functioning, but classical conditioning and the learning of new motor
+
+programs (Llinas & Sotelo, 1992; Schmahmann, 1997).  For  example,  it  has  been  suggested  the  initial  acquisition  of  skilled
+
+movements,  such  as  playing  a  guitar,  requires  neocortical  and  conscious
+
+control over motor functioning, with the cerebellum playing at best a minimal
+
+supplementary role. However, "practice makes perfect" and presumably thecerebellum immediately begins to increase its participation and slowly begins
+
+to  learn  the  necessary  movements.  For  example,  the  cerebellum  becomes
+
+activated  during  initial  learning  stages  (Watanabe,  1984)  and  as  learning
+
+progress, the cerebellum may begin to acquire control over the task and may
+
+begin to associate the task and specific movements with specific changing
+
+contexts so that each context automatically triggers the movement (Thach,
+
+1997). With time and practice, the cerebellum may slowly assume control
+
+over  the  associated  movements,  which  become  "automatic"  and  can  then
+
+perform these movements with little or no help from the cerebrum which
+
+becomes free to do and think about other things.
+
+    Conversely, lesions abolish the acquisition and retention of conditioned
+
+responses (Lavond et al. 1990), and compound movements are more severely
+
+effected that simple movements. These and other findings suggests that the
+
+cerebellum  may  act  to  integrate  and  combine  different  movements,  and
+
+movement sequences. Moreover, it has been proposed that climbing fibers
+
+may act to learn the task, mossy fibers may learn the "context," whereas
+
+parallel fibers integrate the context with the actual motor activity, and even
+
+correcting errors (Thach, 1997).
+
+THE DIENCAPHALON: HYPOTHALAMUS, THALAMUS
+
+The Diencephalon consists of the hypothalamus and thalamus.  With the notable exception of olfaction (Gloor, 1997), all sensory input is
+
+first projected to the brainstem (Blessing, 1997; Vertes, 1990) and is then
+
+relayed to the immediately adjacent thalamus and hypothalamus--collectively
+
+referred  to  as  the  diencephalon  ("between  brain").  The  diencephalon
+
+represents that rudimentary aspect of the unconscious mind that generates
+
+vague sensory impressions and diffuse emotions (Dreifuss, Murphy, & Gloor,
+
+1968; Joseph, 1992a; Olds, 1956), including pain (the thalamus), and hunger,
+
+thirst, sexual arousal, or depression and rage (the hypothalamus).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Like the brainstem, the hypothalamic portion of the diencephalon does
+
+not  think  or  reason,  but  reflexively  reacts--often  in  response  to  amygdala
+
+input,  in  which  case  it  remain  active  for  an  extensive  period  of  time
+
+(Dreifuss, et al., 1968; Rolls 1992). Nor are the emotions generated by this
+
+portion of the brain well differentiated. The hypothalamus may feel pleasure
+
+in  general,  or  depression  in  general,  or  enraged  in  general  with  nodifferentiation,  specificity,  or  concern  for  consequences  other  than  the
+
+satisfaction of internal needs. .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  By  contrast,  considerable  information  and  cognitive  pre-processing
+
+occurs within the various subdivisions of the thalamus, such as the the lateral
+
+and medial geniculate nucleus (LGN & MGN), the pulvinar, the motor and
+
+subthalamus (M/ST), and the dorsal medial nucleus (DMN). These structures
+
+play a significant role in processing auditory (MGM) and visual input (LGN),
+
+the guidance of motor functions (M/ST), and the regulation of attention and
+
+arousal (DMN). For example, the LGN receives visual input directly from the
+
+retina, and then transfers this information to the visual cortex (Casagrande &
+
+Joseph,  1978).  The  MGN  receives  auditory  input  from  the  midbrain  and
+
+transfer this information to the auditory cortex (Amaral et al., 1983; Pandya
+
+& Yeterian, 1985). The dorsal medial and reticular thalamus exert regulatory
+
+influences over neocortical, striatal, and limbic system arousal and influence
+
+memory  and  attentional  functioning  (Joseph,  1999a;  Skinner  &  Yingling,
+
+1977; Yingling & Skinner, 1977). .
+
+  In  addition,  the  subthalamus,  which  is  intimately  associated  with  the
+
+amygdala,  the  motor  thalamus  and  the  striatum,  participates  in  the
+
+organization and expression of gross purposeful affective-motoric behaviors
+
+(Crossman, Sambrook, & Mitchell, 1987; Parent & Hazrati, 1995). Thus the
+
+subthalamus (and striatum with which it is also intimately associated) can
+
+trigger  running,  kicking,  punching,  flailing,  and  a  variety  of  oral  andemotional facial expressions, or conversely "freezing" in reaction to extreme
+
+fear. The striatum and subthalamus act as an emotional-motor interface which
+
+enables humans (and other animals) to express their emotions through body
+
+language and facial expression.
+
+  Because of their role in guiding and controlling motor activities, if the
+
+subthalamus or motor thalamus is injured, patients may demonstrate a variety
+
+of hypo- or hyperactive motor abnormalities including rigidity, catatonia, and
+
+catalepsy, or conversely tremor and uncontrolled ballistic movements such as
+
+kicking, flailing, and so on (Crossman, et al., 1987; Parent & Hazrati, 1995;
+
+Royce, 1987).
+
+    Although  capable  of  experiencing  pain,  the  mental  and  perceptual
+
+functioning of the thalamus occurs outside of conscious awareness. Rather,
+
+the  functioning  of  these  various  thalamic  subdivisions  occurs  in  a  mental
+
+realm best described as the "preconscious;" acting to provide the conscious
+
+mind  with  its  sensory  and  perceptual  contents  by  relaying  data  from  the
+
+brainstem to the neocortex as well as to the limbic system.
+
+THE LIMBIC SYSTEM: EMOTION & MOTIVATION
+
+    Amygdala, Hippocampus, Septal Nuclei, Cingulate, Hypothalamus.
+
+The  principle  structures  of  the  limbic  system  include  the  amygdala,
+
+hippocampus,  septal  nuclei,  anterior  cingulate  gyrus,  as  well  as  the
+
+hypothalamus  (Joseph,  1992a,  1994,  1998a;  LeDoux,  1996;  Gloor,  1997;
+
+MacLean, 1990). These structures represent a truly interactive system and are
+
+intimately interconnected by a number of interactive pathways, e.g. the stria
+
+terminalis, medial forebrain bundle, fornix-fimbria, amygdalofugal, and so
+
+on.
+
+    Collectively, the limbic system subserves all aspects of emotional, social,
+
+motivational and sexual functioning (Gloor, 1997; Halgren, 1992; Leutmezer
+
+et al., 1999; MacLean, 1990; Olds, 1956; Olds & Forbes, 1981), as well as
+
+learning and memory (Eichenbaum et al. 1994; Mishkin, 1990; Nunn et al.,
+
+1999;  Squire,  1992),  and  homeostatic,  endocrine,  and  hormonal  activities
+
+(Smith et al. 1990), including the stress response (Fink, 1999; Joseph, 1998b,
+
+1999b,d), and even the craving for pleasure-inducing drugs (Childress, et al.,
+
+1999). With the exception of the hippocampus, electrical stimulation of each
+
+of these structures has induced feelings of extreme pleasure, and extremely
+
+negative emotions, such as fear, anger, and rage (Gloor, 1997; Heath, 1974;
+
+Olds,  1956;  Olds  &  Forbes,  1981).  Activation  of  these  structures,  the
+
+amygdala and hypothalamus in particular, have also induced fighting, fleeing,and sexual behavior--affective motor actions made possible through the basal
+
+ganglia (e.g., corpus and limbic striatum) and the brainstem; structures which
+
+are partly under the control of the amygdala.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The limbic system, the amygdala and cingulate in particular, also play
+
+significant and important roles in the evolution, development and expression
+
+of language and emotional speech (Joseph, 1982, 1992a, 1999b; MacLean,
+
+1990). It is these early maturing structures which provide the neurological
+
+foundations  (that  is,  in  association  with  the  periaqueductal  gray)  for  the
+
+development of infant speech and what has been termed, "limbic language"
+
+(Joseph, 1982, Jurgens, 1990).
+
+LIMBIC SYSTEM SEXUALITY
+
+  The limbic system is sexually differentiated such that there is a male,
+
+female,  and  even  homosexual  limbic  system.  In  humans,  sexual
+
+differentiation is initiated around 3 months after conception, and is triggered
+
+by  the  presence  or  absence  of  testosterone  which  also  effects  cellular
+
+development.  For  example,  glia  cells,  which  manufacture  certain
+
+neurotransmitters  and  which  nourish  and  even  guide  immature  migrating
+
+immature  neuroblasts  to  their  terminal  substrate,  develop  unique  male-
+
+specific patterns before birth. Hence, testosterone effects neural migrationand thus the organization and neural growth of the limbic system as well as
+
+the neocortex and spinal cord.
+
+  For example, the presence of fetal testosterone promotes the development
+
+of spinal motor neurons which project to the penis. Moreover, the total brain
+
+volume of the human male is about 7% larger than that of the female, and
+
+much of this differences is due to the greater volume of white matter in the
+
+male  cerebrum  (glia  and  axons),  the  only  exceptions  being  the  human
+
+hippocampus which is larger in the female, and the amygdala which is 16%
+
+larger in the male in total volume (Filipek, et al., 1994).
+
+  The female and male primate amygdala are sexually differentiated and
+
+have  their  own  unique  patterns  of  dendritic  growth  and  organization
+
+(Nishizuka & Arai, 1981). As noted, in humans the male amygdala is 16%
+
+larger, and in male rats the medial amygdala is 65% larger than the female
+
+amygdala  (Breedlove  &  Cooke,  1999),  and  the  male  amygdala  grows  or
+
+shrinks in the presence of testosterone--findings which may be related to sex
+
+differences in sexuality and aggression.
+
+    Moreover, female amygdala neurons are smaller and more numerous, and
+
+densely packed than those of the male (Bubenik & Brown, 1973; Nishizuka
+
+& Arai, 1981), and smaller, densely packed neurons fire more easily and
+
+frequently than larger ones--which may be related to the fact that females are
+
+more emotional and more easily frightened than males (chapters 7,13,15), as
+
+the amygdala is a principle structure involved in evoking feelings of fear
+
+(Davis et al., 1997; Gloor, 1997; LeDoux, 1996).
+
+    Dendritic spine density in the female rat hippocampus also increases and
+
+decreases by as much as 30% during each estrus cycle (Woolley, et al., 1990)
+
+which in turn may influence memory. Indeed, in humans it has been shown
+
+that estrogen replacement therapy slows memory loss in women. In fact, it
+
+has been reported that women who take this hormone have a 54% lower
+
+chance of developing Alzheimers. On the other hand, dendritic spine density
+
+can  rapidly  change  within  a  few  seconds  (regardless  of  gender),  as  these
+
+spines can rapidly grow or disappear in response to varying experiences or
+
+lack thereof.  In addition, the human anterior commissure which connects the right and
+
+left amygdala/ temporal lobe is sexually differentiated (Allen et al. 1989), as
+
+is  primate/mammalian  hypothalamus  (Bleier  et  al.  1982;  Dorner,  1976;
+
+Gorski et al. 1978; Rainbow et al. 1982; Raisman & Field, 1971, 1973)--with
+
+which  the  amygdala  is  intimately  interconnected.  That  is,  the  anterior
+
+commissure  is  thicker  in  women  which,  coupled  with  her  more  densely
+
+packed  amygdala  neurons  (Bubenik  &  Brown,  1973;  Nishizuka  &  Arai,
+
+1981) may account for her greater social-emotional sensitivity (see chapters
+
+8,  10,  13,  15).  Thus,  different  structures  of  the  limbic  system  have  sex
+
+specific patterns of neuronal and dendritic organization and perform different
+
+functions depending on if one is a man or a woman.
+
+  For  example,  chemical  and  electrical  stimulation  of  the  sexually
+
+dimorphic  preoptic  and  ventromedial  hypothalamic  nuclei  triggers  and/or
+
+increases  sexual  behavior  in  males  and  females  (with  each  taking  their
+
+respective  sexual  positions),  and  significantly  increases  the  frequency  of
+
+erections, copulations and ejaculations, as well as pelvic thrusting followed
+
+by an explosive discharge of semen even in the absence of a mate (Hart et al.,
+
+1985; Lisk, 1967, 1971; Maclean, 1973). In female primates, activation of
+
+these areas can also trigger maternal behavior (Numan, 1985). Conversely,
+
+lesions to the preoptic and posterior hypothalamus eliminates male sexual
+
+behavior and results in gonadal atrophy. Likewise, activation of the sexuallydimorphic amygdala--which is larger in males (Filipek, et al., 1994)-- can
+
+produce penile erection and clitoral engorgement (Kling and Brothers, 1992;
+
+MacLean,  1990;  Robinson  and  Mishkin,  1968;  Stoffels  et  al.,  1980),  and
+
+trigger sexual feelings (Bancaud et al., 1970; Remillard et al., 1983), extreme
+
+pleasure (Olds and Forbes, 1981), memories of sexual intercourse (Gloor,
+
+1986), as well as ovulation, uterine contractions, lactogenetic responses, and
+
+orgasm (Backman and Rossel, 1984; Currier, Little, Suess and Andy, 1971;
+
+Freemon and Nevis,1969; Warneke, 1976; Remillard et al., 1983; Shealy and
+
+Peel, 1957).
+
+    Moreover, these sexually dimorphic structures also play different roles
+
+among females depending on if a woman is sexually receptive, pregnant, or
+
+lactating.  For  example,  in  a  lactating  female,  the  sexually  dimorphic
+
+supraoptic  and  paraventricular  hypothalamic  nuclei  (which  projects  to  the
+
+posterior  lobe  of  the  pituitary)  may  trigger  the  secretion  of  oxytocin--a
+
+chemical which can trigger uterine contractions as well as milk production
+
+and which makes nursing a pleasurable experience. In fact, dendritic spine
+
+density of ventromedial hypothalamic neurons varies across the estrus cycle
+
+(Frankfurt  et  al.,  1990)  and  thus  presumably  during  pregnancy  and  while
+
+nursing.
+
+  Hence, the core of our personal and emotional being, the limbic system, is
+
+sexually differentiated. There is a male vs a female limbic system, and even a
+
+"homosexual" limbic system (Levay, 1991; Swaab, 1990); structures which
+
+are  organized  in  unique  sex  specific  dendritic  and  neuronal  patterns  and
+
+which  govern  sex-specific  behaviors.  Coupled  with  evolutionary  (Joseph,
+
+1999e)  and  early  environmental  influences  (Joseph,  1979;  Joseph  &
+
+Gallagher, 1980), the sex differences in these and other structures account for
+
+many  of  the  stereotypical  sex  differences  in  thinking,  sexual  orientation,
+
+aggression, and cognitive functioning (Barnett & Meck, 1990; Beatty, 1992;
+
+Dawson et al. 1975; Harris, 1978; Joseph, et al. 1978; Stewart et al. 1975)
+
+which  characterized  the  mind  of  woman  and  man,  including  their  sexual
+
+behaviors.
+
+SOCIAL BEHAVIOR & THE LIMBIC SYSTEM
+
+  The  amygdala  are  involved  in  all  aspects  of  social  and  emotional
+
+functioning. If the right and left amygdala are destroyed, the neocortex will
+
+be denied all related social-emotional and affective input and the patient will
+
+no longer be able to recognize or feel affection for family, friends or loved
+
+one's  (Lilly  et  al.,  1983;  Marlowe  et  al.,  1975;  Terzian  &  Ore,  1955).Although the ability to speak, think, reason, and read and write is preserved,
+
+the personal-affective contents of consciousness will have been erased.
+
+  Humans and animals subject to bilateral amygdala destruction avoid all
+
+contact with others, preferring to sit alone in isolation, and will withdraw if
+
+approached.  Similarly,  primates  who  are  subject  to  bilateral  amygdala
+
+removal lose all interest in social activity and persistently attempt to avoid
+
+contact with others. If approached they withdraw. If followed they flee. Even
+
+maternal  behavior  is  severely  affected  following  bilateral  amygdala
+
+destruction. According to Kling (1972) mothers will bite off fingers or toes,
+
+break arms or legs, and behave as if their "infant were a strange object to be
+
+mouthed, bitten and tossed around as though it were a rubber ball".
+
+AMYGDALA, HIPPOCAMPUS & MEMORY
+
+    Although  the  hippocampus  is  not  associated  with  emotion  per  se,
+
+stimulation of this structure and/or the amgydala, can trigger recent and even
+
+long  forgotten  memories,  especially  those  that  the  patient  feels  to  be
+
+exceedingly emotionally meaningful or personally profound, such as traumas
+
+or the recollection of the first time they had sexual intercourse (Gloor, 1997;
+
+Halgren, 1992; Penfield & Perot, 1963). The hippocampus, in conjunction
+
+with  the  amygdala  has  been  implicated  in  the  regulation  of  neocortical
+
+arousal, and long term memory storage and recall including the ability to
+
+remember words, conversations, and visualize one's self and the surrounding
+
+environment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The hippocampus and amygdala displays synaptic plasticity and dendritic
+
+proliferation, and will grow additional dendritic spines in response to new
+
+learning (Engbert & Bonhoeffer, 1999), and interacts with the amygdala in
+
+the storage of the cognitive and emotional attributes of memory (Gloor, 1997;Halgren, 1992), including dreaming and what has been referred to as the
+
+primary process (Joseph, 1992a). As noted above, dendritic spines can grow
+
+and change position in response to new experiences or lack therefore, thus
+
+forming  innumerable  new  synapses  and  creating  vast  neural  networks
+
+supporting complex memories.
+
+HIPPOCAMPUS, MEMORY & AMNESIA
+
+    Amnesia  &  H.M  .  Bilateral  destruction  of  the  anterior  hippocampus
+
+results  in  striking  and  profound  disturbances  involving  memory  and  new
+
+learning (i.e. anterograde amnesia). For example, one such individual who
+
+underwent bilateral destruction of this nuclei (H.M.), was subsequently found
+
+to have almost completely lost the ability to recall anything experienced after
+
+surgery. If you introduced yourself to him, left the room, and then returned a
+
+few minutes later he would have no recall of having met or spoken to you.
+
+Dr.  Brenda  Milner  worked  with  H.M.  for  almost  20  years  and  yet  she
+
+remained an utter stranger to him.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  H.M. was in fact so amnesic for everything that has occurred since hissurgery (although memory for events prior to his surgery is comparatively
+
+exceedingly well preserved), that every time he rediscovered that his favorite
+
+uncle died (actually a few years before his surgery) he suffered the same grief
+
+as if he had just been informed for the first time. Although without memory
+
+for new (non-motor) information, has adequate intelligence, he was painfully
+
+aware of his deficit and constantly apologized for his problem. "Right now,
+
+I'm wondering" he once said, "Have I done or said anything amiss?" You see,
+
+at this moment everything looks clear to me, but what happened just before?
+
+That's  what  worries  me.  It's  like  waking  from  a  dream.  I  just  don't
+
+remember...Every day is alone in itself, whatever enjoyment I've had, and
+
+whatever sorrow I've had...I just don't remember" (Blakemore, 1977, p.96).
+
+    Presumably the hippocampus acts to protect memory and the encoding of
+
+new information during the storage and consolidation phase via the gating of
+
+afferent streams of information and the filtering/exclusion (or dampening) of
+
+irrelevant and interfering stimuli. When the hippocampus is damaged there
+
+results input overload, the neuroaxis is overwhelmed by neural noise, and the
+
+consolidation phase of memory is disrupted such that relevant information is
+
+not properly stored or even attented to. Consequently, the ability to form
+
+associations  (e.g.  between  stimulus  and  response)  or  to  alter  preexisting
+
+schemas (such as occurs during learning) is attenuated.
+
+THE CINGULATE & ENTORHINAL CORTEX
+
+  The different structures of the limbic system subserve different as well as
+
+overlapping functions ranging from primitive emotions (e.g., hypothalamus)
+
+to  the  spiritually  profound  (e.g.,  the  amygdala).  From  an  evolutionary
+
+perspective,  some  structures  are  exceedingly  ancient  and  have  a  pedigree
+
+extending  almost  a  half  billion  years  backwards  in  time,  e.g.  the
+
+amygdala/striatal/hippocampus, hypothalamus, brainstem.
+
+Others of more recent vintage, such as the cingulate gyrus, may have first
+
+begun to evolve around 200 million years ago (MacLean, 1990). This more
+
+recent evolutionary origin is also reflected by those functional capacities it
+
+mediates, including complex cognitiveaffective activities such as maternal-
+
+infant behavior and emotional speech.
+
+  That the cingulate has evolved more recently is also evident structurally.
+
+For example, with the exception of the cingulate, the structures of the limbic
+
+system  are  comprised  of  allocortex.  Allocortex  has  three  layers  with
+
+pyramidal cells sandwiched between layers I and III. The cingulate consists
+
+of mesocortex (also referred to as "paleocortex" and "transitional cortex"),which consists of five layers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Although the entorhinal cortex --the "gateway to the hippocampus-- may
+
+have begun to evolve at the same time as the cingulate, unlike this latter
+
+structure, the entorhinal cortex appears to have continued to "evolve" and add
+
+new layers. The entorhinal cortex, which receives and relays information to
+
+and from the neocortex and hippocampus, consists of between 7 and 8 layers
+
+(Braak & Braak, 1992; Ramon y Cajal, 1902/1955; Rose, 1926). This seven
+
+to eight layer organization may well partly explain the unique importance of
+
+the entorhinal cortex in complex cognitive processing, for it receives input
+
+from  the  hippocampus  and  all  neocortical  association  areas  information
+
+which it apparently integrates, and in conjunction with the amygdala and in
+
+particular the hippocampus (which it partly coats), stores in memory (Gloor,
+
+1997;  Squire,  1992).  The  entrohinal  cortex,  which  partly  surrounds  the
+
+hippocampus and is interconnected with the amygdala, appears to be a supra-
+
+modal memory center.
+
+THE LIMBIC AND CORPUS STRIATUM
+
+    Within 50 million years of the close of the Cambrian "Explosion" (500
+
+million  years  ago),  cartilaginous  sharks  began  to  swim  and  patrol  theprimeval seas. Sharks are considered a "living fossil" and dissection of the
+
+shark brain reveals a brainstem, diencephalon, and a forebrain consisting of a
+
+dorsal/ventral amygdala-striatal mass with a primordial hippocampal-striatum
+
+centered  at  its  dorsal  core.  Together  the  amygdala,  striatum,  and
+
+hippocampus, formed the forebrain, the dorsal pallium (Gloor, 1997; Haberly
+
+1990; Herrick, 1925; Stephan & Andy, 1977; Ulinksi, 1990).
+
+    Although the recipient of visual input, transferred from the brainstem, the
+
+primordial  amydala-striatal-hippocampus,  was  dominated  by  the  olfactory
+
+lobe--a dominance which was exaggerated further when animals left the sea
+
+and began to wonder upon dry shores. With the evolution of amphibians and
+
+reptiles,  the  forebrain  expanded  and  the  amygdala,  striatum,  and
+
+hippocampus  began  to  differentiate,  and  were  pushed  apart  (Gloor,  1997;
+
+Haberly 1990; Herrick, 1925; Nieuwenhuys & Meek, 1990ab; Smeet, 1990;
+
+Stephan & Andy, 1977; Ulinksi, 1990). Nevertheless, the amygdala remains
+
+intimately associated with the striatum, which in turn responds to amygdala
+
+concerns.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  In the human brain, the striatum is located anterior to the thalamus and is
+
+a  major  component  of  the  basal  ganglia.  Considered  broadly,  the  basal
+
+ganglia consists of the subthalamic nucleus, portions of the midbrain, the
+
+limbic  striatum,  the  amygdala,  and  the  globus  pallidus  and  putamen  (the
+
+lenticular nucleus) and the caudate nucleus (Alexander & Crutcher, 1990;
+
+Crutcher & Alexander, 1990; Mink & Thach, 1991; Parent & Hazrati 1995).
+
+The putamen and the caudate are referred to as the corpus striatum, with the
+
+head of the caudate extending deep into the frontal lobe and its tail mergingwith the amygdala. Beneath the corpus striatum is the limbic striatum (or
+
+extended amygdala) which is comprised of the substantia innominata, the
+
+nucleus accumbens, and the olfactory tubercle.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The limbic and corpus striatum serve, in part, as the motor-component of
+
+the limbic system, and receive input directly from the amygdala. Hence, the
+
+striatum  reacts  to  certain  types  of  visual  and  olfactory  stimuli  which  are
+
+deemed  by  the  amygdala  to  be  emotionally  significant,  with  gross  motor
+
+movements, e.g., kicking, hitting, running, flailing.
+
+  Because  of  its  importance  in  movement,  if  the  corpus  striatum  wereinjured,  the  patient  may  become  stiff  and  rigid,  such  as  occurs  with
+
+Parkinson's disease, or they may involuntarily twitch, jerk, kick, and flail
+
+about with their limbs--depending on which aspects of the basal ganglia are
+
+injured (see chapter 16). Moreover, patients with abnormalities and reduced
+
+functional activity of the striatum may develop obsessive compulsive motor
+
+movements, often involving the hands, or increasingly lose inhibitory control
+
+over motor functioning such that may display signs of mania. In fact, children
+
+with hyperactivity and impulse control disorder, have been shown to display
+
+reduced  striatal  activity,  which  is  increased  when  treated  with  Ritalin.
+
+However, in "normal" children, Ritalin decreases striatal activity.
+
+    Although  the  dorsal  and  ventral  aspects  of  the  striatum  play  roles  in
+
+motor functioning, the limbic striatum is more concerned with emotion and
+
+memory. Hence, damage to this structure is associated with loss of memory
+
+including Alzheimer's disease.
+
+The Limbic System Vs Neocortex: Consciousness
+
+  The contents of consciousness, that is, the contents of the neocortex, are
+
+initially  derived  from  the  limbic  system  and  thalamus,  which  provide
+
+sensory, perceptual, and emotional input. Structures such as the amygdala
+
+and thalamus project to almost every region of the neocortex, and if denied
+
+limbic  and  thalamic  input,  consciousness  would  be  extinguished  and  the
+
+ability  to  become  conscious  of  the  external  or  internal  world  would  be
+
+denied.
+
+    However,  although  "conscious"  the  limbic  system  does  not  appear
+
+capable  of  selfconsciousness  or  self-reflection.  The  brain  of  the  shark,
+
+amphibian, and reptile, consist of limbic and brainstem tissue, and there is no
+
+evidence of self-consciousness, or thinking or thought among these creatures.
+
+Rather,  they  reflexively  react.  Of  course,  the  limbic  system  has  also
+
+continued to evolve with the evolution of mammals and then humans--and in
+
+part, the neocortex is the consequence of the evolutionary expansion.
+
+  Hence, whereas the neocortical aspects of the conscious human mind are
+
+concerned with the more rational and linguistic aspects of experience, the
+
+limbic aspects of the human mind are associated with the emotional and even
+
+the hallucinatory aspects of experience, including those features associated
+
+with  what  has  been  described  as  the  primary  process.  By  contrast,  the
+
+brainstem, controlling waking and sleeping, as well as the rhythmic aspects
+
+of vegetative functioning, could be identified with the most primitive regions
+
+of the psyche as its functional activity is for the most part, completely beyondconscious scrutiny or control.
+
+THE NEOCORTEX (Gray Matter)
+
+  Perception,  cognition,  fine-motor  expression,  and  computational
+
+processing, is made possible by neurons, the majority of which are pyramidal
+
+neurons. Most pyramidal neurons are located in the neocortical mantle of the
+
+lobes of the brain, which gives this outercoating its grayish appearance. Over
+
+90% of the gray matter is located in the neocortex. The neocortex ("new
+
+cortex") likely first began to evolve between 100 million to 150 million years
+
+ago (MacLean, 1990).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Neocortex has also been referred to as isocortex and is organized into
+
+vertical columns and horizontal layers (Mountcastle, 1997). Each layer and
+
+each column contains cells which perform specific functions (Ferster et al.,
+
+1996;  Hubel  &  Wiesel,  1968,  1974;  Mountcastle,  1997;  Peters  &  Jones,
+
+1984) and which receive or transmit information to or from adjacent cells or
+
+distant regions of the brain (Kaas & Krubitzer 1991; Peters & Jones, 1984;
+
+Sereno et al. 1995). For example, each column contains neurons that may
+
+respond to the same frequency of sound, or to tactile input to the thumb, or to
+
+a visual input on the same region of the retina (Hubel & Wiesel, 1968, 1974;
+
+Mountcastle, 1997), depending on if the column is located in the temporal,
+
+parietal, or occipital lobe.  Those neurons which project to neurons in the next column or to those
+
+neurons in an upper or lower layer, are referred to as local circuit neurons.
+
+Those which project from the neocortex to the brainstem, or from one half of
+
+the brain to the other, are referred to as long distance neurons (Peters &
+
+Jones, 1984).
+
+Neocortical Layers
+
+    Classically, the neocortex is said to consist of six to seven layers when in
+
+fact  it  consists  of  numerous  layers  which  vary  depending  on  brain  area
+
+(Braak & Braak, 1992; Peters & Jones, 1984; Ramon y Cajal, 1902/1955;
+
+Rose, 1926). For example, the deepest layer, neocortical layer VI, consists of
+
+two distinct layers (VIa and VIb). In the occipital lobe, three additional layers
+
+(i.e.  sublayers)  can  be  distinguished  within  layer  IV  (which  also  receives
+
+considerable thalamic input and is very thick). By contrast, within the motor
+
+areas  of  the  frontal  lobe,  layer  IV  is  exceedingly  thin  (as  there  is
+
+comparatively minimal thalamic input), whereas layer V is exceedingly thick,It is layer V of the frontal motor areas which contribute the bulk of axons that
+
+form the descending corticbulbar, corticopontine, and corticorubral brainstem
+
+pathways which establish contact with cranial nerve and sensory and spinal
+
+motor  neurons  (Brodal,  1981;  Kuypers  &  CatsmanBerrevoets,  1984).
+
+Likewise in the temporal neocortex layer V is relatively thick as are layers I
+
+and  VI  (since  much  of  the  temporal  lobe  is  association  and  assimilation
+
+cortex). As noted, the entorhinal cortex, the "gate way to the hippocampus"
+
+and which is located along the medial surface of the temporal lobe, consists
+
+of between 7 and 8 layers (Braak & Braak, 1992; Ramon y Cajal, 1902/1955;
+
+Rose, 1926).
+
+  Hence, the thickness, layering, and composition of the human neocortex
+
+varies from lobe to lobe and actually consists of from 7 to 9 (or more) layers
+
+rather than 6. For our purposes (and throughout this book) we will described
+
+the neocortex as having 7 layers.
+
+    Specifically, layer I is referred to as the Molecular Layer and consists of
+
+Golgi II cells and horizonal cells. Layer I receives innumerable dendrites
+
+from  local  circuit  neurons  located  in  the  lower  layers.  Layer  I,  however,
+
+actually contains few neurons and is mostly made up of tangentially running
+
+axons and horizontally running birfucating apical dendrites received from the
+
+pyramidal  cells  of  the  lower  layers  (Peters  &  Jones,  1984).  Layer  II  is
+
+referred to as the External Granular Layer, and consists of densely packed
+
+small pyramidal, stellate, and granule cells. Most of the neurons in layer II
+
+are  local  circuit  neurons  which  project  to  adjacent  columns  and  adjacent
+
+layers.  Layer III is the Pyramidal Layer and consists of medium pyramidal cells
+
+which project axons to distant areas of the neocortex. Hence, the neurons of
+
+layer III can be considered long distance neurons.
+
+  Layer  IV,  the  Internal  Granular  Layer,  has  a  granular  appearance  and
+
+consists  of  small  pyramidal,  granule,  and  stellate  (starshaped)  cells  and
+
+receives massive axonal projections from the thalamus. These neurons are
+
+predominantly local circuit, and project to adjacent columns and layers. That
+
+is,  upon  receiving  and  analyzing  thalamic  input,  the  neurons  of  layer  IV
+
+transfer  this  data  to  adjacent  neurons  for  additional  analysis.  Because  the
+
+primary,  secondary  and  association  sensory  areas  receive  considerable
+
+thalamic input, layer IV is relatively thick--except in the motor cortex.
+
+  Layer V is the Ganglionic Layer and consists of large and medium size
+
+pyramidal cells, including, in primary motor cortex (Brodmann's area 4) the
+
+giant  cells  of  Betz.  The  pyramidal  neurons  of  layer  V  are  long  distanceneurons, and give rise to descending axons which form the corticospinal,
+
+pyramidal,  corticobulbar,  corticopontine,  and  corticorubral  brainstem
+
+pathways which establish contact with cranial nerve and sensory and spinal
+
+motor neurons (Brodal, 1981; Kuypers & Catsman-Berrevoets, 1984). It is
+
+these "pyramidal" and cortico-spinal neurons which make purposeful, fine
+
+motor  movement  possible.  Approximately  31%  of  the  corticospinal  tract
+
+arises from the pyramidal cells located in the primary motor areas 4, with the
+
+remainder  arising  from  the  frontal  motor  associations  areas  6,  8,  and  the
+
+primary somesthetic areas 3,1,2, with a scattering of fibers being contributed
+
+by the occipital and temporal lobe, as well as limbic system structures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Layer VIa is the Multiform Layer and contains pyramidal, fusiform, and
+
+spindle shaped cells, whereas Layer VIb consists of predominantly of spindle
+
+shaped  cells.  These  are  predominantly  local  circuit  neurons,  and  receive
+
+considerable input from the brainstem.
+
+The  Cytoarchitextural  Neuronal,  &  Chemical  Organization  of  the
+
+Neocortex
+
+    Korbinian  Brodmann  detailed  the  regional  variation  in  the
+
+cytoarchitectural  organization  of  the  cortex,  and  conducted  detailed
+
+comparative studies of numerous species, each of which displays common as
+
+well as varying patterns of cytoarchitexture and gyral folding. Based on these
+
+cytoarchitextural  differences  and  commonalities,  Brodmann  divided  thecortex into distinct regions and created cytoarchitextural maps of the brains
+
+of a variety of species, including humans. For examples, Brodmann's area 17
+
+is synonymous with the primary visual cortex, whereas Brodmann's areas
+
+3,1,2, denote and identify the primary somesthetic receiving areas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    However, although these area differ in regard to organization, what they
+
+share in common is a preponderance of pyramidal cells. As noted, pyramidal
+
+cells are also the largest and are more numerous than any other neocortical
+
+neuron (Peters & Jones, 1984). Pyramidal neurons account for up to 3/4 of all
+
+neocortical cells. Pyramidal neurons also serve as both local-circuit and long-
+
+distance neurons and generally receive two types of synaptic contacts referred
+
+to  as  Gray  types  I  and  II  which  differ  in  synaptic  morphology  and
+
+(respectively)  excitatory  vs  inhibitory  influences  (Peters  &  Jones,  1984).
+
+However,  almost  all  pyramidal  cell  are  excitatory  and  use  glutamate  and
+
+aspartic acid as transmitters (Tsmoto, 1990).  Pyramidal cells can also be classified as Golgi I and II cells. However, of
+
+all neocortical neurons, only 10% are Golgi type I neurons, the main source
+
+of long-distance (excitatory) axons, the majority are interneurons, i.e. local
+
+circuit  neurons  which  in  turn  provide  almost  90%  of  cortical  axons  and
+
+dendrites.  Approximately  95%  of  Golgi  type  I  long  distance  axons
+
+interconnect distant regions within the same hemisphere and only about 5%
+
+cross the corpus callosum, the fiber pathways which link the right and left
+
+hemishere (Peters & Jones, 1984).
+
+
+
+
+
+
+    Non-pyramidal cells also function as local-circuit (inter-) neurons, and
+
+connect  adjacent  cells,  layers,  and  cell  columns,  and  display  the  greatest
+
+degree of morphological diversity. These include stellate cells, bipolar cells,
+
+chandelier cells, and basket cells. Many of these cells are inhibitory and may
+
+use GABA as a neurotransmitter, though the majority in fact appear to be
+
+excitory  and  use  glutamate  (Peters  &  Jones,  1984).  Presumably,
+
+nonpyramidal,  local  circuit  (interneurons)  act  to  fine  tune  information
+
+processing via inhibitory filtering and selective excitatory transmission. They
+
+also serve to integrate and assimilate information received in adjacent regions
+
+of the neocortex.  In  addition  to  glutmate  and  GABA,  neocortical  neurons  contain  and
+
+respond to peptides, including substance P, corticotropin releasing factor, and
+
+opiates. The peptide containing neurons tend to congregate in layers II, III,
+
+and IV (Jones & Hendry, 1986).
+
+    Information processing throughout the brain is also dependent on glia and
+
+non-neuroglia elements. Glia serve a supportive and nurturing role, and may
+
+also act to store information. During embryonic brain development, radial
+
+glia fibers act to guide migrating neurons to the neocortex, and some glia also
+
+form  myeline  sheaths  which  surround  axons,  thus  serving  as  a  form  of
+
+insulation which promotes information transmission.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Glia and non-neuroglia elements make up almost 70% of the volume of
+
+the neocortex. Of the remainder, 22% consists of axons and dendrites, with
+
+the body (soma) of the neuron comprising only 8% (Peters & Jones, 1984).THE CONSCIOUS AND UNCONSCIOUS (EMOTIONAL) MIND
+
+  The human cerebrum can be subdivided into frontal, temporal, parietal,
+
+and occipital lobes, as well as the limbic system, striatum and diencephalon.
+
+The brainstem and cerebellum are not considered part of the cerebrum, but
+
+instead comprise the "hind brain."
+
+  Neocortex & Consciousness The cerebrum constitutes nearly 90% of the
+
+volume of the brain, and is 50 times larger than the brainstem and 8 times
+
+larger  than  the  cerebellum  (Filipek,  et  al.,  1994).  More  than  60%  of  the
+
+cerebrum consists of gray matter, and less than 40% consists of white matter.
+
+The amygdala, basal ganglia, diencephalon and hippocampus, make up less
+
+than 3% of the central gray, whereas more than 90% of the gray matter is
+
+found within the neocortex, which reflects the dominant role the neocortex
+
+plays in virtually all fully-integrated functions of the CNS.
+
+The neocortex is clearly associated with what is classically considered the
+
+conscious  mind--a  consciousness  that  knows  it  is  conscious,  and  which
+
+includes the capacity to think and reason, to abstract and consciously reflect
+
+upon the self and the world, as well as the ability speak grammatically and
+
+read,  write,  compose,  and  recite  the  music  of  poetry.  Consciousness,
+
+however, is modular, with different regions of the neocortex engaging in both
+
+localized as well as parallel processing.
+
+  For example, as based on functional imaging, it has been demonstrated
+
+that language processing, and silent mental activities, such as thinking, or
+
+generating inner speech, activates the neocortex of the frontal lobes (Paulesu,
+
+et  al.,  1993;  Peterson  et  al.,  1988;  Demonet,  et  al.,  1994).  Reading  and
+
+language  processing  also  activates  the  neocortex  of the  temporal  lobes
+
+(Bookheimer, et al., 1995; Bottini, et al., 1994; Fletcher et al., 1995; Howard
+
+et  al.,  199;  Shaywitz,  et  al.,  1995;  Warburton,  et  al.,  1996)  and  the  left
+
+inferior parietal lobule (Bookheimer, et al., 1995; Price, 1997). Moreover,
+
+during language processing there is activity in the brainstem, the cerebellum,
+
+and various limbic structures, especially the mesocortical anterior cingulate
+
+gyrus.  When considered very broadly, it could be argued that the neocortex is
+
+associated with the conscious, rational mind, and conscious-awareness that
+
+we identify as distinctly human--a consciousness that knows it is conscious
+
+(Joseph, 1982, 1988a). By contrast, it has been argued (Joseph, 1992ab) that
+
+the limbic system represents that aspect of the mind classically referred to as
+
+the  "unconscious"  (Freud,  1900)  and  the  "collective  unconscious"  (Jung,
+
+1945). And just as it has been theorized that the unconscious continually
+
+supplies the conscious mind with all manner of impulses, imagery, and ideas
+
+(e.g. Freud, 1900), it is now apparent that the limbic system does likewise,
+
+and that those aspects of consciousness associated with the neocortex are
+
+often  driven  by  these  unconscious  limbic  mental  realms  and  associated
+
+impulses.
+
+THE FRONTAL, PARIETAL, TEMPORAL AND OCCIPITAL LOBES
+
+  The  rational,  logical,  linguistic,  and  self-reflective  aspects  of
+
+consciousness, therefore, are associated with the neocortical shroud which
+
+envelops the brain. Neocortical consciousness, however, also appears to be
+
+somewhat modular with the different lobes of the brain (and the right vs left
+
+hemisphere) subserving different aspects of consciousness and perceptual and
+
+personality functioning.  As is common knowledge, the six to seven layered neocortical shroud
+
+which  encompasses  and  envelopes  the  old  brain,  can  be  divided  into  the
+
+frontal lobes which comprise the anterior half of the human telencephalon,
+
+and  the  parietal,  occipital  and  temporal  lobes  which  are  located  in  the
+
+posterior half of the cerebrum, each of which contributes differently to the
+
+mosaic of mind including personality.
+
+THE FRONTAL LOBES
+
+  The frontal lobes has been referred to as the "senior executive" of the
+
+brain  and  personality  and  is  associated  with  goal  formation,  long  term
+
+planning skills, the ability to consider multiple alternatives and consequences
+
+simultaneously,  as  well  as  memory  search  and  retrieval.  Because  it  is
+
+interlocked  with  the  thalamus,  limbic  system,  brainstem,  and  the  parietal,
+
+occipital, and temporal lobes, the frontal lobes are provided multiple streams
+
+of input and are constantly informed as to the processing which takes place in
+
+other  regions  of  the  brain.  Moreover,  it  can  act  to  inhibit,  suppress,  or
+
+enhance  perceptual  and  information  processing,  including  learning  and
+
+memory  through  inhibitory  and  excitatory  influences  directed  to  the
+
+thalamus, brainstem, or the different lobes of the brain (Joseph, 1999a).  For example, the frontal lobes interact directly with the temporal lobe
+
+(which  contains  the  hippocampus  and  amygdala)  in  order  to  ensure  that
+
+certain  percepts  are  attended  to,  committed  to  memory,  and  later
+
+remembered.  As  demonstrated  through  functional  imaging,  it  has  been
+
+determined that the ability to remember a visual or a verbal experience, is
+
+directly correlated with activation of the right or left frontal lobe and the
+
+temporal lobes during that experience (Brewer et al., 1998; Wagner et al.,
+
+1998). According to Wagner et al., (1998, p. 1190), "what makes a verbal
+
+experience memorable partially depends on the extent to which left prefrontal
+
+and medial temporal regions are engaged during the experience." The degree
+
+of this activity, therefore, can be used to predict which experiences will be
+
+"later remembered well, remembered less well, or forgotten" (Brewer et al.,
+
+1998, p. 1185). Thus the frontal lobes appear to be acting directly on and in
+
+concert  with  the  amygdala  and  hippocampus  in  regarding  to  memory
+
+functioning.
+
+  In addition to influencing arousal, memory, and perceptual actiivty, the
+
+right and left frontal motor areas control fine motor activity, including the
+
+emotional  and  non-emotional  aspects  of  expressive  speech  (Joseph,  1982,
+
+1988a, 1999a,e; Ross, 1993). Both the right and left frontal lobes in fact
+
+become functionally active during language tasks (Peterson et al., 1988), and
+
+receive auditory-linguistic input that has been organized and transmitted from
+
+the  posterior  speech  zones,  the  inferior  parietal  lobule,  and  in  the  left
+
+hemisphere, Wernicke's area in the superior temporal lobe. Damage to the left
+
+frontal lobe can thus result in expressive aphasia, whereas right frontal injury
+
+may disturb the melody and prosodic aspects of speech.
+
+  Because the frontal lobes serve the "senior executive" of the brain andpersonality,  if  the  frontal  lobes  are  injured,  all  aspects  of  personality
+
+functioning may become severely abnormal (Fuster, 1997; Joseph, 1986a,
+
+1988a,  1999a;  Stuss  &  Benson,  1984).  Patients  may  become  lethargic,
+
+apathetic,  or  conversely,  disinhibited,  impulsive,  aggressively  sexual,  and
+
+display what has been classically referred to as the frontal lobe personality.
+
+  One individual who was described as quite gentle and sensitive prior to
+
+his  injury,  subsequently  raped  and  brutalized  several  women.  Similar
+
+behavior  has  been  described  following  frontal  lobotomy.  As  stated  by
+
+Freeman and Watts (1943, p. 805): "Sometimes the wife has to put up with
+
+some exaggerated attention on the part of her husband, even at inconvenient
+
+times and under circumstances which she may find embarrassing. Refusal,
+
+however, has led to one savage beating that we know of, and to an additional
+
+separation or two" (p. 805). Curiously, in these situations Freeman and Watts
+
+(1943, p. 805) have suggested that "spirited physical self-defense is probably
+
+the best strategy of the woman. Her husband may have regressed to the cave-
+
+man level, and she owes it to him to be responsive at the cave-women level.
+
+It  may  not  be  agreeable  at  first,  but  she  will  soon  find  it  exhilarating  if
+
+unconventional."
+
+    However, since the frontal lobes serve so many functions, patients may
+
+display different symptoms depending on if the lesion impacts the right, left,
+
+orbital, or medial aspects of the frontal lobes (Joseph, 1999a). Oatients may
+
+display  severe  apathy,  depression,  schizophrenia  or  aphasic  speech  (left
+
+frontal),  mania,  disinhibition,  and  confabulation  (right  frontal),  obsessive
+
+compulsions (orbital-striatal) or catatonia (medial frontal).  For  example,  a  soldier  who  received  a  gunshot  wound  that  passed
+
+completely through the frontal lobes, "layed in a catatonic-like stupor for two
+
+months,  always  upon  one  side  with  slightly  flexed  arms  and  legs,  never
+
+changing  his  uncomfortable  position;  if  he  were  rolled  into  some  other
+
+position, he would quickly get back into his former one. He did not obey
+
+commands, but if food and drink were given to him, he swallowed them
+
+naturally. He was incontinent, made no complaints, gazed steadily forward
+
+and showed no interest in anything. He could not be persuaded to talk, and
+
+then suddenly he would answer quite correctly about his personal affairs and
+
+go back to mutism. From time to time he showed a peculiar explosive laugh,
+
+especially when his untidiness was mentioned". Incredibly, the patient "was
+
+eventually returned to active duty" (Freeman & Watts 1942, pp 46-47).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The motor areas of frontal lobes controls body movement and fine motor
+
+activity. A motor map of the body is maintained within the neocortex of the
+
+frontal lobes, and if damaged, the individual will become paralyzed on one
+
+half of the body; the extent of the paralysis depending on the extent and depth
+
+of the damage.
+
+  The frontal lobes control muscular activity and movement through the
+
+pyramidal tract (also known as the cortico-spinal tract). Pyramidal neurons
+
+project to the motor centers in the striatum, thalamus, brainstem, and the
+
+spinal cord. In this way, gross and fine motor movement can be controlled bythe senior executive of the brain and personality.
+
+THE TEMPORAL LOBES
+
+    Whereas the frontal lobe act to regulate personality and emotion, such as
+
+through  inhibitory  projections  it  maintains  with  the  limbic  system,  the
+
+temporal  lobes  are  the  source  of  one's  personal  subjective  and  emotional
+
+identity (Gloor, 1997) and appears to be the main storage site for spatial,
+
+verbal (Brewer et al., 1998; Squire, 1992; Wagner et al., 1998), personal and
+
+even  sexual  memories  (e.g.,  Gloor,  1997;  Halgren,  1992).  The  temporal
+
+lobes, in fact, contain the core structures of the limbic system, the amygdala
+
+and hippocampus, and of all brain regions, only stimulation or activation of
+
+the  temporal  lobe  or  the  underlying  limbic  structures,  gives  rise  to
+
+personalized,  subjective,  emotional,  and  sexual  experiences  (Gloor,  1997;
+
+Halgren, 1992; Penfield & Perot, 1963). Stimulation of the temporal lobe can
+
+give  rise  to  profound  auditory  or  visual  hallucinations,  including  the
+
+sensation or having left the body, as well as spiritual and religious feelings
+
+such as having the "truth" revealed and of receiving knowledge regarding the
+
+meaning of life and death.
+
+  In addition to memory and personal and spiritual identity, the temporal
+
+lobe are responsive to complex auditory and visual stimuli (Binder et al.,
+
+1994; Gross & Graziano 1995; Nakamura et al. 1994; Nelken et al., 1999;
+
+Nishimura  et  al.,  1999;  Price,  1997;  Rolls  1992;  Tovee  et  al.  1994),  and
+
+subserve  the  ability  to  comprehend  complex  and  emotional  speech.
+
+Functional  imaging  studies  have  repeatedly  demonstrated  activity  in  the
+
+superior  and  middle  temporal  lobe  when  engaged  in  language  tasks
+
+(Bookheimer, et al., 1995; Bottini, et al., 1994; Fletcher et al., 1995; Howard
+
+et al., 1996; Shaywitz, et al., 1995; Warburton, et al., 1996). The temporal
+
+lobes, however, are functionally lateralized. Specifically, whereas the right
+
+temporal lobe subserves the ability to perceive and comprehend emotional,
+
+animal, environmental, and musical sounds (Joseph, 1988a; Parsons & Fox,
+
+1997;  Ross,  1993)  the  left  temporal  lobe,  including  Wernicke's  area  is
+
+directly responsible for the capacity to comprehend complex human speech.
+
+The left superior temporal lobe, i.e. the planum temporal, which contains the
+
+auditory area, is in fact significantly larger than its counterpart on the right.
+
+  It has been determined, as demonstrated through lesion and physiological
+
+studies, that Wernicke's area (in conjunction with the inferior parietal lobule)
+
+acts  to  organize  and  separate  incoming  sounds  into  a  temporal  and
+
+interrelated series so as to extract linguistic meaning via the perception of theresulting sequences. When damaged a spoken sentence such as the "big black
+
+dog" might be perceived as "the klabgigdod." Patients develop what has been
+
+referred to as Wernicke's receptive aphasia. Presumably this disorder is due
+
+in part to an impaired capacity to discern the individual units of speech and
+
+their  temporal  order.  That  is,  sounds  must  be  separated  into  discrete
+
+interrelated linear units or they will be perceived as a meaningless blur.
+
+  Patients with damage to Wernicke's area are nevertheless, still capable of
+
+talking due to the preservation of Broca's area which continues to receive
+
+lingusitic-related ideational material via the arcuate fasciculus pathway which
+
+originate in the temporal lobe and passes through the inferior parietal lobule--
+
+a structure which acts as a phonological storehouse that becomes activated
+
+during short-term verbal memory and word retrieval (Demonet, et al., 1994;
+
+Paulesu,  et  al.,  1993;  Price,  1997).  However,  because  Wernicke's  area  is
+
+injured,  speech  output  also  becomes  abnormal,  a  condition  referred  to  as
+
+fluent aphasia. Broca's area keeps talking, but what is says is nonsense.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The speech output of a patient with "fluent aphasia" in many respects
+
+resembles  the  acutely  psychotic  speech  of  patients  suffering  from  certain
+
+subtypes of schizophrenia. In fact, certain subtypes of schizophrenia have
+
+been repeatedly associated with abnormalities and irritative lesion involving
+
+the left temporal lobe (DeLisi et al. 1991; Dauphinais et al. 1990; Flor-Henry
+
+1983; Perez et al. 1985; Rossi et al. 1990, 1991; Sherwin 1981). Conversely,
+
+given the role of the left temporal lobe in language, patients diagnosed with
+
+schizophrenia and who show signs of left temporal lobe dysfunction, alsotend  to  demonstrate  aphasic  abnormalities  in  their  thought  and  speech
+
+(Chaika,  1982;  Flor-Henry,  1983;  Hoffman,  1986;  Hoffman,  Stopek  &
+
+Andreasen, 1986; Rutter, 1979).
+
+  The right temporal lobe also participates in language--as demonstrated
+
+through functional imaging (Bottini et al., 1994; Price et al., 1996; Shaywitz,
+
+et  al.,  1995)--and  is  especially  responsive  to  sounds  conveying  emotion,
+
+melody, prosody, including those made by animals and those arising from the
+
+natural environment such as wind and rain (e.g. Fujii et al., 1990; Joseph,
+
+1982, 1988a; Ross, 1993; Schnider et al. 1994; Zatorre & Halpen, 1993). It is
+
+the right temporal lobe which enables an individual to determine if someone
+
+is speaking sincerely, or with anger, happiness, and so on, whereas the left
+
+temporal lobe listens to the words being said.
+
+  Hence, if the right temporal lobe is severely injured, patients may suffer
+
+from a non-verbal social-emotional auditory agnosia (Joseph, 1982, 1988a,
+
+Ross,  1993;  Schnider  et  al.  1994),  also  referred  to  as  phonagnosia  (van
+
+Lancker,  et  al.,  1988),  in  which  case  they  can  no  longer  perceive  social-
+
+emotional  vocal  nuances  and  may  misperceive  what  others  are  saying  or
+
+implying, and may be no longer capable of hearing "sincerity" or mirth or
+
+even "love" in which case they may become paranoid. Hence, although the
+
+ability to comprehend the non-emotional, denotative aspects of language is
+
+preserved (Fujii et al., 1990), patients with right superior temporal injuries
+
+may lose the capability to correctly discern environmental sounds (e.g. birds
+
+singing, doors closing, keys jangling), emotionalprosodic speech, as well as
+
+music (Nielsen, 1946; Ross, 1993; Samson & Zattore, 1988; Schnider et al.
+
+1994; Spreen et al. 1965; Zatorre & Hapern, 1993).  The loss of the ability to appreciate music is due to the right temporal
+
+lobe being dominant for the perception of melodic and musical stimuli. For
+
+example, while listening to or performing scales, activity increases in the left
+
+temporal lobe, whereas when listening to Bach (the third movement of Bach's
+
+Italian concerto), the right temporal lobe becomes highly active (Parsons &
+
+Fox,  1997).  Likewise,  Evers  and  colleagues  (1999)  in  evaluating  cerebral
+
+blood  velocity,  found  a  right  hemisphere  increase  in  blood  flow  when
+
+listening to harmony (but not rhythm), among non-musicians in general, and
+
+especially  among  females.  In  fact,  right  temporal  lobe  activity  increased
+
+when pianists were playing from memory Parsons & Fox, 1997). Conversely,
+
+right temporal injuries can disrupt the ability to remember musical tunes or to
+
+create musical imagery (Zatorre & Halpen, 1993).
+
+    Unfortunately, individuals with right temporal injuries not only lose the
+
+ability to appreciate music, but may misperceive and fail to comprehend a
+
+variety of paralinguistic social-emotional messages. This includes difficulty
+
+correctly identifying the voices of loved ones or friends, or discerning what
+
+others may be implying, or in appreciating emotional and contextual cues,
+
+including variables such as sincerity or mirthful intonation. In consequence, a
+
+patient may complain that his wife no longer loves him, and that he knows
+
+this from the sound of her voice. Or, because of difficulty discerning nuances
+
+such as humor and friendliness the patient may even become paranoid or
+
+delusional as they realize that friends and loved ones sound different, and
+
+may entertain delusions that they've been replaced by imposters.  The  temporal  lobes,  therefore,  are  crucially  important  in  memory,
+
+language, social emotional relations, maintaining personal identity and the
+
+ability to comprehend speech. If injured, patients may suffer memory loss,
+
+and/or  language-related  ideational  activity  may  become  abnormal,  thus
+
+producing a formal thought disorder or delusions or paranoia, and personality
+
+functioning may become fractured and thus schizophrenic.
+
+THE PARIETAL LOBES
+
+  The parietal lobes maintain the body image and also consists of cells
+
+which are responsive to a variety of divergent stimuli, including movement,
+
+hand  position,  objects  within  grasping  distance,  audition,  eye  movement,
+
+pain,  heat,  cold,  as  well  as  complex  and  motivationally  significant  visual
+
+stimuli (Aoki et al., 1999; Cohen et al. 1994; Deibert et al., 1999; Dong et al.
+
+1994; Kaas, 1993; Lam, et al., 1999; Remy et al., 1999). The parietal lobes
+
+assimilate  this  information  in  order  to  coordinate  reaching  and  the
+
+movements of the body in space, particularly the hand. The parietal lobe is in
+
+fact considered a "lobe of the hand." Hence, because of its importance in
+
+controlling hand movement, one consequence of parietal lobe injury may be
+
+apraxia--an  inability  to  perform  coordinated  step-wise  and  sequential
+
+movements of the hands.  Patients  with  apraxia  demonstrate  gross  inaccuracies  as  well  as
+
+clumsiness when making reaching movements or when attempting to pick up
+
+small objects in visual space. They may also be impaired in their ability to
+
+acquire or perform tasks involving sequential changes in the hand or upper
+
+musculature including well learned, skilled, and even stereotyped motor tasks
+
+such as lighting a cigarette, using a key, or making a cup of coffee. That is,
+
+they may perform the various steps in the wrong order; e.g., pretending to stir
+
+the coffee, then pretending to pour it.
+
+  In  addition,  patients  may  no  longer  be  able  to  perform  constructional
+
+tasks, such as drawing or copying or performing puzzles or block designs, a
+
+condition referred to as constructional apraxia. They may leave out parts,
+
+grossly distort the figure, or even fail to draw half the object--particularly
+
+with right parietal injuries.
+
+  Apraxic disorders are most common with injuries involving the inferior
+
+parietal lobule (IPL), a structure that engages in the motor programming ofhand movements, such as those involved in drawing, constructing, building,
+
+and  which  require  sequential  and  orderly  movements  (De  Renzi  and
+
+Lucchetti, 1988; Heilman et al., 1982; Kimura, 1993; Strub and Geschwind,
+
+1983). As noted above, the IPL (the angular and supramarginal gyrus) is also
+
+coextensive with Wernickes area and acts to assimilate auditory, visual, and
+
+tactile  impressions,  and  provide  names  for  these  associated  assimilation
+
+(which also makes reading and writing possible). Once this is accomplished,
+
+the IPL then injects this material, temporal sequential fashion, into the stream
+
+of language and thought all of which is transmitted to Broca's area and which
+
+is  then  expressed  as  grammatical  speech  (Joseph,  1982,  1986a,  1999e,f;
+
+Joseph et al., 1984).
+
+  This is not merely a hypothesis based on lesion studies, for as based on
+
+functional imaging, others have come to the same conclusion; i.e. the inferior
+
+parietal  lobule  acts  as  a  phonological  storehouse  that  becomes  activated
+
+during  short-term  memory  and  word  retrieval  (Demonet,  et  al.,  1994;
+
+Paulesu, et al., 1993; Price, 1997). For example, viewing words activates the
+
+left  supramarginal  gyrus  (Bookheimer,  et  al.,  1995;  Vandenberghe,  et  al.,
+
+1996; , Menard, et al., 1996; Price, 1997) which also becomes active when
+
+performing  syllable  judgements  (Price,  1997),  and  when  reading
+
+(Bookheimer, et al., 1995; Menard, et al., 1996; Price, et al., 1996). Injuries
+
+to the IPL, therefore, can result in word finding difficulty (anomia) as well as
+
+a loss of the ability to read or write.  The parietal lobes also subserve and maintain a unique aspect of one's
+
+personal identity, the body image (Joseph, 1986a, 1988a). The parietal lobe
+
+actually maintains multiple maps of the body (Kaas, 1993; Lin et al., 1994),
+
+and in this regard, it is responsible for the ability to remember and recognize
+
+the body as an extension of one's personal self-particularly the right parietal
+
+lobe which appears to maintain multiple maps of both halves of the body and
+
+a  bilateral  image  of  body-image  visual  space  (Joseph,  1986a,  1988a).
+
+Presumably, it is because the body image is maintained in the parietal lobe,
+
+that  individuals  who  have  suffered  amputations  continue  to  experience  a
+
+phantom  limb.  Although  the  body  part  has  been  eliminated,  the  neural
+
+representation for the body may remain intact. Because the parietal lobes
+
+maintain the body image, and as the entire body is multiply represented along
+
+the surface of the parietal lobes, massive injuries may result in a destruction
+
+of the body image. Memories of the body may be erased.
+
+  As noted, the right parietal lobe maintains a bilateral body image, the left
+
+parietal lobe appears to maintain a memory of only half the body (Joseph,1986a, 1988a). Inf the left parietal lobe is injured, the right parietal area may
+
+continue to monitor both halves of the body and both halves of visual space
+
+and the body image will remain intact. If the right parietal area is severely
+
+injured, the left half of the body image, and in fact all memories of the left
+
+half of the body and the left half of space, may be abolished; a condition
+
+referred to as unilateral neglect. Patients may dress or groom only the right
+
+half of their body, eat only off the right half of their plates, and fail to read
+
+the left half of sentences and words, and so on. The left parietal lobe, having
+
+a memory of only the right half of the body, is unable to recognize the left
+
+half of the body, and ignores it and denies its existence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Following a massive right parietal injury, and when confronted with their
+
+unused or immobile limbs patients may (at least initially) deny that it belongs
+
+to them and instead claim it must belong to the doctor or a patient in the next
+
+bed.  For  example,  Gerstmann  (1942)  describes  a  patient  with  left-sided
+
+hemiplegia who "did not realized and on being questioned denied, that she
+
+was paralyzed on the left side of the body, did not recognize her left limbs asher  own,  ignored  them  as  if  they  had  not  existed,  and  entertained
+
+confabulatory and delusional ideas in regard to her left extremities. She said
+
+another person was in bed with her, a little Negro girl, whose arm had slipped
+
+into the patient's sleeve" (p. 894). Another declared, (speaking of her left
+
+limbs), "That's an old man. He stays in bed all the time."
+
+With  right  parietal  injuries  coupled  with  unilateral  neglect,  patients  may
+
+develop a dislike for their left limbs, try to throw them away, become agitated
+
+when they are referred to, entertain persecutory delusions regarding them,
+
+and even complain of of strange people sleeping in their beds due to their
+
+experience of bumping into their left limbs during the night (Bisiach & Berti,
+
+1987; Critchley, 1953; Gerstmann, 1942). One patient complained that the
+
+person tried to push her out of the bed and then insisted that if it happened
+
+again she would sue the hospital. A female patient expressed not only anger
+
+but concern least her husband should find out; she was convinced it was a
+
+man in her bed.
+
+THE OCCIPITAL LOBES AND VISION
+
+  The  occipital  lobes  are  the  smallest  lobes  of  the  brain,  but  like  other
+
+tissues of the mind, they process information from a number of modalities
+
+and contain neurons which respond to vestibular, acoustic, visual, visceral,
+
+and somesthetic input (Beckers & Zeki 1994; Ferster, et al., 1996; Horen et
+
+al.,  1972;  Pigarev  1994;  Sereno  et  al.  1995;  Zeki.  1997).  Predominantly,
+
+however, the neocortex of the occipital lobes are the main receiving stations
+
+for visual stimuli transmitted from the retina to the thalamus (Barbur et al.,
+
+1993;  Ferster  et  al.,  1996).  Simple  and  complex  visual  and  central/foveal
+
+analysis is one of the main functions associated with the occipital lobe (Kaas
+
+& Krubitzer 1991; Sereno et al. 1995; Zeki, 1997).    Specifically  visual  information  is  shunted  from  the  lateral  geniculate
+
+nucleus (LGN) of the thalamus to the primary visual receiving areas, striate
+
+cortex, area 17. Area 17 is referred to as "striate cortex" due to the striped
+
+appearance of layer IV, which is also directly innervated by the LGN. Layer
+
+IV is divided into three sublayers, with the middle layer containing a rather
+
+thick band of cortex, the band of Baillarger/Gennari, which is visible to the
+
+naked eye.
+
+    Throughout the striate cortex neurons with similar receptive propertiesare stacked in columns, with all the neurons within one column responding,
+
+for example, to a certain visual orientation, and the cells in the next column to
+
+an orientation of a slightly different angle. Columns exist for color, location,
+
+movement, etc, with some columns responding to input from one eye, i.e.
+
+ocular (eye) dominance columns (Hubel & Wiesel, 1968, 1974). In general, a
+
+strict  topographical  relationship  is  maintained  throughout  the  visual
+
+projection system and the visual cortex. Within the visual cortex immediately
+
+adjacent groups of neurons respond to visual information from neighboring
+
+regions within the retina (Kaas & Krubitzer 1991).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Information received in the visual areas of the occipital lobe are then
+
+projected  dorsally  and  ventrally  to  a  variety  of  visual  association  areas,
+
+including the parietal and temporal lobes (Kaas & Krubitzer 1991; Nakamura
+
+et al. 1994; Sereno et al. 1995; Tovee et al. 1994). The dorsal stream of visual
+
+information  flows  to  and  is  assimilated  by  the  parietal  lobes  and  is
+
+incorporated  for  the  purposes  of  coordinating  body  and  arm  and  leg
+
+movements in visual space. The parietal (dorsal) visual stream, therefore is
+
+most sensitive to objects in the periphery and lower visual fields (Motter &
+
+Mountcastle, 1981; Previc 1990); i.e. where the hands, feet, and ground are
+
+more likely to be viewed, and which thus enables the parietal lobe to guide
+
+and observe the hands in motion.
+
+  The ventral visual stream flows from the occipital lobe to the inferior
+
+temporal lobe (ITL) where it is assimilated and also serves to activate feature
+
+detecting neurons which are sensitive to faces, objects, and other complexgeometric stimuli. ITL neurons are sensitive to color, contrast, size, shape,
+
+orientation and are involved in the perception of three dimensional objects
+
+including specific shapes and forms including the human face (Eskander, et
+
+al. 1992; Gross & Graziano 1995; Gross, et al. 1972; Nakamura et al. 1994;
+
+Rolls, 1992; Sergent, et al.1990). In consequence, if injured, patients may
+
+suffer from an inability to recognize the faces of friends, loved ones, or pets
+
+(Braun  et  al.  1994;  DeRenzi,  1986;  Hanley  et  al.  1990;  Hecaen  &
+
+Angelergues, 1962; Landis et al., 1986; Levine, 1978); a condition referred to
+
+as prosopagnosia. Some patients may in fact be unable to recognize their own
+
+face in the mirror.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The  ventral  occipital/temporal  and  the  dorsal  occipital/parietal  visual
+
+areas also interact. For example, the ventral stream tends to focus on objects,
+
+faces, and so on, whereas the dorsal stream focuses on the hands in visual
+
+space. By interacting, the hands (parietal lobes) can be directed at specific
+
+objects  identified  and  targeted  by  the  temporal  lobes,  thus  making
+
+coordinated hand-eye coordination possible.
+
+THE PRIMARY, SECONDARY AND ASSOCIATION AREAS
+
+  The mosaic which can loosely be defined as consciousness, consists of
+
+multiple  and  parallel  streams  of  information  which  are  processedhierarchically,  horizontally,  vertically,  and  in  modular  fashion,  with  the
+
+brainstem, cerebellum, diencephalon, striatum, limbic system, and neocortex
+
+providing their own unique contributions. Conscious processing within the
+
+neocortex also occurs hierarchically, vertically, horizontally, as well as in
+
+parallel, even within the separate lobes of the brain.
+
+  For  example,  in  addition  to  their  layered  and  columnar  organization
+
+(Mountcastle, 1997), each of the four lobes of the brain consists of multiple
+
+cellular  cytoarchitectonic  subdivisions  which  perform  unique  and/or
+
+overlapping  functions.  For  example,  each  lobe  can  be  subdivided  into
+
+primary,  secondary,  association,  and  assimilation  areas.  In  general,
+
+information  processing  in  the  sensory  receiving  areas  of  the  parietal,
+
+temporal, and occipital lobes begins in the primary receiving area and then
+
+flows to the secondary receiving area and then to the association and multi-
+
+modal assimilation areas (Jones & Powell, 1970; Pandya & Yeterian, 1985).
+
+However, since the various subdivisions of the thalamus also project to the
+
+association areas, these tissues of the mind may receive specific types of
+
+visual, or auditory, or somesthetic input in advance of the primary areas (e.g.
+
+Zeki, 1997).
+
+  In general, however, the flow is from primary to secondary to association
+
+area. For example, somatosensory information is first transmitted from the
+
+thalamus  to  the  primary  receiving  areas  of  the  parietal  lobe  (Brodmann's
+
+cytoarchitectonic  areas  3,2,1).  Here  the  individual  sensory  elements  are
+
+analyzed  and  localized,  e.g.,  cold,  wet,  hard,  small,  cubicle,  palm.  These
+
+sensory impressions are then shunted to the secondary areas (Brodmann's
+
+area 5) where these impressions may be combined, e.g. an ice cube held in
+
+the  hand.  These  association  areas  are  then  transferred  to  the  association-
+
+assimilation  areas  (Brodmann's  areas  7,  39,  40),  i.e.  the  inferior  parietal
+
+lobule where they may then be visualized and even named.
+
+As per the motor areas, the opposite sequence of events takes places, with
+
+information flow beginning in the supplementary motor areas (SMA) prior to
+
+movement,  and  prior  to  activation  of  the  secondary-association  areas--
+
+cytoarchitectonic  areas  8,6  (Alexander  &  Crutcher,  1990;  Crutcher  &
+
+Alexander, 1990). The SMA may well initiate movements as this part of the
+
+brain has also been associated with what has been described as the "will."
+
+  The secondary motor areas also become activated prior to movement and
+
+precedes cellular activation of the primary region (Alexander & Crutcher,
+
+1990; Crutcher & Alexander, 1990; Weinrich et al. 1984). The premotor areaappears  to  program  various  gross  and  fine  motor  activities,  and  becomes
+
+highly  active  during  the  learning  of  new  motor  programs  (Porter  1990;
+
+Roland et al. 1981).
+
+    Depending  on  the  task,  the  primary  motor  areas  may  show  low  level
+
+activity prior to movement, but then becomes highly active during movement
+
+(Passingham, 1999)--a reflection of the fact that it supplies at least a third of
+
+the  axonal  trunk  which  makes  up  the  corticospinal  tract  and  whose  cells
+
+maintain multiple musculature connections (via the spinal cord), as well as a
+
+one to one correspondence with specific muscles. In fact, direct electrical
+
+stimulation of the frontal primary motor cortex can induce twitching of the
+
+lips, flexion or extension of a single finger joint, protrusion of the tongue or
+
+elevation of the palate (Penfield & Boldrey, 1937; Penfield & Jasper, 1954;
+
+Penfield & Rasmussen, 1950; Rothwell et al. 1987), even though patients
+
+never  claim  to  have  willed  these  movements.  Again,  however,  like  the
+
+sensory  areas,  different  motor  subareas  may  become  activated
+
+simultaneously, including the primary motor area which may become aroused
+
+prior to movement, only to increase in activity during specific movements
+
+(Passingham, 1993).    However,  the  motor  areas  also  interact  with  the  sensory  areas  in  the
+
+parietal lobe. In this way, motor movement can be coordinated with sensory
+
+impressions arising from the skin, joints, muscles, and body.
+
+  Incoming and outgoing signals, therefore, are processed sequentially and
+
+in parallel. Beginning in the primary receiving areas these signals are relayed
+
+via a variety of separate branches to the secondary receiving areas and to
+
+association areas further downstream which are also simultaneously receiving
+
+thalamic input, processing this data, and then relaying this information back
+
+to the primary areas as well as laterally to other association areas (Kaas,
+
+1993; Panya & Yeterian, 1985; Zeki, 1997) and back to the thalamus and to
+
+the frontal lobes. A similar stepwise and parallel process occurs; albeit in
+
+reverse, within the motor areas. That is, the primary motor areas in the frontal
+
+lobe may also become active prior to movements, but then increase their
+
+activity when the movement is actually performed (Passingham, 1997).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Hence,  these  divergent  cytoarchitectonic  areas  do  not  initially  act  in
+
+isolation as multiple areas in diverse regions of the brain become activated
+
+simultaneously and interact in regard to perceptual and motor functioning.
+
+That  is,  functions  are  localized  as  well  as  distributed  throughout  the
+
+neuroaxis  with  different  regions  making  unique  and  overlappingcontributions to the mosaic of the mind.
+
+THE  RIGHT  AND  LEFT  HEMISPHERE:  FUNCTIONAL
+
+LATERALITY
+
+  Those  aspects  of  the  mind  that  we  associate  with  consciousness,
+
+language, and rational thought, are clearly maintained and propagated by the
+
+neocortical mantle of the frontal, temporal, parietal, and occipital lobes and is
+
+divisible  horizontally,  vertically,  hierarchically,  cytoarchitecturally,  and  in
+
+accordance with the specialities of the different lobes of the brain including
+
+the limbic system and diencephalon. These different temporal and parallel
+
+streams of mental activity, including those generating by the structures of the
+
+limbic system, coalesce to create a conscious composite, a semi-integrated
+
+whole.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  The cerebrum including its striatal, limbic, and diencephalic components,
+
+is divisible not only horizontally, vertically, hierarchically, and in regard to
+
+its different lobes, but laterally. That is, two semi-independent streams of
+
+conscious awareness coexist literally side by side. Each half of the cerebrum,
+
+which includes neocortical, striatal, limbic and diencephalic structures, has its
+
+own memories, goals, personal identity, and social emotional orientation and
+
+capabilities  or  lack-thereof,  as  has  now  been  repeatedly  demonstratedfollowing surgical sectioning of the thick interhemispheric axonal pathway,
+
+the  corpus  callosum  (Akelaitis,  1945;  Bogen,  1969,  1979;  Joseph,  1986b,
+
+1988b; Levy, 1974, 1983; Sperry, 1966, 1982).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  As described by Nobel Lauriate Roger Sperry (1966, p. 299), "Everything
+
+we  have  seen  indicates  that  the  surgery  has  left  these  people  with  two
+
+separate  minds,  that  is,  two  separate  spheres  of  consciousness.  What  is
+
+experienced in the right hemisphere seems to lie entirely outside the realm of
+
+awareness of the left hemisphere. This mental division has been demonstrated
+
+in regard to perception, cognition, volition, learning and memory."
+
+  In consequence, following the surgical sectioning of the corpus callosum,
+
+each  half  of  the  brain  and  mind  may  act  independently.  For  example,
+
+Akelaitis  (1945,  p.  597)  describes  patients  with  complete  corpus
+
+callosotomies who experienced extreme difficulties making the two halves of
+
+their bodies and the two halves of their brains cooperate, as each half of the
+
+brain  apparently  had  its  own  desires,  goals  and  intentions.  A  recently
+
+divorced  male  "split-brain"  patient  noted  that  on  several  occasions  while
+
+walking about town he found himself forced to go some distance in another
+
+direction by the left half of his body. Specifically, whereas the speaking,
+
+language dominant left half of his brain just wanted to go for a walk, the right
+
+half of his brain was trying to walk toward the new home of his former wife.  A "split-brain" patient I examined, who had recently broken up with his
+
+girlfriend,  indicated  thumbs  down  and  stated  matter-of-factly  that  he  had
+
+absolutely no desire to see her again. However, when his (non-verbal) right
+
+hemisphere was asked how it felt about the situation, and was told to give a
+
+thumbs up or down, it gave a thumbs up (with the left hand) when asked if he
+
+still wanted to see her.
+
+  The  right  hemisphere  of  another  split-brain  patient  apparently  felt
+
+considerable animosity for his wife, for it slapped her several times----much
+
+to the embarrassment of his left (speaking) hemisphere. In another case, a
+
+patient's  left  hand  attempted  to  choke  the  patient  himself  and  had  to  be
+
+wrestled away. The right and left hemisphere of yet another splitbrain patient
+
+enjoyed  different  television  programs,  different  foods,  and  had  different
+
+attitudes even about mundane activities such as going for a walk (Joseph,
+
+1988b).
+
+  For example, while watching television one afternoon, this patient "2-C"
+
+reported that to the dismay of his left (speaking) hemisphere, he was dragged
+
+from the couch by his left leg, and that the left half of his body dragged him
+
+to the TV where his left hand then changed channels even though he (or
+
+rather his left hemisphere) was enjoying the program. On another occasion, it
+
+simply turned the TV off and tried to leave the room. Once, after he had
+
+retrieved something from the refrigerator with his right hand, his left hand
+
+took the food, put it back on the shelf and retrieved a completely differentitem,  "Even  though  that's  not  what  I  wanted  to  eat!"  his  left  hemisphere
+
+complained. On at least one occasion, his left leg refused to continue "going
+
+for a walk" and would only allow him to return home.
+
+  2-C was so annoyed with the independent actions of the left half of his
+
+body that he frequently expressed hate for it, even striking it angrily with the
+
+right  hand.  Nevertheless,  the  right  hemisphere  knew  exactly  what  it  was
+
+doing,  as  was  demonstrated  experimentally,  and  thus  had  its  own  goals,
+
+desires, intentions, and favorite foods and TV shows--even showing the good
+
+sense of turning off the TV and leaving the room (Joseph, 1988b).
+
+Dissociation and Self-Consciousness
+
+  The multiplicity of mind is not limited to the neocortex but includes old
+
+cortical  structures,  such  as  the  limbic  system  (Joseph  1992).  Moreover,
+
+limbic  nuclei  such  as  the  amygdala  and  hippocampus  interact  with
+
+neocortical  tissues  creating  yet  additional  mental  systems,  such  as  those
+
+which  rely  on  memory  and  which  contribute  to  self-reflection,  personal
+
+identity, and even self-consciousness (Joseph, 1992, 1998, 1999b, 2001).  For example, both the amygdala and the hippocampus are implicated in
+
+the storage of long term memories, and both nuclei enable individuals to
+
+visualize and remember themselves engaged in various acts, as if viewing
+
+their  behavior  and  actions  from  afar.  Thus,  you  might see  yourself and
+
+remember  yourself  engage  in  some  activity,  from  a  perspective  outside
+
+yourself, as if you are an external witness; and this is a common feature of
+
+selfreflection and self-memory and is made possible by the hippocampus and
+
+overlying temporal lobe (Joseph, 1996, 2001).
+
+The hippocampus in fact contains "place neurons" which cognitive map one's
+
+position and the location of various objects within the environment (Nadel,
+
+1991; O'Keefe, 1976; Wilson & McNaughton, 1993). Further, if the subject
+
+moves about in that environment, entire populations of these place cells will
+
+fire. Moreover, some cells are responsive to the movements of other people
+
+in that environment and will fire as that person is observed to move around to
+
+different  locations  or  corners  of  the  room  (Nadel,  1991;  O'Keefe,  1976;
+
+Wilson and McNaughton, 1993).
+
+  Electrode stimulation, or other forms of heightened activity within the
+
+hippocampus and overlying temporal lobe can also cause a person to see
+
+themselves, in real time, as if their conscious mind is floating on the ceiling
+
+staring down at their body (Joseph, 1998, 1999b, 2001). During the course of
+
+electrode stimulation and seizure activity originating in the temporal lobe or
+
+hippocampus, patients may report that they have left their bodies and are
+
+hovering upon the ceiling staring down at themselves (Daly, 1958; Penfield,1952; Penfield & Perot 1963; Williams, 1956). That is, their consciousness
+
+and sense of personal identity appears to split off from their body, such that
+
+they experience themselves as as a consciousness that is conscious of itself as
+
+a conscious that is detached from the body which is being observed.
+
+  One female patient claimed that she not only would float above her body,
+
+but  would  sometimes  drift  outside  and  even  enter  into  the  homes  of  her
+
+neighbors. Penfield and Perot (1963) describe several patients who during a
+
+temporal lobe seizure, or neurosurgical temporal lobe stimulation, claimed
+
+they split-off from their body and could see themselves down below. One
+
+woman stated: "it was though I were two persons, one watching, and the
+
+other having this happen to me." According to Penfield (1952), "it was as
+
+though the patient were attending a familiar play and was both the actor and
+
+audience."
+
+  Under  conditions  of  extreme  trauma,  stress  and  fear,  the  amygdala,
+
+hippocampus and temporal lobe become exceedingly active (Joseph, 1998,
+
+1999b).  Under  these  conditions  many  will  experience  a  "splitting  of
+
+consciousness"  and  have  the  sensation  they  have  left  their  body  and  are
+
+hovering  beside  or  above  themselves,  or  even  that  they  floated  away
+
+(Courtois, 2009; Grinker & Spiegel, 1945; Noyes & Kletti, 1977; van der
+
+Kolk 1987). That is, out-of-body dissociative experiences appear to be due to
+
+fear induced hippocampus (and amygdala) hyperactivation.
+
+    Likewise,  during  episodes  of  severe  traumatic  stress  personal
+
+consciousness may be fragmented and patients may dissociate and experience
+
+themselves  as  splitting  off  and  floating  away  from  their  body,  passively
+
+observing all that is occurring (Courtois, 1995; Grinker & Spiegel, 1945;
+
+Joseph, 1999d; Noyes & Kletti, 1977; Southard, 1919; Summit, 1983; van der
+
+Kolk 1987).
+
+  Noyes and Kletti (1977) described several individuals who experienced
+
+terror, believed they were about to die, and then suffered an out-of body
+
+dissociative experience: "I had a clear image of myself... as though watching
+
+it  on  a  television  screen."  "The  next  thing  I  knew  I  wasn't  in  the  truck
+
+anymore;  I  was  looking  down  from  50  to  100  feet  in  the  air."  "I  had  a
+
+sensation of floating. It was almost like stepping out of reality. I seemed to
+
+step out of this world."
+
+  One  individual,  after  losing  control  of  his  Mustang  convertible  while
+
+during over 100 miles per hour on a rain soaked freeway, reported that "time
+
+seemed to slow down and then... part of my mind was a few feet outside thecar zooming above it and then beside it and behind it and in front of it,
+
+looking at and analyzing the respective positions of my spinning Mustang
+
+and the cars surrounding me. Simultaneously I was inside trying to steer and
+
+control it in accordance with the multiple perspectives I was given by that
+
+part  of  my  mind  that  was  outside.  It  was  like  my  mind  split  and  one
+
+consciousness was inside the car, while the other was zooming all around
+
+outside  and  giving  me  visual  feedback  that  enabled  me  to  avoid  hitting
+
+anyone or destroying my Mustang."
+
+  Numerous individuals from adults to children, from those born blind and
+
+deaf,  have  also  reported  experiencing  a  dissociative  consciousness  after
+
+profound injury causing near death (Eadie 1992; Rawling 1978; Ring 1980).
+
+Consider for example, the case of Army Specialist J. C. Bayne of the 196th
+
+Light Infantry Brigade. Bayne was "killed" in Chu Lai, Vietnam, in 1966,
+
+after  being  simultaneously  machine  gunned  and  struck  by  a  mortar.
+
+According to Bayne, when he opened his eyes he was floating in the air,
+
+looking down on his burnt and bloody body: "I could see me... it was like
+
+looking at a manikin laying there... I was burnt up and there was blood all
+
+over the place... I could see the Vietcong. I could see the guy pull my boots
+
+off. I could see the rest of them picking up various things... I was like a
+
+spectator... It was about four or five in the afternoon when our own troops
+
+came. I could hear and see them approaching... I looked dead... they put me
+
+in a bag... transferred me to a truck and then to the morgue. And from that
+
+point, it was the embalming process. I was on that table and a guy was telling
+
+jokes  about  those  USO  girls...  all  I  had  on  was  bloody  undershorts...  he
+
+placed my leg out and made a slight incision and stopped... he checked my
+
+pulse and heartbeat again and I could see that too... It was about that point I
+
+just  lost  track  of  what  was  taking  place....  [until  much  later]  when  the
+
+chaplain was in there saying everything was going to be all right.... I was no
+
+longer outside. I was part of it at this point" (reported in Wilson, 1987, pp
+
+113-114; and Sabom, 1982, pp 81-82).
+
+    Therefore,  be  it  secondary  to  the  fear  of  dying,  or  depth  electrode
+
+stimulation, these experiences all appear to be due to a mental system which
+
+enables a the conscious mind to detach completely from the body in order to
+
+make the body an object of consciousness (Joseph, 1998, 1999b, 2001).
+
+THE NEUROANATOMY OF MIND
+
+  In  summary,  the  human  mind  and  brain  are  functionally  lateralized,
+
+sexually  differentiated,  and  hierarchically,  vertically,  and  horizontallyorganized,  and  are  significantly  shaped  and  effected  by  experience.
+
+Considered broadly, it can be said that the most unconscious and reflexive
+
+aspects of the "unconscious" mind are associated with the brainstem.
+
+  The  diencephalon,  which  is  immediately  anterior  and  adjacent  to  the
+
+brainstem, is associated with a vague sensory affective unconscious, such that
+
+pre-conscious  cognitivesensory  processing  (thalamus)  and  reflexive
+
+emotional processing (hypothalamus) takes place in this region--information
+
+which may be relayed to the neocortex as well as to the limbic system.
+
+  The limbic system, which is anterior to the diencephalon, and is both
+
+dorsally  and  ventrally  situated,  is  capable  of  exceedingly  complex  and
+
+sophisticated  mental  activity  and  can  process,  analyze,  and  learn  and
+
+remember  complex  cognitive,  linguistic,  visual-spatial,  and  affective
+
+material, as well as generate complex emotions ranging from love to hate.
+
+The limbic system can also vocalize and it can think, and it can transfer this
+
+information  to  the  overlying  neocortex  which  it  may  impel  to  act  on  its
+
+desires and its fears.
+
+  The neocortex is associated with the more rational and logical aspects of
+
+the mind. It is this neocortical shroud which envelops and coats the cerebrum
+
+with six to seven layers of gray matter, which cogitates, speaks in words and
+
+sentences, and can reason, rhyme, plan for the future, as well as ponder and
+
+analyze its own brain and mind.
+
+  The  mind,  however,  is  also  a  continuum,  and  the  human  brain  is  a
+
+composite of interacting structures which are intimately interconnected and
+
+which  perform  a  variety  of  unique  and  overlapping  functions  often  in
+
+parallel.  And  yet,  although  these  structures  interact  and  often  engage  in
+
+parallel processing, they are also functionally specialized, with some areas,
+
+such  as  the  brainstem  and  limbic  system,  often  acting  completely
+
+independently  of  the  neocortex  or  what  is  classically  referred  to  as  the
+
+conscious mind.
+
+OVERVIEW:  CONSCIOUSNESS,  AWARENESS,  AND  THE
+
+NEUROSCIENCE OF MIND
+
+  The brain and the mind are synonymous, for if the brain is damaged, so
+
+too is the mind. The brain and associated mental activity are functionally
+
+lateralized  and  hierarchically  organized,  such  that  specific  cognitive  and
+
+emotional functions may be localized to specific regions of the brain. There
+
+are  phylogenetically  older,  sensory-motor  nonemotional  mental  systems
+
+associated with the brainstem, and a highly complex emotional and memorysystem associated with the limbic system.
+
+    Whereas the brainstem is incapable of conscious or cognitive activity, and
+
+instead  mediates  reflexive  motor  acts,  including  breathing,  heart  rate  and
+
+arousal, it is the limbic system which mediates the ability to feel love or
+
+sorrow or to determine if something is good to eat. Indeed, it is the limbic
+
+system which enables humans to form memories of the long ago, as well as to
+
+recall  these  memories  in  order  to  dream  of  the  future,  as  specific  limbic
+
+nuclei become active not only when learning and remembering, but when
+
+dreaming.
+
+  In fact, the limbic system provides humans (and perhaps non-humans)
+
+with the capacity to experience the most profound of emotions, from love to
+
+spiritual ecstasy and religious awe, serving, at its most profound, as perhaps
+
+even a transmitter to god.
+
+  By contrast, the more recently evolved neocortex of the right hemisphere
+
+is the domain of a highly evolved social-emotional, visual-pictorial, spatial,
+
+body  centered  awareness  and  employs  emotional  and  melodic  sounds  for
+
+expression. The right half of the brain is responsible for discerning distance,
+
+depth and movement, and recognizing environmental and animal sounds such
+
+as a chirping bird, a buzzing bee, a babbling brook, or a thunderstorm, as well
+
+as the capacity to sing, dance, chase or throw something with accuracy, and
+
+run without falling or bumping into things. Whereas the left hemisphere is
+
+concerned with logic and grammatical rules of organization and expression,
+
+including the analysis of details, sequential units, and parts, it is the right
+
+hemisphere which is able to perceive events or stimuli as a whole and which
+
+can see the forest as well as the trees. Whereas right hemispheric activity is
+
+associated  with  the  production  of  the  visual,  emotional,  hallucinatory,
+
+hypnogogic aspects of dreaming, the left hemisphere tends to immediately
+
+forget the dream upon waking (Joseph, 1988a).
+
+Hence, in the right hemisphere we deal with a non-verbal form of awareness
+
+that  accompanies  in  parallel  the  temporal-sequential,  language  dependent
+
+stream of consciousness associated with the functional integrity of the left
+
+cerebrum. In fact, and as has been repeatedly demonstrated, the right and left
+
+cerebral  hemisphere  are  each  capable  of  self-awareness,  can  plan  for  the
+
+future,  have  goals  and  aspirations,  likes  and  dislikes,  social  and  political
+
+awareness, and can independently and purposefully initiate behavior, guide
+
+responses choices and emotional reactions, as well as recall and act upon
+
+certain  desires,  impulses  situations  or  environmental  events  --sometimeswithout the aid, knowledge or active (reflective) participation of the other
+
+half of the brain.
+
+  Thus, in summary, the right and left hemisphere subserve almost wholly
+
+different mental systems--a function of evolutionary metamorphosis and the
+
+evolution  of  language  and  tool  making  capabilities--  whereas  the  limbic
+
+system is synonymous with the most archaic regions of the emotional, sexual,
+
+unconscious mind. However, because the brain and mind are hierarchically
+
+organized and lateralized, and as the limbic system retains the capacity to
+
+completely overthrow and hijack the neocortically equipped "rational" and
+
+emotionally intelligent mind, conscious-awareness, as well as the brain, are
+
+subject to fracture, with each isolated segment acting on its own wishes and
+
+desires, independent of and sometimes conflicting with those mental systems
+
+that may remain intact such as those associated with the language-dependent
+
+conscious mind.
+
+    References
+
+Akelaitis, A. J. (1945). Studies on the corpus callosum. American Journal of
+
+Psychiatry, 101, 594-599.
+
+Bogen, J. (1979). The other side of the brain. Bulletin of the Los Angeles
+
+Neurological Society. 34, 135-162.
+
+Bohr,  N.  (1934/1987),  Atomic  Theory  and  the  Description  of  Nature,
+
+reprinted as The Philosophical Writings of Niels Bohr, Vol. I, Woodbridge:
+
+Ox Bow Press.
+
+Bohr,  N.  (1958/1987),  Essays  1932-1957  on  Atomic  Physics  and  Human
+
+Knowledge, reprinted as The Philosophical Writings of Niels Bohr, Vol. II,
+
+Woodbridge: Ox Bow Press.
+
+  Bohr, N. (1963/1987), Essays 1958-1962 on Atomic Physics and Human
+
+Knowledge, reprinted as The Philosophical Writings of Niels Bohr, Vol. III,
+
+Woodbridge: Ox Bow Press.
+
+Casagrande, V. A. & Joseph, R. (1978). Effects of monocular deprivation on
+
+geniculostriate connections in prosimian primates. Anatomical Record, 190,
+
+359.
+
+    Casagrande,  V.  A.  &  Joseph,  R.  (1980).  Morphological  effects  of
+
+monocular deprivation and recovery on the dorsal lateral geniculate nucleus
+
+in prosimian primates. Journal of Comparative Neurology, 194, 413-426.
+
+Courtois, C. A. (2009). Treating Complex Traumatic Stress Disorders: An
+
+Evidence-Based  Guide  Daly,  D.  (1958).  Ictal  affect.  American  Journal  of
+
+Psychiatry, 115, 97-108.  DeWitt, B. S., (1971). The Many-Universes Interpretation of Quantum
+
+Mechanics,  in  B.  D.'Espagnat  (ed.),  Foundations  of  Quantum  Mechanics,
+
+New York: Academic Press. pp. 167–218.
+
+DeWitt,  B.  S.  and  Graham,  N.,  editors  (1973).  The  Many-Worlds
+
+Interpretation of Quantum Mechanics. Princeton University Press, Princeton,
+
+New-Jersey.
+
+Eadie, B. J. (1993) Embraced by the light. New York, Bantam
+
+  Einstein, A. (1905a). Does the Inertia of a Body Depend upon its Energy
+
+Content? Annalen der Physik 18, 639-641.
+
+Einstein,  A.  (1905b).  Concerning  an  Heuristic  Point  of  View  Toward  the
+
+Emission and Transformation of Light. Annalen der Physik 17, 132-148.
+
+Einstein, A. (1905c). On the Electrodynamics of Moving Bodies. Annalen
+
+der Physik 17, 891-921.
+
+Einstein,  A.  (1926).  Letter  to  Max  Born.  The  Born-Einstein  Letters
+
+(translated by Irene Born) Walker and Company, New York.
+
+Gallagher,  R.  E.,  &  Joseph,  R.  (1982).  Non-linguistic  knowledge,
+
+hemispheric  laterality,  and  the  conservation  of  inequivalance.  Journal  of
+
+General Psychology, 107, 31-40.
+
+Geschwind. N. (1981). The perverseness of the right hemisphere. Behavioral
+
+Brain Research, 4, 106-107.
+
+Grinker, R. R., & Spiegel, J. P. (1945). Men Under Stress. McGraw-Hill.
+
+    Heisenberg.  W.  (1930),  Physikalische  Prinzipien  der  Quantentheorie
+
+(Leipzig:  Hirzel).  English  translation  The  Physical  Principles  of  Quantum
+
+Theory, University of Chicago Press.
+
+    Heisenberg,  W.  (1955).  The  Development  of  the  Interpretation  of  the
+
+Quantum  Theory,  in  W.  Pauli  (ed),  Niels  Bohr  and  the  Development  of
+
+Physics, 35, London: Pergamon pp. 12-29.
+
+Heisenberg, W. (1958), Physics and Philosophy: The Revolution in Modern
+
+Science, London: Goerge Allen & Unwin.
+
+Joseph,  R.  (1982).  The  Neuropsychology  of  Development.  Hemispheric
+
+Laterality,  Limbic  Language,  the  Origin  of  Thought.  Journal  of  Clinical
+
+Psychology, 44 4-33.
+
+Joseph, R. (1986). Reversal of language and emotion in a corpus callosotomy
+
+patient. Journal of Neurology, Neurosurgery, & Psychiatry, 49, 628-634.
+
+Joseph,  R.  (1986).  Confabulation  and  delusional  denial:  Frontal  lobe  and
+
+lateralized influences. Journal of Clinical Psychology, 42, 845-860.
+
+Joseph, R. (1988) The Right Cerebral Hemisphere: Emotion, Music, Visual-Spatial  Skills,  Body  Image,  Dreams,  and  Awareness.  Journal  of  Clinical
+
+Psychology, 44, 630-673.
+
+Joseph, R. (1988). Dual mental functioning in a split-brain patient. Journal of
+
+Clinical Psychology, 44, 770-779.
+
+Joseph, R. (1992) The Limbic System: Emotion, Laterality, and Unconscious
+
+Mind. The Psychoanalytic Review, 79, 405-455.
+
+Joseph,  R.  (1996).  Neuropsychiatry,  Neuropsychology,  Clinical
+
+Neuroscience, 2nd Edition. Williams & Wilkins, Baltimore.
+
+  Joseph,  R.  (1998).  Traumatic  amnesia,  repression,  and  hippocampal
+
+injury due to corticosteroid and enkephalin secretion. Child Psychiatry and
+
+Human Development. 29, 169-186.
+
+  Joseph,  R.  (1999a).  Frontal  lobe  psychopathology:  Mania,  depression,
+
+aphasia,  confabulation,  catatonia,  perseveration,  obsessive  compulsions,
+
+schizophrenia. Psychiatry, 62, 138-172.
+
+Joseph,  R.  (1999b).  The  neurology  of  traumatic  "dissociative"  amnesia.
+
+Commentary and literature review. Child Abuse & Neglect. 23, 71-80.
+
+Joseph,  R.  (2000).  Limbic  language/language  axis  theory  of  speech.
+
+Behavioral and Brain Sciences. 23, 439-441.
+
+Joseph,  R.  (2001).  The  Limbic  System  and  the  Soul:  Evolution  and  the
+
+Neuroanatomy of Religious Experience. Zygon, the Journal of Religion &
+
+Science, 36, 105-136.
+
+  Joseph,  R.,  &  Casagrande,  V.  A.  (1978).  Visual  field  defects  and
+
+morphological  changes  resulting  from  monocular  deprivation  in  primates.
+
+Proceedings of the Society for Neuroscience, 4, 1978, 2021.
+
+Joseph, R. & Casagrande, V. A. (1980). Visual field defects and recovery
+
+following lid closure in a prosimian primate. Behavioral Brain Research, 1,
+
+150-178.
+
+Joseph,  R.,  Forrest,  N.,  Fiducia,  N.,  Como,  P.,  &  Siegel,  J.  (1981).
+
+Electrophysiological  and  behavioral  correlates  of  arousal.  Physiological
+
+Psychology, 1981, 9, 90-95.
+
+Joseph, R., Gallagher, R., E., Holloway, J., & Kahn, J. (1984). Two brains,
+
+one child: Interhemispheric transfer and confabulation in children aged 4, 7,
+
+10. Cortex, 20, 317-331.
+
+Joseph,  R.,  &  Gallagher,  R.  E.  (1985).  Interhemispheric  transfer  and  the
+
+completion of reversible operations in non-conserving children. Journal of
+
+Clinical Psychology, 41, 796-800.
+
+Nadel, L. (1991). The hippocampus and space revisited. Hippocampus, 1,221-229.
+
+Neumann, J. von, (1937/2001), “Quantum Mechanics of Infinite Systems.
+
+Institute  for  Advanced  Study;  John  von  Neumann  Archive,  Library  of
+
+Congress, Washington, D.C.
+
+Neumann,  J.  von,  (1938),  On  Infinite  Direct  Products,  Compositio
+
+Mathematica 6: 1-77.
+
+Neumann, J. von, (1955), Mathematical Foundations of Quantum Mechanics,
+
+Princeton, NJ: Princeton University Press.
+
+Noyes,  R.,  &  Kletti,  R.  (1977).  Depersonalization  in  response  to  life
+
+threatening danger. Comprehensive Psychiatry, 18, 375-384.
+
+  O'Keefe,  J.  (1976).  Place  units  in  the  hippocampus.  Experimental
+
+Neurology,  51-78-100.  Pais,  A.  (1979).  Einstein  and  the  quantum  theory,
+
+Reviews of Modern Physics, 51, 863-914.
+
+Penfield,  W.  (1952)  Memory  Mechanisms.  Archives  of  Neurology  and
+
+Psychiatry, 67, 178-191.
+
+Penfield, W., & Perot, P. (1963) The brains record of auditory and visual
+
+experience. Brain, 86, 595-695.
+
+Rawlins, M. (1978). Beyond Death's Door. Sheldon Press.
+
+Ring, K. (1980). Life at Death: A Scientific Investigation of the Near-Death
+
+Experience. New York: Quill.
+
+Sabom, M. (1982). Recollections of Death. New York: Harper & Row.
+
+Southard, E. E. (1919). Shell-shock and other Neuropsychiatric Problems.
+
+Boston.
+
+Sperry, R. (1966). Brain bisection and the neurology of consciousness. In F.
+
+O. Schmitt and F. G. Worden (eds). The Neurosciences. MIT press.
+
+van der Kolk, B. A. (1985). Psychological Trauma. American Psychiatric
+
+Press.
+
+Williams,  D.  (1956).  The  structure  of  emotions  reflected  in  epileptic
+
+experiences. Brain, 79, 29-67.
+
+Wilson, I. (1987). The After Death Experience. Morrow.
+
+Wilson, M. A., & McNaughton, B. L. (1993). Dynamics of the hippocampus
+
+ensemble for space. Science, 261, 1055-1058.

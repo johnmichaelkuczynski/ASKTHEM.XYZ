@@ -1,0 +1,100 @@
+
+1. the Duhem-Quine thesis can't just say that, for any theory T that concerns the external world, no body of observations analytically entails that T is false. It must therefore be to the effect that, given any body of observations and given any theory T, the explanatory costs of accepting T are no greater and no smaller than the explanatory costs of rejecting T.
+2. Hempel's theory is important because it is the clearest, purest expression of the Humean conviction that all probability is statistical probability and also because of the consequent fact that, given the enormously powerful hold of Humean ideas on methodological thought, all theories of explanation can be understood in terms of Hempel's theory- either as versions of it or as reactions to it.
+3. To explain an event E is to show that its occurrence is a logical consequence of the statement formed by conjoining statements describing known natural laws with statements describing the conditions under which E occurred.
+4. Hempel is surely right that a statement must support counterfactuals if it is to express a natural law. But DN collapses if laws are understood in this way.
+5. Counterfactuals, as we know, are identical with causal claims. It is only where explanations are already available that counterfactual claims are warranted.
+6. the law isn't some structure or metaphysical glue underlying the fact that the property of being heated metal is always found in conjunction with the property of expanding; the law is that regularity.
+7. For it isn't until there are explanations, that there can be any good reason to posit such structures. The structure is posited to validate preexisting explanations.
+8. This makes it viciously circular to understand laws in terms of causality. This, in turn, makes it viciously circular to understand laws in terms of counterfactual truth, given that counterfactual truths are to be understood in terms of causality.
+9. Laws are hyper-explanations. They are explanations of the explanations.
+10. Hume and Hempel have it backwards; for they believe that the event is to be explained in terms of the law. To be sure, once the law is in place, new and better explanations are possible. But those higher-level explanations stand on the shoulders of lower-level ones that model the data without the help of statements describing laws.
+11. But if we know that a thing's being a phi causes it to be a psi, then we ipso facto already have a wealth of explanations, if only crude ones, at our disposal.
+12. Thus, DN is either viciously circular or, at best, it provides a correct analysis only of explanations of a derivative and therefore relatively unimportant kind.
+13. So a person can't identify the sort of explanation that advocates of DN have in mind unless they already have an explanation of the fact for which an explanation is needed and unless, therefore, they have no use at all for the DN-explanation of that event.
+14. Far from being something in terms of which Smiths behavior is to be explained, that regularity is itself to be understood in terms of the behavior of people like Smith.
+15. For everything to be explained is for every cause to be known.
+16. How-knowledge is high-resolution what-knowledge.
+17. To explain is to eliminate discontinuities.
+18. Explanation is discontinuity-elimination.
+19. Merely H2 replaces observed discontinuities with unobserved discontinuities.
+20. Discontinuity-elimination cannot be the essence of explanation.
+21. Discontinuity-elimination is the essence of explanation.
+22. "Probability is a property of statements, not of states of affairs."
+23. "Probability is inherently relational."
+24. "A complete description of the universe would contain no probability statements."
+25. "Probability is but 'a measure of ignorance,' as Laplace put it."
+26. "Probability is a mind-independent logical relationship holding among statements."
+27. "Probability statements are useful only to the ignorant."
+28. "They're useful to the ignorant because, when correct, they describe relations that actually hold between what (little) they know and what they'd like to know."
+29. "Given the data available to me, it's more reasonable to believe that my friend Sally is in Washington than it is to believe that she isn't. But since, given that data, it's only marginally more likely than not that she's in Washington, it would be irrational of me to believe that she is."
+30. No matter how small the likelihood that S* is false, there are true statements that, if conjoined with the truths already known, will shrink that likelihood even further without eliminating it.
+31. One is dealing with intrinsic probability when, setting aside problems relating to interference effects, there is a limit to how much, short of learning whether the target statement is true or not, one's margin of error can be reduced, and one has non-intrinsic evidential probability if there is no such limit.
+32. I must therefore conclude that intrinsic probability, if it exists, is not evidential probability.
+33. Other things being equal, a hypothesis is to be preferred to its negation if and only if more causal anomalousness is created by rejecting it than by accepting it.
+34. The degree to which a hypothesis is to be preferred to its negation is directly proportional to the degree to which it does a better job than the other of minimizing the net amount of causal anomalousness in the world.
+35. You can know that x is likely to do y in circumstances z without ever having seen x, or anything much like it, do y, or anything much like, in circumstances z, or anything much like them.
+36. If one is to be justified in accepting SNS, one doesn't need to know that Smith ever failed to show up to anything; and one doesn't need to know that what the relevant individuals, whoever they might be, failed to do was to show up.
+37. The problem with this response is that there is no way to understand the concept of 'relevant similarity' in statistical terms; and in deciding what is relevantly similar to what, the advocate of SE is drawing on hypotheses that can't possibly have received any confirmation of a purely statistical kind.
+38. Given that, for any two things, one can contrive some respect in which they are similar, it follows that, with a few trivial qualifications, anything can confirm anything to any degree.
+39. We know that terms like 'grue' and 'carbivore' pick out explanatorily hollow properties, and that's why we don't base our driving habits on our beliefs about the dietary habits of dinosaurs.
+40. The concept of probability is to be understood in terms of the concept of explanatory integrity, not that of statistical frequency.
+41. The concept of explanatory integrity is to be understood in terms of the concept of causal integrity. The concept of causal integrity is to be understood in terms of the concept of continuity of change.
+42. There is more to explaining an event than showing it to be continuous with events in its vicinity.
+43. Scientific disciplines (e.g., psychology, physics) are individuated, as we'll see, not (merely) by what they study, but by the data in terms of which the objects of their study are given to them.
+44. Any given event---in other words, any (re)distribution of mass­energy---can be correctly described in many ways. There are many true propositions describing it.
+45. It is (alleged) truths that are explained. Facts and events are explained only in the indirect sense that true propositions about them are explained.
+46. Unless the continuities that we posit in the hopes of explaining T are expressed by propositions consisting of concepts belonging to the same family of concepts to which those constituting T belong we haven't established continuity within our models of events.
+47. So the essence of explanation lies not merely in the discovery of continuities, but in the discovery of propositions that, because of the structures of the concepts out of which they are constructed, establish what we might refer to as 'model-internal' (or 'data-internal') continuities.
+48. So long as psychologists treat psychological truths as low-resolution physiological truths, and so long as they don't treat the class of psychological truths as sui generis, psychology will be a broken and incoherent discipline.
+49. Thus, one's immediate objective must be to model the data, not to describe data-transcendent realities.
+50. If the truth that your husband had a seizure had the same spatiotemporal boundaries as the seizure itself, it would have ceased to exist the moment the seizure ended, and it wouldn't have existed outside the place where the seizure occurred.
+51. Data are not raw facts. Data are propositions. Propositions are not raw facts.
+52. When trying to say what distinguishes a given discipline from every other discipline, the relevant question is not 'which things and which events does that discipline study?' but rather 'which propositions does that discipline assume to be true and which propositions is it trying to model?'
+53. Astronomical facts are microphysical facts. Any movement of a star is nothing but a giant constellation of microphysical facts.
+54. Two universes that are indistinguishable at the microphysical level are necessarily indistinguishable at the astronomical level.
+55. Disciplines are individuated primarily, and sometimes solely, by the bodies of data that they are trying to model. Disciplines are individuated only secondarily, and sometimes not at all, by the facts that they describe.
+56. What determines whether somebody is a psychologist as opposed to a neurologist is a function of which truths he's trying to explain, not which raw facts those truths describe.
+57. Science doesn't directly deal with the realities it aspires to describe. Science deals directly with data.
+58. "We must remember that it is truths that are explained, not (re)distributions of mass-energy. Things aren't explained. Rocks cannot be explained. Propositions about rocks are explained. Events aren't explained. Truths that hold in virtue of events are explained."
+59. "The botanical changes that mediated between X's once healthy state and its eventual demise can be realized by infinitely many different microphysical changes."
+60. "A given type of botanical event can be realized by infinitely many different events, no two of which have anything in common at the microphysical level."
+61. "Knowledge of concomitances... mustn't be thought that knowledge of concomitances is anything more than a surrogate for genuine understanding."
+62. "A plant's botanical condition supervenes on its physical condition. In other words, given two plants that are physically indistinguishable, it is impossible, as a matter of logic, that they should be botanically distinguishable."
+63. The sense in which psychology cannot be reduced to (micro)physics is more robust than the sense in which botany (or any other physical science) cannot be reduced to microphysics (or any other physical science).
+64. To reduce botany to microphysics, you must show that, whatever it is about the universe in virtue of which that general botanical truth holds there is a micro-physical characterization of it.
+65. The laws governing an entity are not necessarily identical with those governing its parts.
+66. Even if the parts composing a thing are governed by the same laws as the parts composing some other thing, it doesn't follow that, taken as wholes, those two things are governed by the same law or, therefore, are to be understood in terms of the same principles.
+67. Two different objects could be governed by precisely the same botanical laws, even though the microactivity constitutive of the one is governed by entirely different laws from the microactivity of the other; and two things could be governed by different botanical laws, even though the microactivity constitutive of the one is governed by the very same laws as the microactivity of the other.
+68. "The laws of physics govern everything. Therefore, two different things cannot, at least not in the final analysis, be governed by different laws."
+69. "The clay constitutes the statue without being identical with it."
+70. "The laws of physics don't govern plants; they govern the particle-aggregates on which the behaviors of plants supervene."
+71. "You could coherently imagine a universe botanically identical with ours...but in which the laws of physics were different."
+72. "The laws of botany in that world, to the extent that there is such a thing as a law of botany, would coincide with the laws of botany in our world."
+73. "The laws of physics don't govern psychological activity and neither do the laws of physiology."
+74. "It cannot be known a priori whether or not botany is reducible to microphysics."
+75. "To say that botany can be reduced to microphysics is to say that microphysics can say whatever botany can say (and, possibly, say it better)."
+76. Given two people who are atom-for-atom duplicates and whose experiences are qualitatively identical, those people are ipso facto identical as far as a psychologist is concerned, even if one of them is a brain in a vat whose experiences are caused, not by photons bouncing off of the things he thinks he sees, but by stimulations of nerve-endings, whereas the other has veridical experiences.
+77. Psychology does not model things known through perception. It models our experiences. Of course, our perceptions are among our experiences. But psychology studies the perceptions themselves. Other sciences study the things known through them.
+78. Given a building composed entirely out of bricks, if one knew how any two of those bricks were spatiotemporally interrelated, one could in principle figure out the structure of that building.
+79. So the truths of microphysics, taken together with truths describing the concepts of botany---truths that, since they merely delineate those concepts and don't say anything as to whether they're instantiated or by what, are analytic---entail the truths of botany.
+80. Botany is reducible to microphysics in the weak sense that, for any given botanical truth, there is some microphysical truth with respect to which the former is non-anomalous. Botany is irreducible to microphysics in the sense that the system of botanical truths that botany puts forth, containing as it does botanical principles alongside the specific botanical truths it contains, cannot be deduced from, or otherwise understood in terms of, the truths of microphysics.
+81. Psychological truths (about Brown) are not given by propositions to the effect some external object has some property or has been displaced in a certain way. Whatever information psychological truths do contain, that information is about the experiences through which such changes are known, not the changes themselves.
+82. The conjunction of those two lists of propositions does not, by itself, entail (or, indeed, otherwise confirm) so much as a single psychological truth about Brown.
+83. In order for Smith to make any inferences about what is going on in Brown's mind, we must add to what Smith already knows... he has to know of psycho-physical correlations.
+84. Even if psychological types were co­extensive with physiological types, the very fact that psychological types are not necessarily coextensive with physiological types entails what psychological truths say about the world is altogether disjoint from what physiological truths say about the world.
+85. The truths that it is the purpose of psychology to model are such that, unless one has had some kind of non-perceptual encounter with those things or with things of the same kind, one couldn't possibly understand them.
+86. Even though I cannot possibly have the direct, intuitive knowledge of your mental states that you can have of them... my knowledge of your mental states isn't purely formal; it is informed by a knowledge of relevantly similar states in myself, my knowledge of which is completely non-perceptual.
+87. By virtue of knowing those things in a non-sense-based way, the patient has a more robust knowledge of them than could be had by anyone who knew them in a sense-based way.
+88. The types of things studied by the psychologist are such that, unless one has had direct, non-sense-based knowledge of them, one cannot even have descriptive, second-hand knowledge of their occurrence in others.
+89. The proposition Sam is sad is not to the effect that some (re)distribution of mass-energy holds.
+90. Sam is sad registers a truth that is known to Sam in a thoroughly non-perceptual way and that cannot be known to anyone other than Sam except on the basis of his own experience of sadness and therefore cannot be known to anyone other than Sam in a way that is in part (though not entirely) non-sense-based.
+91. For P to fall into M is for P to be such that it can be reasonably interpreted as falling into M. To be a belief that 1 + 1 = 2 is to be interpretable as being such a belief.
+92. The concepts in terms of which we instinctively understand the world tend to have considerable explanatory and predictive value.
+93. The world is so structured that, given that x is a plant, it follows that it will thrive under certain conditions and die under others; that x cannot talk; that x reproduces in certain ways but not others; that x has certain organelles but not others; and so on.
+94. Even when taken together with considerable zoological and mathematical knowledge, one's knowledge that x is a dogber is useless from an explanatory viewpoint.
+95. The fact that x is a plant by itself has many ramifications as to x's structure, etc.
+96. The concept of a 'datum' is a relative notion. Something is a datum relative to one discipline but not relative to some other discipline.
+97. most, if not all, of those things that we describe as 'data' fail to have those properties to such a high degree that there is no context in which that piece of information is a non-datum
+98. The class of things that have those properties to that degree is either empty or highly restrictive
+

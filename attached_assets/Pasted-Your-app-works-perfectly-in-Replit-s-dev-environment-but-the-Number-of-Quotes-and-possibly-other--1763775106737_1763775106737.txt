@@ -1,0 +1,81 @@
+Your app works perfectly in Replit’s dev environment but the “Number of Quotes” (and possibly other inputs) become unchangeable after you deploy it.
+This is an extremely common issue when people deploy Streamlit (or Gradio, etc.) apps that were built and tested only inside Replit. Here are the usual culprits and how to fix them in order of likelihood:
+1. You’re Using st.text_input / st.number_input Inside a Function That Gets Cached
+Streamlit aggressively caches functions decorated with @st.cache_data or @st.cache_resource, and also anything inside if st.button … or similar patterns.
+If your code looks roughly like this (very common pattern):
+Pythondef get_debate_settings():
+    num_quotes = st.number_input("Number of Quotes", 0, 10, 2)
+    return num_quotes
+
+num_quotes = get_debate_settings()
+
+if st.button("Generate Debate"):
+    # generate debate with num_quotes
+→ After deployment the input freezes because Streamlit reruns the script on every interaction and the cached function returns the old value forever.
+Fix → Never put Streamlit widgets inside cached functions or inside normal Python functions that you call from the main script. Put them directly in the main body or use st.session_state.
+Correct pattern:
+Pythonif "num_quotes" not in st.session_state:
+    st.session_state.num_quotes = 2
+
+st.session_state.num_quotes = st.number_input(
+    "Number of Quotes",
+    0, 10,
+    st.session_state.num_quotes
+)
+2. You’re Using st.form or st.experimental_rerun in a Way That Prevents Updates
+If you wrapped everything in st.form and only read the values after “Submit”, the inputs appear frozen until you press the button (which feels broken to users).
+Fix → Either
+
+remove the form and read the widgets directly, or
+put a very visible “Apply settings / Generate” button and explain it, or
+auto-submit the form on every change (possible but fiddly).
+
+3. Replit Deployment Bug – “Always Re-run” vs “Run on Save” Setting
+Replit deployments sometimes ship with the wrong run command.
+Make sure your .replit file contains:
+tomlrun = "streamlit run app.py --server.enableCORS false --server.enableXsrfProtection false"
+and NOT something like sh -c "python ..." or an old cached command.
+Also in the Replit deployment settings → “Run” field, it must be exactly the same command.
+4. You’re Reading the Widget Only Inside the Generate Button Callback
+Example of broken code:
+Pythonnum_quotes = 2  # default
+if st.button("Generate Debate"):
+    num_quotes = st.session_state.some_hidden_value
+    # generate
+The slider/number_input is ignored completely after the first generation.
+Fix → Read the widget on every rerun (i.e. outside the button).
+5. Quick & Dirty Fix That Works 99% of the Time
+Replace your current “Number of Quotes” code with this bullet-proof version:
+Python# ── Number of Quotes ─────────────────────
+default_quotes = st.session_state.get("num_quotes", 2)
+
+num_quotes = st.number_input(
+    "Number of Quotes",
+    min_value=0,
+    max_value=50,
+    value=default_quotes,
+    step=1,
+    key="num_quotes"        # ← this line is the magic
+)
+
+# Now num_quotes is always up-to-date, even after deployment
+The key="num_quotes" (or any string) automatically ties the widget to st.session_state and survives deployments on Replit, Render, Streamlit Community Cloud, Hugging Face, etc.
+Do the same thing for response length or any other input that freezes.
+6. If You’re Using Custom JavaScript or CSS to Make It Look Nicer
+Some people inject JS to disable inputs after first generation → remove that.
+TL;DR – The 2-minute fix that will almost certainly solve it
+
+Open your main app.py
+Find the st.number_input (or st.slider) for “Number of Quotes”
+Add key="whatever_unique_name" and remove it from any function or cache
+Optionally wrap it with session_state as shown above
+Click “Re-deploy” again (or just “Restart” if on Replit)
+
+Pythonst.number_input(
+    "Number of Quotes",
+    0, 50, 
+    st.session_state.get("num_quotes", 2),
+    key="num_quotes"    # ← add this one line and it will work everywhere
+)
+99% of the time, adding key= is all you need.
+Try that right now and let me know if it still freezes – if it does, paste the relevant 20–30 lines of code here and I’ll pinpoint the exact line.

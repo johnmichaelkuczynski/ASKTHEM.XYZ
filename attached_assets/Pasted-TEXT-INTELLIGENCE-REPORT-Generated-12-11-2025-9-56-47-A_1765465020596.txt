@@ -1,0 +1,563 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/11/2025, 9:56:47 AM
+Source Length: 9943 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+No quotes extracted
+
+--- ANNOTATED CITATIONS ---
+No annotated quotes
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+undefined
+
+[Chunk 2]
+
+
+[Chunk 3]
+undefined
+
+[Chunk 4]
+undefined
+
+[Chunk 5]
+undefined
+
+[Chunk 6]
+undefined
+
+[Chunk 7]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+undefined
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+undefined
+
+═══ CHUNK 4 ═══
+undefined
+
+═══ CHUNK 5 ═══
+undefined
+
+═══ CHUNK 6 ═══
+undefined
+
+═══ CHUNK 7 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: Philosophy of religion doesn't concern religion itself
+   EVIDENCE: "The so-called philosophy of religion doesn't concern religion."
+
+2. VIEW: Philosophy of religion concerns logical puzzles
+   EVIDENCE: "It concerns puzzles that can be illustrated in connection with religious questions but are really of a strictly logical nature."
+
+3. VIEW: The Omnipotence Paradox (OG) is not about God
+   EVIDENCE: "OG doesn't have anything to do with God."
+
+4. VIEW: The Omnipotence Paradox is about logical subtleties
+   EVIDENCE: "It has to do with subtleties of logic that, although they can be illustrated in connection with statements concerning God, have nothing to do with Her."
+
+5. VIEW: The Omnipotence Paradox parallels the Barber Paradox
+   EVIDENCE: "OG perfectly parallels the following argument."
+
+6. VIEW: Both the Omnipotence and Barber Paradoxes expose logical problems with quantifiers
+   EVIDENCE: "Both paradoxes expose logical problems relating to the use of quantifiers."
+
+7. VIEW: Philosophy of religion often veers off into irrelevant logical minutiae
+   EVIDENCE: "its efforts to do this quickly veer off course and end up bogging down in logical minutiae that are of no relevance to religion at all."
+
+8. VIEW: St. Thomas Aquinas's argument (AG1) is flawed
+   EVIDENCE: "So Aquinas has simply assumed that there was a first event, and he thus hasn't established it at all."
+
+9. VIEW: The first sentence of AG1 is ambiguous
+   EVIDENCE: "The first sentence of AG1, which we'll refer to as (a), is ambiguous."
+
+10. VIEW: AG1's first sentence can mean two different things
+   EVIDENCE: "It could mean either: (a1) Given any event x, there is some event y, such that y precedes x or (a2) there is some event x such that, for any event y, x precedes y."
+
+11. VIEW: AG1 fails if interpreted with meaning (a1)
+   EVIDENCE: "So (a) fails if (a) is taken to have (a1) for its meaning, and AG1 must therefore be assumed to have (a2) for its meaning."
+
+12. VIEW: Assuming a first event does not prove God's existence
+   EVIDENCE: "But supposing, if only for argument's sake, that there was a first event, it doesn't follow, at least not for any obvious reason, that it was an act of God."
+
+13. VIEW: Atheists might be inconsistent in believing in a first event
+   EVIDENCE: "It may be that atheists cannot, without being guilty of inconsistency, believe in a first event (such as the Big Bang)."
+
+14. VIEW: Aquinas's second argument (AG2) for God's existence is flawed
+   EVIDENCE: "AG2 is a failure."
+
+15. VIEW: Comparatives do not require absolutes
+   EVIDENCE: "Contrary to what Aquinas believes, there don't have to be absolutes for there to be comparatives."
+
+16. VIEW: The statement about Smith's condition being more like a perfect entity's is syntactically ambiguous
+   EVIDENCE: "(#) is ambiguous not because it contains an ambiguous constituent, but because there are two different ways of parsing it."
+
+17. VIEW: Syntactic ambiguity arises from different ways of parsing a sentence
+   EVIDENCE: "An expression is syntactically ambiguous iff it can be parsed in more than one way."
+
+18. VIEW: Pre-modern philosophers were only dimly aware of syntactic ambiguity
+   EVIDENCE: "Pre-modern philosophers, such as Aquinas, were only dimly aware of"
+
+19. VIEW: Syntactic ambiguity causes problems with AG2
+   EVIDENCE: "the phenomenon of syntactic ambiguity. Hence the problems with AG2."
+
+20. VIEW: Studying Aquinas's arguments teaches about sentence structure and argumentation
+   EVIDENCE: "In the course of studying these two arguments, we've learned a lot about sentence structure and about argumentation in general."
+
+21. VIEW: Studying Aquinas's arguments does not teach about God or religion
+   EVIDENCE: "But we didn't learn anything about God or religion."
+
+22. VIEW: Aquinas's arguments do not indicate whether God exists or not
+   EVIDENCE: "But his arguments don't fail in a way that gives us any indication as to whether God does or does not exist."
+
+23. VIEW: It is futile to provide rational arguments for or against religious belief
+   EVIDENCE: "1.1 The futility of trying to provide rational arguments for or against religious belief"
+
+24. VIEW: Religion is not science or logic
+   EVIDENCE: "Religion is not science or logic, and to the extent that one's beliefs are based on rational consideration of the relevant evidence, one is a person of science, not of religion."
+
+25. VIEW: Smith is not religious
+   EVIDENCE: "Smith hasn't a religious bone in his body."
+
+26. VIEW: Smith is an open thinker
+   EVIDENCE: "But he's an open thinker and doesn't want to assume, without first exercising due diligence, either that God exists or that God does not exist."
+
+27. VIEW: Smith does not conclude that God doesn't exist based on bogus evidence
+   EVIDENCE: "Smith doesn't conclude that God doesn't exist."
+
+28. VIEW: Smith concludes he doesn't yet have reason to believe otherwise based on bogus evidence
+   EVIDENCE: "Being a scientifically minded person, he rightly concludes only that he doesn't yet have reason to believe otherwise."
+
+29. VIEW: Smith warms to the idea that God exists based on convincing evidence
+   EVIDENCE: "Since he finds it convincing, he begins to warm to the idea that God exists."
+
+30. VIEW: Smith modifies his views based on new evidence
+   EVIDENCE: "And if new evidence turns up, he'll modify his views accordingly."
+
+31. VIEW: Smith's belief in God is contingent on available evidence
+   EVIDENCE: "Smith's belief in God goes only as far as the available evidence permits."
+
+32. VIEW: Smith is not religious even if he believes in God
+   EVIDENCE: "For this reason, even if Smith does finally arrive at the belief that God exists, he isn't religious."
+
+33. VIEW: A person can be both religious and scientific
+   EVIDENCE: "Of course, one can be both religious and scientific."
+
+34. VIEW: Newton was very religious
+   EVIDENCE: "Newton was very religious."
+
+35. VIEW: Newton would not have been religious if his beliefs about God were as evidence-based as his beliefs about physics
+   EVIDENCE: "Had Newton's beliefs about God been as evidence-based as his beliefs about physics, he would not have been a religious person."
+
+36. VIEW: A person who believes in God isn't religious if their belief is contingent on data consistency
+   EVIDENCE: "A person who believes in God isn't religious if that person's acceptance of that position is contingent on its being consistent with the data."
+
+37. VIEW: It is silly to try to undermine religious belief by arguing it doesn't square with the facts
+   EVIDENCE: "This is why it's silly to try to undermine religious belief by arguing that it doesn't square with the facts."
+
+38. VIEW: Religious belief is not subject to views on what inferences the available data warrants
+   EVIDENCE: "What distinguishes religious from scientific belief is precisely that the former, unlike the latter, isn't subject to one's views as to what inferences the available data warrants."
+
+39. VIEW: Religious people are unmoved by anti-religious arguments
+   EVIDENCE: "Religious people know this. That's why they are unmoved by anti-religious arguments."
+
+40. VIEW: Religious people are right to be unmoved by anti-religious arguments
+   EVIDENCE: "And they're right to be unmoved."
+
+41. VIEW: A religious attitude is not marked by subservience to data and logic
+   EVIDENCE: "To the extent that it's a religious attitude they wish to hold onto, it would be incoherent of them to regard recalcitrant data as giving them a reason to jettison that attitude, since a religious attitude is precisely one that isn't marked by the subservience to data and logic characteristic of the scientific view."
+
+42. VIEW: The author is not a religious person
+   EVIDENCE: "I am not a religious person and I don't believe in God."
+
+43. VIEW: The author's views on religion are biased in favor of an anti-religious perspective
+   EVIDENCE: "what I say about religion is biased in favor of an anti-religious perspective."
+
+44. VIEW: The chapter won't target religious belief
+   EVIDENCE: "this chapter won't target religious belief."
+
+45. VIEW: The arguments in the chapter have anti-religious consequences
+   EVIDENCE: "I will put forth some arguments that might appear to have anti-religious consequences."
+
+46. VIEW: The arguments in the chapter do not really have anything to do with religion
+   EVIDENCE: "But, though I obviously accept those arguments, what they prove, in my opinion, doesn't really have anything to do with religion."
+
+47. VIEW: The arguments in the chapter have to do with attempts to doctrinalize religious sentiment
+   EVIDENCE: "It has to do with certain attempts to doctrinalize religious sentiment-that is, with attempts to identify religious sentiment with acceptance of well defined contentions as to how the world is."
+
+48. VIEW: Religion typically involves acceptance of well-defined contentions
+   EVIDENCE: "religion typically involves acceptance of well-defined contentions (concerning morality, the structure of the universe, etc.)"
+
+49. VIEW: Attacking religion on scientific or logical grounds is misguided
+   EVIDENCE: "those who attack religion on scientific or logical grounds-on the grounds that what Darwin or Einstein said is inconsistent with this or that religious contention- are misguidedly trying to understand religious sentiment in epistemological terms"
+
+50. VIEW: Religious sentiment should be understood in psychoanalytic terms
+   EVIDENCE: "when in fact it is to be understood in psychoanalytic terms"
+
+51. VIEW: The philosophy of religion tends to be sterile
+   EVIDENCE: "And this, I believe, is part of the reason why the philosophy of religion tends to be so sterile."
+
+52. VIEW: Attempts to liberalize religious belief are futile
+   EVIDENCE: "1.3 The futility of attempts to liberalize religious belief"
+
+53. VIEW: Saying 'God is love' is not the view of somebody who believes in God
+   EVIDENCE: "But it isn't the view of somebody who believes in God."
+
+54. VIEW: Freud was an atheist who believed that people sometimes love other people
+   EVIDENCE: "Freud was an atheist, and he certainly believed that people sometimes love other people."
+
+55. VIEW: Identifying God with logic, truth, or reason is not the view of a religious person
+   EVIDENCE: "But they're not the views of a religious person, since there is no shortage of dedicated atheists who believe in logic"
+
+56. VIEW: The author does not know whether there is a God
+   EVIDENCE: "I don't know whether there is a God."
+
+57. VIEW: The author does not know what it means to say that there is a God
+   EVIDENCE: "I don't even know what it means to say that there is a God."
+
+58. VIEW: God isn't truth, logic, or love
+   EVIDENCE: "So God isn't truth, logic, or love"
+
+59. VIEW: Attempts to identify God with reason or truth or love are dishonest and incoherent
+   EVIDENCE: "Attempts to identify God with reason or truth or love are dishonest and incoherent"
+
+60. VIEW: Religious belief is free of the tentativeness and evidence-dependence of scientific belief
+   EVIDENCE: "Given that religious belief is of its very nature free of the tentativeness and evidence-dependence of scientific belief"
+
+61. VIEW: Religious people have no obligation to defend their views
+   EVIDENCE: "religious people have no obligation to defend their views."
+
+62. VIEW: Some very great philosophers and scientists have been devoutly religious
+   EVIDENCE: "some very great philosophers and scientists (e.g., Kant, Newton) have been devoutly religious"
+
+63. VIEW: A view that is only as good as the logic and evidence underlying it is a non-religious view
+   EVIDENCE: "a view that is only as good as the logic and evidence underlying it is ipso facto a non-religious view."
+
+64. VIEW: Defending a view concedes that it needs a defense and is presumed false until proven correct
+   EVIDENCE: "In defending a view that one holds, one is conceding that it needs a defense and therefore that it is to be presumed false until proven correct."
+
+65. VIEW: Defending a religious view is almost the same as apologizing for it
+   EVIDENCE: "Defending a religious view is the same as explaining why one holds it, and explaining why one holds it is almost the same as apologizing for it."
+
+66. VIEW: Many self-described atheists are actually crypto-believers
+   EVIDENCE: "many self-described atheists are actually crypto-believers."
+
+67. VIEW: Some philosophers speaking of logical or ethical standards may be speaking about God
+   EVIDENCE: "when some philosophers speak of the logical or ethical standards to which judgments and acts ought to conform, they are at some level speaking about God."
+
+68. VIEW: Acceptance of logical or ethical standards can be an expression of belief in God
+   EVIDENCE: "Acceptance of such rarefied and depersonalized arbiters and right and wrong is sometimes, I would conjecture, a distorted and oblique expression of a belief in God."
+
+69. VIEW: There is no relationship between the degree of religiosity and intelligence
+   EVIDENCE: "Is there a relationship between the degree to which one is religious and the extent to which one is intelligent? No."
+
+70. VIEW: Some of the most intelligent people are religious
+   EVIDENCE: "Some of the most intelligent people I know, or know of, are religious"
+
+71. VIEW: Some of the least intelligent people are non-religious
+   EVIDENCE: "some of the least intelligent are non-religious."
+
+72. VIEW: Religious belief isn't about facts or logic
+   EVIDENCE: "The reason why people of such intelligence may believe in religious doctrines that are insufficiently supported by facts and logic is that religious belief isn't about facts or logic."
+
+73. VIEW: Philosophy has nothing to teach us about religion, with one exception
+   EVIDENCE: "There is only one qualification to my previous statement that philosophy has nothing to teach us about religion."
+
+74. VIEW: Plato's Euthyphro argument is cogent
+   EVIDENCE: "I consider that argument to be cogent."
+
+75. VIEW: Understanding the Euthyphro Argument is a reliable indicator of philosophical aptitude
+   EVIDENCE: "Anthony Flew, a contemporary philosopher, said that there is an easy and reliable way to determine whether a person has an aptitude for philosophy: she does if she understands the Euthyphro Argument; she doesn't if she doesn't."
+
+76. VIEW: Agreement with the Euthyphro argument's conclusion indicates non-religiosity
+   EVIDENCE: "If she agrees with the conclusion of the Euthyphro argument, she's not religious; and if she disagrees with it, she is."
+
+77. VIEW: Some acts are inherently good and others are inherently bad
+   EVIDENCE: "Some acts are good and others are bad."
+
+78. VIEW: The goodness of an act is not determined by God's liking it
+   EVIDENCE: "If an act is good, that is because God likes it. In other words, God's liking it is what causes it to be good. If an act is bad, God's disliking it is what causes it to be bad. Until God likes or dislikes an act, it remains neutral. Basically, to be good is to be liked by God, and to be bad is to be disliked by God. Of course, G assumes that God exists. For argument's sake, let's grant that assumption. Is G correct? No."
+
+79. VIEW: Rape would remain bad even if God liked it
+   EVIDENCE: "What if God liked rape? Would that make it good? No. Rape would be bad even if God liked it, and God would be bad for liking it."
+
+80. VIEW: Acts of kindness would remain good even if God disliked them
+   EVIDENCE: "What if God disliked acts of kindness? Would that make such acts bad? No. They would still be good, and God would be bad for disliking them."
+
+81. VIEW: God's maximal goodness does not validate the claim that God's preferences determine morality
+   EVIDENCE: "CG doesn't work."
+
+82. VIEW: God has a reason for disliking rape, based on its inherent wrongness
+   EVIDENCE: "Surely God has a good reason for disliking rape. But what could that reason be? The answer is clear: rape is bad; rape is wrong."
+
+83. VIEW: Morality is independent of God's views
+   EVIDENCE: "Conclusion: Morality is independent of God's views."
+
+84. VIEW: God's moral perfection and intellectual infallibility align with inherent moral truths
+   EVIDENCE: "If, as many of us believe, God is morally perfect and intellectually infallible, then God will like all morally good acts and dislike all morally bad ones."
+
+85. VIEW: God cannot make rape morally good
+   EVIDENCE: "Could God make rape to be morally good? No. Even God cannot make rape be good."
+
+86. VIEW: Claims of divine commands to commit evil acts are inconsistent with our moral views
+   EVIDENCE: "One reason is that what the ghoul in question is claiming is inconsistent with our views about morality."
+
+87. VIEW: Claims of divine commands to commit evil acts are often doubted due to other factors like mental illness or political ambition
+   EVIDENCE: "There is independent evidence of mental illness or of political ambition or of some other factor that would explain why, even though God did not speak to him, the evil-doer in question would say otherwise."
+
+88. VIEW: Even if God speaks to individuals, it is not because of His commands that we believe certain acts are wrong
+   EVIDENCE: "This shows that even if God speaks to certain individuals, it isn't because of what He told them that we believe that rape, theft, and so on, are wrong."
+
+89. VIEW: God would never condemn certain actions
+   EVIDENCE: "think that God would never condemn it"
+
+90. VIEW: The author's arguments will not affect those who already believe certain actions are wrong
+   EVIDENCE: "I'll have no effect on those who already think that x is wrong"
+
+91. VIEW: The legitimacy of a claim that God said something can only be determined by considering the merits of the claim itself
+   EVIDENCE: "it is only by considering the merits of X itself that we can determine whether that claim is legitimate or not"
+
+92. VIEW: Our acceptance or rejection of a claim is not based on what God says
+   EVIDENCE: "our decision to accept or reject X is not based on what God says"
+
+93. VIEW: Our views on right and wrong are independent of what God believes
+   EVIDENCE: "Our views as to what is right and wrong don't have anything to do with what God believes"
+
+94. VIEW: The Divine Command Theory cannot legitimate existing religious practices or beliefs
+   EVIDENCE: "the Divine Command Theory can do nothing in the way of legitimating existing religious practices or beliefs"
+
+95. VIEW: Many people believe in the existence of an all-powerful, all-good, and all-knowing God
+   EVIDENCE: "Many people hold that there is a God and that He is all-powerful, all-good, and all-knowing"
+
+96. VIEW: The existence of bad things in the world suggests that either God does not exist or is not all-powerful, all-good, and all-knowing
+   EVIDENCE: "This suggests that there is no God or that, if there is a God, He isn't all-powerful, all-good, and all-knowing"
+
+97. VIEW: Some people believe there is no God
+   EVIDENCE: "There is no God"
+
+98. VIEW: Some people believe there is a God but He is not all-powerful, all-good, and all-knowing
+   EVIDENCE: "There is a God, but He's not all-powerful, all-good, and all-knowing"
+
+99. VIEW: Some people believe there is no real badness, only the illusion of it
+   EVIDENCE: "There is no badness-there is only the illusion of badness"
+
+100. VIEW: Some people believe that if we knew God's master plan, we would understand why bad things happen
+   EVIDENCE: "If we were to know God's master- plan, we'd see that it's okay that people have their arms and legs blown off"
+
+101. VIEW: It is possible to believe in both the existence of badness and an all-powerful, all-good, and all-knowing God
+   EVIDENCE: "there is nothing absurd in believing in the existence of badness and in the existence of all-powerful, all-good, and all-knowing God"
+
+102. VIEW: The view that God exists and is all-powerful, all-good, and all-knowing despite the existence of evil is considered philosophically interesting
+   EVIDENCE: "there is a fourth view, and it is the view that, from a philosophical standpoint, is the most interesting"
+
+103. VIEW: Some thinkers believe that the existence of an all-powerful, all-good, and all-knowing God is coherent despite the existence of evil
+   EVIDENCE: "many fine thinkers hold that (d) is not incoherent"
+
+104. VIEW: Theodicies are attempts to show that the existence of an all-powerful, all-good, and all-knowing God is coherent despite evil
+   EVIDENCE: "Attempts to show that (d) is coherent are known as theodicies"
+
+105. VIEW: God wants the world to be as good as possible
+   EVIDENCE: "Because He is good, God wants the world to be a good place. In fact, He wants it to be as good as possible"
+
+106. VIEW: A world with free will is better than a world without it
+   EVIDENCE: "A world where nothing has free will wouldn't be a very good world, and it wouldn't be as good as one where there were creatures with free will"
+
+107. VIEW: A world of robots who do no wrong is not as good as a world of free creatures that do some wrong
+   EVIDENCE: "A world of robots who do no wrong isn't as good as a world of free creatures that do some wrong"
+
+108. VIEW: God gave humans free will to avoid them being soulless robots
+   EVIDENCE: "Not wanting us to be soulless robots, God gave us free will"
+
+109. VIEW: God stepping in to prevent every disaster would make life too easy
+   EVIDENCE: "In that case, life would be a big cakewalk, and we, as a species, would never develop any character."
+
+110. VIEW: Preventing all disasters would prevent human development of character
+   EVIDENCE: "we, as a species, would never develop any character."
+
+111. VIEW: Human ingenuity and fortitude would not be tested if God prevented all disasters
+   EVIDENCE: "Our ingenuity and fortitude would never be put to the test."
+
+112. VIEW: Preventing all disasters would deprive humans of a chance to prove and improve themselves
+   EVIDENCE: "We'd be deprived of a chance to prove and improve ourselves, which would strip life of much of its meaning."
+
+113. VIEW: Life without challenges would be meaningless
+   EVIDENCE: "if it weren't a challenge, it wouldn't be meaningful."
+
+114. VIEW: A certain amount of strife enriches life
+   EVIDENCE: "A certain amount of strife enriches life."
+
+115. VIEW: Too much strife impoverishes life
+   EVIDENCE: "But too much impoverishes it."
+
+116. VIEW: There is too much strife for the theodicy to work
+   EVIDENCE: "There's too much strife for this theodicy to work."
+
+117. VIEW: God cannot make 1 + 1 = 3
+   EVIDENCE: "She is unable to make 1 + 1 = 3."
+
+118. VIEW: Something is impossible if the idea of doing it is incoherent
+   EVIDENCE: "For something to be impossible is not for it to be very hard to do: it is for the very idea of doing that thing to be an incoherent one."
+
+119. VIEW: Reading a thousand-page book in two seconds is logically possible but practically impossible
+   EVIDENCE: "The reason it is possible to read such a large book in so little time is that the idea of doing so is not incoherent."
+
+120. VIEW: Something preexisting itself is logically impossible
+   EVIDENCE: "It seems impossible, in other words, that something should come into existence before it comes into existence."
+
+121. VIEW: Impossibilities are expressed by self-undermining statements
+   EVIDENCE: "Impossibilities are expressed by self-undermining statements and, therefore, by non-statements."
+
+122. VIEW: The statement 'X preexists itself' is self-defeating
+   EVIDENCE: "The statement: (PE) X preexists itself denies the very thing that it affirms."
+
+123. VIEW: God cannot create a square circle
+   EVIDENCE: "I say 'no.'"
+
+124. VIEW: God's inability to create a square circle does not limit Her powers
+   EVIDENCE: "this does not show that Her powers are in any way limited."
+
+125. VIEW: A square circle is an impossibility because it involves contradictory definitions
+   EVIDENCE: "A square is by definition something that has four straight sides. A circle is by definition something that has no straight sides."
+
+126. VIEW: Saying God cannot create a square circle does not ascribe any limitation to God's powers
+   EVIDENCE: "So in saying that God cannot create a square circle, there is no coherent statement that we are negating, and we are therefore not managing to ascribe any genuine limitation to God's powers."
+
+127. VIEW: Impossibility is often mistakenly thought of as a property of things
+   EVIDENCE: "We pre-theoretically tend to think of impossibility as a property of things."
+
+128. VIEW: The statement about square circles and other impossibilities is not incoherent
+   EVIDENCE: "But it is not incoherent."
+
+129. VIEW: SC makes a statement about statements, not objects
+   EVIDENCE: "SC doesn't make a statement about objects: it makes a statement about statements."
+
+130. VIEW: All statements of the form 'X is a square circle' are false
+   EVIDENCE: "It says that all statements of the form X is a square circle (and X is a perpetual motion machine and X is an even prime greater than two) are false."
+
+131. VIEW: SC does not say that any object is or is not a perpetual motion machine
+   EVIDENCE: "So SC doesn't say of any object that it is, or is not, a perpetual motion machine."
+
+132. VIEW: There are no perpetual motion machines
+   EVIDENCE: "It couldn't possibly say this, since there are no perpetual motions and there are therefore no perpetual motion machines of which to say that they are impossible."
+
+133. VIEW: SC makes a statement about existing statements
+   EVIDENCE: "Rather than making a statement about non-existent perpetual motion machines...SC makes a statement about very much existing statements."
+
+134. VIEW: Every statement of the form 'X is a perpetual motion machine' is untrue
+   EVIDENCE: "More specifically, it says that every statement having the form X is a perpetual motion machine is untrue."
+
+135. VIEW: Impossibility is not a property of things
+   EVIDENCE: "In general, impossibility is not a property of things."
+
+136. VIEW: If something is impossible, it does not exist
+   EVIDENCE: "After all, if something is impossible, then it cannot, and therefore does not, exist."
+
+137. VIEW: Impossibility is a property of statements
+   EVIDENCE: "Impossibility is a property, not of things, but of statements."
+
+138. VIEW: A statement is impossible if it is incoherent
+   EVIDENCE: "And, as we saw in the previous section, a statement is impossible if it is incoherent."
+
+139. VIEW: Most incoherent statements contradict themselves implicitly
+   EVIDENCE: "We must bear in mind that most incoherent statements contradict themselves implicitly, not explicitly."
+
+140. VIEW: The statement 'X is knowledge, but it isn't true belief' is incoherent
+   EVIDENCE: "The statement: (KB) X is knowledge, but it isn't true belief is incoherent."
+
+141. VIEW: The statement 'X is knowledge, but it isn't true belief' implicitly has the form P and not-P
+   EVIDENCE: "Since any instance of knowledge is necessarily an instance of true belief, KB does, albeit implicitly, say that X simultaneously is, and is not, true belief."
+
+142. VIEW: Saying that God cannot do the impossible does not imply the existence of impossible objects
+   EVIDENCE: "To say that God cannot do the impossible is therefore not to say that there exist certain things that God cannot do or objects that He cannot create."
+
+143. VIEW: There are no impossible objects
+   EVIDENCE: "There exist no impossible objects."
+
+144. VIEW: If something exists, it is not impossible
+   EVIDENCE: "If something exists, then it isn't impossible."
+
+145. VIEW: There are incoherent statements
+   EVIDENCE: "But there are incoherent statements."
+
+146. VIEW: An incoherent statement ultimately does not say anything
+   EVIDENCE: "An incoherent statement is one that does not, ultimately, say anything (since it denies, and therefore retracts, what it affirms)."
+
+147. VIEW: An incoherent statement, at some level, is meaningful
+   EVIDENCE: "The statement: (A) X is a square circle is obviously, at some level, meaningful; and it obviously does say something."
+
+148. VIEW: The utterance 'Frog the marathon pool clearly dabble' is completely meaningless
+   EVIDENCE: "An example of a completely meaningless utterance-one that simply fails to say anything at all-would be: (B) Frog the marathon pool clearly dabble."
+
+149. VIEW: The statement 'X is a square circle' is incoherent but not meaningless
+   EVIDENCE: "It is clear that (A) is incoherent. But it is not clear that (A) is meaningless."
+
+150. VIEW: The statement 'X is a square circle' seems to say something, albeit something defective
+   EVIDENCE: "(A) very much does seem to say something, albeit something defective."
+
+151. VIEW: For a statement to be meaningless is for it to have no meaning
+   EVIDENCE: "For a statement to be meaningless is for it to have no meaning."
+
+152. VIEW: For a statement to be incoherent is for it to have two or more opposed meanings
+   EVIDENCE: "For a statement to be incoherent is for it to have two (or more) opposed meanings."
+
+153. VIEW: The statement 'X is a square circle' has two meanings
+   EVIDENCE: "By contrast, (A) has two meanings."
+
+154. VIEW: The two meanings of 'X is a square circle' cancel each other out
+   EVIDENCE: "But ultimately it has no meaning, since those two meanings cancel each other out."
+
+155. VIEW: Incoherent statements ultimately fail to say anything
+   EVIDENCE: "Therefore, my previous statement-that incoherent statements ultimately fail to say anything- has turned out to be true."

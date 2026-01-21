@@ -1,0 +1,146 @@
+﻿What Is a
+formal
+language?
+
+Philosophy Shorts
+Volume 24
+
+J.-M. Kuczynski
+
+ 
+                              What is a Formal Language?
+
+
+                                      J.-M. Kuczynski
+
+
+  A formal language L may be identified with an ordered triple (E, G, M),
+
+where
+
+
+  (i) E is a class of primitive expressions;
+
+  (ii) G is L’s grammar or, equivalently, its syntax; and
+
+  (iii) M is a meaning-function for L or, equivalently, L’s semantics
+
+
+  A primitive expression is one that cannot be decomposed into other
+
+expressions.
+
+  A grammar is a set of rules that strings of primitive expressions must
+
+satisfy if they are to be grammatical. A grammatical string is a complex (non-
+
+primitive) expression. An ungrammatical string is not an expression of any
+
+kind. A grammar for a given language identifies the conditions satisfied by all
+
+of the members of the smallest class containing every complex expression of
+
+that language.
+
+  A meaning-function for a language L is a set of rules that R…R such
+                                                                          1n
+
+that, for any sentence S of that language, R…R identify S’s truth-conditions,
+                                                  1n
+
+i.e. R…R say, for any sentence S, under what circumstances S is true and
+    1n
+
+under what circumstances S is false.
+
+    Given any language L that does not consist solely of primitive
+
+expressions, any given primitive expressions E of L is defined by a rule to the
+
+effect that, in virtue of having the form “…E…”, a sentence S of L is true
+
+exactly if…x…, for some x. If O is identical with Richard Nixon, then the
+
+semantic rule for “Richard Nixon” is: In virtue of having the form “…Richard
+
+Nixon…”, a sentence S is true exactly if…O…Equivalently, a given such
+
+sentence is true just in case O is a thing x such that…x…
+
+  This analysis is no less true of proper names than it is predicates, logical
+
+operators, and grammatical markers. The reasons for this stated in my
+
+treatise Literal Meaning & Cognitive Content.
+
+  Thus, given any language L that does not consist only of primitive
+
+expressions, the corresponding meaning-function M identifies the truth-
+
+conditions of sentences indirectly: given an arbitrary sentence S and anarbitrary primitive expression E in S, M says how, by virtue of having the
+
+form “…E…”, S’s truth-conditions are different from how they would
+
+otherwise be.
+
+    Herein lies the solution to the question: How can a truth-conditional
+
+semantics----a semantics that assigns meanings to sentences by assigning
+
+truth-conditions to them---accommodate the fact that that there are truth-
+
+conditionally identical but meaning-distinct sentences, e.g.
+
+
+  (a) “There is some n such that n=2 if arithmetic is incomplete and n=3
+
+  otherwise such that Jim has n-many cars”
+
+
+and
+
+
+  (b) “Jim has two cars”,
+
+
+which, despite having the same truth-conditions, obviously differ in
+
+meaning. A sentence’s semantics is known when it is known what truth-
+
+conditions are assigned to it by the relevant semantic rules, and its syntax is
+
+known when it is known how exactly those rules assign those truth-
+
+conditions to that sentence. The expression “meaning” is ambiguous
+
+between meaning-what and meaning-how. “S’s meaning” can refer either to
+
+S’s semantics or to its semantic decomposition. S’s semantics coincide with
+
+its truth-conditions; S’s syntax coincides with its semantic decomposition.
+
+The expression “S’s meaning” refers to the information borne by S in virtue
+
+of its semantics and its semantic-decomposition. Given that (a) and (b) have
+
+different semantic-decompositions, it follows that they have different
+
+meanings, notwithstanding that they have the same truth-conditions and,
+
+therefore, the same semantics.
+
+  All languages are formal languages. A so-called “formal language” is a
+
+language that is formally described. An artificial language, being created, can
+
+be known to us only through an exact, and therefore a formal, descriptions
+
+of its syntax and semantics. A natural language, e.g. English, is not known to
+
+us in that way. But English obviously has a syntax and a semantics. In fact, it
+
+is precisely because English is so rich, syntactically and semantically, that we
+
+can have only an intuitive, and therefore hard to articular, as opposed to a
+
+discursive, and therefore readily articulated, knowledge of its syntax andsemantics.

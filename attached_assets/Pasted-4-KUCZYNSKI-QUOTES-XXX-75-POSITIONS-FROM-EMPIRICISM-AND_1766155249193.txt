@@ -1,0 +1,119 @@
+4 KUCZYNSKI QUOTES XXX
+
+75 POSITIONS FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY
+by John-Michael Kuczynski
+============================================================================
+
+CRITIQUE OF EMPIRICISM
+----------------------
+1. Empiricism forces the external world to appear as nothing more than a collection of mutually disconnected, ex nihilo events, since all there is to it is what observation reveals.
+2. To the extent a scientist complies with the empiricist credo that one must "stick to the facts," he cannot embed observable events in otherwise unobservable continuities.
+3. The empiricist, forced to hold that events occur spontaneously, is ipso facto incapable of explaining them.
+4. If completely described by conscious experience alone, a person's mind would consist of spontaneities flanked by lapses in consciousness that would themselves be spontaneities.
+5. Empiricism is inimical to the idea of any invisible structure.
+6. The term "empirical thought" is an oxymoron: to the extent that thought mediates between one's observations and one's beliefs, the latter are not directly supported by observation.
+7. Most philosophers describe themselves as empiricists; most really are empiricists, making heavy concessions to empiricism even when those concessions lack empiricism-independent justification.
+8. Empiricism-based or empiricism-inspired methodologies have damaged psychology.
+9. Hume accepted skepticism about sense-perception and induction on the grounds that they were corollaries of empiricism, instead of rejecting empiricism for that reason.
+10. Mach's characteristically empiricist position that molecules are but useful fictions was proven wrong by Einstein's work on Brownian motion.
+
+NON-SPATIOTEMPORAL ENTITIES
+---------------------------
+11. Propositions are non-spatiotemporal entities.
+12. Properties are non-spatiotemporal.
+13. The spatiotemporal world comprises no instances of any logical relations.
+14. Propositions consist of properties.
+15. There are five logical relations that may hold between propositions: entailment, confirmation, disconfirmation, incompatibility, and neutrality.
+16. The relata of logical relations must be things that are true or false.
+17. Properties cannot be identified with spatiotemporal entities whose constituents are that property's instances (scattered objects).
+18. Any two uninstantiated properties would be identical if properties were identical with scattered objects—which is obviously false.
+19. When a property ceases to be instantiated, it ceases to be instantiated but does not cease to exist.
+20. Empiricists deny that propositions exist because propositions, if they exist, are non-spatiotemporal.
+
+PROPOSITIONS AND MEANING
+------------------------
+21. A proposition is what one affirms when one makes a statement; it is not identical with any sentence.
+22. The same proposition can be the meaning of distinct sentences.
+23. Propositions consist of concepts.
+24. The meaning of a complex expression cannot be directly determined by convention; one must always figure out what is meant.
+25. Sentences, not propositions, being the relata of logical relations is an empiricist view that fails.
+26. It is really meanings (propositions) that entail one another; expressions entail each other only in a derivative sense.
+27. It is only in a doubly derivative sense that one expression entails another.
+28. Statements to the effect that a sentence is "formally true" or an argument is "formally valid" are abbreviated ways of making statements about propositions.
+29. Empiricists attempt to spatiotemporalize meaning, and these attempts fail as badly as their attempts to spatiotemporalize properties.
+30. Wittgenstein's thesis that "meaning is use" cannot be correct, as it would imply linguistic activity could occur on planets with no sentient life.
+
+CONSTITUTIVE VS. CAUSAL DEPENDENCE
+----------------------------------
+31. To say that x "mediates" y is to say that y's existence constitutively depends on x's—meaning the things composing y are identical with (a subset of) the things composing x.
+32. Constitutive dependence differs from causal dependence: a house's existence is constitutively, not causally, dependent on its bricks.
+33. One must distinguish the statement that X's parts are governed by laws L from the non-equivalent statement that X itself is governed by those laws.
+34. One must distinguish the statement that X complies with the same laws as Y from the non-equivalent statement that X-internal events are to be explained in terms of the same principles as Y-internal events.
+
+PSYCHOLOGY AND PHYSIOLOGY
+-------------------------
+35. Everything said about the relationship between physiology and microphysics holds of the relationship between psychology and physiology.
+36. Psychology and physiology are even more remote from each other than physiology and microphysics.
+37. Every proposition of every discipline other than psychology represents facts as being in a common spatiotemporal coordinate system; psychological propositions categorically do not.
+38. Your perception of a collision, though given as occurring in the same temporal manifold as the collision, is not given as occurring in the same spatial manifold.
+39. The explanatory generalizations of a given discipline consist of concepts distinct from those composing the explanatory generalizations of other disciplines.
+40. No physicalistic statements (concerning the spatiotemporal realm involving no psychological concepts) explain why mentalistic statements are true.
+
+CAUSATION
+---------
+41. The distinctively empiricist position (Hume's) holds that we see events but do not see forces, therefore we are not entitled to say that anything makes anything happen.
+42. This empiricist position on causation holds that statements of the form "given x, y had to happen" are categorically false.
+43. Causes do make effects happen; there are genuine causal forces, not merely regularities.
+44. Ernest Nagel's The Structure of Science assumes the cogency of Humean causation, which sullies this otherwise magisterial work.
+
+SUBPERSONAL MENTATION
+---------------------
+45. There is subpersonal thought—unconscious thought that underlies conscious, pre-conscious, and repressed ideation.
+46. The cognitive operations that mediate vision, language-comprehension, and musical ability are subpersonal.
+47. Your mind figures out how to convert sensory disturbances into visual images—but not you, i.e., not your self.
+48. It would be viciously regressive to say that you—your self—carried out cognitive operations underlying sense-perception.
+49. Subpersonal, non-iconic ideation becomes hewed to sequences of expression-images in the way geometrical propositions can be hewed to arithmetical propositions.
+50. Concepts are not constituents of consciousness; so far as they are conscious, they are access-conscious, not consciousness-constitutive.
+
+LANGUAGE AND THOUGHT
+--------------------
+51. Although symbol-manipulations facilitate ratiocinative operations, anything that one can think with the help of symbols one can think without them.
+52. Linguistic competence enhances cognitive competence; knowing a language makes one more intelligent than one would otherwise be.
+53. The relationship borne by Adam Smith's cognitive competence to his linguistic competence is constitutive, not causal.
+54. Linguistic competence is a component of cognitive competence, not merely a precursor of it.
+55. It seems to be a conceptual necessity, not an idiosyncrasy of human psychology, that complex cogitations need linguistic vehicles.
+56. One's having the cognitive wherewithal to write a treatise is constitutively related to one's linguistic competence.
+57. Berkeley was right that we don't grasp universals except by way of linguistic symbols, but wrong that our minds cannot grasp universals non-linguistically.
+58. Our minds must grasp universals non-linguistically if linguistic expressions are to mean anything to us.
+59. Berkeley conflated images with concepts, using "idea" to refer to both.
+
+EMPIRICISM AND PERCEPTION
+-------------------------
+60. Perception is not mere sensation; perceptions are articulated sensations, and the articulations correspond to conceptual knowledge.
+61. There is probably a conceptual dimension to perception.
+62. Different expressions are associated with different kinds of phenomenology.
+63. Congenial phenomenology alerts us to the presence of positive properties (truthfulness, validity) in expression-image series.
+64. Pleasant affects alert us to structural features in works of music, paintings, or buildings; unpleasant affects alert us to their absence.
+
+EMOTIONS AND EMPIRICIST ERROR
+-----------------------------
+65. Empiricists are forced to espouse radically implausible views concerning affect and emotion because they mistakenly treat relations as properties.
+66. Colors, tastes, and fragrances are not "purely" subjective as empiricists claim.
+67. Colors are properties of three-place relations, not two-place relations between observer and object.
+68. The empiricist wrongly puts a headache in the same category as concern for a child's welfare, treating each as equally non-cognitive "sentiment."
+69. If you stopped caring about your kidnapped child's welfare, your sphere of awareness would have shrunk; stopping a headache would not diminish awareness.
+
+PSYCHOPATHY AND SOCIOPATHY
+--------------------------
+70. A psychopath is someone who doesn't have a conscience and never had one to begin with.
+71. A sociopath is someone who had a conscience but ceased to have one.
+72. Sociopathogenesis is identical with, or largely constitutive of, a certain sort of rationalization.
+73. Sociopaths are people who "sell out" and "die inside," becoming empty husks that are but caricatures of their former selves.
+74. Psychopathy is a kind of perpetual infantilism.
+75. Unlike the sociopath, the psychopath never sold out; he had nothing to sell because he never had values.
+
+============================================================================
+SOURCE: Empiricism and the Foundations of Psychology
+AUTHOR: John-Michael Kuczynski
+PUBLISHER: John Benjamins Publishing Company
+SERIES: Advances in Consciousness Research, Volume 87

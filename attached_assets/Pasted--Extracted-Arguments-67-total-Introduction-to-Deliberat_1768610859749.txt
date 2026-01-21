@@ -1,0 +1,936 @@
+# Extracted Arguments (67 total)
+
+## Introduction to Deliberation and Choice
+
+### Argument 1 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- We deliberate not about ends but about means.
+- For a doctor does not deliberate whether he shall heal, nor an orator whether he shall persuade, nor a statesman whether he shall produce law and order, nor does any one else deliberate about his end.
+- They assume the end and consider how and by what means it is to be attained.
+
+**→ Conclusion:** We deliberate not about ends but about means.
+
+*Source: Introduction to Deliberation and Choice | Importance: 9/10*
+
+---
+
+### Argument 2 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- The same thing is deliberated upon and is chosen, except that the object of choice is already determinate.
+- Since it is that which has been decided upon as a result of deliberation that is the object of choice.
+- For every one ceases to inquire how he is to act when he has brought the moving principle back to himself and to the ruling part of himself; for this is what chooses.
+
+**→ Conclusion:** The object of choice is the determinate result of deliberation, chosen when the agent brings the moving principle back to himself.
+
+*Source: Introduction to Deliberation and Choice | Importance: 9/10*
+
+---
+
+### Argument 3 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- They assume the end and consider how and by what means it is to be attained.
+- If it seems to be produced by several means they consider by which it is most easily and best produced.
+- While if it is achieved by one only they consider how it will be achieved by this and by what means this will be achieved, till they come to the first cause, which in the order of discovery is last.
+
+**→ Conclusion:** Deliberation involves considering how and by what means an end is to be attained, evaluating multiple means for ease and effectiveness or tracing a single means to its first cause.
+
+*Source: Introduction to Deliberation and Choice | Importance: 8/10*
+
+---
+
+### Argument 4 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- It seems, then, as has been said, that man is a moving principle of actions.
+- Deliberation is about the things to be done by the agent himself.
+- Actions are for the sake of things other than themselves.
+
+**→ Conclusion:** Man is a moving principle of actions, deliberating about things to be done by himself for the sake of other ends.
+
+*Source: Introduction to Deliberation and Choice | Importance: 8/10*
+
+---
+
+### Argument 5 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- The person who deliberates seems to investigate and analyse in the way described as though he were analysing a geometrical construction.
+- Not all investigation appears to be deliberation—for instance mathematical investigations—but all deliberation is investigation.
+- What is last in the order of analysis seems to be first in the order of becoming.
+
+**→ Conclusion:** Deliberation is a form of investigation similar to geometrical analysis, where the last step in analysis is the first in becoming.
+
+**Counterarguments addressed:**
+- Not all investigation appears to be deliberation—for instance mathematical investigations
+
+*Source: Introduction to Deliberation and Choice | Importance: 7/10*
+
+---
+
+### Argument 6 (reductio ad absurdum)
+**Author:** aristotle
+
+**Premises:**
+- The end cannot be a subject of deliberation, but only the means.
+- Nor indeed can the particular facts be a subject of it, as whether this is bread or has been baked as it should; for these are matters of perception.
+- If we are to be always deliberating, we shall have to go on to infinity.
+
+**→ Conclusion:** Deliberation is limited to means and does not include ends or particular perceptual facts, as endless deliberation would lead to infinity.
+
+*Source: Introduction to Deliberation and Choice | Importance: 7/10*
+
+---
+
+### Argument 7 (causal)
+**Author:** aristotle
+
+**Premises:**
+- If we come on an impossibility, we give up the search, e.g. if we need money and this cannot be got.
+- But if a thing appears possible we try to do it.
+- By ‘possible’ things I mean things that might be brought about by our own efforts; and these in a sense include things that can be brought about by the efforts of our friends, since the moving principle is in ourselves.
+
+**→ Conclusion:** Deliberation ceases when an impossibility is encountered, but continues with possible actions, which are those achievable by our own efforts or through friends.
+
+*Source: Introduction to Deliberation and Choice | Importance: 6/10*
+
+---
+
+### Argument 8 (causal)
+**Author:** aristotle
+
+**Premises:**
+- Others to aid us in deliberation on important questions, distrusting ourselves as not being equal to deciding.
+- By ‘possible’ things I mean things that might be brought about by our own efforts; and these in a sense include things that can be brought about by the efforts of our friends, since the moving principle is in ourselves.
+
+**→ Conclusion:** Deliberation on important questions often involves others’ aid due to self-distrust, and possible actions include those achievable through friends since the moving principle remains in ourselves.
+
+*Source: Introduction to Deliberation and Choice | Importance: 6/10*
+
+---
+
+### Argument 9 (appeal to authority)
+**Author:** aristotle
+
+**Premises:**
+- This is plain also from the ancient constitutions, which Homer represented.
+- For the kings announced their choices to the people.
+
+**→ Conclusion:** The process of choice following deliberation is evident in ancient constitutions as represented by Homer, where kings announced their choices to the people.
+
+*Source: Introduction to Deliberation and Choice | Importance: 5/10*
+
+---
+
+## Virtue and Voluntary Action
+
+### Argument 10 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- actions concerning means must be according to choice and voluntary
+- Now the exercise of the virtues is concerned with means
+
+**→ Conclusion:** Therefore virtue also is in our own power, and so too vice
+
+*Source: Virtue and Voluntary Action | Importance: 10/10*
+
+---
+
+### Argument 11 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- where it is in our power to act it is also in our power not to act, and vice versa
+- so that, if to act, where this is noble, is in our power, not to act, which will be base, will also be in our power
+- and if not to act, where this is noble, is in our power, to act, which will be base, will also be in our power
+
+**→ Conclusion:** Now if it is in our power to do noble or base acts, and likewise in our power not to do them, and this was what being good or bad meant, then it is in our power to be virtuous or vicious
+
+*Source: Virtue and Voluntary Action | Importance: 9/10*
+
+---
+
+### Argument 12 (conditional)
+**Author:** aristotle
+
+**Premises:**
+- The saying that ‘no one is voluntarily wicked nor involuntarily happy’ seems to be partly false and partly true
+- for no one is involuntarily happy, but wickedness is voluntary
+
+**→ Conclusion:** Or else we shall have to dispute what has just been said, at any rate, and deny that man is a moving principle or begetter of his actions as of children
+
+**Counterarguments addressed:**
+- The saying that ‘no one is voluntarily wicked nor involuntarily happy’
+
+*Source: Virtue and Voluntary Action | Importance: 8/10*
+
+---
+
+### Argument 13 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- if these facts are evident and we cannot refer actions to moving principles other than those in ourselves
+- the acts whose moving principles are in us must themselves also be in our power and voluntary
+
+**→ Conclusion:** But if these facts are evident and we cannot refer actions to moving principles other than those in ourselves, the acts whose moving principles are in us must themselves also be in our power and voluntary
+
+*Source: Virtue and Voluntary Action | Importance: 8/10*
+
+---
+
+### Argument 14 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- Witness seems to be borne to this both by individuals in their private capacity and by legislators themselves
+- for these punish and take vengeance on those who do wicked acts (unless they have acted under compulsion or as a result of ignorance for which they are not themselves responsible)
+- while they honour those who do noble acts, as though they meant to encourage the latter and deter the former
+
+**→ Conclusion:** But no one is encouraged to do the things that are neither in our power nor voluntary
+
+*Source: Virtue and Voluntary Action | Importance: 7/10*
+
+---
+
+### Argument 15 (causal)
+**Author:** aristotle
+
+**Premises:**
+- we assume that it is in their power not to be ignorant, since they have the power of taking care
+- But perhaps a man is the kind of man not to take care
+- Still they are themselves by their slack lives responsible for becoming men of that kind
+
+**→ Conclusion:** men make themselves responsible for being unjust or self-indulgent, in the one case by cheating and in the other by spending their time in drinking bouts and the like
+
+**Counterarguments addressed:**
+- But perhaps a man is the kind of man not to take care
+
+*Source: Virtue and Voluntary Action | Importance: 7/10*
+
+---
+
+### Argument 16 (causal)
+**Author:** aristotle
+
+**Premises:**
+- Indeed, we punish a man for his very ignorance, if he is thought responsible for the ignorance, as when penalties are doubled in the case of drunkenness
+- for the moving principle is in the man himself, since he had the power of not getting drunk and his getting drunk was the cause of his ignorance
+
+**→ Conclusion:** And we punish those who are ignorant of anything in the laws that they ought to know and that is not difficult, and so too in the case of anything else that they are thought to be ignorant of through carelessness
+
+*Source: Virtue and Voluntary Action | Importance: 6/10*
+
+---
+
+### Argument 17 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- for it is activities exercised on particular objects that make the corresponding character
+- This is plain from the case of people training for any contest or action; they practise the activity the whole time
+
+**→ Conclusion:** Now not to know that it is from the exercise of activities on particular objects that states of character are produced is the mark of a thoroughly senseless person
+
+*Source: Virtue and Voluntary Action | Importance: 5/10*
+
+---
+
+## Courage and Its Variants
+
+### Argument 18 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- the virtues are voluntary (for we are ourselves somehow partly responsible for our states of character, and it is by being persons of a certain kind that we assume the end to be so and so)
+
+**→ Conclusion:** the vices also will be voluntary; for the same is true of them
+
+*Source: Courage and Its Variants | Importance: 9/10*
+
+---
+
+### Argument 19 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- if without being ignorant a man does the things which will make him unjust, he will be unjust voluntarily
+- it does not follow that if he wishes he will cease to be unjust and will be just
+- neither does the man who is ill become well on those terms
+- We may suppose a case in which he is ill voluntarily, through living incontinently and disobeying his doctors. In that case it was then open to him not to be ill, but not now, when he has thrown away his chance
+
+**→ Conclusion:** to the unjust and to the self-indulgent man it was open at the beginning not to become men of this kind, and so they are unjust and self-indulgent voluntarily; but now that they have become so it is not possible for them not to be so
+
+*Source: Courage and Its Variants | Importance: 8/10*
+
+---
+
+### Argument 20 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- If this is true, then, how will virtue be more voluntary than vice?
+- To both men alike, the good and the bad, the end appears and is fixed by nature or however it may be, and it is by referring everything else to this that men do whatever they do
+- Whether, then, it is not by nature that the end appears to each man such as it does appear, but something also depends on him, or the end is natural but because the good man adopts the means voluntarily virtue is voluntary
+
+**→ Conclusion:** vice also will be none the less voluntary; for in the case of the bad man there is equally present that which depends on himself in his actions even if not in his end
+
+*Source: Courage and Its Variants | Importance: 8/10*
+
+---
+
+### Argument 21 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- not only are the vices of the soul voluntary, but those of the body also for some men, whom we accordingly blame
+- while no one blames those who are ugly by nature, we blame those who are so owing to want of exercise and care
+- so it is, too, with respect to weakness and infirmity; no one would reproach a man blind from birth or by disease or from a blow, but rather pity him, while every one would blame a man who was blind from drunkenness or some other form of self-indulgence
+
+**→ Conclusion:** Of vices of the body, then, those in our own power are blamed, those not in our power are not
+
+*Source: Courage and Its Variants | Importance: 7/10*
+
+---
+
+### Argument 22 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Of vices of the body, then, those in our own power are blamed, those not in our power are not
+- if this be so, in the other cases also the vices that are blamed must be in our own power
+
+**→ Conclusion:** in the other cases also the vices that are blamed must be in our own power
+
+*Source: Courage and Its Variants | Importance: 7/10*
+
+---
+
+### Argument 23 (conditional)
+**Author:** aristotle
+
+**Premises:**
+- some one may say that all men desire the apparent good, but have no control over the appearance, but the end appears to each man in a form answering to his character
+
+**→ Conclusion:** if not, no one is responsible for his own evildoing, but every one does evil acts through ignorance of the end, thinking that by these he will get what is best
+
+**Counterarguments addressed:**
+- some one may say that all men desire the apparent good, but have no control over the appearance
+
+*Source: Courage and Its Variants | Importance: 6/10*
+
+---
+
+### Argument 24 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- some one may say that all men desire the apparent good, but have no control over the appearance
+- We reply that if each man is somehow responsible for his state of mind, he will also be himself somehow responsible for the appearance
+
+**→ Conclusion:** if each man is somehow responsible for his state of mind, he will also be himself somehow responsible for the appearance
+
+**Counterarguments addressed:**
+- some one may say that all men desire the apparent good, but have no control over the appearance
+
+*Source: Courage and Its Variants | Importance: 6/10*
+
+---
+
+### Argument 25 (causal)
+**Author:** aristotle
+
+**Premises:**
+- the aiming at the end is not self-chosen but one must be born with an eye, as it were, by which to judge rightly and choose what is truly good
+- he is well endowed by nature who is well endowed with this
+- it is what is greatest and most noble, and what we cannot get or learn from another, but must have just such as it was when given us at birth
+
+**→ Conclusion:** to be well and nobly endowed with this will be perfect and true excellence of natural endowment
+
+*Source: Courage and Its Variants | Importance: 5/10*
+
+---
+
+## Temperance and Self-Indulgence
+
+### Argument 26 (definitional)
+**Author:** aristotle
+
+**Premises:**
+- That it is a mean with regard to feelings of fear and confidence has already been made evident
+- plainly the things we fear are terrible things, and these are, to speak without qualification, evils
+- for which reason people even define fear as expectation of evil
+
+**→ Conclusion:** courage is a mean with regard to feelings of fear and confidence
+
+*Source: Temperance and Self-Indulgence | Importance: 9/10*
+
+---
+
+### Argument 27 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- In what circumstances, then? Surely in the noblest
+- Now such deaths are those in battle; for these take place in the greatest and noblest danger
+- And these are correspondingly honoured in city-states and at the courts of monarchs
+
+**→ Conclusion:** Properly, then, he will be called brave who is fearless in face of a noble death, and of all emergencies that involve death; and the emergencies of war are in the highest degree of this kind
+
+*Source: Temperance and Self-Indulgence | Importance: 9/10*
+
+---
+
+### Argument 28 (definitional)
+**Author:** aristotle
+
+**Premises:**
+- general we have stated their genus in outline, viz. that they are means and that they are states of character
+- they tend, and by their own nature, to the doing of the acts by which they are produced
+- they are in our power and voluntary, and act as the right rule prescribes
+
+**→ Conclusion:** virtues are means, states of character, voluntary, and guided by right rule
+
+*Source: Temperance and Self-Indulgence | Importance: 8/10*
+
+---
+
+### Argument 29 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- With what sort of terrible things, then, is the brave man concerned? Surely with the greatest
+- for no one is more likely than he to stand his ground against what is awe-inspiring
+- Now death is the most terrible of all things; for it is the end, and nothing is thought to be any longer either good or bad for the dead
+- But the brave man would not seem to be concerned even with death in all circumstances, e.g. at sea or in disease
+
+**→ Conclusion:** the brave man is concerned with the greatest terrible things, primarily death, but not in all circumstances
+
+*Source: Temperance and Self-Indulgence | Importance: 8/10*
+
+---
+
+### Argument 30 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- actions and states of character are not voluntary in the same way
+- we are masters of our actions from the beginning right to the end, if we know the particular facts
+- though we control the beginning of our states of character the gradual progress is not obvious any more than it is in illnesses
+- because it was in our power, however, to act in this way or not in this way
+
+**→ Conclusion:** therefore the states are voluntary
+
+*Source: Temperance and Self-Indulgence | Importance: 7/10*
+
+---
+
+### Argument 31 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Now we fear all evils, e.g. disgrace, poverty, disease, friendlessness, death
+- the brave man is not thought to be concerned with all
+- for to fear some things is even right and noble, and it is base not to fear them—e.g. disgrace
+- he who fears this is good and modest, and he who does not is shameless
+
+**→ Conclusion:** the brave man is not concerned with all evils, as some fears are right and noble
+
+*Source: Temperance and Self-Indulgence | Importance: 6/10*
+
+---
+
+### Argument 32 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- Poverty and disease we perhaps ought not to fear, nor in general the things that do not proceed from vice and are not due to a man himself
+- But not even the man who is fearless of these is brave
+- Yet we apply the word to him also in virtue of a similarity
+- for some who in the dangers of war are cowards are liberal and are confident in face of the loss of money
+
+**→ Conclusion:** not every fearless person is brave, though the term is applied by similarity
+
+*Source: Temperance and Self-Indulgence | Importance: 5/10*
+
+---
+
+### Argument 33 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Nor is a man a coward if he fears insult to his wife and children or envy or anything of the kind
+- nor brave if he is confident when he is about to be flogged
+
+**→ Conclusion:** fear or confidence in certain contexts does not define cowardice or bravery
+
+*Source: Temperance and Self-Indulgence | Importance: 4/10*
+
+---
+
+## Justice and Injustice
+
+### Argument 34 (definitional)
+**Author:** aristotle
+
+**Premises:**
+- Courage is a mean with respect to things that inspire confidence or fear, in the circumstances that have been stated.
+- It chooses or endures things because it is noble to do so, or because it is base not to do so.
+
+**→ Conclusion:** Courage is a mean with respect to things that inspire confidence or fear.
+
+*Source: Justice and Injustice | Importance: 9/10*
+
+---
+
+### Argument 35 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- The brave man, on the other hand, has the opposite disposition; for confidence is the mark of a hopeful disposition.
+- The coward, the rash man, and the brave man, then, are concerned with the same objects but are differently disposed towards them; for the first two exceed and fall short, while the third holds the middle, which is the right, position.
+
+**→ Conclusion:** The brave man holds the middle, which is the right, position.
+
+*Source: Justice and Injustice | Importance: 8/10*
+
+---
+
+### Argument 36 (normative)
+**Author:** aristotle
+
+**Premises:**
+- One ought to be brave not under compulsion but because it is noble to be so.
+
+**→ Conclusion:** One ought to be brave not under compulsion but because it is noble to be so.
+
+*Source: Justice and Injustice | Importance: 8/10*
+
+---
+
+### Argument 37 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- First comes the courage of the citizen-soldier; for this is most like true courage.
+- Citizen-soldiers seem to face dangers because of the penalties imposed by the laws and the reproaches they would otherwise incur, and because of the honours they win by such action.
+- Therefore those peoples seem to be bravest among whom cowards are held in dishonour and brave men in honour.
+
+**→ Conclusion:** The courage of the citizen-soldier is most like true courage.
+
+*Source: Justice and Injustice | Importance: 7/10*
+
+---
+
+### Argument 38 (causal)
+**Author:** aristotle
+
+**Premises:**
+- This kind of courage is most like to that which we described earlier, because it is due to virtue; for it is due to shame and to desire of a noble object (i.e. honour) and avoidance of disgrace, which is ignoble.
+
+**→ Conclusion:** This kind of courage is due to virtue.
+
+*Source: Justice and Injustice | Importance: 7/10*
+
+---
+
+### Argument 39 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- The man who exceeds in fear is a coward; for he fears both what he ought not and as he ought not, and all the similar characterizations attach to him.
+- He is lacking also in confidence; but he is more conspicuous for his excess of fear in painful situations.
+- The coward, then, is a despairing sort of person; for he fears everything.
+
+**→ Conclusion:** The man who exceeds in fear is a coward.
+
+*Source: Justice and Injustice | Importance: 6/10*
+
+---
+
+### Argument 40 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- To die to escape from poverty or love or anything painful is not the mark of a brave man, but rather of a coward.
+- It is softness to fly from what is troublesome, and such a man endures death not because it is noble but to fly from evil.
+
+**→ Conclusion:** To die to escape from poverty or love or anything painful is not the mark of a brave man, but rather of a coward.
+
+*Source: Justice and Injustice | Importance: 6/10*
+
+---
+
+### Argument 41 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- Experience with regard to particular facts is also thought to be courage; this is indeed the reason why Socrates thought courage was knowledge.
+- Professional soldiers exhibit this quality in the dangers of war; for there seem to be many empty alarms in war, of which these have had the most comprehensive experience.
+- Therefore they seem brave, because the others do not know the nature of the facts.
+
+**→ Conclusion:** Experience with regard to particular facts is thought to be courage.
+
+*Source: Justice and Injustice | Importance: 6/10*
+
+---
+
+### Argument 42 (comparative)
+**Author:** aristotle
+
+**Premises:**
+- Professional soldiers turn cowards, however, when the danger puts too great a strain on them and they are inferior in numbers and equipment.
+- They are the first to fly, while citizen-forces die at their posts, as in fact happened at the temple of Hermes.
+- For to the latter flight is disgraceful and death is preferable to safety on those terms; while the former from the very beginning faced the danger on the assumption that they were stronger.
+
+**→ Conclusion:** Professional soldiers turn cowards when the danger is too great, unlike citizen-forces.
+
+*Source: Justice and Injustice | Importance: 6/10*
+
+---
+
+### Argument 43 (comparative)
+**Author:** aristotle
+
+**Premises:**
+- Rash men are precipitate, and wish for dangers beforehand but draw back when they are in them.
+- Brave men are keen in the moment of action, but quiet beforehand.
+
+**→ Conclusion:** Brave men are keen in the moment of action, but quiet beforehand, unlike rash men.
+
+*Source: Justice and Injustice | Importance: 5/10*
+
+---
+
+### Argument 44 (comparative)
+**Author:** aristotle
+
+**Premises:**
+- One might rank in the same class even those who are compelled by their rulers; but they are inferior, inasmuch as they do what they do not from shame but from fear, and to avoid not what is disgraceful but what is painful.
+- Their masters compel them, as Hector does: But if I shall spy any dastard that cowers far from the fight, Vainly will such an one hope to escape from the dogs.
+
+**→ Conclusion:** Those compelled by rulers are inferior in courage compared to citizen-soldiers.
+
+*Source: Justice and Injustice | Importance: 5/10*
+
+---
+
+## Equity and Its Role
+
+### Argument 45 (definitional)
+**Author:** aristotle
+
+**Premises:**
+- Brave men act for honour’s sake, but passion aids them.
+- It was the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to.
+
+**→ Conclusion:** True bravery involves acting for honour’s sake and facing terrible things because it is noble.
+
+*Source: Equity and Its Role | Importance: 9/10*
+
+---
+
+### Argument 46 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Now brave men act for honour’s sake, but passion aids them; while wild beasts act under the influence of pain; for they attack because they have been wounded or because they are afraid.
+- Thus they are not brave because, driven by pain and passion, they rush on danger without foreseeing any of the perils, since at that rate even asses would be brave when they are hungry; for blows will not drive them from their food.
+- Lust also makes adulterers do many daring things.
+
+**→ Conclusion:** Wild beasts are not brave because they are driven by pain and passion.
+
+**Counterarguments addressed:**
+- Passion is sometimes reckoned as courage.
+
+*Source: Equity and Its Role | Importance: 8/10*
+
+---
+
+### Argument 47 (conditional)
+**Author:** aristotle
+
+**Premises:**
+- The ‘courage’ that is due to passion seems to be the most natural, and to be courage if choice and motive be added.
+
+**→ Conclusion:** The ‘courage’ that is due to passion seems to be the most natural, and to be courage if choice and motive be added.
+
+*Source: Equity and Its Role | Importance: 7/10*
+
+---
+
+### Argument 48 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Men, then, as well as beasts, suffer pain when they are angry, and are pleased when they exact their revenge.
+- Those who fight for these reasons, however, are pugnacious but not brave; for they do not act for honour’s sake nor as the rule directs, but from strength of feeling.
+
+**→ Conclusion:** Those who fight for reasons of anger and revenge are pugnacious but not brave.
+
+*Source: Equity and Its Role | Importance: 7/10*
+
+---
+
+### Argument 49 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- Passion also is sometimes reckoned as courage; those who act from passion, like wild beasts rushing at those who have wounded them, are thought to be brave, because brave men also are passionate.
+- For passion above all things is eager to rush on danger, and hence Homer’s ‘put strength into his passion’ and ‘aroused their spirit and passion’ and ‘hard he breathed panting’ and ‘his blood boiled’.
+
+**→ Conclusion:** Passion is sometimes reckoned as courage.
+
+*Source: Equity and Its Role | Importance: 6/10*
+
+---
+
+### Argument 50 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Nor are sanguine people brave; for they are confident in danger only because they have conquered often and against many foes.
+- Yet they closely resemble brave men, because both are confident; but brave men are confident for the reasons stated earlier, while these are so because they think they are the strongest and can suffer nothing.
+
+**→ Conclusion:** Sanguine people are not brave, though they closely resemble brave men.
+
+**Counterarguments addressed:**
+- Sanguine people might be considered brave due to their confidence in danger.
+
+*Source: Equity and Its Role | Importance: 6/10*
+
+---
+
+### Argument 51 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- Those who fight for reasons of anger and revenge are pugnacious but not brave; for they do not act for honour’s sake nor as the rule directs, but from strength of feeling.
+- They have, however, something akin to courage.
+
+**→ Conclusion:** Those who fight from strength of feeling have something akin to courage.
+
+*Source: Equity and Its Role | Importance: 5/10*
+
+---
+
+### Argument 52 (causal)
+**Author:** aristotle
+
+**Premises:**
+- Drunken men also behave in this way; they become sanguine.
+- When their adventures do not succeed, however, they run away; but it was the mark of a brave man to face things that are, and seem, terrible for a man, because it is noble to do so and disgraceful not to.
+
+**→ Conclusion:** Drunken men are not brave because they run away when their adventures fail.
+
+*Source: Equity and Its Role | Importance: 5/10*
+
+---
+
+## Voluntariness in Justice
+
+### Argument 53 (causal)
+**Author:** aristotle
+
+**Premises:**
+- And the more he is possessed of virtue in its entirety and the happier he is, the more he will be pained at the thought of death; for life is best worth living for such a man, and he is knowingly losing the greatest goods, and this is painful.
+- But he is none the less brave, and perhaps all the more so, because he chooses noble deeds of war at that cost.
+
+**→ Conclusion:** The more he is possessed of virtue in its entirety and the happier he is, the more he will be pained at the thought of death, but he is none the less brave, and perhaps all the more so, because he chooses noble deeds of war at that cost.
+
+*Source: Voluntariness in Justice | Importance: 9/10*
+
+---
+
+### Argument 54 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Though courage is concerned with feelings of confidence and of fear, it is not concerned with both alike, but more with the things that inspire fear.
+- For he who is undisturbed in face of these and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence.
+
+**→ Conclusion:** He who is undisturbed in face of things that inspire fear and bears himself as he should towards these is more truly brave than the man who does so towards the things that inspire confidence.
+
+*Source: Voluntariness in Justice | Importance: 8/10*
+
+---
+
+### Argument 55 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- And so, if the case of courage is similar, death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so or because it is base not to do so.
+
+**→ Conclusion:** Death and wounds will be painful to the brave man and against his will, but he will face them because it is noble to do so or because it is base not to do so.
+
+*Source: Voluntariness in Justice | Importance: 8/10*
+
+---
+
+### Argument 56 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Hence also it is thought the mark of a braver man to be fearless and undisturbed in sudden alarms than to be so in those that are foreseen; for it must have proceeded more from a state of character, because less from preparation.
+- Acts that are foreseen may be chosen by calculation and rule, but sudden actions must be in accordance with one’s state of character.
+
+**→ Conclusion:** It is thought the mark of a braver man to be fearless and undisturbed in sudden alarms than to be so in those that are foreseen.
+
+*Source: Voluntariness in Justice | Importance: 7/10*
+
+---
+
+### Argument 57 (causal)
+**Author:** aristotle
+
+**Premises:**
+- It is for facing what is painful, then, as has been said, that men are called brave.
+- Hence also courage involves pain, and is justly praised; for it is harder to face what is painful than to abstain from what is pleasant.
+
+**→ Conclusion:** Courage involves pain, and is justly praised; for it is harder to face what is painful than to abstain from what is pleasant.
+
+*Source: Voluntariness in Justice | Importance: 7/10*
+
+---
+
+### Argument 58 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- Yet the end which courage sets before it would seem to be pleasant, but to be concealed by the attending circumstances, as happens also in athletic contests.
+- For the end at which boxers aim is pleasant—the crown and the honours—but the blows they take are distressing to flesh and blood, and painful, and so is their whole exertion.
+- And because the blows and the exertions are many the end, which is but small, appears to have nothing pleasant in it.
+
+**→ Conclusion:** The end which courage sets before it would seem to be pleasant, but to be concealed by the attending circumstances.
+
+*Source: Voluntariness in Justice | Importance: 6/10*
+
+---
+
+### Argument 59 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- It is not the case, then, with all the virtues that the exercise of them is pleasant, except in so far as it reaches its end.
+
+**→ Conclusion:** It is not the case, then, with all the virtues that the exercise of them is pleasant, except in so far as it reaches its end.
+
+*Source: Voluntariness in Justice | Importance: 6/10*
+
+---
+
+### Argument 60 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- People who are ignorant of the danger also appear brave, and they are not far removed from those of a sanguine temper, but are inferior inasmuch as they have no self-reliance while these have.
+- Hence also the sanguine hold their ground for a time; but those who have been deceived about the facts fly if they know or suspect that these are different from what they supposed, as happened to the Argives when they fell in with the Spartans and took them for Sicyonians.
+
+**→ Conclusion:** People who are ignorant of the danger also appear brave, but are inferior to those of sanguine temper due to lacking self-reliance.
+
+*Source: Voluntariness in Justice | Importance: 5/10*
+
+---
+
+## Conclusion and Final Thoughts
+
+### Argument 61 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- We have said that temperance is a mean with regard to pleasures (for it is less, and not in the same way, concerned with pains).
+- Self-indulgence also is manifested in the same sphere.
+
+**→ Conclusion:** Temperance is a mean with regard to pleasures, and self-indulgence is manifested in the same sphere.
+
+*Source: Conclusion and Final Thoughts | Importance: 7/10*
+
+---
+
+### Argument 62 (analogical)
+**Author:** aristotle
+
+**Premises:**
+- After courage let us speak of temperance; for these seem to be the virtues of the irrational parts.
+
+**→ Conclusion:** Temperance, like courage, seems to be a virtue of the irrational parts.
+
+*Source: Conclusion and Final Thoughts | Importance: 6/10*
+
+---
+
+### Argument 63 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- We may assume the distinction between bodily pleasures and those of the soul, such as love of honour and love of learning.
+- For the lover of each of these delights in that of which he is a lover, the body being in no way affected, but rather the mind.
+- Men who are concerned with such pleasures are called neither temperate nor self-indulgent.
+
+**→ Conclusion:** Pleasures of the soul, such as love of honour and learning, do not relate to temperance or self-indulgence.
+
+*Source: Conclusion and Final Thoughts | Importance: 6/10*
+
+---
+
+### Argument 64 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Temperance must be concerned with bodily pleasures, but not all even of these.
+- For those who delight in objects of vision, such as colours and shapes and painting, are called neither temperate nor self-indulgent.
+- Yet it would seem possible to delight even in these either as one ought or to excess.
+
+**→ Conclusion:** Temperance is concerned with bodily pleasures, but not all bodily pleasures, such as visual delights, are necessarily related to temperance or self-indulgence.
+
+*Source: Conclusion and Final Thoughts | Importance: 6/10*
+
+---
+
+### Argument 65 (inductive)
+**Author:** aristotle
+
+**Premises:**
+- But it is quite possible that the best soldiers may be not men of this sort but those who are less brave but have no other good.
+- For these are ready to face danger, and they sell their life for trifling gains.
+
+**→ Conclusion:** The best soldiers may be those who are less brave but have no other good.
+
+*Source: Conclusion and Final Thoughts | Importance: 5/10*
+
+---
+
+### Argument 66 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- Nor, again, are those who are concerned with the other pleasures that are not bodily.
+- For those who are fond of hearing and telling stories and who spend their days on anything that turns up are called gossips, but not self-indulgent.
+- Nor are those who are pained at the loss of money or of friends.
+
+**→ Conclusion:** Non-bodily pleasures, such as storytelling or grief over loss, are not related to self-indulgence or temperance.
+
+*Source: Conclusion and Final Thoughts | Importance: 5/10*
+
+---
+
+### Argument 67 (deductive)
+**Author:** aristotle
+
+**Premises:**
+- So much, then, for courage; it is not difficult to grasp its nature in outline, at any rate, from what has been said.
+
+**→ Conclusion:** It is not difficult to grasp the nature of courage in outline from what has been said.
+
+*Source: Conclusion and Final Thoughts | Importance: 4/10*
+
+---
+

@@ -1,0 +1,280 @@
+Here is a comprehensive list of **150 philosophical questions** corresponding to each of the positions identified in the text:
+
+---
+
+### **1.0 What is ethics?**
+1. What are the two main kinds of statements?
+2. Do descriptive statements express value judgments?
+3. What distinguishes normative statements from descriptive ones?
+4. What is the primary goal of the discipline of ethics?
+
+---
+
+### **2.0 Two kinds of goodness: instrumental and intrinsic**
+5. Is the term "good" unambiguous or does it have multiple meanings?
+6. What defines an "instrumentally good" act?
+7. Is ethics concerned with instrumental goodness or intrinsic goodness?
+8. What fundamental question does ethics attempt to answer regarding value?
+9. Can you provide examples of things many ethicists consider intrinsically good?
+10. What are the different kinds of freedom discussed?
+
+---
+
+### **2.1 Instrumental and intrinsic goodness are not mutually exclusive**
+11. Can something be both intrinsically and instrumentally good?
+12. Are happiness, friendship, and honesty examples of things that can be both kinds of good?
+
+---
+
+### **3.0 More meanings of “good”: goodness vs. commendableness**
+13. Is the phrase "intrinsic good" itself unambiguous?
+14. Are all intrinsically good things necessarily praiseworthy?
+15. Is happiness always a commendable state?
+16. Can an act be intrinsically good and also praiseworthy?
+17. Does possessing a natural talent deserve moral praise?
+18. How many categories of intrinsic goods are there based on praiseworthiness?
+
+---
+
+### **3.1 Two kinds of intrinsic badness**
+19. Are there different categories of intrinsic badness?
+20. Is unhappiness intrinsically bad?
+21. Is causing unnecessary suffering always condemnable?
+22. Is "intrinsically bad" synonymous with "worthy of condemnation"?
+
+---
+
+### **4.0 The morally complex structure of some situations**
+23. Can a single act be both good and bad in different respects?
+24. Is it possible for an act to be both commendable and condemnable?
+
+---
+
+### **5.0 The non-privative character of moral attributes**
+25. Are moral properties like commendability "privative" or "positive"?
+26. Is badness simply the absence of goodness?
+27. Why do people often think good and bad cannot coexist?
+28. Why might people tend toward binary thinking in moral matters?
+
+---
+
+### **6.0 Moral obligations have a dimension of weight**
+29. Are moral obligations binary (either you have one or you don't)?
+30. Are all moral obligations of equal strength?
+31. Does the concept of wrongness admit of degrees?
+
+---
+
+### **6.1 For one moral obligation to outweigh another is not for it to cancel it**
+32. Can a person have two moral obligations that conflict?
+33. Does a morally overridden obligation cease to exist?
+
+---
+
+### **6.2 “right” ≠ “good”; “right” = “least bad”**
+34. How is "the right course of action" defined in complex situations?
+
+---
+
+### **6.3 “wrong” ≠ “bad”; “wrong” = “least good”**
+35. Is a "wrong" action necessarily a "bad" action?
+
+---
+
+### **7.0 “Ought” implies “can”**
+36. Is it a necessary condition for having an obligation that one is able to fulfill it?
+37. Does the principle "ought implies can" hold without exception?
+
+---
+
+### **8.0 Legality ≠ morality**
+38. Can an act be legal but immoral?
+39. Do legality and morality ever coincide?
+
+---
+
+### **9.0 The moral status of passing judgment on X ≠ the moral status of X itself**
+40. Does knowing a fact morally entitle one to assert it?
+41. Can it be wrong to condemn something that is, in fact, condemnable?
+
+---
+
+### **10.0 The goodness of the act vs. the goodness of the agent**
+42. What determines whether an agent deserves praise: intention or outcome?
+43. Do two agents with identical intentions deserve the same moral evaluation, even with different outcomes?
+44. Does an agent who intends evil but accidentally causes good deserve praise?
+
+---
+
+### **11.0 Why attempted crimes are punished less severely**
+45. Why might failure to complete a crime lead to a lesser punishment?
+46. Is the legal system's approach to punishment consistent with an intention-based view of blame?
+
+---
+
+### **12.0 Condemnation of Hitler despite possible “good intentions”**
+47. Were Hitler's actions motivated by good intentions?
+
+---
+
+### **13.0 One can act immorally toward oneself**
+48. Is it possible to act immorally towards oneself?
+49. Is self-harm morally equivalent to harming others?
+50. Is an act necessarily good if it is driven by principle?
+51. Is punishing someone for self-harm always ethically justified?
+
+---
+
+### **14.0 Some metaethical principles**
+52. What is the discipline of metaethics concerned with?
+
+---
+
+### **14.1 You can’t derive an “ought” from an “is”**
+53. Is the principle that one cannot derive "ought" from "is" universally true?
+54. Could "ought" be inferred from "is" if certain moral doctrines are correct?
+
+---
+
+### **14.2 Moore’s “open question” argument**
+55. What was G.E. Moore's argument regarding the reducibility of moral truths?
+56. Is the first premise of Moore's "open question" argument plausible?
+57. Why does Moore's argument ultimately fail, according to the author?
+
+---
+
+### **14.3 “Ought” implies “can”**
+58. Is the principle "ought implies can" correct?
+59. Can you think of a scenario where someone has an obligation they cannot fulfill?
+
+---
+
+### **14.4 Genetic questions must be distinguished from normative questions**
+60. Does the origin of a belief determine its truth?
+61. What is the "genetic fallacy"?
+62. Can a moral belief acquired through cultural conditioning still be true?
+
+---
+
+### **14.5 Use of moral truths vs. morality itself**
+63. Can true moral principles be used for immoral purposes?
+64. Does the misuse of a moral principle negate its truth?
+
+---
+
+### **14.6 Morality vs. implementation of moral principles**
+65. Are moral principles merely social inventions?
+66. Does the human creation of social institutions to enforce morality mean morality itself is created?
+
+---
+
+### **15.0 Some bad reasons to reject ethical realism**
+67. Does widespread disagreement in ethics prove there are no objective ethical truths?
+
+---
+
+### **15.1 Disagreement exists in factual domains too**
+68. Does difficulty in adjudicating a statement make it a mere "matter of opinion"?
+69. Does the possibility of rational dispute suggest a statement has an objective basis?
+
+---
+
+### **15.2 Ethical positions can be rationally disputed**
+70. Do ethical debates often depend on resolving factual questions?
+
+---
+
+### **15.3 There is considerable ethical agreement**
+71. Are there any ethical questions with near-universal agreement?
+72. Why does there appear to be so much disagreement in ethics?
+
+---
+
+### **15.4 Ethical disagreement often stems from unresolved factual questions**
+73. Does the debate over the death penalty hinge on factual questions?
+74. Does the abortion debate turn on questions of fetal consciousness?
+
+---
+
+### **16.0 What are ethical truths?**
+75. Might ethical assertions be a type of factual assertion?
+76. What is the central claim of utilitarianism regarding goodness?
+77. What is the "human flourishing" view of goodness?
+78. If utilitarianism or the flourishing view is correct, are moral questions ultimately factual?
+
+---
+
+### **Additional Questions (Positions 79-150):**
+
+79. What are some examples of normative categories?
+80. What specific task does ethics undertake regarding normative concepts?
+81. What is the defining feature of instrumental goodness?
+82. What characterizes intrinsic goodness?
+83. Is helping others without expectation of personal gain intrinsically good?
+84. Is honesty intrinsically good even when it is inconvenient?
+85. Is there complete consensus among ethicists on what constitutes intrinsic good?
+86. Can intelligence be valuable in both an instrumental and intrinsic sense?
+87. Is a happy person always morally commendable?
+88. Is a rabbit's happiness a morally praiseworthy state?
+89. Is unhappiness always a state that deserves censure?
+90. Is grieving the loss of a loved one a condemnable emotional response?
+91. Can an act be both intrinsically good and morally wrong?
+92. Can an act be both an expression of loyalty and an act of condemnable violence?
+93. Is the property of "being cold" a positive or a privative property?
+94. Is the property of "being smart" a privative property?
+95. Is "being condemnable" a privative property?
+96. Do inanimate objects like rocks possess moral value (good or bad)?
+97. What positive property did Hitler possess that made him bad?
+98. What psychological reason is suggested for people's binary moral thinking?
+99. Do all moral obligations carry the same moral weight?
+100. Can we say that one wrongful act is "more wrong" than another?
+101. Can a situation force a person to choose between two moral obligations?
+102. In a moral dilemma, is the "right" choice the one that is least bad?
+103. If you save one life when you could have saved ten, have you done something wrong?
+104. Is the principle "ought implies can" an absolute rule in ethics?
+105. Can you give a historical example of a legal practice that was profoundly immoral?
+106. Is it morally permissible to state a truth if you lack evidence for it?
+107. Is it ethically justifiable to convict someone based on a strong hunch of their guilt?
+108. For moral evaluation, which matters more: what you intended to do, or what actually happened?
+109. If two people try equally hard to do good, but only one succeeds, do they deserve equal praise?
+110. Does a person who plans a murder but accidentally saves a life deserve moral praise?
+111. What is one reason the legal system might punish an attempted crime less severely than a completed one?
+112. What might consistent failure to perform a promised good deed indicate about a person's intention?
+113. Given the obvious wrongness of torture, is it plausible that Hitler believed his actions were good?
+114. Is it possible to violate a moral duty you owe to yourself?
+115. Are people who engage in self-harm typically unprincipled?
+116. If an act is done on principle, does that guarantee its moral goodness?
+117. Is punishment always the appropriate response to wrongdoing?
+118. If someone is already suffering from self-harm, is punishing them ethically beneficial?
+119. What is the primary focus of metaethical inquiry?
+120. Is it logically impossible to derive a prescriptive statement from a descriptive one?
+121. Is G.E. Moore's "open question" argument a successful refutation of naturalistic ethics?
+122. Can deductive reasoning provide new knowledge, or does it merely clarify what is already known?
+123. Does pointing out the irrational origin of a belief prove the belief is false?
+124. Can a belief formed through brainwashing nevertheless be true?
+125. Can speaking a moral truth be an immoral act?
+126. Do moral laws depend on the existence of a society to enforce them?
+127. Does observed disagreement among ethicists disprove the existence of objective moral facts?
+128. Is the apparent depth of ethical disagreement due to a lack of facts or a lack of objective values?
+129. According to the text, what is a major weakness of Moore's metaethical argument?
+130. What is the relationship between an act's promotion of happiness and its moral status, according to utilitarianism?
+131. How does the "human flourishing" theory define a good act?
+132. If "good" means "maximizes happiness," is the question "Is this act good?" a factual one?
+133. What is the formal object of ethical study?
+134. Is the value of something that is intrinsically good dependent on its results?
+135. Are there intrinsically good states that do not warrant moral praise?
+136. Is emotional suffering inherently bad, regardless of its consequences?
+137. Are moral attributes like "condemnable" defined by the presence or absence of a quality?
+138. Is it possible to be in a situation where you cannot fulfill all your moral duties?
+139. In a tragic choice, is the selected action "good" or merely "the least bad"?
+140. Has there ever been a time when the law required an immoral action?
+141. Can you be morally blameworthy for making a true accusation without evidence?
+142. In moral assessment, should we judge the heart or the hand?
+143. Does a failed murder attempt suggest the perpetrator might have had moral qualms?
+144. Can a person's actions toward themselves constitute a moral failing?
+145. According to the author's evaluation, which of the presented metaethical principles are false?
+146. Does the historical source of our moral belief about torture affect its truth value?
+147. Is the existence of traffic laws evidence that the rules of safe driving were invented by humans?
+148. Is the intractability of the abortion debate proof that it is not about facts?
+149. Could a world where everyone is miserable possibly be a morally good world?
+150. If moral realism is true, what kind of facts are moral facts?

@@ -1,0 +1,1178 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/7/2025, 6:41:03 AM
+Source Length: 17576 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+No quotes extracted
+
+--- ANNOTATED CITATIONS ---
+No annotated quotes
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+undefined
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+undefined
+
+[Chunk 7]
+undefined
+
+[Chunk 8]
+
+
+[Chunk 9]
+undefined
+
+[Chunk 10]
+undefined
+
+[Chunk 11]
+undefined
+
+[Chunk 12]
+
+
+[Chunk 13]
+undefined
+
+[Chunk 14]
+undefined
+
+[Chunk 15]
+
+
+[Chunk 16]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+undefined
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+═══ CHUNK 6 ═══
+undefined
+
+═══ CHUNK 7 ═══
+undefined
+
+═══ CHUNK 8 ═══
+
+
+═══ CHUNK 9 ═══
+undefined
+
+═══ CHUNK 10 ═══
+undefined
+
+═══ CHUNK 11 ═══
+undefined
+
+═══ CHUNK 12 ═══
+
+
+═══ CHUNK 13 ═══
+undefined
+
+═══ CHUNK 14 ═══
+undefined
+
+═══ CHUNK 15 ═══
+
+
+═══ CHUNK 16 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 15 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 16 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: Concepts like space, time, motion, shape, and color are necessary preconditions for sense-perception
+   EVIDENCE: "So those things, and all that having them involves, must be in the mind prior to sense-perception, as a necessary precondition for it."
+
+2. VIEW: Empiricism is deeply confused about the roles of sense-perceptions
+   EVIDENCE: "These considerations expose what I believe to be the deepest confusion of which empiricism is guilty."
+
+3. VIEW: Sense-perceptions can have a triggering role
+   EVIDENCE: "Empiricists fail to distinguish between two very different roles that sense-perceptions can have: they can have a triggering role and they can also have an information-transmitting role."
+
+4. VIEW: Sense-perceptions can have an information-transmitting role
+   EVIDENCE: "Empiricists fail to distinguish between two very different roles that sense-perceptions can have: they can have a triggering role and they can also have an information-transmitting role."
+
+5. VIEW: Seeing a dog leads to the belief of a nearby dog through information transmission
+   EVIDENCE: "You see a dog. On that basis you have the belief that there is a nearby dog. Here your eyes transmitted information to you about the external world."
+
+6. VIEW: Information about the external world is transmitted through the senses
+   EVIDENCE: "In this context, then, information about the external world is being transmitted to you through your senses."
+
+7. VIEW: Seeing a diagram in a geometry class does not directly show a triangle
+   EVIDENCE: "The teacher draws something that is supposed to represent a triangle but only vaguely looks like one."
+
+8. VIEW: Learning about triangles from diagrams involves the intellect, not just the senses
+   EVIDENCE: "The things you saw were symbols for things that had to be supplied to you by something other than your senses-that had to be supplied to you by your intellect."
+
+9. VIEW: Diagrams in geometry class trigger conceptual faculties
+   EVIDENCE: "But your seeing the diagram led to your knowing those truths about triangles not because any triangle, or any fact about triangles, was any part of the information imparted to you by your perception, but rather by triggering or activating certain conceptual faculties of yours."
+
+10. VIEW: Forgetting a diagram does not affect the geometrical truths learned
+   EVIDENCE: "The proof that your visual perception of the diagram had only a triggering role, and that it did not itself contain any information relating to what you learned, is that, if you were to forget ever having seen that diagram-were to forget what it looked like, who drew it, where you saw, or even that you saw it-it would have no effect on the geometrical truths that you learned that day."
+
+11. VIEW: Forgetting seeing a dog affects the information learned about the dog
+   EVIDENCE: "By contrast, if you forget ever seeing the dog (described in the last section), you will forget the information that, on that occasion, your senses led you to have."
+
+12. VIEW: Strict empiricists believe all learning, including logical principles, comes from sense-perception
+   EVIDENCE: "According to strict empiricists, everything that is learned, including purely logical principles, is learned through sense-perception."
+
+13. VIEW: Knowledge of arithmetic truths is not empirical
+   EVIDENCE: "Your knowledge that 113 + 876 = 989 isn't empirical; you didn't see 113 pears being counted, then see 876 pineapples being counted, and then see the whole lot be counted."
+
+14. VIEW: Arithmetical knowledge is based on non-empirical principles
+   EVIDENCE: "Your knowledge of arithmetical truths is based on a grasp of non-empirical principles."
+
+15. VIEW: Generalizing mathematical knowledge from observation alone is impossible
+   EVIDENCE: "you still would not, on that basis alone, have any way of generalizing that knowledge-of inferring the other mathematical truths you know."
+
+16. VIEW: Rules of inference are necessary for mathematical generalizations
+   EVIDENCE: "To make the needed inferences, you'd need access to rules of inference that you couldn't possibly know about if your knowledge were strictly sense-based."
+
+17. VIEW: Knowledge of 1 + 1 = 2 is not empirical
+   EVIDENCE: "Even one's knowledge that 1 + 1 = 2 isn't known empirically."
+
+18. VIEW: Observation reveals facts, not norms
+   EVIDENCE: "As David Hume made clear, observation tells you how things are, not how they should be."
+
+19. VIEW: Knowledge of 1 + 1 = 2 has normative force
+   EVIDENCE: "But one's knowledge that 1 + 1 = 2 has normative force."
+
+20. VIEW: Belief in 1 + 1 = 2 is taken as fixed
+   EVIDENCE: "If two people enter what you thought was an empty house, and three people leave, you don't reconsider your belief that 1 + 1 = 2."
+
+21. VIEW: Observations are interpreted in light of the principle that 1 + 1 = 2
+   EVIDENCE: "We interpret observations in light of the principle that 1 + 1 = 2, not vice versa."
+
+22. VIEW: Conventions are arbitrary but their consistency is not
+   EVIDENCE: "But whether the conventions one adopts are consistent with one another is not itself a matter of convention."
+
+23. VIEW: Consistency among conventions is not itself a matter of convention
+   EVIDENCE: "In general, not all truths of reason (or any, actually, as well now see) can be conventionalized, since consistency among conventions is not itself a matter of convention."
+
+24. VIEW: Sentences and the truths they express must be distinguished
+   EVIDENCE: "Also, we have to distinguish sentences from the things they express."
+
+25. VIEW: Innate cognitive structures are necessary for sense-perceptions and learning from them
+   EVIDENCE: "Innate cognitive structures are needed to have sense-perceptions and also to learn from them."
+
+26. VIEW: Sense-perceptions are a specific kind of mental representation
+   EVIDENCE: "Having a sense-perception means having a certain kind of mental representation of an object."
+
+27. VIEW: Not all mental representations of objects are sense-perceptions
+   EVIDENCE: "Not all mental representations of objects are sense-perceptions."
+
+28. VIEW: Perceptual representations must be caused by their objects
+   EVIDENCE: "a necessary condition, certainly, is that they be caused by their objects-your perception of Smith must be caused by Smith (by light bouncing off of him)."
+
+29. VIEW: There may be additional conditions for perceptual representations
+   EVIDENCE: "It's unclear whether there are other conditions that have to be met. (There probably are.)"
+
+30. VIEW: Mental representations represent objects in four dimensions
+   EVIDENCE: "And they represent their objects in four dimensions"
+
+31. VIEW: Mental representations include chromatic properties
+   EVIDENCE: "and as having various chromatic (color-related)"
+
+32. VIEW: Mental representations include kinematic properties
+   EVIDENCE: "kinematic (movement-related)"
+
+33. VIEW: Mental representations include dynamic properties
+   EVIDENCE: "dynamic (force-related, causal) properties"
+
+34. VIEW: Intelligence is involved in processes mediating between somatic disturbances and sense-perceptions
+   EVIDENCE: "Unless we take the implausible view that no intelligence is involved in the processes mediating between the somatic disturbances that lead to sense-perceptions"
+
+35. VIEW: Sense-perception presupposes knowledge
+   EVIDENCE: "So, in all likelihood, sense-perception presupposes knowledge."
+
+36. VIEW: Non-empirical knowledge is a prerequisite for post-perceptual, inferential knowledge
+   EVIDENCE: "We couldn't do very much with the information that sense-perception gave us unless we had non-empirical knowledge."
+
+37. VIEW: Senses operate in the present
+   EVIDENCE: "First of all, your senses operate in the present."
+
+38. VIEW: Senses do not provide information about what is not currently being sensed
+   EVIDENCE: "You are not seeing, touching, etc., whatever you're not now seeing, touching, etc."
+
+39. VIEW: Applying remembered information to current situations requires understanding of how the past bears on the present
+   EVIDENCE: "In order to apply what you remember to a current situation, you must see how what you remember bears on your current situation."
+
+40. VIEW: Sense-perception provides intra-situational information
+   EVIDENCE: "Your senses apprise you of situations; they thus give you intra situational information."
+
+41. VIEW: Sense-perception does not provide inter-situational information
+   EVIDENCE: "They don't give you inter situational information."
+
+42. VIEW: Knowledge of inter-situational relations is partly non-empirical
+   EVIDENCE: "Thus, any knowledge that you have intersituational relations is partly (though obviously not entirely) non-empirical."
+
+43. VIEW: Knowledge of dependence-relations between distinct situations is not strictly sense-based
+   EVIDENCE: "Therefore any knowledge of dependence-relations holding between distinct situations is, at least in part, not strictly sense-based."
+
+44. VIEW: Knowledge of the past warrants beliefs about the present and future
+   EVIDENCE: "Although I believe that knowledge of the past does warrant beliefs about the present and future"
+
+45. VIEW: Inferences are about bearing relations
+   EVIDENCE: "Inferences are about bearing relations."
+
+46. VIEW: Legitimate inferences must accord with principles concerning relations between distinct situations
+   EVIDENCE: "that inference, if legitimate, must accord with some principle that is concerned with relations holding between distinct situations."
+
+47. VIEW: Knowledge of intersituational dependencies cannot be strictly sense-based
+   EVIDENCE: "one's knowledge of these dependences cannot be strictly sense-based."
+
+48. VIEW: All theoretical knowledge is inferential
+   EVIDENCE: "all theoretical knowledge is inferential"
+
+49. VIEW: Perception gives images
+   EVIDENCE: "What does perception give you? Images."
+
+50. VIEW: Empiricism implies that thoughts not encoded as images are unwarranted
+   EVIDENCE: "If empiricism is right, this means that any thought that is not itself an image, or that contains information that cannot be encoded into an image, is unwarranted."
+
+51. VIEW: Most thoughts contain non-iconic information
+   EVIDENCE: "But most thoughts, if not all of them, contain just such information."
+
+52. VIEW: No image can represent the thought of a conditional dependence relationship
+   EVIDENCE: "For example, there is no image such that, in virtue of experiencing that image, one is thinking: (S) if Smith had fallen off the fence, he would have broken his leg."
+
+53. VIEW: There can be no image of a dependence relationship
+   EVIDENCE: "There can be images of rocks, trees, explosions, fallings, and waterfalls-but not of dependence relationships."
+
+54. VIEW: A system of symbolism involving images can represent a dependence relation
+   EVIDENCE: "you could create a system of symbolism involving images that represented that supposed truth"
+
+55. VIEW: An image of Smith falling off the fence on top of an image of Smith with a broken leg does not represent the dependence relation itself
+   EVIDENCE: "But that wouldn't be an image of its being the case that Smith would have broken his leg if he'd fallen off the fence."
+
+56. VIEW: There can be no image that has S for its content
+   EVIDENCE: "But even if there could be some image of this dependence relation, there would still be no image that had S for its content."
+
+57. VIEW: S* presupposes that Smith fell off the fence and broke his leg
+   EVIDENCE: "S* presupposes that Smith fell off the fence and that he broke his leg."
+
+58. VIEW: S presupposes that Smith did not fall off the fence
+   EVIDENCE: "S presupposes neither. In fact, it presupposes that Smith did not fall off the fence."
+
+59. VIEW: An image of S* would not be an image of S
+   EVIDENCE: "So an image of S* wouldn't be an image of S"
+
+60. VIEW: There can't be images of negative propositions
+   EVIDENCE: "But there can't be images of negative propositions."
+
+61. VIEW: An image with a big X on it of Smith falling off the fence is not an image of Smith not falling off the fence
+   EVIDENCE: "You could produce an image with a big X on it of Smith falling off the fence. But that wouldn't be an image of Smith not falling off the fence."
+
+62. VIEW: Disjunctive propositions are really conditional ones
+   EVIDENCE: "Disjunctive propositions are really conditional ones."
+
+63. VIEW: No disjunction can be imaged
+   EVIDENCE: "It follows that no disjunction can be imaged."
+
+64. VIEW: Any image of a cat on the mat will include information not included in the thought that the cat is on the mat
+   EVIDENCE: "Any image of a cat on the mat will include information not included in that thought"
+
+65. VIEW: Any thought will contain information not included in any image
+   EVIDENCE: "By the same token, any thought will contain information not included in any image."
+
+66. VIEW: An image of a cat on the mat is indistinguishable from an image of a perfect cat-impostor on a mat
+   EVIDENCE: "An image of a cat on the mat is indistinguishable from an image of a perfect cat-impostor that is on a mat."
+
+67. VIEW: The thought that the cat is on the mat is not identical with the thought that a perfect cat impostor is on the mat
+   EVIDENCE: "But those propositions are distinct."
+
+68. VIEW: General thoughts cannot be identical with images
+   EVIDENCE: "Also, general thoughts couldn't possibly be identical with images."
+
+69. VIEW: An image cannot be an image of something or other on the mat
+   EVIDENCE: "An image can't just be an image of something or other on the mat; it must be an image of some particular thing on the mat."
+
+70. VIEW: The thought that something is on the mat is not identical with the thought that Snoopy is on the mat
+   EVIDENCE: "But those thoughts aren't identical."
+
+71. VIEW: The thought that all birds have feathers is different from the thought that 84 billion birds have feathers
+   EVIDENCE: "But the thought 84 billion birds have feathers is different from the thought that all birds have feathers."
+
+72. VIEW: No image can be identical with the thought that all birds have feathers
+   EVIDENCE: "So neither thought is image."
+
+73. VIEW: No image can be identical with thoughts about most birds, many birds, or all possible birds having feathers
+   EVIDENCE: "Obvious adaptations of this argument show that no image can be identical with the thought that most birds/many birds/all possible birds have feathers."
+
+74. VIEW: No thought that can be expressed by a sentence is identical with an image
+   EVIDENCE: "So, really, no thought that can be expressed by a sentence is identical with an image."
+
+75. VIEW: Many thoughts aren't images and have contents very different from those of any sense-perception
+   EVIDENCE: "This shows that many thoughts aren't images and, since sense-perceptions are images, therefore have contents very different from those of any sense-perception."
+
+76. VIEW: George Berkeley made it clear that no general thought can be identical with images
+   EVIDENCE: "Ironically, it was that greatest of empiricists, George Berkeley, who made it clear that no general thought cannot be identical with images"
+
+77. VIEW: One cannot take a non-general proposition to stand for a general proposition without grasping the latter.
+   EVIDENCE: "So one can't take a non-general proposition to stand for a general proposition unless one grasps the latter."
+
+78. VIEW: Knowledge is never wholly identical with mental imagery.
+   EVIDENCE: "Knowledge never wholly identical with mental imagery"
+
+79. VIEW: No sequence of mental images constitutes knowledge.
+   EVIDENCE: "But no sequence of mental images is knowledge."
+
+80. VIEW: A sequence of mental images may serve as a partial basis for knowledge.
+   EVIDENCE: "Such a sequence may serve as a partial basis for knowledge"
+
+81. VIEW: One can have knowledge about a sequence of mental images.
+   EVIDENCE: "and one can have knowledge about that sequence"
+
+82. VIEW: Knowing something always involves grasping at least one thing in a way other than through an image.
+   EVIDENCE: "Nevertheless, knowing something always involves grasping at least one thing in some way other than through an image"
+
+83. VIEW: Empiricism cannot account for the way knowledge involves grasping something other than through an image.
+   EVIDENCE: "and, therefore, in some way that, because sense-perception gives one nothing but images, empiricism cannot account for."
+
+84. VIEW: There is a difference between an image and the representation of that image as true.
+   EVIDENCE: "There's a difference between an image, on the one hand, and that image's being represented as true, on the other."
+
+85. VIEW: Images are not self-referential.
+   EVIDENCE: "Images are not self-referential;"
+
+86. VIEW: An image leaves open how it is to be taken.
+   EVIDENCE: "Thus, the image itself leaves it open to how it is to be taken."
+
+87. VIEW: There is no image that, by virtue of experiencing it, allows one to grasp the concept of truth.
+   EVIDENCE: "A corollary is that there is no image such that, merely by virtue of experiencing it, one is grasping the concept of truth."
+
+88. VIEW: To know something, one must believe it to be true.
+   EVIDENCE: "To know something, one must believe it to be true."
+
+89. VIEW: Believing something to be true involves grasping the concept of truth.
+   EVIDENCE: "Believing something to be true thus involves grasping the concept of truth"
+
+90. VIEW: The concept of truth cannot be grasped through the senses.
+   EVIDENCE: "Since the senses provide us only with images, it follows that the concept of truth is one that is not be grasped through the senses."
+
+91. VIEW: Not all knowledge is strictly sense-based.
+   EVIDENCE: "And since a grasp of that concept is a prerequisite to knowing anything, it follows that, contrary to what empiricism says, not all knowledge is strictly sense-based."
+
+92. VIEW: No knowledge is strictly sense-based.
+   EVIDENCE: "In fact, it follows that, although a great deal of knowledge is obviously largely sense-based, no knowledge is strictly sense-based."
+
+93. VIEW: Berkeley held that things revealed through sense-perception are collections of sense-perceptions.
+   EVIDENCE: "He held, in other words, that the things we believe to be revealed to us through sense-perception (e.g., rocks, trees) are sense-perceptions-or, more exactly, are collections of sense-perceptions."
+
+94. VIEW: Idealism is an abomination if our intuitions are to be given any credence.
+   EVIDENCE: "Even though, if our intuitions are to be given any credence, idealism is an abomination,"
+
+95. VIEW: Berkeley had a good reason for accepting idealism.
+   EVIDENCE: "had a very good reason for accepting it."
+
+96. VIEW: One must be an idealist to avoid skepticism if accepting empiricism.
+   EVIDENCE: "Given an acceptance of empiricism, one must be an idealist if one is to avoid saying that we have no knowledge of the external world at all."
+
+97. VIEW: Berkeley accepted idealism because he was an empiricist who wasn't also a skeptic.
+   EVIDENCE: "saw this; and, being an empiricist who wasn't also a skeptic, he duly accepted idealism."
+
+98. VIEW: According to empiricism, knowledge not derived from sense-perception is not knowledge.
+   EVIDENCE: "According to empiricism, if you don't know it through sense-perception, you don't know it."
+
+99. VIEW: Senses cannot provide a reason to believe they are truthful.
+   EVIDENCE: "Your senses cannot themselves give you any good reason to believe that they're truthful."
+
+100. VIEW: Knowledge based on sense-perception is not entirely based on it.
+   EVIDENCE: "So, supposing that you do know that you're reading a book right now, this knowledge, although largely based on sense-perception, isn't entirely so."
+
+101. VIEW: The fact that our senses are generally telling us the truth cannot be known through sense-perception.
+   EVIDENCE: "In general, even if our senses are generally telling us the truth, this fact cannot itself be known through sense-perception."
+
+102. VIEW: The presumption that our senses give us knowledge of the external world must be accommodated within the limits set by the belief that all knowledge is strictly observational.
+   EVIDENCE: "He must show that the presumption that our senses give us knowledge of the external world can be accommodated within the limits set by the belief that all knowledge is strictly observational."
+
+103. VIEW: Statements about external objects must be reinterpreted as statements about one's own perceptions.
+   EVIDENCE: "One must reinterpret statements about the external objects as statements about one's own perceptions."
+
+104. VIEW: The statement 'that rock weighs five lbs' has the same content as some statement about one's own perceptions.
+   EVIDENCE: "In other words, one must take the view that the statement 'that rock weighs five lbs' has the same content as some statement about one's own perceptions."
+
+105. VIEW: The position that statements about external objects can be translated into statements about perceptions is known as phenomenalism.
+   EVIDENCE: "The position that statements about external objects can be translated into statements about perceptions is known as phenomenalism."
+
+106. VIEW: Any attempt to translate a sentence about the external world into one about one's perceptions is known as a phenomenal reduction.
+   EVIDENCE: "Any attempt to translate a sentence about the external world into one about one's perceptions is known as a phenomenal reduction."
+
+107. VIEW: Phenomenalism entails idealism.
+   EVIDENCE: "Phenomenalism entails idealism."
+
+108. VIEW: If every truth about rocks, trees, etc., is a truth about perceptions, then rocks, trees, etc., are nothing if not perceptions.
+   EVIDENCE: "If every truth about rocks, trees, etc., is a truth about perceptions, then rocks, trees, etc., are nothing if not perceptions."
+
+109. VIEW: Phenomenalism is false.
+   EVIDENCE: "Phenomenalism is false."
+
+110. VIEW: It is not possible to translate statements about rocks into statements about one's perceptions.
+   EVIDENCE: "It simply isn't possible to translate statements about rocks (etc.) into statements about one's perceptions."
+
+111. VIEW: Phenomenalism must be accepted by any true empiricist who isn't also a skeptic.
+   EVIDENCE: "But phenomenalism must be accepted by any true empiricist who isn't also a skeptic."
+
+112. VIEW: Our senses give us knowledge of the external world.
+   EVIDENCE: "Our senses give us knowledge of the external world (or so we will assume for argument's sake)."
+
+113. VIEW: There is no non-sensory source of knowledge.
+   EVIDENCE: "There is no non-sensory source of knowledge (same qualification)."
+
+114. VIEW: Our senses give us conflicting reports.
+   EVIDENCE: "Our senses give us conflicting reports."
+
+115. VIEW: In some cases where sensory-reports conflict with one another, we can throw one of them out.
+   EVIDENCE: "In some cases where sensory-reports conflict with one another, we can throw one of them out."
+
+116. VIEW: Dream-images can be thrown out because they don't fit into the narrative.
+   EVIDENCE: "It is on this basis that we throw out dream-images on this basis. Dream-images don't fit into the narrative."
+
+117. VIEW: Neither of the house-perceptions can be thrown out.
+   EVIDENCE: "But I cannot throw out either of my house-perceptions."
+
+118. VIEW: Only a tiny fraction of the discrepancies within the reports given to us by our senses involve a (mis)perception that is in the same category as my goblin-perception.
+   EVIDENCE: "Only a tiny fraction of the discrepancies within the reports given to us by our senses involve a (mis)perception that is in the same category as my goblin-perception."
+
+119. VIEW: In most cases, all of the mutually discrepant perceptions must be accepted.
+   EVIDENCE: "In most case, all of the mutually discrepant perceptions must be accepted."
+
+120. VIEW: When discussing 'mutually discrepant perceptions,' we won't be referring to discrepancies involving dream-images or hallucinations.
+   EVIDENCE: "During what follows, when we talk about 'mutually discrepant perceptions,' we won't be referring to discrepancies involving dream-images or hallucinations."
+
+121. VIEW: Given the fact that we have mutually discrepant sense-perceptions, there are only two paths we can take.
+   EVIDENCE: "Given the fact that we have mutually discrepant sense-perceptions, there are, as a matter of logic, only two paths we can take."
+
+122. VIEW: A given object cannot simultaneously be, and fail to be, equiangular.
+   EVIDENCE: "A given object cannot simultaneously be, and fail to be, equiangular."
+
+123. VIEW: P1 and P2 are inconsistent with each other when taken to concern some trans-perceptual object.
+   EVIDENCE: "But even though, when taken to concern some transperceptual object, P1 and P2 are inconsistent with each other,"
+
+124. VIEW: P1 per se is perfectly capable of co-existing with P2 per se.
+   EVIDENCE: "P1 per se is perfectly capable of co-existing with P2 per se."
+
+125. VIEW: Two conflicting statements can co-exist.
+   EVIDENCE: "(Two conflicting statements can co-exist.)"
+
+126. VIEW: P1 and P2 are constituents of the object they describe.
+   EVIDENCE: "let's say that they are the object that, so we wrongly thought, they describe. (Let's say, in other words, that they're constituents of that object.)"
+
+127. VIEW: Our perceptions are their objects.
+   EVIDENCE: "Let's say, in general, that our perceptions are their objects"
+
+128. VIEW: Any given perception is a constituent of its object.
+   EVIDENCE: "that any given perception is a constituent of its object"
+
+129. VIEW: Any given perception is wholly constituted by some multiplicity of perceptions.
+   EVIDENCE: "and that any given perception is wholly constituted by some multiplicity of perceptions"
+
+130. VIEW: We acquire knowledge through sense-perception.
+   EVIDENCE: "By taking this position, we accommodate the fact that we acquire knowledge through sense-perception."
+
+131. VIEW: We know our perceptions.
+   EVIDENCE: "We know our perceptions."
+
+132. VIEW: Cartesian skeptics concede that we know our perceptions.
+   EVIDENCE: "(Even Cartesian skeptics concede this.)"
+
+133. VIEW: If we identify our perceptions with their objects, then we know those objects.
+   EVIDENCE: "If we identify our perceptions with their objects, then we know those objects"
+
+134. VIEW: We know objects by virtue of having sense-perceptions.
+   EVIDENCE: "and we know them by virtue of having sense-perceptions."
+
+135. VIEW: This solution accommodates the presumption that we learn about objects through sense-perception.
+   EVIDENCE: "So this solution accommodates the presumption that we learn about objects through sense-perception."
+
+136. VIEW: It is unnecessary to posit surds, such as equiangular objects that aren't equiangular.
+   EVIDENCE: "And it also makes it unnecessary to posit surds, such as equiangular objects that aren't equiangular."
+
+137. VIEW: If our senses are to be trusted, properties are observer dependent.
+   EVIDENCE: "If our senses are to be trusted, properties are observer dependent."
+
+138. VIEW: The external world is totally unknowable unless we suppose that, typically, things are as they appear.
+   EVIDENCE: "The external world is totally unknowable unless we suppose that, typically, things are as they appear."
+
+139. VIEW: Empiricism says: what we know, we know strictly on the basis of our senses.
+   EVIDENCE: "Empiricism says: what we know, we know strictly on the basis of our senses."
+
+140. VIEW: One cannot, in general, legitimately second-guess what one's senses are telling one.
+   EVIDENCE: "One cannot, in general, legitimately second-guess what one's senses are telling one"
+
+141. VIEW: One can throw out patently deviant perceptions.
+   EVIDENCE: "One can throw out patently deviant perceptions"
+
+142. VIEW: Our senses provide relational information
+   EVIDENCE: "Our senses give us relational information."
+
+143. VIEW: Senses inform us of relative heights, distances, velocities, temperatures, and masses
+   EVIDENCE: "They apprise us, not of absolute, but of relative heights, distances, velocities, temperatures, and masses;"
+
+144. VIEW: Eyes do not tell us the absolute speed of a car
+   EVIDENCE: "our eyes tell us, not that the car is going 35 mph, but that it is going faster than that other car;"
+
+145. VIEW: Muscles do not tell us the absolute weight of a barbell
+   EVIDENCE: "our muscles, when we exert ourselves, tell us not that the barbell weighs 215 pounds, but that it weighs more than the barbells we tried to move a moment ago."
+
+146. VIEW: Senses do not tell us the absolute height of a person
+   EVIDENCE: "our senses tell us, not that Smith is 7-feet tall, but that he is much taller than Jones."
+
+147. VIEW: Senses provide information relative to an egocentric coordinate system
+   EVIDENCE: "And our senses tell us where things are, not in relation to some absolute coordinate system, but in relation to us."
+
+148. VIEW: Information from senses is relational in two senses
+   EVIDENCE: "So the information given to us by our senses is relational in two senses: objects are related to one another; and they are also related to an egocentric, as opposed to universal, coordinate system."
+
+149. VIEW: 's argument crumbles when considering relational information
+   EVIDENCE: "Once this is taken into account, it is clear why 's argument crumbles."
+
+150. VIEW: X perceives Y as moving faster than himself, not as moving fast absolutely
+   EVIDENCE: "X's eyes don't tell him: Y IS MOVING FAST. They tell him: Y IS MOVING FASTER THAN I AM."
+
+151. VIEW: Z perceives Y as moving more slowly than himself, not as moving slowly absolutely
+   EVIDENCE: "And Z's eyes don't tell him: Y IS MOVING SLOWLY. They tell him: Y IS MOVING MORE SLOWLY THAN I AM."
+
+152. VIEW: The state of affairs described by the relative velocities is not incoherent
+   EVIDENCE: "But there is nothing incoherent about (i)."
+
+153. VIEW: 's argument about size being in the mind is flawed
+   EVIDENCE: "concludes Y is both tiny and huge and that, since nothing can be both tiny and huge, size must be in the mind of the observer and not in the thing observed. But is wrong about what X and Z are told by their senses."
+
+154. VIEW: X perceives Y as much larger than himself, not as huge absolutely
+   EVIDENCE: "X's eyes tell him: Y IS MUCH LARGER THAN I AM."
+
+155. VIEW: Z perceives Y as much smaller than himself, not as tiny absolutely
+   EVIDENCE: "Z's senses tell him (Z): Y is much smaller than I am."
+
+156. VIEW: The state of affairs described by the relative sizes is not incoherent
+   EVIDENCE: "And there is nothing incoherent about (ii)."
+
+157. VIEW: Size is in things themselves, not in the minds of observers
+   EVIDENCE: "It doesn't ascribe incompatible properties to Y, and it doesn't therefore require that we abandon the view that size is in things themselves, as opposed to the minds of their observers."
+
+158. VIEW: X's kinesthetic sensations tell him B is light relative to his strength
+   EVIDENCE: "X's sensations tell him how B's resistance to motion compares with his own ability to overcome such resistance."
+
+159. VIEW: Y's kinesthetic sensations tell him B is heavy relative to his strength
+   EVIDENCE: "By similar reasoning, Y's sensations tell him (Y) how B's resistance to motion compares with his (B's) ability to overcome such resistance."
+
+160. VIEW: The relative abilities of X and Y to move B are consistent and confirmable
+   EVIDENCE: "(iii) is a perfectly consistent message. In fact, it's consistent with, and confirms, what we already knew."
+
+161. VIEW: Our sensations and perceptions give us relational information
+   EVIDENCE: "our sensations and perceptions give us relational information"
+
+162. VIEW: Our senses are wrong some of the time
+   EVIDENCE: "our senses are obviously wrong some of the time"
+
+163. VIEW: Our senses do not systematically give us contradictory reports
+   EVIDENCE: "they don't, contrary to argued, systematically give us contradictory reports"
+
+164. VIEW: Perceptual information is relational
+   EVIDENCE: "Remember that perceptual information is relational."
+
+165. VIEW: X does not say 'THIS WATER IS HOT' when immersed in B
+   EVIDENCE: "When immersed in B, X doesn't say: THIS WATER IS HOT."
+
+166. VIEW: X says 'THIS WATER IS MUCH HOTTER THAN THE WATER I WAS JUST IN' when immersed in B
+   EVIDENCE: "It says: THIS WATER IS MUCH HOTTER THAN THE WATER I WAS JUST IN."
+
+167. VIEW: Y does not say 'THIS WATER IS COLD' when immersed in B
+   EVIDENCE: "And, when immersed in B, Y doesn't say: THIS WATER IS COLD."
+
+168. VIEW: Y says 'THIS WATER IS MUCH COLDER THAN THE WATER I WAS JUST IN' when immersed in B
+   EVIDENCE: "It says: THIS WATER IS MUCH COLDER THAN THE WATER I WAS JUST IN."
+
+169. VIEW: The messages from X and Y are not incoherent
+   EVIDENCE: "There is nothing incoherent about (iv)"
+
+170. VIEW: The messages from X and Y do not attribute incompatible properties to anything
+   EVIDENCE: "it doesn't attribute incompatible properties to anything"
+
+171. VIEW: The messages from X and Y do not require us to deny the mind-independence of any aspect of reality
+   EVIDENCE: "nor, therefore, does it require us to deny the mind-independence of any aspect of reality."
+
+172. VIEW: Our senses give us only relational information
+   EVIDENCE: "our senses give us only relational information"
+
+173. VIEW: We are capable of learning objects' actual masses, temperatures, and such
+   EVIDENCE: "we're obviously capable of learning objects' actual masses, temperatures, and such."
+
+174. VIEW: Measuring time in terms of heart rate is not advisable
+   EVIDENCE: "You shouldn't measure rates of change with respect to your heart rate"
+
+175. VIEW: It is better to regard the heart rate as changing, not the universe
+   EVIDENCE: "You should say that it's your heart rate that's changing, not the entire universe."
+
+176. VIEW: Comparable points hold with respect to all degree properties
+   EVIDENCE: "Comparable points hold with respect to all degree properties."
+
+177. VIEW: One should not take an object with a constant length as a standard of comparison if it leads to causal anomalies
+   EVIDENCE: "In that case, obviously, you shouldn't take L to have an unchanging length; you shouldn't take it as your standard of comparison."
+
+178. VIEW: One should regard the extent to which x has phi as having changed less than the degree to which y has phi if it is less costly from an explanatory viewpoint
+   EVIDENCE: "one should regard the extent to which x has phi as having changed less than the degree to which y has phi if and only if doing so is less costly, from an explanatory viewpoint"
+
+179. VIEW: Our senses constantly give us information about comparative rates of change
+   EVIDENCE: "Our senses constantly give us information about comparative rates of change."
+
+180. VIEW: One's eyes might tell one that the apparent size of the man is changing faster than the apparent size of the tree
+   EVIDENCE: "One's eyes might tell one, for example, that the apparent size of the man is changing faster than the apparent size of the tree."
+
+181. VIEW: One's distance from the man and the tree remains constant while both are shrinking, with the man shrinking faster than the tree.
+   EVIDENCE: "One's distance from the man and the tree remains constant; but the man and the tree are both shrinking, and the man is shrinking faster than the tree."
+
+182. VIEW: One is moving away from both the man and the tree, but the distance between them remains constant, with the man shrinking and the tree's size remaining constant.
+   EVIDENCE: "One is moving away from both the man and the tree (and, therefore, one's distance from the man and the tree is not constant), but the distance between the man and the tree remains constant; and, whereas the man is shrinking, the tree's size remains constant."
+
+183. VIEW: One is moving away from both the man and the tree, with the distance between them remaining constant, and both shrinking at different rates.
+   EVIDENCE: "One is moving away from both the man and the tree, but the distance between the man and the tree remains constant; and, even though both the man and the tree are shrinking, the man is doing so at a faster rate than the tree."
+
+184. VIEW: The tree's size and the man's size remain constant, with the man moving away from the tree in one direction and the observer moving away in the opposite direction.
+   EVIDENCE: "The tree's size remains constant, and so does the man's; the man is moving away from the tree in one direction, and you are moving away from the tree in the opposite direction."
+
+185. VIEW: A world where any of scenarios (i)-(iii) is correct would be filled with causal anomalies not present in a world where scenario (iv) is correct.
+   EVIDENCE: "But a world where any one of (i)-(iii) was correct would ceteris paribus be a world that was replete with causal anomalies absent from a world where (iv) was correct."
+
+186. VIEW: Countenancing any of scenarios (i)-(iii) would weaken one's understanding of the world and its governing forces more than countenancing scenario (iv).
+   EVIDENCE: "This means that, if one were to countenance any one of (i)-(iii), one's understanding of the world and the forces that govern it would undergo a weakening that it would not undergo were one instead to countenance (iv)."
+
+187. VIEW: One should countenance scenario (iv) over scenarios (i)-(iii) due to the preservation of understanding of the world.
+   EVIDENCE: "It is for this reason, then, that ceteris paribus one countenances (iv), and not any one of (i)-(iii)."
+
+188. VIEW: After exercising, one believes their heart rate sped up rather than the world slowing down.
+   EVIDENCE: "It is for this reason, that, after exercising vigorously, one believes that one's heart rate sped up and not that the rest of the world slowed down;"
+
+189. VIEW: After lifting weights for a year, one believes they became stronger rather than everything becoming lighter.
+   EVIDENCE: "that, after lifting weights for a year, one became stronger and not that everything became lighter;"
+
+190. VIEW: On leaving a steam room, one believes their body became warmer rather than the world becoming colder.
+   EVIDENCE: "that, on leaving a steam room, one's body that has become warmer and not that the world that has become colder;"
+
+191. VIEW: Objects' masses, speeds, temperatures, and other properties are learned through sense-perception but not directly sense-perceived.
+   EVIDENCE: "So although it is obviously through sense-perception that we learn objects' masses, speeds, temperatures, and so on, we don't sense-perceive them, at least not directly."
+
+192. VIEW: One learns the water's temperature is 78° through sense-perception but does not directly sense-perceive that temperature.
+   EVIDENCE: "Although it is through sense-perception that one learns that the water is 78°, one doesn't sense-perceive that the water has that temperature."
+
+193. VIEW: What one sense-perceives about water temperature is its relative warmth or coldness compared to other temperatures.
+   EVIDENCE: "What one sense-perceives is that the water is warmer than x and colder than y."
+
+194. VIEW: One is justified in believing the water's temperature is 78° if doing so undermines the integrity of one's understanding of physical reality less than not doing so.
+   EVIDENCE: "Given this information, one is justified in believing that the water's temperature is 78° just in case, in doing so, one is undermining the integrity of one's understanding of physical reality less than one would be in not doing so."
+
+195. VIEW: Objects' actual properties are inferred from sense-perceptions and not directly sense-perceived.
+   EVIDENCE: "Basically, objects' actual properties are inferred from sense-perceptions and not directly sense-perceived;"
+
+196. VIEW: The right way to accommodate raw sensory data is the least ad hoc way, positing the fewest causal anomalies and having the most explanatory fertility.
+   EVIDENCE: "the right one is the one that is the least ad hoc (that posits the fewest causal anomalies, that has the most explanatory fertility, etc.)."
+
+197. VIEW: Primary properties include shape, size, density, liquidity, solidity, gaseousness, and state of motion.
+   EVIDENCE: "Examples of primary properties are shape, size, density, liquidity, solidity, gaseousness, and state of motion."
+
+198. VIEW: Secondary properties include sweetness, smell, color, and timbre.
+   EVIDENCE: "Examples of secondary properties are sweetness, smell, color, and timbre."
+
+199. VIEW: For a thing to have a secondary property is for it to be prone to induce sensations of a certain kind in creatures of a given kind.
+   EVIDENCE: "For a thing to have a given secondary property-e.g., for it to have the taste of Snicker's bar-is for that thing to be prone to induce sensations of a certain kind in creatures of a given kind."
+
+200. VIEW: For a thing to have a primary property is for it to have an effect of a given kind on the conditions that objects must meet to occupy a certain region of space-time.
+   EVIDENCE: "For a thing to have a given primary property is for it to have an effect of a given kind on the conditions that objects must meet to occupy a certain region of space-time."
+
+201. VIEW: The size of a house does not appear smaller when viewed from a distance
+   EVIDENCE: "A big house no more 'looks small' when looked at from far away is identical than 'looks small' on the tiny map."
+
+202. VIEW: The perception of a house's size from different distances represents the same actual size
+   EVIDENCE: "But that doesn't mean that those perceptions make different statements concerning the size of the house."
+
+203. VIEW: The size of an object on a map is relative, not absolute
+   EVIDENCE: "Each of those maps tells you that 's actual size corresponds to the relative, not the absolute, size of the picture of on that map."
+
+204. VIEW: The size attributed to an object by a smaller map can be larger than by a bigger map
+   EVIDENCE: "Thus, the size attributed to by the small map might be twice that attributed to it by the big map."
+
+205. VIEW: Visual images function similarly to maps in terms of size representation
+   EVIDENCE: "The same thing mutatis mutandis is true of visual images."
+
+206. VIEW: A house-image that occupies less visual space can still represent the house as being huge
+   EVIDENCE: "But that's consistent with that very perception's representing that very house as being huge."
+
+207. VIEW: BA embodies a spurious understanding of secondary properties
+   EVIDENCE: "BA embodies a spurious understanding of what secondary properties are"
+
+208. VIEW: The health effects of eating meat differ based on its smell
+   EVIDENCE: "The health effects of eating a foul smelling cut of meat are very different from the health-effects of eating a wholesome smelling cut of meat that is otherwise observationally just like the first."
+
+209. VIEW: The smell of meat indicates its nutritional value
+   EVIDENCE: "The way a piece of meat smells is an indication of its ability to nourish."
+
+210. VIEW: Secondary properties correlate with causal differences
+   EVIDENCE: "Differences secondary properties always correlate with causal differences."
+
+211. VIEW: Day-to-day experience can reveal causal properties associated with secondary properties
+   EVIDENCE: "In many cases, day-to-day experience makes it clear what causal properties are associated with possession of a given secondary property."
+
+212. VIEW: Day-to-day experience does not always clarify causal properties linked to secondary properties
+   EVIDENCE: "In other case, day-to-day experience doesn't do this."
+
+213. VIEW: Possession of a secondary property implies a causal property
+   EVIDENCE: "But if a given object has a given secondary property, it ipso facto has some causal property that it wouldn't otherwise have."
+
+214. VIEW: Secondary properties are not subjective in a relevant sense
+   EVIDENCE: "For this reason, secondary properties are not in any relevant sense 'subjective.'"
+
+215. VIEW: The term 'subjective' has two different meanings
+   EVIDENCE: "The term 'subjective,' as John Searle (1992) points out, has two very different meanings."
+
+216. VIEW: Beliefs are subjective in the sense that they presuppose a subject
+   EVIDENCE: "My belief that 2 + 2 = 4 is subjective in sense (i)."
+
+217. VIEW: Beliefs based on rational consideration are not subjective in the sense of embodying prejudices
+   EVIDENCE: "But that belief isn't subjective in sense (ii)."
+
+218. VIEW: Fears based on personal traumas are subjective in the sense of embodying prejudices
+   EVIDENCE: "By contrast, my intense fear of people who wear plaid shirts (which is based, not on rational consideration of the relevant data, but on childhood traumas that we needn't discuss) is subjective in sense (ii)."
+
+219. VIEW: Olfactory perceptions are subjective in the sense of presupposing a subject but not in the sense of embodying prejudices
+   EVIDENCE: "My olfactory perception that the maggot-infested meat in front of me smells awful is subjective in sense (i) but not in sense (ii)."
+
+220. VIEW: If smell did not indicate rot, it would not provide information about an object's causal properties
+   EVIDENCE: "Bearing this in mind, suppose that, all of a sudden, the way things smelled was no indication as to whether they were rotten or not."
+
+221. VIEW: Smells often provide reliable information about an object's causal properties
+   EVIDENCE: "But we often know a lot about a thing's causal properties from the way it smells."
+
+222. VIEW: Smells correlate reliably with certain causal features of objects
+   EVIDENCE: "Smells correlate extremely reliably with certain causal features of objects-sometimes much more reliably than other properties."
+
+223. VIEW: The smell of an object can be the only indication of its toxic or rotten state
+   EVIDENCE: "Sometimes the way thing smells is the only indication (short of eating it or sending it to a toxicology lab) that it's laced with poison or that it's completely rotten."
+
+224. VIEW: Smells track primary properties and facts about microstructure
+   EVIDENCE: "Smells track primary properties; they track facts about microstructure that would otherwise be hard to detect."
+
+225. VIEW: Reliable correlations between microstructure and odor were crucial for developing scientific techniques
+   EVIDENCE: "A relevant fact about method (ii) is that many scientific techniques would have been impossible to develop had there not been reliable correlations between microstructure and odor."
+
+226. VIEW: A thing's color doesn't correlate reliably with its microstructure
+   EVIDENCE: "a thing's color doesn't correlate reliably with its microstructure"
+
+227. VIEW: From far away, the ocean water looks black; from up close it's transparent
+   EVIDENCE: "From far away, the ocean water looks black; from up close it's transparent"
+
+228. VIEW: Locke concluded that secondary properties are subjective
+   EVIDENCE: "Locke concluded from this that secondary properties are subjective"
+
+229. VIEW: An object's apparent color is a function of both its microstructure and the observer's physical relation to it
+   EVIDENCE: "An object's apparent color is a function both of that object's microstructure and of the relevant observer's physical relation to that object"
+
+230. VIEW: An object's apparent shape, size, and smell are also functions of both the object's microstructure and the observer's physical relation to it
+   EVIDENCE: "But so does an object's apparent shape, apparent size, smell, etc."
+
+231. VIEW: The variability of apparent color does not entail the subjectivity of color any more than the variability of apparent shape does
+   EVIDENCE: "So the variability of apparent color no more entails the subjectivity of color than does the variability of apparent shape"
+
+232. VIEW: An object's apparent color correlates with its microstructure when conditions of observation are held constant
+   EVIDENCE: "And so long as the conditions of observation are held constant, an object's apparent color does reliably correlate with its microstructure"
+
+233. VIEW: Perceptions of primary properties are very different from perceptions of secondary properties
+   EVIDENCE: "Our perceptions of primary properties are very different from our perceptions of secondary properties"
+
+234. VIEW: Visual images of primary properties have structural similarity to the object
+   EVIDENCE: "When one sees a porcupine, one's visual image has a structural similarity to that of the porcupine"
+
+235. VIEW: Perceptions of secondary properties are not internally differentiated in a way that corresponds to objective facts
+   EVIDENCE: "Perceptions of secondary properties are very different; they aren't internally differentiated, at least not in a way that at all corresponds to the objective facts to which they are hewed"
+
+236. VIEW: Secondary properties are widely held to be properties of the subject's experiences, not of the object itself
+   EVIDENCE: "This, presumably, is at least part of the reason why it's widely held that an object's secondary properties are really properties of the subject's experiences of that object, and not of that object itself"
+
+237. VIEW: An object's secondary properties belong to it no less than its primary properties
+   EVIDENCE: "But, I will now argue, an object's secondary properties belong to it no less than its primary properties"
+
+238. VIEW: There is no inherent reason why eucalyptus trees couldn't have the smell of putrid meat and vice versa
+   EVIDENCE: "There is no inherent reason why eucalyptus trees couldn't have S and there is no inherent reason why rotten meat couldn't have S*"
+
+239. VIEW: A smell-exchange between eucalyptus trees and rotten meat would not forfeit our causal knowledge
+   EVIDENCE: "if there occurred a smell-exchange between eucalyptus trees and rotten meat, we would not, at least not for that reason alone, forfeit the causal knowledge that we now have"
+
+240. VIEW: Initially, a smell-exchange would cause a loss of knowledge
+   EVIDENCE: "Of course, there would initially be a loss of knowledge"
+
+241. VIEW: After adjusting to a new smell-situation, mistakes in identifying smells would cease
+   EVIDENCE: "But given some time to adjust to the new smell-situation, one would cease to make such mistakes"
+
+242. VIEW: A smell-exchange would initially compromise our ability to acquire knowledge through olfaction
+   EVIDENCE: "This fact initially suggests that olfaction doesn't give us knowledge of the causal structure of the world"
+
+243. VIEW: Olfaction, like vision and audition, gives us knowledge of the causal structure of the world
+   EVIDENCE: "But, duly scrutinized, it turns out to entail that olfaction is, like vision and audition, does give us such knowledge"
+
+244. VIEW: Much of the knowledge acquired through smell is based on comparative properties of olfactory sensations
+   EVIDENCE: "Much of the knowledge that we acquire through the sense of smell is based on the comparative properties of our olfactory sensations"
+
+245. VIEW: Size and shape are mind-dependent
+   EVIDENCE: "that size and shape are mind-dependent."
+
+246. VIEW: Visual sensations can vary while conveying the same information
+   EVIDENCE: "Under otherwise unchanged circumstances, you could have a visual sensation that, although very different from V, gave you either the very same information or that gave you much more information."
+
+247. VIEW: Human sight is less acute than that of certain other species
+   EVIDENCE: "In human beings, the set of sight isn't nearly as acute as it is where certain other species are concerned."
+
+248. VIEW: Other species would perceive the book differently but with more information
+   EVIDENCE: "Were they to look at the book in front of you, under conditions just like the ones that actually obtain, they'd have sensations very different from V that contained all the information contained in V, and then some."
+
+249. VIEW: Different visual sensations do not necessarily mean a lack of knowledge
+   EVIDENCE: "You could have visual sensations very different from the ones you actually have without, for that reason, failing to know anything that you do know."
+
+250. VIEW: The facts of vision are not mind-dependent
+   EVIDENCE: "But this doesn't entail that the facts of which vision apprises us are mind-dependent."
+
+251. VIEW: The shape and size of visual sensations are mind-independent
+   EVIDENCE: "V's shape, size, etc., are quite definitely mind-independent."
+
+252. VIEW: The author is not begging the question against the argument
+   EVIDENCE: "Therefore, what I've said doesn't beg any questions against."
+
+253. VIEW: Secondary properties are not mind-dependent
+   EVIDENCE: "But I argued that secondary properties aren't mind-dependent."
+
+254. VIEW: Temperature is a primary property
+   EVIDENCE: "Nonetheless, temperature is a primary property, since an instance of temperature is identical with various instances of motion."
+
+255. VIEW: Temperature can be known through multiple senses
+   EVIDENCE: "Given what temperature is (namely, molecular motion), it is just as capable of being known through sight or audition as it is of being known through touch."
+
+256. VIEW: Primary properties are transmodal
+   EVIDENCE: "By contrast, primary properties are transmodal."
+
+257. VIEW: Secondary properties are modality-specific
+   EVIDENCE: "First, secondary properties are modality-specific."
+
+258. VIEW: To be is to be conceived is a flawed argument
+   EVIDENCE: "The problem with this argument is that, contrary to what assumes, propositions, not objects, are the objects of conception."
+
+259. VIEW: It is possible to conceive of something that exists but isn't conceived
+   EVIDENCE: "And that proposition is clearly not an absurd one."
+
+260. VIEW: An object-statement concerns mind-independent entities
+   EVIDENCE: "An object-statement is one that concerns mind-independent entities, e.g., 'that statue is over ten feet tall' is an object statement."
+
+261. VIEW: A perception-statement concerns one's own perceptions
+   EVIDENCE: "A perception-statement is one that concerns one's own perceptions (e.g 'I am having an experience that, if it were veridical, would be of a statue that is over ten feet tall')."
+
+262. VIEW: Observationally equivalent statements are confirmed or disconfirmed equally by observations
+   EVIDENCE: "Two statements are observationally equivalent if there is no observation that (dis)confirms the one either more or less than it (dis)confirms the other."
+
+263. VIEW: A property or relation is observationally inert if no instance of it could possibly affect what anyone observes
+   EVIDENCE: "a property or relation is observationally inert if no instance of it could possibly affect what anyone observes"
+
+264. VIEW: Strict empiricism leads to either skepticism or idealism
+   EVIDENCE: "strict empiricism leads to either skepticism or idealism"
+
+265. VIEW: Skepticism and idealism are both deeply at odds with commonsense
+   EVIDENCE: "Skepticism and idealism are both deeply at odds with commonsense"
+
+266. VIEW: Idealism is the commonsense view
+   EVIDENCE: "He held, in fact, that idealism is the commonsense view"
+
+267. VIEW: Any object-statement that we could have any good reason to believe correct can be reinterpreted as a perception-statement
+   EVIDENCE: "any object-statement that we could have any good reason to believe correct can be reinterpreted as a perception-statement"
+
+268. VIEW: A statement about the external world is meaningful only to the extent that, were it true, we'd have observations that we wouldn't otherwise have
+   EVIDENCE: "A statement about the external world is meaningful only to the extent that, were it true, we'd have observations that we wouldn't otherwise have"
+
+269. VIEW: 'Smith has a car' is without meaning to the extent Smith's having a car is observationally inert
+   EVIDENCE: "'Smith has a car' is without meaning to the extent Smith's having a car is observationally inert"
+
+270. VIEW: 'Smith's car weighs twice as much as Brown's car' is meaningful only to the extent that, for any objects x and y, if x weighs twice as much as y, there would ipso facto occur observations that would not otherwise occur
+   EVIDENCE: "'Smith's car weighs twice as much as Brown's car' is meaningful only to the extent that, for any objects x and y, if x weighs twice as much as y, there would ipso facto occur observations that would not otherwise occur"
+
+271. VIEW: A true sentence results if the variables in (2) are replaced with constants referring to classes of perceptions
+   EVIDENCE: "A true sentence results if the variables in (2) are replaced with constants referring to classes of perceptions"
+
+272. VIEW: If a given observation O confirms (1) to a degree, it confirms (3) to that same degree
+   EVIDENCE: "If a given observation O confirms (1) to a degree, it confirms (3) to that same degree"
+
+273. VIEW: There is no observation-based reason to prefer (1) to (3)
+   EVIDENCE: "There is therefore no observation-based reason to prefer (1) to (3)"
+
+274. VIEW: Assuming empiricism is correct, and that all good reasons are observation-based, there is no reason at all to prefer (1) to (3)
+   EVIDENCE: "So assuming, as we are, that empiricism is correct, and that all good reasons are observation-based, it follows that there is no reason at all"
+
+275. VIEW: The fact that there is no reason to prefer (1) to (3) is itself a reason to prefer (3) to (1)
+   EVIDENCE: "But the very fact that there is no such reason is itself a reason to prefer (3) to (1)"
+
+276. VIEW: (3) doesn't posit anything for which there is no observational evidence
+   EVIDENCE: "(3) doesn't posit anything for which there is no observational evidence"
+
+277. VIEW: (1) posits trans-observational entities
+   EVIDENCE: "But (1), at least as many philosophers interpret it, does posit trans-observational entities"
+
+278. VIEW: Sentences are meaningful only to the extent that, if true, they make a difference
+   EVIDENCE: "Because sentences are meaningful only to the extent that, if true, they make a difference"
+
+279. VIEW: A sentence makes a difference only if it makes an observational difference
+   EVIDENCE: "and, given the truth of empiricism, a sentence makes a difference only if it makes an observational difference"
+
+280. VIEW: Hallucinations are perceptions
+   EVIDENCE: "hallucinations are perceptions"
+
+281. VIEW: Veridical perceptions are perceptions
+   EVIDENCE: "and so are veridical perceptions"
+
+282. VIEW: A perception of Smith driving a car is evidence that Smith is driving a car
+   EVIDENCE: "P is obviously evidence, albeit defeasible evidence, that Smith is driving a car"
+
+283. VIEW: Statements about perceptions cannot be equivalent to statements about objects
+   EVIDENCE: "statements about perceptions cannot possibly be equivalent with statements about perceptions"
+
+284. VIEW: Berkeley's argument for idealism does not succeed
+   EVIDENCE: "'s argument for idealism does not go through"
+
+285. VIEW: Berkeley's attempt to reduce statements about objects to statements about perceptions fails
+   EVIDENCE: "neither does his attempt to reduce statements about objects to statements about perceptions"
+
+286. VIEW: A statement's grammatical form may differ from its logical form
+   EVIDENCE: "a statement's grammatical form may not coincide with its logical form"
+
+287. VIEW: The expression 'x is odd' is not a statement
+   EVIDENCE: "The expression 'x is odd' isn't a statement"
+
+288. VIEW: Replacing variables with constants in a statement form can yield truths or falsehoods
+   EVIDENCE: "A given statement form may be true 'under some interpretations of it' and false under others"
+
+289. VIEW: Modeling a statement-form involves finding an interpretation that yields a true statement
+   EVIDENCE: "To model a statement-form is to identify an interpretation of it that yields a true statement"
+
+290. VIEW: Berkeley suggested that statements like 'that rock weighs five lbs' are statement forms
+   EVIDENCE: "Berkeley was in effect saying that such statements aren't statements at all-they're statement forms"
+
+291. VIEW: Berkeley was incorrect in thinking that replacing variables with constants referring to perceptions would yield true statements
+   EVIDENCE: "He was wrong about (ii), as we saw a few pages ago"
+
+292. VIEW: Berkeley was correct in thinking that terms in statements are variables
+   EVIDENCE: "But he was right about (i)"
+
+293. VIEW: There is no specific microstructure required for a perception to be accurate
+   EVIDENCE: "There is no one microstructure that Rover must have if my current perception of him is to be accurate"
+
+294. VIEW: Knowledge of the world is comparative
+   EVIDENCE: "We've seen that our knowledge of the world is strictly comparative"
+
+295. VIEW: Perception informs us only of structure, not microstructure
+   EVIDENCE: "perception apprises us only of structure"
+
+296. VIEW: Physical theories inform us of microstructure
+   EVIDENCE: "our physical theories (if correct) apprise us of microstructure"
+
+297. VIEW: There is no observational basis to distinguish between two things with the same structure but different non-structural qualities
+   EVIDENCE: "Given any two things having the requisite structure, there cannot possibly be any observational basis for holding that it, and not the other thing, is what is really out there"
+
+298. VIEW: If two objects have the same structure but differ non-structurally, they model observational data equally well
+   EVIDENCE: "the supposition that x is what is really out there models the data exactly as well-no better, no worse-than the supposition that y is what is really out there"
+
+299. VIEW: There is a fact about what is really out there
+   EVIDENCE: "There obviously is"
+
+300. VIEW: At most one object can be the external world among possible objects with the same structure but different non-structural qualities
+   EVIDENCE: "Given any set of possible objects, each having the structure of the external world but each differing in some non-structural respect from the others, at most one of those objects can be the external world"
+
+301. VIEW: Any hypothesis that models observational data is equally likely to be true
+   EVIDENCE: "anything that models the observational data ipso facto no less likely to be what's really out there than anything else that does so"
+
+302. VIEW: Berkeley was the first model-theorist
+   EVIDENCE: "was therefore (so far as I know) the first model-theorist"
+
+303. VIEW: Berkeley recognized the distinction between grammatical structure and logical form
+   EVIDENCE: "To my knowledge, was the first to recognize the distinction grammatical structure (surface structure) and logical form (deep structure)"
+
+304. VIEW: Berkeley's idealism implies the world disappears when Smith closes his eyes
+   EVIDENCE: "'s idealism seems to entail that, if Smith closes his eyes (and is otherwise not in sensory contact with the world), the whole world disappears"
+
+305. VIEW: Berkeley's idealism implies the world reappears when Smith opens his eyes
+   EVIDENCE: "and it also seems to entail that the whole world springs back into existence when Smith opens his eyes"
+
+306. VIEW: Berkeley's idealism is deeply implausible
+   EVIDENCE: "This is deeply implausible"
+
+307. VIEW: Berkeley's idealism undermines the claim that object-statements are equivalent to statements about observational evidence
+   EVIDENCE: "It also seems to undermine 's claim that any object-statement that is presumed correct (e.g. 'the world doesn't' disappear when I close my eyes') is equivalent with a statement stating the observational evidence for that claim"
+
+308. VIEW: When closing eyes, observational evidence suggests the world has vanished
+   EVIDENCE: "When I close my eyes, the observational evidence seems to suggest that the world has van ished"
+
+309. VIEW: The world doesn't go out of existence when Smith closes his eyes
+   EVIDENCE: "the world doesn't go out of existence when Smith (who, for argument's sake, we'll assume to be the only sentient being in existence) closes his eyes"
+
+310. VIEW: The alternative sentence to represent the world not disappearing is about the expectation of things' positions after reopening eyes
+   EVIDENCE: "if Smith closes his eyes for x minutes and then reopens them, the things he sees are where one would expect them to be, given that they are subject to the usual forces"
+
+311. VIEW: The stars are moving
+   EVIDENCE: "The stars are moving, points out."
+
+312. VIEW: We are moving relative to the stars
+   EVIDENCE: "A more precise way of putting it, as Berkeley himself makes clear, is that we are moving relative to the stars"
+
+313. VIEW: The stars are moving relative to us
+   EVIDENCE: "the stars are therefore moving relative to us"
+
+314. VIEW: We don't see the stars move
+   EVIDENCE: "But, points out, we don't see the stars move."
+
+315. VIEW: The positions of stars change over different nights
+   EVIDENCE: "The blips in the sky that we see on a given night aren't in the same relative positions as the blips in the sky that we see on other nights."
+
+316. VIEW: We try to connect the positions of stars seen on different nights
+   EVIDENCE: "We try to connect the blips seen on night 1 with those seen on night 2, and we try to connect the latter with those seen on night 3, and so on."
+
+317. VIEW: We identify curves as trajectories of stars based on observed positions
+   EVIDENCE: "So if N1...Nn are nights in question, and n is some high number (e.g., 500), we identify curves such that, if it is assumed that those curves are the trajectories of those blips, it follows that those blips obey well-defined, relative simple laws."
+
+318. VIEW: What sentences really mean isn't what they seem to mean based on their overt forms
+   EVIDENCE: "said, as clearly as it can be said, that what sentences really mean isn't what, given their overt forms, they seem to mean."
+
+319. VIEW: One problem with rationalism is that sense-perception only apprises us of particulars and not universals
+   EVIDENCE: "One problem with rationalism is that, because sense-perception apprises us only of particulars and never of universals, it cannot account for the apparent fact that we understand reality in terms of universals."
+
+320. VIEW: Rationalists are neither more nor less likely than empiricists to think that all thought consists of sequences of perception-based mental images
+   EVIDENCE: "Rationalists are neither more nor less likely than empiricists to think that all thought consists of sequences of perception-based mental images."
+
+321. VIEW: There are arguments against Berkeley's view that 'to be is to be perceived'
+   EVIDENCE: "What is his argument and why does it go wrong?"
+
+322. VIEW: There are types of information that imagery cannot bear
+   EVIDENCE: "What kinds of information are there that imagery cannot bear?"
+
+323. VIEW: Wittgenstein argued that sentences are pictures of the facts they represent
+   EVIDENCE: "In the Tractatus Logico-philosophic us, Wittgenstein argued that sentences are, quite literally, pictures of the facts they represent (when they're true)."
+
+324. VIEW: Wittgenstein's viewpoint on sentences as pictures of facts is fundamentally misguided
+   EVIDENCE: "Explain why, given the points made in this chapter, this viewpoint is fundamentally misguided."

@@ -1,0 +1,103 @@
+POSITIONS EXTRACTED FROM KUCZYNSKI, CHAPTER 1
+POSITIONS
+
+Philosophy studies the categories (person, fact, causation, knowledge, truth) through which we understand the world—it doesn't study the world directly.
+We are excellent at using fundamental categories but terrible at making them explicit—we can distinguish knowledge from mere belief without being able to say what the difference is.
+The philosopher is to the physicist what the physicist is to the engineer—each studies the conditions underlying what the other takes for granted.
+Philosophical knowledge is metaknowledge: knowledge about knowledge, not knowledge about things.
+Pre-Fregean philosophers thought they were studying general features of the actual world; Frege showed they were studying what could possibly be the case.
+Philosophical puzzles result from confusion, not ignorance—they're solved by drawing the right inferences from what's already known, not by discovering new facts.
+"Nothing is a square circle" doesn't attribute being-a-square-circle to some non-entity; it says the property of being a square circle is uninstantiated.
+Philosophical problems are solved by clarifying statements, not by positing new entities.
+Grammatical form and logical form can diverge radically—the surface structure of a sentence may misrepresent what it actually says.
+Quantified statements ("someone smokes," "nothing is round") are really statements about properties, not about mysterious non-specific objects.
+Analytic philosophers are ontologically conservative—they don't grant existence to anything whose existence hasn't been demonstrated beyond doubt.
+Pre-Fregean philosophers ontologized when they should have analyzed—they posited bizarre entities to cover up defects in their analyses.
+When ontologizing is necessary, the entities posited are always abstract objects required to account for obviously true statements.
+Properties exist and are non-spatiotemporal—you'll never encounter redness itself, only instances of it.
+Perception is description: seeing something involves seeing that various properties are instantiated in a certain place.
+The content of a perception is an existence-claim—a claim that certain properties are instantiated.
+Hallucinations don't represent non-existent objects; they encode false existence-claims.
+Nothing non-existent or quasi-existent can be the object of thought or perception.
+Brentano and Meinong were ontologizing when they should have been analyzing—their talk of "subsistent" entities was spurious.
+Propositions are properties—for a proposition to be true is for it to be instantiated (for the world to have that property).
+Propositions exist independently of human beings—the world was a certain way before we existed.
+Sentences are human artifacts, but the truths they express are not.
+The term "statement" is ambiguous—it can refer to propositions, sentences, or acts of affirming.
+Not all philosophical analysis is linguistic analysis—many philosophical puzzles have nothing to do with language.
+Wittgenstein was wrong that all philosophical problems arise from misusing language.
+Some philosophical disputes concern whether a meaningful statement is true, not what it means.
+Wittgenstein's "meaning is use" thesis is incoherent—we can't know which word to study without already grasping the concept independently of the word.
+If meaning were use, meaning couldn't guide use—but it obviously does.
+To the extent meaning doesn't guide use, people are misspeaking—use presupposes meaning, not vice versa.
+For something to be a linguistic expression at all, it must have meaning—noises without meaning are just noises.
+Speaking consists in making noises because one believes they have certain meanings according to semantic rules.
+Any correct generalization about when abstract terms like "justice" are used will itself employ the concepts those terms express.
+The analysis of sentences is really the analysis of semantic rules—and semantic rules are not themselves sentences.
+The thesis that philosophy is sentence-analysis either collapses into linguistics or into the analysis of concepts.
+Wittgenstein's Tractarian claim that all philosophical statements are ungrammatical nonsense is self-refuting.
+Ungrammatical sentences are often perfectly meaningful ("me and Herby play tennis every day").
+The problem with "the good is more identical than the beautiful" isn't bad grammar—it's that "more identical than" denotes no relation.
+Meaninglessness results from undefined terms, not grammatical violations.
+The statement that all philosophical statements are meaningless is itself a philosophical statement—so if true, it's false.
+Logical positivism says a sentence is meaningful iff it's either a tautology or an empirical statement.
+Verificationism is false—"all metal expands when heated" is meaningful but cannot be conclusively verified.
+Falsificationism is false—"there exists a gold ball weighing exactly 27.13654 lbs" is meaningful but cannot be conclusively falsified.
+Confirmationalism fails because meaningless sentences can follow from confirmable ones.
+Logical positivism is neither tautologous nor empirical—so by its own criterion, it's meaningless and therefore false.
+Empiricism is self-refuting: you can't know through observation that all knowledge is observation-based.
+Observation cannot tell you whether one statement is consistent or inconsistent with another.
+The consistency of conventions is not itself a matter of convention.
+What must be the case cannot be known through observation—observation tells only what is the case.
+There are non-empirical truths that have nothing to do with linguistic conventions.
+From tautologous premises (definitions of "triangle" and "pentagon"), non-tautologous truths can be derived.
+Goodman's grue argument shows that induction does not have a strictly observational basis.
+Some properties (like green) are inductively relevant and others (like grue) are not—but observation alone can't tell which.
+A priori knowledge is required to learn from experience at all.
+Tautologousness is a property of utterances in context, not of sentences per se.
+The same sentence can be trivial for one person and informative for another, depending on how they learned the meanings.
+One knows the meanings of expressions descriptively—different descriptions can pick out the same meaning.
+What an utterance tells you depends both on what it means and on how you came to know what it means.
+"The universe is a perfect unity" isn't meaningless because unconfirmable—it's meaningless because "perfect unity" is undefined.
+A sentence is meaningful if it attributes some property to some object.
+Any non-compound sentence either attributes a property to an individual or affirms a relation between individuals.
+Relational sentences can be reformulated as property-attributions to ordered pairs.
+Compound sentences can be reformulated as property-attributions.
+Quantified generalizations say how many members one class has in common with another.
+The picture theory of meaning is trivially true if it means sentences represent facts, and false if it means they are pictures.
+The relationship between sentences and facts has a conventional component; pictures represent non-conventionally.
+Sentences go through propositions to facts; pictures go directly to facts.
+Sentences are digital structures with unique decomposition into discrete parts; pictures are not.
+A photograph functioning as a sentence in a language doesn't function as a picture.
+Any conventional assignment of meaning to symbols yields symbols with unique decomposition into discrete parts.
+No language can state all of its own semantic rules.
+The picture theory is consistent with empiricism because perception gives us pictures.
+Much of what we know cannot be embodied in images—negative facts, for instance.
+The rules converting perceptual information into propositional knowledge cannot themselves be learned perceptually.
+Wittgenstein's claim that we cannot state the logical forms of sentences collapses into the false claim that we can never say what words mean.
+"What can be shown cannot be said" is obviously false—I can both show and tell you I can do fifty push-ups.
+The liar paradox doesn't show that semantic rules can't be stated—many semantic rules can be stated without self-reference.
+Some semantic rules cannot be put into words, but not for the reasons Wittgenstein gives.
+Not all entailment is formal entailment—"Brown is a circle" entails "Brown is two-dimensional" but not formally.
+"Circle" is not synonymous with its definition, which is why the definition is informative.
+There are non-tautologous, non-empirical truths—logical positivism is therefore false.
+The concept of a logically perfect language is incoherent.
+A sentence is perspicuous iff its logical and grammatical forms coincide.
+For each analytic truth a logically perfect language could express, there are infinitely many it couldn't.
+Formally true sentences are instances of informally true universal generalizations.
+No sentence capable of expressing such generalizations is logically perfect.
+Knowledge of a formal entailment requires prior knowledge of an informal entailment.
+There are infinitely many informally valid inferences for each formally valid one.
+Hempel showed that strict empiricism is incompatible with modern physics.
+If magnitudes can have irrational values, there's no strictly observational way to establish this.
+Modern physics requires assuming magnitudes can take irrational values.
+Strict empiricism is therefore incompatible with the obvious fact that modern physics is knowledge.
+The parallel postulate is a statement-form, not a statement—"line" and "space" function as variables.
+Different interpretations of geometric primitives yield different geometries.
+What we thought were statements sometimes turn out to be statement-forms.
+Arithmetical truth cannot be formalized—any formal characterization is incomplete or inconsistent.
+Russell's argument against naive realism is flawed—observing effects of objects is not the same as observing effects upon ourselves.
+The coldness physics studies is identical with the coldness we feel—physics tells us what that coldness is.
+Scientific breakthroughs have both factual components (new data) and conceptual components (new models of old data).
+Counterfactual statements are not about other possible worlds but are grammatical variants of causal or logical statements.
+We don't know anything about other universes; any knowledge of them would be parasitic on knowledge of counterfactual truths.

@@ -1,0 +1,184 @@
+BULLSHIT PROOF PROTOCOL FOR SHIT ANALYTIC PHILOSOPHY APP
+
+NON-NEGOTIABLE REQUIREMENT: EVERY ANSWER MUST BE FULLY AUDITED — LIVE + DOWNLOADABLE
+
+This app is not allowed to silently “think” and then deposit a finished answer.
+If it does that, it will always cheat: hallucinate, smooth over conflicts, pretend it searched the corpus, or invent support.
+
+So from now on, every single question must run in Full Audit Mode, and every single answer must produce two deliverables:
+
+DELIVERABLE #1: THE ANSWER
+
+The app gives the user the best possible answer in the author’s voice, but only after doing the full corpus search procedure described below.
+
+DELIVERABLE #2: A DOWNLOADABLE AUDIT REPORT
+
+Every time the app answers, it must automatically generate a downloadable report that documents exactly what it did to produce the answer — with no gaps, no hand-waving, no “trust me.”
+
+This report is not optional.
+It is not a debug feature.
+It is a required second output every time.
+
+A. LIVE STREAMING AUDIT PANEL (DURING THE ANSWER)
+
+Whenever the user asks a question, the app must open a side-panel Trace / Audit Window and stream the entire process in real time.
+
+Nothing is permitted to happen invisibly.
+
+The trace must show, live:
+
+every database query (actual SQL / query text)
+
+every table searched, in order:
+
+position statements
+
+quotes
+
+full works / chunks
+
+every work opened / scanned
+
+every sentence or passage considered
+
+every retrieved passage
+
+every rejected passage with a reason
+
+the first direct answer found
+
+the second direct answer found
+
+the third direct answer found
+
+the alignment check:
+
+Aligned → proceed
+
+Conflicting → do not synthesize
+
+the final response generation step (LLM phrasing), only after the above steps complete
+
+B. SEARCH / ANSWER RULES (NO SYNTHESIS, NO CHEATING)
+
+The app does not answer immediately.
+
+It searches the figure’s corpus until it finds three clearly on-point, direct answers:
+
+It finds the first direct answer.
+
+Then the second.
+
+Then the third.
+
+Then:
+
+If the three answers align, the app proceeds to answer.
+
+If they do not align, the app does not attempt to reconcile them.
+It says truthfully:
+“I found three different answers in this author’s work. Here they are.”
+and presents them separately.
+
+If no direct answer exists:
+
+the app retrieves answer-adjacent material
+
+and gives a cautious response explicitly labeled as indirect.
+
+The LLM may ONLY:
+
+judge relevance
+
+judge directness
+
+judge alignment vs conflict
+
+phrase the output in the author’s voice
+
+The LLM may NOT:
+
+invent content
+
+“smooth” conflicts into one answer
+
+substitute generic modern academic filler when retrieval fails
+
+C. THE DOWNLOADABLE AUDIT REPORT (AFTER THE ANSWER)
+
+Every answer must generate a report the user can download immediately.
+
+This report must include:
+
+1) Question + Author
+
+exact user question
+
+figure/author ID
+
+timestamp
+
+app version / commit hash (or build ID)
+
+2) Full Execution Trace
+
+A step-by-step timeline of everything the app did, matching the live panel:
+
+every query executed (SQL/query text)
+
+parameters used (authorId, query string, filters)
+
+which tables were searched, in what order
+
+which works/files were opened
+
+which passages were examined
+
+which passages were returned
+
+which were rejected and why
+
+the three direct answer candidates
+
+alignment/conflict determination
+
+final decision: aligned / conflict / no direct answer found
+
+3) Evidence Section
+
+The report must include the exact passages used, with:
+
+table name (positions, quotes, chunks, etc.)
+
+row IDs
+
+work/source title (if available)
+
+chunk index / location
+
+the raw excerpt text
+
+4) LLM Usage Log
+
+The report must include:
+
+which model was used
+
+the exact prompt blocks (system + user + retrieved context) OR a redacted version if needed
+
+token counts (optional but preferred)
+
+temperature/settings
+
+5) Final Output
+
+the final answer shown to the user
+
+plus a “faithfulness note” summarizing whether it was direct-answer-based or adjacent-material-based
+
+D. CORE PRINCIPLE
+
+The trace panel is the product.
+The report is the receipt.
+
+If the user cannot watch the system work live, and then download a complete “receipt” of exactly what it did, then the system is broken.

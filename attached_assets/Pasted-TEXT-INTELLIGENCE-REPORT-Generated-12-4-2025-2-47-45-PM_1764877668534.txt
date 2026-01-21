@@ -1,0 +1,743 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/4/2025, 2:47:45 PM
+Source Length: 14567 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+
+
+--- ANNOTATED CITATIONS ---
+
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+
+
+[Chunk 7]
+
+
+[Chunk 8]
+
+
+[Chunk 9]
+
+
+[Chunk 10]
+
+
+[Chunk 11]
+
+
+[Chunk 12]
+
+
+[Chunk 13]
+
+
+[Chunk 14]
+
+
+[Chunk 15]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "There would be no languages if there were no expressions.", "evidence": ["There would be no languages if there were no expressions (words, phrases, sentences, etc.)."]},
+    {"view": "Nothing meaningless is an expression.", "evidence": ["Nothing meaningless is an expression."]},
+    {"view": "The concept of an expression must be understood in terms of the concept of meaning.", "evidence": ["For this reason, the concept of an expression must be understood in terms of the concept of meaning, the same therefore being true of the concept of language."]},
+    {"view": "The concept of language must be understood in terms of the concept of meaning.", "evidence": ["For this reason, the concept of an expression must be understood in terms of the concept of meaning, the same therefore being true of the concept of language."]},
+    {"view": "The word 'meaning' has three different meanings.", "evidence": ["But it isn't much use to be told that words and sentences "have meanings," since the word "meaning" has three different meanings, and only one of these directly relates to the nature of language."]},
+    {"view": "Only one of the three meanings of 'meaning' directly relates to the nature of language.", "evidence": ["But it isn't much use to be told that words and sentences "have meanings," since the word "meaning" has three different meanings, and only one of these directly relates to the nature of language."]},
+    {"view": "Chomsky's reasoning about 'colorless green dreams sleep furiously' is no good.", "evidence": ["Chomsky famously said that "colorless green dreams sleep furiously" is both meaningless and is a bona fide sentence, and therefore expression, of English. This reasoning is no good."]},
+    {"view": "The sentence 'colorless green dreams sleep furiously' is either false or vacuously true.", "evidence": ["Depending on how it's interpreted, "colorless green dreams sleep furiously" either says (i) that there are dreams that are green and also colorless that sleep furiously, in which case it's false, or it says (ii) that there is nothing that is a colorless green dream that doesn't also sleep furiously, in which case it's vacuously true."]},
+    {"view": "Nothing meaningless is a linguistic expression.", "evidence": ["In the meantime, we'll operate on the assumption that nothing meaningless is a linguistic expression."]},
+    {"view": "To say that x 'means' y can indicate that x is evidence of y.", "evidence": ["In some cases, to say that x "means" y is to say that x is evidence of y-that x and y are causally interrelated in such a way that, given x, it can reasonably be inferred that y."]},
+    {"view": "For x to be evidence of y, it is neither necessary nor sufficient that y cause x.", "evidence": ["But for x to be evidence to of y, it is neither necessary nor sufficient that y cause x."]},
+    {"view": "Causes can be evidence of their own effects.", "evidence": ["First of all, causes can be evidence of their own effects. (Bill's current drunkenness is evidence of a poor performance on his upcoming economics exam.)"]},
+    {"view": "If some event or state of affairs z is a cause of both x and y, then x can be evidence of y without being a cause or an effect of y.", "evidence": ["Second, if some event or state of affairs z is a cause of both x and y, then x can be evidence of y without being a cause or an effect of y."]},
+    {"view": "Meaning in the psychological sense is a psychological notion.", "evidence": ["Meaning in this sense is a psychological notion."]},
+    {"view": "Meaning in the linguistic sense is not identical with meaning in the psychological sense.", "evidence": ["This kind of meaning is in a class by itself; it isn't identical with either of the two kinds mentioned so far; and there isn't any obvious way to understand it in terms of them."]},
+    {"view": "Meaning in the psychological sense involves, but does not coincide with, meaning in the linguistic sense.", "evidence": ["Meaning in the psychological sense involves, but does not coincide with, meaning in the linguistic sense."]},
+    {"view": "Meaning in the psychological sense is parasitic on meaning in the linguistic sense.", "evidence": ["Meaning in the psychological sense is therefore parasitic on meaning in the linguistic sense."]},
+    {"view": "The view that for a sentence S to have meaning M is for it to be the case that, in uttering S, people mean M is false.", "evidence": ["This position is false."]},
+    {"view": "There are many sentences that have determinate meanings even though they've never been uttered before.", "evidence": ["There are many sentences that have determinate meanings even though they've never been uttered before and, therefore, no one as of yet has ever meant anything by them."]},
+    {"view": "The sentence 'the cube root of three is Sir Lawrence Olivier's favorite irrational number between one and four' has a determinate meaning.", "evidence": ["The sentence: (2) "the cube root of three is Sir Lawrence Olivier's favorite irrational number between one and four" has a determinate meaning, even though that sentence"]}
+  ]
+}
+
+═══ CHUNK 2 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Meaning in the linguistic sense is not always identical with meaning in the psychological sense.", "evidence": ["Thus, meaning in the linguistic sense is not in all cases identical with meaning in the psychological sense."]},
+    {"view": "The word 'means' is not used equivocally when stating that (1) means P1 and (2) means P2.", "evidence": ["In saying that (1) means P1 and that (2) means P2, we are not using the word "means" equivocally."]},
+    {"view": "The relationship that (1) bears to its meaning is the same as the relationship that (2) bears to its meaning.", "evidence": ["Both occurrences of "means" in the last sentence denote the same relationship. Thus, the relationship that (1) bears to its meaning is the same as the relationship that (2) bears to its meaning."]},
+    {"view": "(1)'s having P1 for its meaning isn't identical with P1's being what people mean in uttering (1).", "evidence": ["Given that, as we saw, (2)'s having P2 for its meaning isn't identical with P2's being what people mean in uttering (2), it follows that (1)'s having P1 for its meaning isn't identical with P1's being what people mean in uttering (1)."]},
+    {"view": "What a sentence means is not identical with what people mean in uttering it.", "evidence": ["Of course, what we just said about (1) and (2) can be said of any other sentence. So even if what people mean in uttering a given sentence happens to coincide with its literal meaning, what it is for sentence S to have proposition P for its literal meaning isn't for people to mean P in uttering S."]},
+    {"view": "Psychological meaning presupposes linguistic meaning.", "evidence": ["Psychological meaning presupposes linguistic meaning."]},
+    {"view": "What a person means when uttering a sentence is influenced by their beliefs about what that sentence means.", "evidence": ["What a person means when uttering a given sentence is a function of, among other things, his beliefs as to what that sentence already means."]},
+    {"view": "To speak sincerely and literally, one must believe that 'snow is white' means snow is white.", "evidence": ["You must believe that "snow is white" means snow is white if, intending to speak sincerely and literally, you say "snow is white" with the intention of getting it across that snow is white."]},
+    {"view": "If one believes 'snow is white' means grass is green, they cannot speak sincerely and literally about snow being white.", "evidence": ["If you think that "snow is white" means grass is green, you cannot, if your intention is to speak sincerely and literally, believe that "snow is white" means snow is white."]},
+    {"view": "One can use a sentence to convey a message unrelated to its literal meaning.", "evidence": ["Knowing what "snow is white" actually means, you might utter that sentence with the intention of getting it across that the government is controlling our thoughts with alpha waves."]},
+    {"view": "The message one wishes to convey must have some relationship to the sentence's literal meaning.", "evidence": ["But whatever the message is that, in uttering a certain sentence, you wish to convey, you must believe that message to have some kind of relationship to the one meant by that sentence itself."]},
+    {"view": "To successfully convey a message, one's belief about the sentence's meaning must be correct.", "evidence": ["Furthermore, if you are to succeed in saying what it is you wish to say, what you believe to be meant by the sentence you are using must be right."]},
+    {"view": "One cannot mean anything by a sentence unless they know what it already means.", "evidence": ["Thus, setting aside defective utterances, one cannot, in uttering a given sentence, mean anything by it unless one knows what it already means."]},
+    {"view": "Meaning in the psychological sense is parasitic on meaning in the linguistic sense.", "evidence": ["So meaning in the psychological sense is parasitic on meaning in the linguistic sense, and the two kinds of meaning are therefore entirely distinct."]},
+    {"view": "The sense in which 'snow is white' means that snow is white is not comparable to the sense in which smoke means fire.", "evidence": ["The sense in which "snow is white" means that snow is white isn't comparable to the sense in which smoke means fire."]},
+    {"view": "The meaning of 'snow is white' is partly a matter of convention.", "evidence": ["But the fact that "snow is white" means what it does is, at least in part, a matter of convention."]},
+    {"view": "The meaning of words like 'snow' and 'white' is determined by convention.", "evidence": ["It's a matter of convention that "snow" doesn't refer to grass and, therefore, that "snow is white" doesn't mean that grass is white; it's a matter of convention that "white" doesn't mean green and, therefore, that "snow is white" doesn't mean that snow is green."]},
+    {"view": "The whiteness of snow does not cause people to say 'snow is white' in the same way fire causes smoke.", "evidence": ["Although the whiteness of snow sometimes causes people to say "snow is white," it doesn't do so in the way that fire causes there to be smoke."]},
+    {"view": "Utterances of 'snow is white' embody judgments about the color of snow and linguistic conventions.", "evidence": ["Thus, utterances of "snow is white" embody judgments about the color of snow and about how, linguistic conventions being what they are, one can report the color of snow."]},
+    {"view": "People make context-based judgments before deciding to utter a sentence.", "evidence": ["Before deciding to utter a given sentence, people typically make context-based judgments about the appropriateness of uttering that sentence."]}
+  ]
+}
+
+═══ CHUNK 3 ═══
+
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Steve ate one of the cupcakes that was on the author's desk", "evidence": ["office-mate Steve eats one of the cupcakes that was on my desk"]},
+    {"view": "The author jokingly accused Steve of being a thief", "evidence": ["I jokingly point at him and say: "that man is a thief.""]},
+    {"view": "U2 is true if and only if the person who ate the cupcake is a thief", "evidence": ["U2 is true exactly if: x is a thief"]},
+    {"view": "Steve is the pick-pocket", "evidence": ["Unbeknownst to me, Steve is the pick-pocket"]},
+    {"view": "U1 and U2 have the same literal meanings", "evidence": ["Thus, U1 and U2 have the very same literal meanings"]},
+    {"view": "The author did not know that U1 and U2 had the same literal meanings", "evidence": ["But I don't know this"]},
+    {"view": "The author speaks English perfectly", "evidence": ["even though I speak English perfectly"]},
+    {"view": "The author understood what they were saying on each occasion", "evidence": ["on each occasion, obviously understand perfectly well what it is that I'm saying"]},
+    {"view": "Sense-perceptions describe things", "evidence": ["Our sense-perceptions describe things"]},
+    {"view": "The author's utterance of U1 was a response to a visual description of Steve", "evidence": ["My uttering U1 was a response to my being given a visual description of Steve"]},
+    {"view": "The visual description of Steve was of a man wearing a ski-mask running off into the distance", "evidence": ["That description was to the effect that: (i) there is some man x such that x is wearing a ski-mask and such that x is running off into the distance"]},
+    {"view": "The literal meaning of U1 is that the man is a thief", "evidence": ["There is some man x such that x is a wearing a ski-mask (etc.), such that in uttering U1 I was saying that: (ii) x is a thief"]},
+    {"view": "The meaning of U1 is threadbare", "evidence": ["The meaning of U1, being identical with (ii), is quite threadbare"]},
+    {"view": "The author grasped the meaning of U1 through a descriptively rich visual perception", "evidence": ["But I grasped that threadbare meaning through my descriptively rich visual perception, whose content is given by (i)"]},
+    {"view": "The author's utterance of U2 was a response to a different description of Steve", "evidence": ["My uttering U2 was a response to my being given a different description of Steve"]},
+    {"view": "The different description of Steve was of a portly amicable fellow sitting in a chair", "evidence": ["That description was to the effect that: (iii) there is some man x such that x is a portly amicable fellow who is sitting over in that chair"]},
+    {"view": "The literal meaning of U2 is that the man is a thief", "evidence": ["There is some man x such that x is a portly amicable fellow (etc.) such that in uttering U2 I was saying that: (ii) x is a thief"]},
+    {"view": "The meaning of U2 is threadbare", "evidence": ["the meaning of U2, being identical with (ii), is quite threadbare"]},
+    {"view": "The author grasped the meaning of U2 through a descriptively rich visual perception", "evidence": ["But I grasped that threadbare meaning through my descriptively rich visual perception, whose content is given by (iii)"]},
+    {"view": "The author did not know that U2 affirmed the same thing as U1", "evidence": ["Because I grasped (ii) by way of different bodies of perceptual (descriptive) information, I didn't know, when uttering U2, that what I was affirming was the same thing I was affirming in uttering U1"]},
+    {"view": "Literal meaning is often cloaked by pre-semantic information", "evidence": ["Oftentimes, literal meaning is cloaked by the pre-semantic information through which it is grasped"]},
+    {"view": "Semanticists are needed to uncloak literal meaning", "evidence": ["and semanticists are needed to uncloak it"]},
+    {"view": "Fido is the smartest dog on the planet", "evidence": ["Fido is the smartest dog on the planet"]},
+    {"view": "The author knows that Fido is the smartest dog on the planet", "evidence": ["I know this well"]},
+    {"view": "Some of the author's friends do not know that Fido is the smartest dog on the planet", "evidence": ["but some of my friends don't yet know this"]}
+  ]
+}
+
+═══ CHUNK 6 ═══
+
+
+═══ CHUNK 7 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Semantic rules have not always existed.", "evidence": ["those semantic rules haven't always existed. Therefore, they haven't always existed."]},
+    {"view": "Semantic rules came into existence quite recently.", "evidence": ["They came into existence quite recently."]},
+    {"view": "Semantic rules are not mathematical functions.", "evidence": ["Therefore, those rules aren't mathematical functions."]},
+    {"view": "If semantic rules were mathematical functions, there would exist a language where 'Socrates' refers to Lincoln and 'snow is white' means all horses weigh 18,000 lbs.", "evidence": ["if the semantic rules of English were such functions, there would exist a language in which "Socrates" referred to Lincoln and in which "snow is white" meant all horses weigh 18,000 lbs"]},
+    {"view": "There is no language where 'Socrates' refers to Lincoln and 'snow is white' means all horses weigh 18,000 lbs.", "evidence": ["But there is no such language."]},
+    {"view": "A language where 'Socrates' refers to Lincoln and 'snow is white' means all horses weigh 18,000 lbs is possible but does not currently exist.", "evidence": ["Of course, there could be such a language. And maybe there will be; maybe somebody will invent a code in which those things have those meanings. But right now they don't. Such a language is merely possible and, therefore, doesn't exist."]},
+    {"view": "Semantic rules are not rules in the mathematical sense.", "evidence": ["Thus, semantic rules are not rules in the mathematical sense."]},
+    {"view": "Many philosophers of language believe that semantic rules must be understood in psychological, not mathematical, terms.", "evidence": ["Understandably, many philosophers of language believe that semantic rules must be understood in psychological, not mathematical, terms."]},
+    {"view": "There are different versions of the view that semantic rules must be understood in psychological terms.", "evidence": ["There are different versions of this view."]},
+    {"view": "The author accepts one version of the view that semantic rules must be understood in psychological terms.", "evidence": ["I accept one version of it."]},
+    {"view": "The version of the view that the author accepts bears little resemblance to the versions usually held.", "evidence": ["But the version I accept bears little resemblance to the versions of it that are usually held"]},
+    {"view": "According to H.P. Grice, for an expression to have literal meaning is for it to be what the speaker means when they utter it.", "evidence": ["According to Grice (1957), for expression E to have literal meaning M is for it to be the case that, when they utter E, M is what they mean."]},
+    {"view": "The expression 'snow is white' has the proposition 'snow is white' as its literal meaning because that is what people generally mean when they say it.", "evidence": ["So "snow is white" has the proposition snow is white for its literal meaning because what people generally mean when they say "snow is white" is that snow is white."]},
+    {"view": "Literal meaning is to be understood in terms of speaker's meaning according to Grice.", "evidence": ["Literal meaning is to be understood in terms of speaker's meaning. That's the main idea."]},
+    {"view": "Neo-Griceans hold that literal meaning, even if not always identical to speaker's meaning, is ultimately to be understood in terms of it.", "evidence": ["Neo-Griceans hold that, even though literal meaning cannot in all cases be identified with speaker's meaning, it is always, ultimately, to be understood in terms of it."]},
+    {"view": "Wittgenstein advocated a version of the view that meaning is use.", "evidence": ["Wittgenstein (1958) advocated a version of this view. "Roughly speaking," he said, "meaning is use.""]},
+    {"view": "Wittgenstein's statement that 'meaning is use' is not even roughly true.", "evidence": ["But it doesn't matter, since his statement isn't even roughly true."]},
+    {"view": "Literal meaning is not identical with speaker's meaning and is not to be understood in terms of it.", "evidence": ["Literal meaning is isn't identical with speaker's meaning and isn't to be understood in terms of it."]},
+    {"view": "The meaning of a subsentential expression cannot be what a person means.", "evidence": ["Also, Grice's theory fails to deal with the fact that the meaning of a subsentential expression isn't something that could be possibly be meant."]},
+    {"view": "The word 'or' has a meaning but cannot, by itself, be what a person means.", "evidence": [""Of " has a meaning; so does "skip," "snorkel," "or," "gladly," etc. But whatever it is that "or" means, it cannot, at least not by itself, be what a person means."]}
+  ]
+}
+
+═══ CHUNK 8 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Semantic rules are idealized descriptions of the activities of speakers.", "evidence": ["as to the nature of semantic rules is that they are idealized descriptions of the activities of speakers."]},
+    {"view": "Proponents of the view that semantic rules are idealized descriptions of speaker behavior seldom identify the facts about the speaker-behavior.", "evidence": ["Proponents of this view seldom if ever identify the facts about the speaker-behavior of which semantic rules are supposedly descriptions."]},
+    {"view": "Semantic rules are idealized descriptions of what people mean when they speak and write.", "evidence": ["The most natural assumption is that they are idealized descriptions of what people mean when they speak and write (etc.)."]},
+    {"view": "The view that semantic rules are idealized descriptions of speaker behavior is wrong.", "evidence": ["If this assumption is right, then, given the points just made, the view in question is wrong."]},
+    {"view": "Even if the assumption about semantic rules being idealized descriptions of speaker behavior is not what proponents have in mind, their view is wrong.", "evidence": ["But even if this isn't what proponents of this view have in mind, their view is very clearly wrong."]},
+    {"view": "If semantic rules are idealizations of speaker-behavior, then speaker-behavior must pre-exist the semantic rules.", "evidence": ["If semantic rules are just idealizations of speaker-behavior, then speaker-behavior must pre-exist the semantic rules embodied in it."]},
+    {"view": "The activity described by semantic rules isn't guided by them.", "evidence": ["But if that's the case, then the activity described by semantic rules isn't guided by them."]},
+    {"view": "Semantic rules are psychologically inert and have no psychological reality.", "evidence": ["An awareness of those rules is no part of what leads people to say the things they do. Those rules are psychologically inert. They have no "psychological reality.""]},
+    {"view": "The view that semantic rules are psychologically inert is held by Nathan Salmon and Scott Soames.", "evidence": ["This view is held by Nathan Salmon (2007) and also by Scott Soames (2002)."]},
+    {"view": "The view that semantic rules are psychologically inert is inconsistent with some obvious facts.", "evidence": ["This view is inconsistent with some obvious facts."]},
+    {"view": "Knowledge of semantic rules underlies speech-acts.", "evidence": ["A knowledge of semantics underlies my speech-act and, by obvious extensions of these points, all non-defective speech-acts."]},
+    {"view": "The Salmon-Soames view is inconsistent with the normative character of semantic rules.", "evidence": ["Another problem with the Salmon-Soames view is that it's inconsistent with the normative character of semantic rules."]},
+    {"view": "If semantic rules merely describe existing semantic activity, then that activity isn't answerable to semantic norms.", "evidence": ["If semantic rules merely describe existing semantic activity, then that activity isn't answerable to semantic norms."]},
+    {"view": "The Salmon-Soames view is wrong because semantic activity is answerable to semantic norms.", "evidence": ["It is; so the Salmon-Soames view is wrong."]},
+    {"view": "Wittgenstein's claim that 'meaning is use' is incoherent.", "evidence": ["A little while ago, we discussed Wittgenstein's claim that "meaning is use," i.e., that for an expression to have a given meaning is for it to be used in a certain way. This doctrine is incoherent in many ways."]},
+    {"view": "Expressions have meanings, and a meaningless burst of noise isn't an expression.", "evidence": ["Expressions have meanings. A meaningless burst of noise isn't an expression."]},
+    {"view": "There are no expressions to be used before noises, ink-marks, etc., have been assigned meanings.", "evidence": ["Since anything that is a linguistic expression ipso facto has a meaning (in the relevant, linguistic sense), there are no expressions to be used before noises, ink-marks, etc., have been assigned meanings."]},
+    {"view": "It makes no sense to say that expression-use determines expression-meaning.", "evidence": ["So, since there can be no expression-use until after there is expression-meaning, it makes no sense at all to say that expression-use determines expression-meaning."]},
+    {"view": "Meaningful expression is a pleonasm.", "evidence": [""Meaningful expression" is a pleonasm."]},
+    {"view": "Contrary to Wittgenstein, meaning isn't use.", "evidence": ["So, contrary to what Wittgenstein said, meaning isn't use."]}
+  ]
+}
+
+═══ CHUNK 9 ═══
+
+
+═══ CHUNK 10 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "The semantics of 'I' refers to the person who produced the utterance.", "evidence": ["the semantics of "I" is given by the rule that an utterance of "I" refers to a given person if and only if that person has the property of being the one that produced that utterance."]},
+    {"view": "The concept through which 'I' refers to the speaker is the person who produced the utterance.", "evidence": ["the concept through which my utterance of "I" refers to me is the concept person who produced the utterance in question."]},
+    {"view": "The mediating concept for 'I' is the same regardless of who uses it.", "evidence": ["But the mediating concept remains the same."]},
+    {"view": "The semantics rule for 'that guy' refers to a unique, salient individual in the context.", "evidence": ["The semantics rule for "that guy" is given by the rule that, if "that guy" is uttered in a context where there is a unique, salient guy, that utterance refers to that individual."]},
+    {"view": "'I' and 'that guy' are context-sensitive expressions.", "evidence": [""I" and "that guy" are context-sensitive expressions: what such an expression refers to depends in a systematic manner on facts about the context of utterance."]},
+    {"view": "Indexicals are expressions whose reference depends on the context of utterance.", "evidence": ["Such expressions are known as "indexicals.""]},
+    {"view": "Examples of indexicals include 'you,' 'he,' 'those animals,' 'this monkey,' 'tomorrow,' and 'yesterday.'", "evidence": ["Other examples of indexicals are "you," "he," "those animals," "this monkey," "tomorrow," "yesterday.""]},
+    {"view": "Some indexicals are single words while others are complex indexicals.", "evidence": ["Some indexicals are single words (e.g., "tomorrow," "he"); others consist of more than one (e.g., "that tall man")."]},
+    {"view": "Demonstratives are a type of indexical that require an accompanying demonstration to eliminate doubt about the referent.", "evidence": ["Some indexicals often cannot be successfully used without an accompanying demonstration on the speaker's part, the purpose of which is to eliminate any doubt as to what the intended referent is."]},
+    {"view": "Not all indexicals are demonstratives.", "evidence": ["Not all indexicals are demonstratives."]},
+    {"view": "Examples of indexicals that are not demonstratives include 'tomorrow,' 'now,' and 'here.'", "evidence": ["For example, "tomorrow," "now," and "here," aren't demonstratives."]},
+    {"view": "Indexicals have a two-dimensional semantic structure.", "evidence": ["Indexicals have a "two-dimensional" semantic structure."]},
+    {"view": "The meaning of an utterance of 'today' is the day it picks out.", "evidence": ["The meaning of an utterance "today" is the day it picks out."]},
+    {"view": "The meaning of the word-type 'today' is the rule that assigns the day of utterance to the token.", "evidence": ["The meaning of the corresponding word-type is the rule just described."]},
+    {"view": "The meaning of a token of an indexical is its referent.", "evidence": ["Given any indexical, the meaning of a token of that indexical is its referent;"]},
+    {"view": "The meaning of an indexical-type is the rule that assigns the referent to the token.", "evidence": ["the meaning of the corresponding indexical-type is the rule that assigns that referent to that token."]},
+    {"view": "Definite descriptions are considered devices of reference.", "evidence": ["And in this section we will suppose them to be just that."]},
+    {"view": "Definite descriptions have a two-dimensional semantic structure.", "evidence": ["Definite descriptions, like indexicals, have a two-dimensional semantic structure."]},
+    {"view": "The semantic rule for 'the current U.S. President' assigns the referent based on the time of utterance.", "evidence": ["That rule is: if, at time t, x uniquely has the property of being a U.S. president, then an utterance at t of "the U.S. President" refers to x."]},
+    {"view": "Some definite descriptions are incomplete and fail to pick out a single object.", "evidence": ["Some definite descriptions appear to be "incomplete"-that is, they fail to pick out a single object."]}
+  ]
+}
+
+═══ CHUNK 11 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Believing it's 60° in Richmond on Feb. 07, 2009, is different from thinking it's now 60° in Richmond.", "evidence": ["My believing it's 60° in Richmond on Feb. 07, 2009, is different from my thinking it's now 60° in Richmond, even though I am in fact in Richmond at the time in question."]},
+    {"view": "One can have the belief that it's 60° in Richmond on a specific date without knowing they are in Richmond.", "evidence": ["I could have the one thought and not have the other. I could, after all, not know that I was in Richmond."]},
+    {"view": "Believing it's 60° in Richmond on a specific date is different from believing it's 60° here now.", "evidence": ["And my believing either of those things is different from my thinking it's now 60° here."]},
+    {"view": "One can have any given belief about the temperature without having the others.", "evidence": ["One could have any given one of those beliefs without having any of the others."]},
+    {"view": "It is rational to have any given belief about the temperature without having the others.", "evidence": ["Further, one could rationally have any given one of those beliefs without having any of the others."]},
+    {"view": "A person in Richmond can rationally believe it's 60° here now while rejecting it's 60° in Richmond on a specific date.", "evidence": ["A person who is in Richmond at the time in question can rationally believe it's now 60° here while rejecting it's 60° in Richmond on Feb. 07, 2009."]},
+    {"view": "The data at one's disposal may warrant one temperature judgment but not another.", "evidence": ["For the data at one's disposal may warrant the first judgment, but not the second."]},
+    {"view": "Nothing perspectival can be expressed without using an indexical.", "evidence": ["So nothing perspectival-nothing that embodies any information relating to the speaker's perspective on the world-can be expressed without using an indexical."]},
+    {"view": "In an indexical-free language, one cannot express thoughts about what's going on here and now.", "evidence": ["Nothing could be said about what's going on here, at this time; and there would be no me-thoughts (e.g., I'm thirsty) could be expressed; one could only express their third-person counterparts (e.g., "JM is thirsty")."]},
+    {"view": "In an indexical-free language, one cannot express the thought 'I am JM' or 'I am that guy in the mirror'.", "evidence": ["Thus, one could not, in an indexical-free language, express the thought I am JM or I am that guy in the mirror."]},
+    {"view": "An indexical-free language would be extremely impoverished.", "evidence": ["And such a language would therefore be extremely impoverished."]},
+    {"view": "No sentence-type containing a context-sensitive component is either true or false.", "evidence": ["No sentence-type containing a context-sensitive component is either true or false; for no such sentence-type says anything."]},
+    {"view": "It is tokens of sentences that make statements, not the corresponding sentence-types.", "evidence": ["It is tokens of "I am now tired" that make statements; the corresponding sentence-type does not do so."]},
+    {"view": "What a token of a context-sensitive sentence affirms depends on facts about the context of utterance.", "evidence": ["What a token of "I am tired now" affirms depends on facts about the context of utterance."]},
+    {"view": "The semantic rule assigns a proposition to a token based on the context of utterance.", "evidence": ["Thus the semantic rule that assigns a proposition to such a token does so on the basis of the facts about the context of utterance."]},
+    {"view": "The semantic rule for 'I am tired' assigns a proposition based on the speaker and time of utterance.", "evidence": ["And the rule in question is clearly this: "If, at time t, person p tokens the sentencetype "I am tired," then the proposition thereby affirmed is true exactly if p is tired at p.""]},
+    {"view": "The same semantic rule applies to all context-sensitive expressions.", "evidence": ["The same thing mutatis mutandis is true of all context-sensitive expressions."]},
+    {"view": "The rule for 'that man is married to that woman' assigns a proposition based on the salient individuals in the context.", "evidence": ["So the rule that assigns a proposition to an utterance of "that man is married to that woman" is: if, in the context of utterance, x is a uniquely salient man and y is a uniquely salient woman, a token of the sentence-type "that man is married to that woman" affirms a proposition that is true if and only if x is married to y."]},
+    {"view": "Context-sensitive sentence-types are not true or false; they do not bear propositions.", "evidence": ["So context-sensitive sentence-types aren't true or false; they don't, in and of themselves, bear propositions."]},
+    {"view": "The identity of the proposition meant by a token depends on the identity of the type.", "evidence": ["But they have an important semantic role: the identity of the proposition meant by a token of such a type depends on the identity of the type."]}
+  ]
+}
+
+═══ CHUNK 12 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Propositions are things that are true or false.", "evidence": ["are propositions-they are things that are true or false."]},
+    {"view": "There are different sorts of semantic rules.", "evidence": ["There are thus very different sorts of semantic rules."]},
+    {"view": "Some semantic rules assign meanings to properties.", "evidence": ["There are those that assign meanings to properties"]},
+    {"view": "Some semantic rules assign meanings to instances of properties.", "evidence": ["and there are those that assign meanings to instances of those properties."]},
+    {"view": "The meaning assigned to a property is itself a semantic rule.", "evidence": ["The meaning that was assigned to the property we were just discussing is itself a semantic rule."]},
+    {"view": "Every meaning assigned to a property is a semantic rule.", "evidence": ["As we'll now see, every meaning that is assigned to a property (as opposed to a property-instance) is itself a semantic rule."]},
+    {"view": "There is a semantic rule that assigns a meaning to the property of having a morphology similar to the ink deposit 'Barack Obama'.", "evidence": ["Consider the following ink deposit: "Barack Obama." There is a semantic rule that assigns a meaning to the property of having a morphology similar to that ink deposit."]},
+    {"view": "The meaning assigned to the property of having a morphology similar to the ink deposit 'Barack Obama' is itself a semantic rule.", "evidence": ["The meaning assigned to that property is itself a semantic rule."]},
+    {"view": "The semantic rule assigns Barack Obama, the person, to any instance of the property in question.", "evidence": ["That rule assigns a meaning to each instance of the property in question. It assigns Barack Obama, the person, to any such instance."]},
+    {"view": "Any instance of the property in question is an expression that picks out Barack Obama.", "evidence": ["Thus, any such instance is an expression that picks out Barack Obama."]},
+    {"view": "A semantic rule assigns a rule to a property that in turn assigns meanings to instances of that property.", "evidence": ["The right definition is this: a semantic rule is something which assigns a rule to a property that in its turn assigns meanings to instances of that property."]},
+    {"view": "In natural languages, there are no sentence-types that don't contain context-sensitive components.", "evidence": ["First of all, in natural languages, there are no such sentence-types."]},
+    {"view": "Every sentence contains a tense-marker.", "evidence": ["Every sentence contains a tense-marker."]},
+    {"view": "The proposition expressed by any given token of a sentence is a function of when that token occurs.", "evidence": ["And in virtue of containing a tense-marker, a sentence is such that the proposition expressed by any given one of its tokens is a function of (inter alia) when that token occurs."]},
+    {"view": "Whether the statement 'the U.S. economy is fairly stable' is true depends on when it is said.", "evidence": ["If you say "the U.S. economy is fairly stable," whether you are speaking the truth or not depends on when you say it."]},
+    {"view": "Any two tokens of 'the interior angles of a Euclidean triangle add up to 180°' express the same proposition for all intents and purposes.", "evidence": ["For all intents and purposes, any two tokens of (IA) "the interior angles of a Euclidean triangle add up to 180°" express the same proposition."]},
+    {"view": "From a strictly semantic perspective, 'the interior angles of a Euclidean triangle add up to 180°' is context-sensitive.", "evidence": ["But, from a strictly semantic perspective, IA is context-sensitive, and tokens of it uttered at different times don't encode the same proposition."]},
+    {"view": "If mathematical reality were as volatile as the stock-market, 'the interior angles of a Euclidean triangle add up to 180°' would be regarded as context-sensitive.", "evidence": ["If it were believed that mathematical reality were as volatile as the stock-market, we would without hesitation regard IA as being in the same category as patently context-sensitive sentences such as: (BH) "Bill's holdings add up to $180,000,000.""]},
+    {"view": "The tense-marker in 'the interior angles of a Euclidean triangle add up to 180°' is not inert because of our beliefs about mathematics.", "evidence": ["And we'd have no more temptation to regard the tense-marker in IA as inert than we'd have to regard its counterpart in BH as inert. What this shows is that, to the extent that the tense-marker in tokens of IA are doing nothing, it's only because, our beliefs about mathematics being what they are, we choose to see such utterances as expressing atemporal propositions."]},
+    {"view": "Many semanticists hold that 'the interior angles of a Euclidean triangle add up to 180°' is context-insensitive at the level of literal meaning.", "evidence": ["Nonetheless, many semanticists hold that, at the level of literal meaning, IA is context-insensitive."]}
+  ]
+}
+
+═══ CHUNK 13 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Expression-types are properties and are therefore non-spatiotemporal entities.", "evidence": ["So expression-types, unlike expression-tokens, are properties and are therefore non-spatiotemporal entities."]},
+    {"view": "Non-spatiotemporal entities cannot mediate information or be symbols.", "evidence": ["And, as we just noted, it makes no sense to suppose a nonspatiotemporal entity could mediate information or, therefore, could in any significant sense be a symbol."]},
+    {"view": "It is theoretically arbitrary to assume that types could perform the same semantic functions as their tokens.", "evidence": ["Also, given the profound metaphysical differences between tokens and types, it would be theoretical arbitrariness of the worst kind to suppose that types could discharge the same semantic functions as their tokens."]},
+    {"view": "Tokens of 'Bill Clinton' refer to Bill Clinton, but the corresponding type does not refer to Bill Clinton.", "evidence": ["We must therefore assume that, whereas tokens of "Bill Clinton" refer to Bill Clinton, the corresponding type does not refer to Bill Clinton;"]},
+    {"view": "The expression-type 'Bill Clinton' has a meaning that is a constant function assigning Bill Clinton to any of its tokens.", "evidence": ["and we must also assume that "Bill Clinton," the expression-type, has for its meaning a (constant) function that assigns Bill Clinton to any given one of its tokens."]},
+    {"view": "Proper names, indexicals, and definite descriptions have two-dimensional semantics.", "evidence": ["In general, proper names, no less than indexicals and definite descriptions have two-dimensional semantics."]},
+    {"view": "The semantic rule for a proper name is a constant function, while for an indexical or definite description, it is not.", "evidence": ["The semantic rule corresponding to a proper name is a constant function, whereas the semantic rule corresponding to an indexical or definite description is not a constant function."]},
+    {"view": "All utterances of 'Bill Clinton' refer to Bill Clinton, but not all utterances of 'the current U.S. president' or 'that guy over there' do.", "evidence": ["All utterances of "Bill Clinton" refer to Bill Clinton, but not every utterance of "the current U.S. president," or of "that guy over there," so refer."]},
+    {"view": "The view that 'Bill Clinton' itself, the expression-type, refers to Bill Clinton is erroneous.", "evidence": ["This has encouraged the erroneous view that "Bill Clinton" itself, the expression-type, refers to Bill Clinton."]},
+    {"view": "Expression-types result when properties per se, as opposed to their instances, are assigned meanings.", "evidence": ["Remember that expression-types are what result when properties per se, as opposed to their instances, are assigned meanings."]},
+    {"view": "Rules that assign meanings to properties are semantic rules.", "evidence": ["Of course, the rules that assign meanings to properties are semantic rules, since anything that assigns meaning to anything is ipso facto a semantic rule."]},
+    {"view": "The sentence-type of 'that guy is a professor' results from a semantic rule assigning a meaning to a property.", "evidence": ["So the sentence-type of which the following ink deposit-"that guy is a professor"-is a token is what results when some semantic rule assigns a meaning to some property."]},
+    {"view": "R2, the meaning assigned by R1 to a property, is itself a semantic rule that assigns meanings to instances of that property.", "evidence": ["Let R2 be the meaning that R1 assigns to the just mentioned property. R2 is itself a semantic rule. But, whereas R1 assigns a meaning (a rule) to some property, R2 assigns meanings to instances of that property."]},
+    {"view": "The meanings assigned by R2 to tokens are propositions, not rules.", "evidence": ["So R2 assigns meanings to particular instances of the morphology had by the ink deposit ("that guy is a professor"). The meanings that R2 assigns to those tokens are not themselves rules; they are propositions-they are things that are true or false."]},
+    {"view": "There are different sorts of semantic rules: those that assign meanings to properties and those that assign meanings to instances of those properties.", "evidence": ["There are thus very different sorts of semantic rules. There are those that assign meanings to properties, and there are those that assign meanings to instances of those properties."]},
+    {"view": "The property of having a morphology similar to the ink deposit 'Barack Obama' is assigned a meaning by a semantic rule.", "evidence": ["Consider the following ink deposit: "Barack Obama." There is a semantic rule that assigns a meaning to the property of having a morphology similar to that ink deposit."]},
+    {"view": "The meaning assigned to the property PBO is a semantic rule stating that any given token of PBO refers to Barack Obama.", "evidence": ["The meaning assigned to PBO is itself a semantic rule. In other words, the meaning of PBO is given by the statement that: B1: Any given token of PBO refers to to Barack Obama."]},
+    {"view": "The semantic rule for a specific token of 'Barack Obama' states that it refers to Barack Obama.", "evidence": ["Given some specific token t of "Barack Obama", the semantic rule for t is: B2: t refers to Barack Obama."]},
+    {"view": "B1 and B2 are different rules; B1 does not specify any particular token.", "evidence": ["B1 and B2 are very different rules. Unlike B2, B1 doesn't say anything about any specific token of "Barack Obama" or any other expression."]},
+    {"view": "The need for a two-dimensionalist approach to semantics is embedded in the concept of what an expression is.", "evidence": ["The need for a two-dimensionalist approach to semantics is embedded in the very concept of what an expression is."]}
+  ]
+}
+
+═══ CHUNK 14 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Quantified sentences in natural language are pseudo-objectual statements.", "evidence": ["In natural language, quantified sentences are pseudo-objectual statements."]},
+    {"view": "Quantified sentences appear to be about objects but are really about properties.", "evidence": ["They appear to be about objects, but are really about properties."]},
+    {"view": "Quantified sentences must be reparsed to expose their logical forms.", "evidence": ["That is why they must be reparsed if their logical forms are to be exposed."]},
+    {"view": "A statement's grammatical form may diverge from its logical form.", "evidence": ["It immediately follows that a statement's grammatical form may diverge from its logical form."]},
+    {"view": "Frege discovered that grammatical and logical forms can diverge.", "evidence": ["Frege discovered both facts and, therewith, created modern analytic philosophy."]},
+    {"view": "Some expressions are to be defined contextually.", "evidence": ["The fact that grammatical and logical form sometimes diverge is related to the fact some expressions are to be defined contextually."]},
+    {"view": "To define an expression contextually is to explain how it affects a sentence's meaning.", "evidence": ["To define an expression contextually is to how, in virtue of containing it, a sentence's meaning is affected."]},
+    {"view": "The word 'someone' does not refer to any specific individual.", "evidence": ["So, for example, "someone" doesn't refer to anyone. It doesn't refer to John or Sally or Jane."]},
+    {"view": "The statement 'N doesn't snore' is compatible with 'someone snores.'", "evidence": ["That is why, given any proper name N, the statement (NS) ‹N doesn't snore › is compatible with (SS) "someone snores.""]},
+    {"view": "The meaning of 'someone' is not given by pairing it with an individual.", "evidence": ["Thus, the meaning of "someone" isn't given by some rule that pairs it off with this or that individual."]},
+    {"view": "The meaning of 'someone' is given by the instantiation of a property.", "evidence": ["Rather, the meaning of "someone" is given by the statement that: (RS) ‹Someone has psi› is true just in case the property of being a psi is instantiated."]},
+    {"view": "The logical form of 'someone snores' is 'the property of being a snorer is instantiated.'", "evidence": ["Thus, the logical form SS is clearly displayed by the sentence: (PS) "the property of being a snorer is instantiated.""]},
+    {"view": "The logical form of 'someone snores' diverges from its grammatical form.", "evidence": ["Since SS has a different grammatical form from PS, it follows that SS's logical form diverges from its logical form."]},
+    {"view": "The divergence between grammatical and logical forms is due to contextual definitions.", "evidence": ["The divergence between SS's grammatical and logical forms is obviously a consequence of the fact that "someone" must be defined contextually."]},
+    {"view": "Not every sentence containing an expression defined contextually has divergent grammatical and logical forms.", "evidence": ["Nonetheless, it would be an overstatement to say that whenever a sentence contains an expression that must be defined contextually, it's grammatical form pulls apart from its logical form."]},
+    {"view": "Every expression is to be defined contextually.", "evidence": ["As we're about to see, every expression is to be defined contextually."]},
+    {"view": "Grammatical form does not always diverge from logical form.", "evidence": ["Obviously grammatical form doesn't always pull apart from logical form."]},
+    {"view": "It is not always the case that a sentence's logical and grammatical forms diverge due to contextual definitions.", "evidence": ["Therefore, it isn't always the case that, in virtue of containing an expression that must be defined contextually, a sentence's logical and grammatical forms diverge."]},
+    {"view": "All definitions are contextual definitions.", "evidence": ["How can it be said that all definitions are contextual definitions?"]},
+    {"view": "There are also denotative definitions.", "evidence": ["Aren't there also denotative definitions?"]}
+  ]
+}
+
+═══ CHUNK 15 ═══
+{
+  "quotes": [],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": "",
+  "views": [
+    {"view": "Frege believes that the occurrence of 'snores' in the sentence 'Plato snores' is best represented as the open sentence ‹x snores›", "evidence": ["According to Frege, the occurrence of "snores" in (PS) "Plato snores" is best represented as the open sentence ‹x snores›"]},
+    {"view": "Frege considers the open sentence ‹x snores› as expressing a function that assigns truth to each snorer and falsehood to each non-snorer", "evidence": ["and that open sentence is best thought of as expressing a function that assigns the truth-value true to each snorer and the truth-value false to each thing that doesn't snore"]},
+    {"view": "Frege views the open sentence ‹x is even› as a function that assigns truth to even numbers and falsehood to non-even numbers", "evidence": ["So we can think of ‹x is even› as assigning truth to two, four, etc., and falsity to one, three, etc."]},
+    {"view": "Frege sees the occurrence of 'is taller than' in 'Bill is taller than Mary' as identical with the open sentence ‹x is taller than y›", "evidence": ["Frege sees the occurrence of "is taller than" in (BTM) "Bill is taller than Mary" as being identical with the open sentence ‹x is taller than y›"]},
+    {"view": "Frege considers the open sentence ‹x is taller than y› as expressing a function that assigns truth to ordered pairs where the first member is taller than the second", "evidence": ["and he sees that open sentences as expressing a function that assigns truth-values to ordered pairs of objects"]},
+    {"view": "Frege treats 'Bill is standing between Mary and John' as comprising the open sentence ‹x is standing between y and z›", "evidence": ["Frege treats: (BJMP) "Bill is standing between Mary and John" as comprising the open-sentence ‹x is standing between y and z›"]},
+    {"view": "Frege sees the open sentence ‹x is standing between y and z› as expressing a function that assigns truth to ordered triples of objects", "evidence": ["and he sees that open sentence as expression a function that assigns truth to ordered triples of objects"]},
+    {"view": "Frege was able to assign a single form to all atomic sentences", "evidence": ["In this way, Frege was able to assign a single form to all atomic sentences."]},
+    {"view": "An atomic sentence is one that doesn't consist of other sentences and doesn't contain quantifiers", "evidence": ["An atomic sentence is one that, unlike "Bill is tall and Sally is smart," doesn't consist of other sentences and that, unlike "someone snores," doesn't contain quantifiers."]},
+    {"view": "Non-atomic sentences are molecular", "evidence": ["Non-atomic sentences are molecular."]},
+    {"view": "A molecular sentence is one that either consists of other sentences or contains a quantifier", "evidence": ["A molecular sentence is one that either consists of other sentences or contains a quantifier."]},
+    {"view": "Frege was able to show that all atomic sentences have the form ‹O has psi›", "evidence": ["Frege was able to show that, ultimately, all atomic sentences have the form ‹O has psi.›"]},
+    {"view": "Contrary to first appearances, 'Bill is taller than Mary' has the form: the ordered pair <Bill, Mary> has psi", "evidence": ["Contrary to first appearances, BTM has the form: the ordered pair <Bill, Mary> has psi"]},
+    {"view": "Pre-Fregean logicians saw each of PS, BTM, and BJMP as having a different form from each of the other two", "evidence": ["Pre-Fregean logicians saw each of PS, BTM, and BJMP as having a different form from each of the other two"]},
+    {"view": "Pre-Fregean logicians were unable to formalize inferences involving atomic sentences due to their view on sentence forms", "evidence": ["and this made it impossible for them to do anything meaningful in the way of formalizing inferences involving atomic sentences."]},
+    {"view": "Frege did not have the problem of formalizing inferences involving atomic sentences because he was not blinded by grammatical surface structure", "evidence": ["But Frege didn't have this problem, since he, unlike them, wasn't made blind by grammatical surface structure to the underlying structural similarities."]}
+  ]
+}
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 15 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: The occurrence of 'absolute' in 'the absolute is one' is not a word but a mere homonym.
+   EVIDENCE: "What occurs in 'the absolute is one' is not the word 'absolute', but a mere homonym of that word."
+
+2. VIEW: For 'absolute' in 'the absolute is one' to be a word, it would require a semantic rule assigning it a meaning.
+   EVIDENCE: "For the occurrence of 'absolute' in 'the absolute is one' to be a word, there would have to be some semantic rule that assigned it a meaning."
+
+3. VIEW: The occurrence of 'absolute' in 'the absolute is one' is assigned no meaning.
+   EVIDENCE: "Although there are semantic rules that assign meaning to homonyms of that occurrence, that occurrence per se is assigned no meaning."
+
+4. VIEW: Anything that is assigned no meaning is not a linguistic expression.
+   EVIDENCE: "Anything that is assigned no meaning is ipso facto not a linguistic expression."
+
+5. VIEW: 'The absolute is one' is not a sentence but a sentence-imposter.
+   EVIDENCE: "So 'the absolute is one' is not a sentence, but a sentence-imposter."
+
+6. VIEW: The meaning of a true or false sentence is a proposition.
+   EVIDENCE: "The meaning of a true or false sentence is a proposition."
+
+7. VIEW: Propositions are not themselves sentences.
+   EVIDENCE: "Propositions are not themselves sentences."
+
+8. VIEW: Different sentences can express the same proposition.
+   EVIDENCE: "That is why different sentences (e.g., 'schnee ist weiss' and 'snow is white') can express the same proposition."
+
+9. VIEW: Propositions, when true, are truths.
+   EVIDENCE: "Propositions, when true, are truths."
+
+10. VIEW: Propositions have existed as long as there have been truths.
+   EVIDENCE: "Thus, propositions have existed as long as there have been truths; which means that they've existed as long as there has been anything and, consequently, that propositions are not creations of human creations."
+
+11. VIEW: Propositions are structurally similar to the sentences that express them.
+   EVIDENCE: "Though distinct from the sentences that express them, propositions are structurally similar to them."
+
+12. VIEW: The thing meant by 'John' in different sentences can move from one sentence-meaning to another.
+   EVIDENCE: "The thing meant by 'John' must be capable of moving on its own from sentence-meaning to sentence-meaning."
+
+13. VIEW: Propositions consist of discrete parts that correspond to discrete parts of sentences.
+   EVIDENCE: "It follows that propositions consist of discrete parts; it also follows that those discrete parts correspond to discrete parts of the sentences that express them."
+
+14. VIEW: Sentences are structurally like the propositions they express.
+   EVIDENCE: "Taken together, these two points entail that sentences are structurally like the propositions they express."
+
+15. VIEW: Propositions are digital structures.
+   EVIDENCE: "Given that propositions consist of discrete, isolable entities, it follows that, like sentences and unlike visual perceptions and photographs, propositions are digital structures."
+
+16. VIEW: Sentences and propositions have unique breakdowns into minimal significant units.
+   EVIDENCE: "Sentences and propositions are digital structures, meaning that they have unique breakdowns into minimal significant units."
+
+17. VIEW: Visual perceptions have non-digital or analogue structures.
+   EVIDENCE: "Visual perceptions, unlike sentences and propositions, therefore have a non-digital or analogue structures."
+
+18. VIEW: Thought at least sometimes has a structure very different from language.
+   EVIDENCE: "Given that at least some thought involves the processing of perceptual information, it follows that thought at least sometimes has a structure very different from language."
+
+19. VIEW: The study of language is divided into semantics, syntax, and pragmatics.
+   EVIDENCE: "The study of language is typically divided into three sub-disciplines-semantics, syntax, and pragmatics."
+
+20. VIEW: Semantics, syntax, and pragmatics each denote both a branch of linguistic study and a dimension of language.
+   EVIDENCE: "In addition to denoting a branch of linguistic study, each of these three words denotes dimension of language."
+
+21. VIEW: The meaning of 'Sally hates Bob' depends on the meaning of 'hates'.
+   EVIDENCE: "This shows that what 'Sally hates Bob' means depends on what 'hates' means."
+
+22. VIEW: The sentence 'Larry loves Julie' does not mean the same thing as 'Sally hates Bob'.
+   EVIDENCE: "Obviously this sentence doesn't mean the same thing as 'Sally hates Bob.'"
+
+23. VIEW: The relationship between the meaning of 'Sally hates Bob' and 'hates' is the same as the relationship between the meaning of 'Larry loves Julie' and 'loves'.
+   EVIDENCE: "But the relationship borne by the meaning of 'Sally hates Bob' to the meaning 'hates' is identical with the relationship borne by the meaning of 'Larry loves Julie' to that of 'loves.'"
+
+24. VIEW: Similar points about meaning relationships hold for the other constituents of the sentences 'Sally hates Bob' and 'Larry loves Julie'.
+   EVIDENCE: "Exactly similar points hold in connection with each of the remaining two constituents of each of those sentences."
+
+25. VIEW: Syntax studies the relation between the meanings of complex expressions and the meanings of the simple expressions composing them.
+   EVIDENCE: "The discipline of syntax studies the relation that the meanings of complex expressions bear to the meanings of the simple expressions composing them."
+
+26. VIEW: Syntax does not study the semantics of complex expressions.
+   EVIDENCE: "Thus, syntax doesn't study the semantics (meanings) of complex expressions."
+
+27. VIEW: Syntax studies the structures of the semantics of complex expressions.
+   EVIDENCE: "It studies the structures of the semantics of complex expressions."
+
+28. VIEW: Syntax studies semantic structure.
+   EVIDENCE: "Syntax studies semantic structure."
+
+29. VIEW: Semanticists supply us with metaknowledge about what we know when we understand sentences.
+   EVIDENCE: "Semanticists supply us with the missing metaknowledge."
+
+30. VIEW: The sentence 'John wants to punch Bob' attributes a property to John.
+   EVIDENCE: "(2) attributes a certain property to John-that of wanting to punch Bob."
+
+31. VIEW: The sentences 'John wants to catch a 20-pound striped bass' and 'John wants to punch Bob' are grammatically isomorphic.
+   EVIDENCE: "Given that (1) and (2) are grammatically isomorphic..."
+
+32. VIEW: The proposition expressed by 'John wants to catch a 20-pound striped bass' is not about a specific fish.
+   EVIDENCE: "But this isn't the right analysis. There isn't some one fish such that, if the desire ascribed to John by (1) is to be gratified, John must catch that very fish."
+
+33. VIEW: The meaning of 'John wants to catch a 20-pound striped bass' is about the existence of a relationship between John and a proposition.
+   EVIDENCE: "It affirms the existence of a relationship between John and a proposition."
+
+34. VIEW: The proposition expressed by 'there exists some fish x such that x is a 20-pound striped bass and such that John catches x' exists regardless of whether John catches the fish.
+   EVIDENCE: "But that proposition exists either way."
+
+35. VIEW: The expression 'some fish' in the sentence 'there exists some fish x such that x is a 20-pound striped bass and such that John catches x' does not refer to any specific fish.
+   EVIDENCE: "Grammatically, that expression is a noun-phrase. But, unlike other noun-phrases, it doesn't refer to anything."
+
+36. VIEW: The problem of the meaning of 'some fish' can be solved by rewording the sentence to focus on the instantiation of a property.
+   EVIDENCE: "The needed rewording is this: (5) The property of being a 20-pound striped bass that John catches is instantiated."
+
+37. VIEW: The sentence 'John wants to catch a 20-pound striped bass' is about an existent property, not a non-existent fish.
+   EVIDENCE: "So (1), which seemed to be about a non-existent fish, is about an existent property."
+
+38. VIEW: A complete analysis of 'John wants to catch a 20-pound striped bass' involves the instantiation of the property of being a 20-pound striped bass that John catches.
+   EVIDENCE: "Thus, a complete analysis of (1) is given by: (1CA) John wants it to be the case that the property of being a 20-pound striped bass that John catches is instantiated."
+
+39. VIEW: Understanding the meaning of 'John wants to catch a 20-pound striped bass' is not trivial.
+   EVIDENCE: "So even though just about every English speaker understands (1), knowing what it is that one knows in understanding it isn't such a trivial thing."
+
+40. VIEW: Every English speaker knows what 'John wants to catch a 20-pound striped bass' means.
+   EVIDENCE: "Despite everything just said, there is clearly a sense in which every English speaker knows what (1) means."
+
+41. VIEW: Something isn't a sentence until a meaning has been assigned to it.
+   EVIDENCE: "something isn't a sentence until a meaning has been assigned to it."
+
+42. VIEW: In a world without animate beings, a twig deposit of '1 + 1 = 2' would not be an expression.
+   EVIDENCE: "In a world where there were no animate beings, but in which the forthcoming parenthetical ink deposit (1 + 1 = 2) was formed out of twigs, that twig deposit wouldn't be an expression of any kind."
+
+43. VIEW: A twig deposit would be an expression if and only if it were endowed with meaning.
+   EVIDENCE: "That twig deposit would be an expression if and only if it were endowed with meaning."
+
+44. VIEW: Something has to have meaning in order to be an expression.
+   EVIDENCE: "This shows that something has to have meaning in order to be an expression."
+
+45. VIEW: Expressions aren't assigned meanings; they already have them.
+   EVIDENCE: "Thus, expressions aren't assigned meanings. They already have them and don't need to be assigned them."
+
+46. VIEW: A semantic rule can't be defined as a rule that assigns a meaning to an expression.
+   EVIDENCE: "Therefore a semantic rule can't be defined as a rule that assigns a meaning to an expression."
+
+47. VIEW: Semantic rules assign meanings to non-expressions.
+   EVIDENCE: "Thus, semantic rules assign meanings to non-expressions."
+
+48. VIEW: Semantic rules assign meanings to properties of physical objects.
+   EVIDENCE: "Thus semantic rules assign meanings to properties of physical objects-to morphological or acoustical properties (in other words, to properties that a things has in virtue of having a certain shape or sounding a certain way)."
+
+49. VIEW: A semantic rule is something which assigns a meaning to a property.
+   EVIDENCE: "A semantic rule is therefore something which assigns a meaning to a property, and language is a set of such rules."
+
+50. VIEW: Language is a set of semantic rules.
+   EVIDENCE: "A semantic rule is therefore something which assigns a meaning to a property, and language is a set of such rules."
+
+51. VIEW: Many believe that linguistic meaning is to be understood in function-theoretic terms.
+   EVIDENCE: "Many believe that linguistic meaning is to be understood in function-theoretic terms-that, in other words, semantic rules are mathematical functions."
+
+52. VIEW: A function is a rule that assigns no more than one object to any given member of a class.
+   EVIDENCE: "In general, a function is a rule that, given some class of objects, assigns no more than one object to any given member of that class."
+
+53. VIEW: The word 'assigns' has a psychological meaning in the context of a person assigning a task.
+   EVIDENCE: "In the former case, the word 'assigns' has a psychological meaning; in the latter, it has a non-psychological, purely logical meaning."
+
+54. VIEW: The word 'assigns' has a non-psychological, purely logical meaning in the context of mathematical functions.
+   EVIDENCE: "In the former case, the word 'assigns' has a psychological meaning; in the latter, it has a non-psychological, purely logical meaning."
+
+55. VIEW: The rule that assigns 8 to <4,4> isn't a social rule and can't be obeyed or disobeyed.
+   EVIDENCE: "A related point is that the rule that assigns 8 to <4,4> isn't a social rule, and it therefore isn't something that can be obeyed or disobeyed."
+
+56. VIEW: According to the function-theoretic view, semantic rules are mathematical functions.
+   EVIDENCE: "According to the function-theoretic view, semantic rules are rules in the strictly logical sense; that is, they are mathematical functions."
+
+57. VIEW: The semantic rule for 'Socrates' is a function that assigns a certain individual to that word.
+   EVIDENCE: "The semantic rule for 'Socrates' is a function that assigns a certain individual (Socrates) to that word (or to occurrences thereof)."
+
+58. VIEW: The semantic rule for 'snow is white' is a function that assigns truth-conditions to that utterance.
+   EVIDENCE: "The semantic rule for 'snow is white' is a function that assigns truth-conditions to that utterance (or to occurrences thereof)."
+
+59. VIEW: The function-theoretic view of semantic rules is false.
+   EVIDENCE: "The just-described view is false."
+
+60. VIEW: The rule denoted by '+' has always existed and always will.
+   EVIDENCE: "The rule denoted by '+' has always existed and always will."
+
+61. VIEW: The meaning of a sentence determines what inferences can be made from it, not the other way around.
+   EVIDENCE: "But it's only because of what the sentence already means that one can make those inferences."
+
+62. VIEW: CRS (the theory that what a sentence means is determined by what we infer from it) is false.
+   EVIDENCE: "Since it's the other way around, as we've just seen, CRS is false."
+
+63. VIEW: Literal and understood meaning can diverge significantly for complex expressions.
+   EVIDENCE: "Where complex expressions are concerned, there is no limit to how much literal and understood meaning may diverge from each other."
+
+64. VIEW: Literal and understood meaning must be the same for simple expressions.
+   EVIDENCE: "But where simple expressions are concerned, literal and understood meaning must coalesce."
+
+65. VIEW: Systematic, widespread error in understanding the meaning of simple expressions is impossible.
+   EVIDENCE: "It makes no sense to suppose that people could be systematically wrong as to what 'red' meant."
+
+66. VIEW: If people systematically misunderstand a simple expression, the meaning of that expression would be what people think it means.
+   EVIDENCE: "If people thought that 'red' meant what is in fact meant by 'blue,' then 'red' would have that meaning."
+
+67. VIEW: Misinterpretations of sentences do not arise from failing to understand the meanings of simple parts but from failing to understand how to combine those meanings.
+   EVIDENCE: "Even though there can be widespread, systematic misinterpretations of sentences, those misinterpretations do not arise as a result of people failing to know what the simple parts of sentences mean."
+
+68. VIEW: The meaning of a sentence like 'Socrates was more wise than Plato, but he was less sharp then Aristotle' is understood by English speakers to the extent that its form and the meanings of its parts are understood.
+   EVIDENCE: "So to the extent that its meaning is fixed by the fact that it has the form ‹...Socrates...›, people (English speakers) do systematically understand 'Socrates was more wise than Plato, but he was less sharp then Aristotle'."
+
+69. VIEW: Systematic misunderstanding of a sentence occurs because people struggle to combine the meanings of its parts.
+   EVIDENCE: "So far as that sentence is systematically misunderstood, it is because people are having trouble putting the meanings of its constituents together."
+
+70. VIEW: The literal meaning of a simple expression is determined by what sentences containing it are taken to mean.
+   EVIDENCE: "What a simple expression literally means is determined by what it is that a sentence means by virtue of containing it."
+
+71. VIEW: The literal meaning of a simple expression coincides with what people take it to mean.
+   EVIDENCE: "Since, where simple expressions are concerned, what people take literal meaning to be coincides with what it really is."
+
+72. VIEW: The literal meaning of a complex expression is a function of the meanings of its parts.
+   EVIDENCE: "So a simple expression's literal meaning is given by a statement saying what it is that, by virtue of containing it, sentences are taken to mean; and a complex expression's literal meaning is a function, in the mathematical sense, of the meanings of its parts."
+
+73. VIEW: The meaning of 'Socrates' is determined by what people think it means.
+   EVIDENCE: "So what people think it means must ultimately coincide with what it actually means."
+
+74. VIEW: The meaning of 'Socrates' refers to Socrates because people think it does.
+   EVIDENCE: "So it refers to Socrates only because people think it refers to Socrates."
+
+75. VIEW: The literal meaning of a complex expression can diverge from its understood meaning due to how people interpret the arrangement of its parts.
+   EVIDENCE: "How people interpret CE may diverge from its literal meaning. But when this happens, it's because what it is taken to mean diverges from what, given what people believe its simple parts to literally mean, people are disposed to take it to mean."
+
+76. VIEW: The literal meaning of a complex expression is determined by the meanings of its simple parts and their arrangement.
+   EVIDENCE: "The literal meaning of a complex expression is a function of two things: (i) the meanings of its simple parts, and (ii) the order in which those parts are arranged."
+
+77. VIEW: Simple expressions mean what people take them to mean.
+   EVIDENCE: "Where simple expressions are concerned, literal and communicated meaning coincide (ultimately)-in other words, such expressions mean what people take them to mean."
+
+78. VIEW: For complex expressions, literal meaning may diverge from communicated meaning, but it coincides with what people are disposed to take it to mean based on the literal meanings of its simple parts.
+   EVIDENCE: "And where complex expressions are concerned, literal and communicated meaning may diverge, but literal meaning nonetheless coincides with what, given what the simple components of the expression in question literally mean, people are disposed to take it to mean."
+
+79. VIEW: No word is identical with any utterance of it.
+   EVIDENCE: "No word is identical with any utterance of it."
+
+80. VIEW: Utterances and inscriptions of expressions are referred to as 'expression-tokens'.
+   EVIDENCE: "Utterances and inscriptions of expressions are referred to as 'expression-tokens' (or just 'tokens')."

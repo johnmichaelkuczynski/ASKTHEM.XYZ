@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Posterior Analytics***
+
+1. **Scientific knowledge (episteme)** is knowledge of the cause and of the fact that it could not be otherwise—it is necessary, not contingent.
+
+2. All **teaching and learning** proceed from pre-existing knowledge, either of the fact that something is or of the meaning of terms.
+
+3. Scientific knowledge is acquired through **demonstration (apodeixis)**—a syllogism that produces knowledge.
+
+4. A demonstration must proceed from premises that are **true, primary, immediate, better known than, prior to, and causally explanatory of** the conclusion.
+
+5. Demonstrative premises must be **necessary**—one cannot have scientific knowledge of what could be otherwise.
+
+6. There is a **regress problem**: if every premise requires demonstration, we face infinite regress, circularity, or foundationalism.
+
+7. Aristotle's solution is **foundationalism**: demonstration rests on **first principles (archai)** that are known but not themselves demonstrated.
+
+8. First principles are grasped by **nous (intellectual intuition)**, not by demonstration—nous is more certain than scientific knowledge.
+
+9. First principles include **axioms** (common to all sciences), **definitions**, and **hypotheses** (existence assumptions).
+
+10. Each science has its own **proper principles** concerning its proper genus; one cannot demonstrate across genera (no "metabasis").
+
+11. **Definitions** state the essence (to ti ēn einai)—the "what it was to be" that thing.
+
+12. A proper definition is reached through **division** of genus by differentiae until the infima species is isolated.
+
+13. Demonstration reveals the **"reasoned fact" (to dioti)**, not merely the **"bare fact" (to hoti)**—it shows why, not just that.
+
+14. The **middle term** in a demonstration expresses the cause; finding the middle term is finding the explanation.
+
+15. There are **four types of cause** (material, formal, efficient, final), and different demonstrations exhibit different causal relations.
+
+16. **Per se (kath' hauto) predication** differs from accidental predication; science concerns only per se attributes of its subject genus.
+
+17. Scientific demonstration concerns what holds **universally and always**, or at least **for the most part**—not the exceptional or coincidental.
+
+18. **Nominal definitions** (what a term signifies) differ from **real definitions** (what the essence of the thing is).
+
+19. The existence of a thing must be established before its essence can be demonstrated; you cannot define what does not exist.
+
+20. The structure of a science is thus: establish the existence of basic subjects, grasp definitions and axioms through nous, then demonstrate per se attributes of those subjects through their causes.

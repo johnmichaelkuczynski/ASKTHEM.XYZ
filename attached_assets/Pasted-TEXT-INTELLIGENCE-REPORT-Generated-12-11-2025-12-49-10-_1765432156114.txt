@@ -1,0 +1,1001 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/11/2025, 12:49:10 AM
+Source Length: 10826 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+No quotes extracted
+
+--- ANNOTATED CITATIONS ---
+No annotated quotes
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+undefined
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+undefined
+
+[Chunk 7]
+
+
+[Chunk 8]
+
+
+[Chunk 9]
+
+
+[Chunk 10]
+
+
+[Chunk 11]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+undefined
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+═══ CHUNK 6 ═══
+undefined
+
+═══ CHUNK 7 ═══
+
+
+═══ CHUNK 8 ═══
+
+
+═══ CHUNK 9 ═══
+
+
+═══ CHUNK 10 ═══
+
+
+═══ CHUNK 11 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: The physical world is a deterministic system
+   EVIDENCE: "The physical world is a deterministic system."
+
+2. VIEW: There are both physical and mental entities
+   EVIDENCE: "There are both physical and mental entities."
+
+3. VIEW: Anything that involves thought or feeling is mental
+   EVIDENCE: "Anything that involves thought or feeling is mental;"
+
+4. VIEW: Anything that does not involve thought or feeling but is spatiotemporal is physical
+   EVIDENCE: "anything that does not (but is spatiotemporal; i.e., is in space or time) is physical."
+
+5. VIEW: Beliefs, intentions, and regrets are mental
+   EVIDENCE: "So beliefs, intentions, and regrets are mental;"
+
+6. VIEW: Rocks, trees, and explosions are physical
+   EVIDENCE: "and rocks, trees, and explosions are physical."
+
+7. VIEW: It is an open and delicate question how the mental and physical are related
+   EVIDENCE: "It is an open and delicate question how the mental and physical are related."
+
+8. VIEW: Some hold that mental entities are identical with certain physical entities
+   EVIDENCE: "Some hold that mental entities are identical with certain physical entities"
+
+9. VIEW: The position that mental entities are identical with physical entities is known as materialism
+   EVIDENCE: "This position is known as materialism."
+
+10. VIEW: Others deny that mental entities are identical with physical entities
+   EVIDENCE: "Others deny this, saying that the mental is non-physical."
+
+11. VIEW: The position that the mental is non-physical is known as dualism
+   EVIDENCE: "This position is known as dualism."
+
+12. VIEW: If materialism is right, then the mental world is just part of the physical world
+   EVIDENCE: "If materialism is right, then the mental world is just part of the physical world."
+
+13. VIEW: Given the way the world was 10 million years ago, the state of the universe made any experience's occurrence inevitable
+   EVIDENCE: "So if E is some experience that you either have had, are having, or will have, then given the way the world was 10 million years ago, the state of the universe 10 million years ago made E's occurrence inevitable."
+
+14. VIEW: Whatever you decide to do today is an inevitable consequence of the way the world was a million years ago
+   EVIDENCE: "Whatever you decide to do today is an inevitable consequence of the way the world was a million years ago."
+
+15. VIEW: Supposing that the physical world is deterministic and materialism is right, it's hard to see how there could be free will
+   EVIDENCE: "Supposing that the physical world is deterministic, and supposing also that materialism is right, it's hard to see how there could be free will."
+
+16. VIEW: If the state of the universe a million years ago completely settled what choices I would make today, then I couldn't make any choices other than those that I do make
+   EVIDENCE: "If the state of the universe a million years ago completely settled what choices I would make today, then presumably I couldn't make any choices other than those that I do make."
+
+17. VIEW: Some believers in free will accept dualism because of the apparent irreconcilability of materialism with the presumption that we are free
+   EVIDENCE: "Because of the apparent irreconcilability of materialism with the presumption that we are free, some believers in free will-for example, Jean Paul Sartre (1905-1980) and Maurice Merleau-Ponty (1908-1961)-accept dualism,"
+
+18. VIEW: Others accept materialism but reject determinism
+   EVIDENCE: "while others, e.g. Peter van Inwagen (1942-), accept materialism but reject determinism."
+
+19. VIEW: Supposing that there is indeterminism in the world, it doesn't necessarily mean that our mental processes aren't determined
+   EVIDENCE: "First of all, supposing that there is indeterminism in the world, it doesn't necessarily mean that our mental processes aren't determined."
+
+20. VIEW: There is some corroboration for the view that decisions are determined by unconscious forces
+   EVIDENCE: "In any case, this is one point of view, and it is one for which there is some corroboration."
+
+21. VIEW: Choices not fixed by the state of the universe prior to their occurrence would not be free
+   EVIDENCE: "For the reasons given earlier, that wouldn't make those choices be free."
+
+22. VIEW: Choices not fixed by prior states of the universe would be more like fits or seizures than freely made judgments
+   EVIDENCE: "On the contrary, it would make them more like fits or seizures than like considered, freely made judgments."
+
+23. VIEW: A sudden choice to drop out of college and become a drug dealer does not sound like a freely made choice
+   EVIDENCE: "Does this sound like a freely made choice? No."
+
+24. VIEW: A sudden choice to drop out of college and become a drug dealer sounds more like a compulsion
+   EVIDENCE: "It sounds more like a compulsion."
+
+25. VIEW: Indeterminism doesn't help freedom and actually undermines it
+   EVIDENCE: "Again, we see that indeterminism doesn't help freedom and actually undermines it."
+
+26. VIEW: Determinism seems to threaten freedom
+   EVIDENCE: "The problem is that, as we saw, determinism also seems to threaten freedom."
+
+27. VIEW: If determinism is right, the past completely determines what choices you're making now
+   EVIDENCE: "If determinism is right, then what happened in the past completely determines exactly what's happening in the present and, in particular, completely fixes what choices you're making now."
+
+28. VIEW: Under determinism, something over which you have no control is completely responsible for your choices
+   EVIDENCE: "So something over which you have no control is completely responsible for the choices that you're making."
+
+29. VIEW: It's hard to see how you could have free will under determinism
+   EVIDENCE: "It's hard to see how, under these circumstances, you could be said to have free will."
+
+30. VIEW: Some hold that there can be free will in a deterministic world
+   EVIDENCE: "Nonetheless, some hold that there can be free will in a deterministic world."
+
+31. VIEW: Compatibilists believe there can be free will in a deterministic world
+   EVIDENCE: "Such people are known as compatibilists."
+
+32. VIEW: Incompatibilists deny that there can be free will in a deterministic world
+   EVIDENCE: "Those who deny it are incompatibilists."
+
+33. VIEW: There are two different forms of compatibilism
+   EVIDENCE: "There are ultimately two different forms of compatibilism."
+
+34. VIEW: According to the straightforward version of compatibilism, you are free to the extent that you can do what you want
+   EVIDENCE: "According to the straightforward version, which we'll discuss in this section, you are free to the extent that you can do what you want, and you are unfree to the extent that you cannot."
+
+35. VIEW: According to the other version of compatibilism, being able to do what you want is necessary but not sufficient for freedom
+   EVIDENCE: "According to the other version of compatibilism, which we'll discuss in Section 4.2, being able to do what you want, though necessary for freedom, isn't sufficient for it."
+
+36. VIEW: G.E. Moore believes an act is performed freely if the agent would have done something else if he had chosen to do so
+   EVIDENCE: "According to G.E. Moore (1873-1958), an act is performed freely if the agent would have done something else if he had chosen to do so."
+
+37. VIEW: Moore's position is a form of compatibilism
+   EVIDENCE: "Moore's position is a form of compatibilism."
+
+38. VIEW: Free acts are caused by decisions on the part of the people who commit them, according to Moore
+   EVIDENCE: "Free acts aren't those that are uncaused; they're those that are caused in a certain way-they're those that are caused by decisions on the part of the people (or animals) who commit them."
+
+39. VIEW: Chisholm objects to Moore's analysis of free acts
+   EVIDENCE: "In Human Freedom and the Self, Roderick Chisholm (1916-1999) makes a compelling objection to this analysis."
+
+40. VIEW: If every choice I make is inevitable, it's irrelevant that I would have acted differently had I made different choices
+   EVIDENCE: "If every choice I make is inevitable, then it's irrelevant that, had I made different choices, I would have acted differently."
+
+41. VIEW: Chisholm's point is a good one, but it isn't decisive
+   EVIDENCE: "Chisholm's point is a good one, but it isn't decisive."
+
+42. VIEW: John Locke held a view similar to Moore's
+   EVIDENCE: "John Locke (1632-1704), who held a view similar to Moore's, makes it clear that points like Chisholm's don't necessarily carry the day."
+
+43. VIEW: Freedom is a property of actions, according to Locke
+   EVIDENCE: "In Locke's view, freedom is a property of actions."
+
+44. VIEW: Only things that one can intend to do are done freely, according to Locke
+   EVIDENCE: "Only things that one can intend to do are done freely."
+
+45. VIEW: Second-order intentions collapse into first-order intentions
+   EVIDENCE: "Second-order intentions (intentions to intend) collapse into first-order intentions."
+
+46. VIEW: Locke's argument is a good one
+   EVIDENCE: "Locke's argument is a good one."
+
+47. VIEW: Choices can be made freely according to a defensible form of compatibilism
+   EVIDENCE: "according to one, quite defensible form of compatibilism, choices can be made freely"
+
+48. VIEW: Freedom is primarily a property of choices and only secondarily of acts
+   EVIDENCE: "freedom is primarily a property of choices and only secondarily of acts"
+
+49. VIEW: Frankfurt decisively demonstrated the falsity of Moore's position
+   EVIDENCE: "Harry Frankfurt (1929-) decisively demonstrated the falsity of Moore's position"
+
+50. VIEW: Somebody can perform an act freely even if they could not have abstained from performing that act
+   EVIDENCE: "scenarios in which somebody performs some act freely even though that person could not have abstained from performing that act"
+
+51. VIEW: Smith killed Jones freely even though he could not have done otherwise
+   EVIDENCE: "Smith kills Jones-he doesn't chicken out at the last minute. And he does so freely"
+
+52. VIEW: 'x performs act A freely' is not equivalent with 'x does A and, had x chosen not to do A, x would not have done A'
+   EVIDENCE: "'x performs act A freely' is not equivalent with 'x does A and, had x chosen not to do A, x would not have done A.'"
+
+53. VIEW: Moore's analysis is false when interpreted narrowly
+   EVIDENCE: "even though, interpreted narrowly, Moore's analysis is false"
+
+54. VIEW: Moore's analysis is a misguided way of stating the principle that a free act is one that is choice-driven
+   EVIDENCE: "it's really just a misguided way of stating the principle, which Frankfurt's argument does nothing to undermine, that a free act is one that is choice-driven"
+
+55. VIEW: Moore equated 'x acted freely' with 'x could have done otherwise' due to his acceptance of the counterfactual analysis of causality
+   EVIDENCE: "Moore was led to equate 'x acted freely' with 'x could have done otherwise' not by a misconception concerning the nature of freedom, but by his acceptance of a certain analysis of causality-the so-called 'counterfactual analysis of causality'"
+
+56. VIEW: The counterfactual analysis of causality is wrong
+   EVIDENCE: "CFA is wrong."
+
+57. VIEW: There is causal redundancy in the world
+   EVIDENCE: "This is because there is causal redundancy in the world."
+
+58. VIEW: A close cousin of the counterfactual analysis of causality is correct
+   EVIDENCE: "But a close cousin of CFA is correct, namely: (CFA*) x caused y to occur just in case, if x hadn't happened, then ceteris paribus y wouldn't have happened."
+
+59. VIEW: (PAP) is false
+   EVIDENCE: "(PAP) 'x did A freely if and only if x did A and, further, had x chosen not to do A, x wouldn't have done y' is false"
+
+60. VIEW: (PAP*) is correct
+   EVIDENCE: "nonetheless (PAP*) 'x did A freely if and only if x did A and, further, had x chosen not to do A, then ceteris paribus x wouldn't have done A' is correct."
+
+61. VIEW: Counterfactuals typically have to be hedged with ceteris paribus clauses to come out correct
+   EVIDENCE: "It's well known that, if they are to come out correct, counterfactuals typically have to be hedged with ceteris paribus clauses."
+
+62. VIEW: 'if JFK hadn't been assassinated, he would have been re-elected' is a plausible counterfactual but not necessarily true
+   EVIDENCE: "'if JFK hadn't been assassinated, he would have been re-elected' is a plausible counterfactual, it isn't necessarily true."
+
+63. VIEW: The right counterfactual regarding JFK's assassination is 'if JFK hadn't been assassinated, then ceteris paribus he would have been re-elected'
+   EVIDENCE: "So the right counterfactual is: (JFK*) 'if JFK hadn't been assassinated, then ceteris paribus he would have been re-elected.'"
+
+64. VIEW: JFK* is a causal claim
+   EVIDENCE: "Notice that JFK* is really a causal claim"
+
+65. VIEW: As a rule, counterfactuals are causal claims
+   EVIDENCE: "As a rule, counterfactuals are causal claims."
+
+66. VIEW: 'Smith killed Jones freely' is true if Smith killed Jones and if he had chosen not to kill Jones, then ceteris paribus he would not have killed Jones
+   EVIDENCE: "'Smith killed Jones freely' is true just in case (i) Smith killed Jones and (ii) if Smith had chosen not to kill Jones, then ceteris paribus Smith would have not killed Jones."
+
+67. VIEW: An act is free if it expresses one's decision to act that way
+   EVIDENCE: "(FA) an act is free if it expresses one's decision to act that way."
+
+68. VIEW: FA is the right analysis of a kind of freedom
+   EVIDENCE: "This is clearly the right analysis of a kind of freedom."
+
+69. VIEW: If FA is right, it is acts, not choices, that are free
+   EVIDENCE: "If FA is right, it is acts, not choices, that are free."
+
+70. VIEW: Locke was the first advocate of FA
+   EVIDENCE: "Locke was the first advocate of FA"
+
+71. VIEW: Locke was an exceptionally effective advocate of FA
+   EVIDENCE: "and he was an exceptionally effective one."
+
+72. VIEW: One chooses to act, not to choose
+   EVIDENCE: "One chooses to act, Locke said; one doesn't choose to choose."
+
+73. VIEW: It makes no sense to suppose that one chooses to choose
+   EVIDENCE: "It makes no sense to suppose that one chooses to choose."
+
+74. VIEW: One would have to make infinitely many choices to make a single choice if one always chose what to choose
+   EVIDENCE: "For if one always chose what to choose, Locke points out, one would have to make infinitely many choices in order to make a single one"
+
+75. VIEW: Freedom is freedom to act, not freedom to choose
+   EVIDENCE: "So freedom is freedom to act, not freedom to choose."
+
+76. VIEW: Freedom is a relationship between choice and act, not between subject and choice
+   EVIDENCE: "As Locke puts it, freedom is a relationship between choice and act, and not between subject and choice."
+
+77. VIEW: It is irrelevant whether one's choices are caused or not, so far as one's freedom is concerned
+   EVIDENCE: "It follows that, so far as one's freedom is concerned, it is irrelevant whether one's choices are caused or not."
+
+78. VIEW: Freedom is a relationship between choices and acts, not between choices and their own antecedents
+   EVIDENCE: "Since freedom is a relationship between choices and acts, not between choices and their own antecedents"
+
+79. VIEW: It doesn't matter whether choices are caused for freedom
+   EVIDENCE: "it doesn't matter whether choices are caused"
+
+80. VIEW: It doesn't matter how choices are caused for freedom
+   EVIDENCE: "Nor, therefore, does it matter how they're caused"
+
+81. VIEW: Determinism is compatible with freedom
+   EVIDENCE: "if FA is right, determinism is not only compatible with freedom"
+
+82. VIEW: Determinism is a prerequisite for freedom
+   EVIDENCE: "but is a prerequisite for it"
+
+83. VIEW: Indeterministic mechanisms can undermine the implementation of choices
+   EVIDENCE: "If a degenerative neurological condition has undermined the integrity of the mechanisms linking your brain to your hand, thereby making them indeterministic, your intention to move your hand may be more likely to fail than to succeed"
+
+84. VIEW: Indeterministic mechanisms can lead to failure in achieving desired outcomes
+   EVIDENCE: "if the mechanisms linking the button to the elevator are indeterministic, your pushing the button may be more likely than not to fail to get the elevator to come"
+
+85. VIEW: Indeterministic mechanisms make us similar to someone with Parkinson's
+   EVIDENCE: "To the extent that the mechanisms involved in the implementation of our choices are indeterministic, we are in the grim position of somebody who has Parkinson's"
+
+86. VIEW: Freedom can be defined as the ability to do what one wants to do
+   EVIDENCE: "According to Locke, you are free to the extent that you can do what you want to do"
+
+87. VIEW: There are different kinds of freedom
+   EVIDENCE: "This is obviously a kind of freedom-a very important kind. But it isn't the only kind"
+
+88. VIEW: Choices can be free or unfree
+   EVIDENCE: "And, contrary to what Locke says, there is a sense in which choices can be free or unfree"
+
+89. VIEW: Harry Frankfurt provided an insightful analysis of freedom
+   EVIDENCE: "Harry Frankfurt made this clear"
+
+90. VIEW: A person can have conflicting desires
+   EVIDENCE: "He thus has a desire to not take the heroin-even though he simultaneously has a desire to take the heroin"
+
+91. VIEW: A first-order desire is a desire to do something
+   EVIDENCE: "Jones' desire to take heroin is a first-order desire"
+
+92. VIEW: A second-order desire is a desire about another desire
+   EVIDENCE: "Jones' desire not to take heroin is a desire as to what to do with another desire; it is a desire not to cave in to a desire to take heroin"
+
+93. VIEW: Free will is aligned with second-order desires
+   EVIDENCE: "Frankfurt says that somebody has a free will to the extent that his conduct aligns with his second-order desires"
+
+94. VIEW: Second-order desires are special in the context of freedom
+   EVIDENCE: "Why are second-order desires so special? Why is it that freedom consists in doing the bidding of one's second-order desires"
+
+95. VIEW: Rationality drives the decision not to act on a first-order desire
+   EVIDENCE: "When the heroin-addicted writer decides not to take heroin, what is driving him is a rational appraisal of his situation"
+
+96. VIEW: Irrationality drives the decision to act on a first-order desire
+   EVIDENCE: "But when the heroin-addicted writer gives in to his addiction, it is not his rationality (or his morality) that is driving him"
+
+97. VIEW: Self-consciousness is a key feature of persons
+   EVIDENCE: "First of all, we are self-conscious"
+
+98. VIEW: Rationality is a key feature of persons
+   EVIDENCE: "Second, we are rational"
+
+99. VIEW: Persons are rational about both attaining objectives and choosing objectives
+   EVIDENCE: "Third, we are rational not only about how to attain our objectives, but also about what those objectives should be"
+
+100. VIEW: Persons subject their desires to critical scrutiny
+   EVIDENCE: "What distinguishes persons from non-persons is that the former, but not the latter, subject their own desires (and, more generally, their own mental states) to critical scrutiny"
+
+101. VIEW: Self-consciousness enables rational assessment of desires
+   EVIDENCE: "And this is obviously made possible by the fact that we are self-conscious"
+
+102. VIEW: Rational conduct is driven by second-order desires
+   EVIDENCE: "Whenever someone is driven by a rational assessment of their own desires, they are driven by a desire about a desire"
+
+103. VIEW: Rational conduct is free, while irrational conduct is not
+   EVIDENCE: "There is a clear sense in which rational conduct is free and in which irrational conduct is not"
+
+104. VIEW: Desires must reflect who you are to be considered truly yours
+   EVIDENCE: "Your desires must reflect who you are. If they don't, those desires belong to you but aren't of you."
+
+105. VIEW: Alienation from one's desires is worse than alienation from one's body
+   EVIDENCE: "And in that case, you are alienated from your own mental states, in much the way that a person with Parkinson's is alienated from his body. But, in a way, the alienation is even worse."
+
+106. VIEW: Involuntary behavior is unintentional
+   EVIDENCE: "Involuntary behavior is unintentional behavior."
+
+107. VIEW: Intentional behavior is voluntary
+   EVIDENCE: "Intentional behavior is voluntary behavior."
+
+108. VIEW: Voluntary behavior is driven by desires
+   EVIDENCE: "Voluntary behavior is desire-driven behavior."
+
+109. VIEW: Epileptic fits are not actions
+   EVIDENCE: "Epileptic fits are not actions."
+
+110. VIEW: Unintended behaviors are not actions
+   EVIDENCE: "Unintended behaviors are not action."
+
+111. VIEW: Estrangement from one's actions leads to a lack of freedom
+   EVIDENCE: "So estrangement from one's own actions amounts to estrangement from all of one's actions; and it's hard to imagine a condition less free than that."
+
+112. VIEW: Smith's first-order desires are out of alignment with his second-order desires
+   EVIDENCE: "Smith's first-order desires are seriously out of alignment with his second."
+
+113. VIEW: Smith values writing poetry more than doing drugs
+   EVIDENCE: "He values writing poetry; he's good at it; and he enjoys it about as much as it's humanly possibly to enjoy it."
+
+114. VIEW: Smith's craving for drugs is stronger than his desire to write poetry
+   EVIDENCE: "But he has a voracious craving for drugs. His craving for drugs, especially cocaine, is unusually strong; and his desire to write poetry, though intense, is not as intense as his desire to do cocaine."
+
+115. VIEW: Smith's desire to do cocaine conflicts with his values
+   EVIDENCE: "Smith's desire to do cocaine is out of alignment with many of his values (second-order desires)."
+
+116. VIEW: Smith struggles daily with his drug cravings
+   EVIDENCE: "But given how intense his craving is, every day is a struggle for Smith."
+
+117. VIEW: Freedom is acting on one's second-order desires
+   EVIDENCE: "If, as Frankfurt suggests, one is free to the extent that one acts on one's second-order desires, Smith is as free as a person can be."
+
+118. VIEW: Smith's life is hard despite his freedom
+   EVIDENCE: "But given how hard life is for Smith, it's counterintuitive to suppose that he's maximally free."
+
+119. VIEW: Frankfurt revises his view on freedom to include alignment of desires
+   EVIDENCE: "According to his revised view, if an act is to be free, it is necessary that it be driven by a second-order desire, but it isn't sufficient. Another condition must be met: one's first-order desires must be consistent with the second-order desires that are driving that act."
+
+120. VIEW: Person X lacks self-control and hates his actions
+   EVIDENCE: "Person X has no self-control. He binges on drugs and food, and he hates himself for doing this; but he can't stop-he's too weak and his urges are too strong."
+
+121. VIEW: Person Y has self-control but struggles with temptation
+   EVIDENCE: "Unlike X, Person Y has a huge amount of self-control and never caves into temptation. But everything is a struggle, since he's always fighting temptation, like a drowning man trying to stay afloat."
+
+122. VIEW: Person Z embodies both types of freedom described by Frankfurt
+   EVIDENCE: "Person Z cannot be categorized with X or with Y. Z always does what he values, which is composing music. And what he values is what he wants. He wants what he wants to want."
+
+123. VIEW: Freedom requires acting on second-order desires and alignment with first-order desires
+   EVIDENCE: "Thus, one is free insofar as two conditions are met: (i) one acts on one's second-order desires, as opposed to one's first-order desires; and (ii) one's second-order desires are in alignment with one's first-order desires."
+
+124. VIEW: Frankfurt's analysis of freedom relates to compatibilism
+   EVIDENCE: "To see the merits, and also the shortcomings, of Frankfurt's brilliant (and, I think, largely correct) analysis, we must take a moment to say how that analysis relates to compatibilism."
+
+125. VIEW: All freedom might ultimately be about doing what one wants
+   EVIDENCE: "But, despite everything said thus far, a case can be made that at the end of the day all freedom is freedom to do what one wants."
+
+126. VIEW: Smith's drug addiction prevents him from using his talents
+   EVIDENCE: "Smith has given himself over to drug addiction. He spends days doing drugs. (He has unlimited supplies of money and never has trouble getting them.) Smith has many talents-he's a great water-skier, a great short-story writer, etc., but, because of his addition, these gifts of his lie fallow."
+
+127. VIEW: Green is freer than Smith because his desires are rooted in his personality
+   EVIDENCE: "Green, on the other hand, hasn't given himself over to addiction. He spends his days doing things that augment who he is. Green can't indulge every craving that he has. Unlike Smith, he doesn't have the money to do so. You (JMK/Frankfort) would say that Green is freer than Smith, and your reason would be that, even though he can't gratify as many desires as Smith can, the desires that Green does gratify have the right roots, whereas those that Smith gratifies do not."
+
+128. VIEW: Green's batting average for desire gratification is better than Smith's
+   EVIDENCE: "when it comes to desire gratification, Green's batting average is better than Smith's"
+
+129. VIEW: Smith's addiction thwarts many of his aspirations
+   EVIDENCE: "There are a lot of aspirations that Smith has that will be thwarted as long as he's imprisoned by addiction."
+
+130. VIEW: Smith wants to do cocaine more than he wants to be a writer
+   EVIDENCE: "Smith wants to do cocaine more than he wants to be a writer"
+
+131. VIEW: Smith still wants to be a writer despite his addiction
+   EVIDENCE: "but it doesn't follow that he no longer wants to be a writer"
+
+132. VIEW: Smith's strong desire to be a writer is being frustrated by his addiction
+   EVIDENCE: "In that case, a very strong desire of his is being frustrated."
+
+133. VIEW: Smith is the one frustrating his own desires
+   EVIDENCE: "It's true that he's the one who's frustrating it"
+
+134. VIEW: Smith's cocaine addiction dooms many of his other desires to frustration
+   EVIDENCE: "Smith will inevitably have many other desires that his cocaine addiction dooms to frustration."
+
+135. VIEW: Smith enjoyed many things before his addiction that he no longer enjoys
+   EVIDENCE: "In his pre-addiction days, we may suppose, Smith enjoyed many things that he no longer enjoys."
+
+136. VIEW: Smith still desires the things he enjoyed before his addiction
+   EVIDENCE: "we can also assume that he still desires them"
+
+137. VIEW: Desires are rooted in personality structures
+   EVIDENCE: "Many desires are rooted in personality structures."
+
+138. VIEW: Smith's personality structure may still support his pre-addiction desires
+   EVIDENCE: "Smith's personality structure may still support those desires."
+
+139. VIEW: Addiction doesn't immediately turn people into complete vegetables
+   EVIDENCE: "Addiction doesn't turn people into complete vegetables, at least not right away, and usually not ever."
+
+140. VIEW: The phenomenological expression of frustration doesn't necessarily indicate the intensity of the desire
+   EVIDENCE: "The phenomenological expression of that frustration would be more intense. that doesn't necessarily mean that the desire in question is itself more intense."
+
+141. VIEW: Desires are structures, not feelings
+   EVIDENCE: "Desires, even short-lived ones, are structures; they aren't feelings."
+
+142. VIEW: Feelings arising from desires don't necessarily reflect the intensity of the desire
+   EVIDENCE: "And the feelings to which a desire gives rise don't necessarily make it clear how intense that desire really is."
+
+143. VIEW: FD (Frustration of Desires) is close to the truth but falls short
+   EVIDENCE: "FD is close to the truth, but it falls just short."
+
+144. VIEW: Aaronson is a coward with no self-confidence
+   EVIDENCE: "Aaronson is a coward who has no self-confidence."
+
+145. VIEW: Aaronson wants to write novels but doesn't due to lack of safety
+   EVIDENCE: "So even though he wants to write novels and is extremely talented at it, he doesn't do so. It isn't safe enough."
+
+146. VIEW: Aaronson's life is a waking death due to living as others want him to
+   EVIDENCE: "His life is a waking death. In living as others want him to, Smith is surrendering his freedom"
+
+147. VIEW: Aaronson is suppressing important aspects of his personality
+   EVIDENCE: "Aaronson is suppressing an important side of himself."
+
+148. VIEW: The personality structures Aaronson suppresses give rise to many desires
+   EVIDENCE: "The personality structures that he is suppressing give rise to many ardent desires"
+
+149. VIEW: Aaronson's loss of freedom is not identical to his inability to do what he wants
+   EVIDENCE: "So Aaronson's loss of freedom isn't identical with his being unable to do what he wants"
+
+150. VIEW: Being free primarily consists in being oneself
+   EVIDENCE: "So being free consists primarily in being oneself"
+
+151. VIEW: Being free secondarily consists in being able to do what one wants
+   EVIDENCE: "and secondarily in being able to do what one wants."
+
+152. VIEW: Smith's freedom is limited only to the extent that he wants to leave the locked room
+   EVIDENCE: "It is only to the extent that Smith wants to leave the room that his being unable to do so is an abridgment on his freedom."
+
+153. VIEW: Jones's freedom is constituted by his ability to leave the room only if he wants to leave
+   EVIDENCE: "It's only to the extent that Jones does want to leave the room he's in that his being able to do so constitutes a freedom."
+
+154. VIEW: Jones's freedom is not due to his will being free but because the world meets his will
+   EVIDENCE: "It's because the world meets his will halfway."
+
+155. VIEW: Both Smith and Jones have free wills
+   EVIDENCE: "They both have free wills."
+
+156. VIEW: Having a free will is being free to decide what you want, not to have what you want
+   EVIDENCE: "To have a free will is to be free to decide what you want. It is not to be free to have what you want."
+
+157. VIEW: Locke would argue that neither Smith nor Jones has a free will
+   EVIDENCE: "Locke would say that neither Smith nor Jones has a will that is at all free"
+
+158. VIEW: Brown controls Smith's desires and subsequent decisions using a microchip
+   EVIDENCE: "controls Smith's desires and subsequent decisions by means of that microchip."
+
+159. VIEW: Brown can make Smith desire to play tennis using the microchip
+   EVIDENCE: "if Brown wants Smith to want to play tennis, then Brown can make Smith have that desire by means of the microchip."
+
+160. VIEW: The locked room contains beautiful artwork
+   EVIDENCE: "The locked room that Smith is now occupying is packed with beautiful artwork."
+
+161. VIEW: Smith, being an artist, would normally want to study the artwork for hours
+   EVIDENCE: "Because he is an artist, Smith would ordinarily want to spend hours studying these masterpieces"
+
+162. VIEW: Smith would not want to leave the room if it were not for the microchip
+   EVIDENCE: "and he thus wouldn't want to leave the room any time soon."
+
+163. VIEW: Brown uses the microchip to make Smith desire to leave the room immediately
+   EVIDENCE: "But, using the microchip, Brown makes Smith desire to leave the room immediately"
+
+164. VIEW: Brown unlocks the room, giving Smith the ability to leave
+   EVIDENCE: "But, at this instant, Brown unlocks the room, giving Smith the ability to leave."
+
+165. VIEW: Smith's will is unfree in this scenario
+   EVIDENCE: "Here we surely have a case of an unfree will if ever there was one."
+
+166. VIEW: Smith's will was not made unfree by the locked door when he didn't want to leave
+   EVIDENCE: "So while it is true that, when he didn't want to leave the room, Smith's will was not made unfree by the fact that the door is locked"
+
+167. VIEW: Smith's will was not free even when the door was locked
+   EVIDENCE: "it doesn't follow that Smith's will was free."
+
+168. VIEW: Sartre and Merleau-Ponty did not consider this exact scenario
+   EVIDENCE: "Although neither Sartre nor Merleau-Ponty consider this exact point"
+
+169. VIEW: Sartre and Merleau-Ponty put forth an argument that responds to this scenario
+   EVIDENCE: "they both put forth an argument that constitutes a kind of response to this"
+
+170. VIEW: Smith is unfree in a sense if he wants to leave a locked room
+   EVIDENCE: "There is obviously a sense in which Smith is unfree."
+
+171. VIEW: Smith would not be unfree if he had no desire to leave the room
+   EVIDENCE: "If Smith had no desire to leave the room, he would not be unfree (in this particular respect)."
+
+172. VIEW: Not being able to turn into a tadpole does not encroach on one's freedom if there is no desire to be a tadpole
+   EVIDENCE: "You are not able to turn into a tadpole. But this doesn't constitute an encroachment on your freedom, since you have no desire to be a tadpole."
+
+173. VIEW: Smith's freedom is limited only relative to certain choices he has made
+   EVIDENCE: "It is only relative to certain choices that he has made that Smith's freedom is limited."
+
+174. VIEW: If Smith had no desire to leave the room, his freedom would not be limited by his inability to leave
+   EVIDENCE: "If he had no desire to leave the room, then his freedom would not be limited by his inability to leave the room."
+
+175. VIEW: Freedom is limited only relative to the choices that we make
+   EVIDENCE: "In general, it is only relative to the choices that we make that our freedom is limited."
+
+176. VIEW: There can be a lack of freedom only where choices have already been made
+   EVIDENCE: "So there can be a lack of freedom only where choices have already been made."
+
+177. VIEW: Choices themselves are made freely
+   EVIDENCE: "Since, consequently, the making of choices must occur before there can be any lack of freedom, it follows that our choices themselves are made freely."
+
+178. VIEW: Merleau-Ponty suggests that obstacles to freedom are deployed by freedom itself
+   EVIDENCE: "what are called obstacles to freedom are in reality deployed by it."
+
+179. VIEW: A Lockean conception of freedom is to be able to do what you want to do
+   EVIDENCE: "to be free is to be able to do what you want to do-nothing more"
+
+180. VIEW: Sartre and Merleau-Ponty's argument (SMP2) is conditionally correct
+   EVIDENCE: "Given a Lockean conception of freedom... SMP2 goes through. So SMPT is conditionally correct."
+
+181. VIEW: Sartre and Merleau-Ponty hold an unconditionally incorrect view that choices are entirely uncaused
+   EVIDENCE: "But on the basis of it, Sartre and Merleau-Ponty hold a view that is unconditionally incorrect. They hold that, given the truth of (SMP2), it follows that choices are entirely uncaused."
+
+182. VIEW: It is a non-sequitur to conclude that choices are uncaused from the argument that freedom is limited only relative to choices made
+   EVIDENCE: "This is a major non-sequitur."
+
+183. VIEW: One cannot meaningfully speak of an absence of freedom except where choices have already been made
+   EVIDENCE: "It may be true that one cannot meaningfully speak of an absence of freedom except where choices have already been made."
+
+184. VIEW: It does not follow that choices were uncaused or predetermined just because freedom is limited relative to choices made
+   EVIDENCE: "But it doesn't follow that those choices were uncaused or, consequently, that those choices were not predetermined."
+
+185. VIEW: To be free, one must identify with one's desires
+   EVIDENCE: "To be free, we have argued, one must identify with one's desires-gratifying them isn't enough."
+
+186. VIEW: Psychologists refer to mental contents that one identifies with as ego-syntonic and those that one doesn't as ego-dystonic
+   EVIDENCE: "Psychologists refer to mental contents that one identifies with as ego-syntonic and to those that one doesn't identify with as ego-dystonic."
+
+187. VIEW: Understanding the distinction between ego-syntonic and ego-dystonic may clarify why determinism is necessary for freedom and why indeterminism threatens it
+   EVIDENCE: "An understanding of this distinction may clarify why determinism is necessary for freedom and why indeterminism threatens it."
+
+188. VIEW: Some people with psychological disturbances identify with their symptoms
+   EVIDENCE: "Some people who suffer from psychological disturbances identify with their symptoms."
+
+189. VIEW: Acute schizophrenics see their hallucinations as reality
+   EVIDENCE: "For example, the acute schizophrenic who sees goblins dancing on his bed thinks that he's seeing things as they are."
+
+190. VIEW: Paranoiacs believe their phone conversations are monitored by the President
+   EVIDENCE: "The same holds of the paranoiac who thinks her phone conversations are being monitored by the President."
+
+191. VIEW: Ego-syntonic disorders are those where the patient's viewpoint coincides with the viewpoint embodied in the symptoms
+   EVIDENCE: "The viewpoint embodied in the patient's symptoms coincides with the viewpoint of the patient himself."
+
+192. VIEW: Not all psychological disturbances are ego-syntonic
+   EVIDENCE: "But not all psychological disturbances are like this."
+
+193. VIEW: Obsessive-compulsive disorder (OCD) is an example of an ego-dystonic disorder
+   EVIDENCE: "The classic example is obsessive-compulsive disorder (OCD)."
+
+194. VIEW: People with OCD obsess over matters hardly worthy of their attention
+   EVIDENCE: "Those afflicted with this disorder obsess over matters hardly worthy of their attention"
+
+195. VIEW: People with OCD are compelled to perform absurd acts
+   EVIDENCE: "they're compelled to perform absurd acts"
+
+196. VIEW: People with OCD are compelled to perform normal acts an abnormal number of times or for an abnormally long period
+   EVIDENCE: "they're also compelled to perform normal acts an abnormal number of times or for an abnormally long period"
+
+197. VIEW: Sufferers of OCD know their obsessions and compulsions are irrational
+   EVIDENCE: "But sufferers of OCD know that their obsessions and compulsions are irrational."
+
+198. VIEW: OCD sufferers succumb to compulsions due to intolerable anxiety, not belief in their rationality
+   EVIDENCE: "They succumb to the compulsions not because they actually believe they believe there to be any objective reason to do so, but because, for reasons unknown to them, they suffer intolerable anxiety if they don't."
+
+199. VIEW: OCD sufferers know their obsessions are not legitimate
+   EVIDENCE: "And they know that their obsessions are not legitimate"
+
+200. VIEW: OCD sufferers obsess despite themselves
+   EVIDENCE: "They obsess despite themselves."
+
+201. VIEW: OCD sufferers do not think their obsessions have any legitimate basis
+   EVIDENCE: "They don't think their obsessions have any legitimate basis."
+
+202. VIEW: OCD sufferers cannot stop their obsessions
+   EVIDENCE: "They just can't stop them."
+
+203. VIEW: OCD sufferers do not identify with their symptoms
+   EVIDENCE: "Thus, those afflicted with OCD don't identify with their symptoms."
+
+204. VIEW: Unlike schizophrenics, OCD sufferers see their symptoms as symptoms
+   EVIDENCE: "Unlike schizophrenics, they see their symptoms as symptoms."
+
+205. VIEW: OCD symptoms belong to the mind but not to the person
+   EVIDENCE: "Their symptoms belong to their minds but not to them; they are like alien-invaders that have taken root in their psyches."
+
+206. VIEW: A person who hates numbers and is not detail-oriented wants to spend all day writing novels
+   EVIDENCE: "You hate numbers. You are not detail-oriented. You want to spend all day writing novels."
+
+207. VIEW: The person is a very talented novelist
+   EVIDENCE: "(You're a very talented novelist.)"
+
+208. VIEW: The person knows they hate numbers, are not detail-oriented, and want to write novels
+   EVIDENCE: "You know all of this."
+
+209. VIEW: The person is overcome with an intense desire to become an accountant
+   EVIDENCE: "But one day you are overcome with an intense desire to become an accountant."
+
+210. VIEW: The desire to become an accountant came out of nowhere
+   EVIDENCE: "This desire came out of nowhere."
+
+211. VIEW: The desire to become an accountant has no roots in the person's personality
+   EVIDENCE: "It has no roots in your personality."
+
+212. VIEW: The person does not identify with the desire to become an accountant
+   EVIDENCE: "You obviously don't identify with this desire."
+
+213. VIEW: The reason the person does not identify with the desire is that it has no roots in who they are
+   EVIDENCE: "This is because it has no roots in who you are."
+
+214. VIEW: The person's existing values, desires, aspirations, and so on, had no hand in the desire to become an accountant
+   EVIDENCE: "And the reason it has no such roots is that your existing values, desires, aspirations, and so on, had no hand in"
+
+215. VIEW: There is a sense in which acting on a desire can be considered both free and unfree.
+   EVIDENCE: "Were you to act on this desire, there is a sense in which you'd be acting freely, but there's a deeper sense in which you'd be acting unfreely."
+
+216. VIEW: Handing money over to a gunman can be seen as an act of both freedom and unfreedom.
+   EVIDENCE: "In handing over his money, Smith is acting freely in the sense that he's doing what it is that, the circumstances being what they are, he wants to do; and he's acting unfreely in the sense that, the circumstances being what they are, what he wants to do is not what he wants to want to do."
+
+217. VIEW: Acting on an ego-dystonic desire to become an accountant is both free and unfree.
+   EVIDENCE: "Supposing that you knuckle under to your ego-dystonic desire to become an accountant, you are acting freely in the sense that you are doing what you want to do, and you are acting unfreely in the sense that you are not doing what you want to want to do."
+
+218. VIEW: The person with an ego-dystonic desire to become an accountant is less free than someone handing money to a gunman.
+   EVIDENCE: "That said, there is a sense in which you are less free than Smith."
+
+219. VIEW: The agency of someone with an ego-dystonic desire is not intact.
+   EVIDENCE: "But your agency is not intact."
+
+220. VIEW: An ego-dystonic desire competes for control over the mechanisms that convert intentions into action.
+   EVIDENCE: "Your ego-dystonic desire to become an accountant is competing for control over the very mechanisms that convert ego-syntonic intentions of yours into action; and were you to give into this desire, you would to that extent be forfeiting control over those mechanisms."
+
+221. VIEW: Having an ego-dystonic desire is similar to being a President with limited control over a country.
+   EVIDENCE: "By virtue of having that desire, you're in a position similar to that of the President of a country much of whose is controlled by war-lords who don't recognize his authority."
+
+222. VIEW: Smith's situation is like a President with complete control over his country despite external threats.
+   EVIDENCE: "Smith's situation is like that of a President whose country is being attacked by a foreign nation but who has complete control over his own country."
+
+223. VIEW: Smith's autonomy is not compromised despite being forced to act in certain ways.
+   EVIDENCE: "Even though Smith is in a situation in which he is forced to act in ways in which he wouldn't otherwise act, his autonomy is not on that account compromised."
+
+224. VIEW: Smith is freer than someone with an ego-dystonic desire.
+   EVIDENCE: "and there is thus an important sense in which Smith is freer than you are."
+
+225. VIEW: Beethoven and Einstein suffered from OCD.
+   EVIDENCE: "Earlier, I referenced Beethoven and Einstein. Interestingly, both suffered from OCD."
+
+226. VIEW: OCD does not directly contribute to high performance.
+   EVIDENCE: "What this shows is not that OCD per se conduces to high performance, but that the personality traits that, when pathologized, are expressed as OCD lend themselves to high achievement."
+
+227. VIEW: Beethoven, Einstein, and other high achievers with OCD had traits conducive to high achievement.
+   EVIDENCE: "Beethoven, Einstein, and other OCD-afflicted high achievers were capable of intense concentration, were highly self-critical and, in order to satisfy the draconian standards of perfection they imposed upon themselves, were punctilious in their prosecution of the projects they undertook."
+
+228. VIEW: Obsessiveness and compulsiveness are not inherently pathological.
+   EVIDENCE: "But mere obsessiveness and compulsiveness are not pathological."
+
+229. VIEW: There is no clear line between pathological and non-pathological obsessive compulsiveness.
+   EVIDENCE: "Also, there isn't a well-defined line between pathological and non-pathological obsessive compulsiveness."
+
+230. VIEW: Pathologies may enhance one's efforts.
+   EVIDENCE: "and one's pathologies may be implicated in, and in some cases even enhance, one's efforts."
+
+231. VIEW: Beethoven's OCD was likely involved in his composing the Hammerklavier Sonata.
+   EVIDENCE: "So given that Beethoven had OCD, it's unlikely that it was to no degree involved in his composing the Hammerklavier Sonata."
+
+232. VIEW: Physical illnesses are not adaptive.
+   EVIDENCE: "Physical illnesses are to no degree adaptive (except in some purely accidental manner-one's having asthma might prevent one from joining the army and then being injured on the battlefield)."
+
+233. VIEW: Mental illnesses, specifically ego-dystonic ones, can be adaptive.
+   EVIDENCE: "But mental illnesses, specifically ego-dystonic ones, are sometimes adaptive."
+
+234. VIEW: Ego-dystonic illnesses result from defensive mechanisms becoming too strong.
+   EVIDENCE: "This is because ego-dystonic illnesses are what result when defensive mechanisms become too strong."
+
+235. VIEW: Overdeveloped defense mechanisms can inhibit and enhance a patient.
+   EVIDENCE: "Excessive insecurity, fearfulness, and anxiety are defense mechanisms that have gone too far and that, consequently, inhibit the patient in some respects. But those same overdeveloped mechanisms may enhance the patient in other respects."
+
+236. VIEW: An OCD mathematician's ability to focus is conducive to achievement.
+   EVIDENCE: "An OCD mathematician's ability to focus on a minute task for hours on end is conducive to real achievement."
+
+237. VIEW: The psychological mechanisms enabling high concentration are not purely pathological.
+   EVIDENCE: "And there's no real chance that the psychological mechanisms that make it possible for the mathematician to sustain such a high level of concentration for such a long time have a purely pathological basis."
+
+238. VIEW: Mechanisms developed for neurotic purposes can become non-neurotic virtues.
+   EVIDENCE: "It should be pointed out that mechanisms whose original purpose is neurotic can end up becoming non-neurotic virtues of character."
+
+239. VIEW: There is not always a clear distinction between mental illness and mental hyper-wellness.
+   EVIDENCE: "Basically, there isn't always a clear distinction between mental illness and mental hyper-wellness."
+
+240. VIEW: The blurring of the line between mental illness and health is significant.
+   EVIDENCE: "The blurring of the line, where mental illness is concerned, has to do with the fact such illness is, in some ways, at certain junctures, constitutive of certain kinds of mental health."
+
+241. VIEW: Madness is always performance-inhibiting
+   EVIDENCE: "Madness is always performance-inhibiting, for reasons that we'll soon discuss."
+
+242. VIEW: Ego-dystonic ailments are often conflated with madness
+   EVIDENCE: "But the eccentricities associated with ego-dystonic ailments are often conflated with madness, leading to the false view that insanity is associated in some way with genius."
+
+243. VIEW: Ego-dystonic ailments are not a form of madness
+   EVIDENCE: "I must emphasize that ego-dystonic ailments are not a form of madness."
+
+244. VIEW: Not all psychological disturbances are forms of madness
+   EVIDENCE: "(Not all psychological disturbances are forms of madness.)"
+
+245. VIEW: A precondition for ego-syntonic conditions is a lowering of inhibitions
+   EVIDENCE: "A precondition for such conditions is a lowering of inhibitions that, in sane people, remain operative and that, when hyper-operative, constitute OCD and other ego-dystonic ailments."
+
+246. VIEW: Goblins and ghouls are part of a sane person's life during sleep
+   EVIDENCE: "Goblins and ghouls are no part of a sane person's life except when, during sleep, there is a lowering of the inhibitions that, during wakefulness, rightly keep these creatures of childhood in the cellar of the unconscious."
+
+247. VIEW: A person with OCD has defenses in overdrive
+   EVIDENCE: "A person with OCD (who isn't also a person with an ego-syntonic disorder) is like the sane person, except that the OCD person's defenses are in overdrive."
+
+248. VIEW: In a person with OCD, healthy beliefs and sentiments are suppressed
+   EVIDENCE: "So, in such a person, it isn't just ghouls and goblins that get the ax: healthy beliefs and sentiments do as well."
+
+249. VIEW: The psychotic person refuses to touch the doorknob because he thinks it's Satan's horn
+   EVIDENCE: "The psychotic person refuses to touch the doorknob because he thinks it's Satan's horn."
+
+250. VIEW: Ego-syntonic illnesses are not adaptive
+   EVIDENCE: "So, ego-syntonic illnesses, unlike ego-dystonic ones, are not at all adaptive, the reason being that they result from a weakening of one's defenses to a profound, highly incapacitating disorganization of one's psyche."
+
+251. VIEW: Those suffering from ego-dystonic illnesses are further removed from those with ego-syntonic illnesses than those who suffer from neither
+   EVIDENCE: "So, in a way, those suffering from ego-dystonic illnesses are even further removed from those suffering from ego-syntonic illnesses than those who suffer from neither."
+
+252. VIEW: According to Locke, it makes no sense to say that choices are free.
+   EVIDENCE: "According to Locke, it makes no sense to say that choices are free."
+
+253. VIEW: The essence of freedom lies in being able to do what one wants to do.
+   EVIDENCE: "According to some, the essence of freedom lies in being able to do what one wants to do."
+
+254. VIEW: Locke says that if, whenever we wanted to make a choice, we had to choose to make that choice, we could never choose anything and, therefore, could never perform so much as a single act.
+   EVIDENCE: "Locke says that if, whenever we wanted to make a choice, we had to choose to make that choice, we could never choose anything and, therefore, could never perform so much as a single act."
+
+255. VIEW: Being free involves acting on desires that are rooted in who one really is.
+   EVIDENCE: "According to some, being free involves acting on desires that are rooted in who one really is."
+
+256. VIEW: Voluntary acts don't fall outside the scope of causal necessity anymore than involuntary acts, and it's incorrect to identify the voluntary with the uncaused.
+   EVIDENCE: "Voluntary acts don't fall outside the scope of causal necessity anymore than involuntary acts, and it's incorrect to identify the voluntary with the uncaused."
+
+257. VIEW: According to compatibilists, there cannot be free will in a deterministic universe.
+   EVIDENCE: "According to compatibilists, there cannot be free will in a deterministic universe."
+
+258. VIEW: Incompatibilists hold that, even if one's actions and choices are determined by factors that preexist one's own existence, one can still act freely.
+   EVIDENCE: "Incompatibilists hold that, even if one's actions and choices are determined by factors that preexist one's own existence, one can still act freely."
+
+259. VIEW: Locke is an incompatibilist.
+   EVIDENCE: "Locke is an incompatibilist."
+
+260. VIEW: A man is free to the extent that he has power to think or not to think, to move or not to move, according to the preference or direction of his own mind.
+   EVIDENCE: "[S]o far as a man has power to think or not to think, to move or not to move, according to the preference or direction of his own mind, so far is a man free."
+
+261. VIEW: Wherever any performance or forbearance are not equally in a man's power, there he is not free.
+   EVIDENCE: "Wherever any performance or forbearance are not equally in a man's power; wherever doing or not doing will not equally follow upon the preference of his mind directing it, there he is not free."
+
+262. VIEW: The idea of liberty is the idea of a power in any agent to do or forbear any particular action, according to the determination or thought of the mind.
+   EVIDENCE: "So that the idea of liberty is, the idea of a power in any agent to do or forbear [not do] any particular action, according to the determination of or thought of the mind, whereby either of them is preferred to the other."
+
+263. VIEW: The doctrine expressed in FW is a form of compatibilism, but not the only one.
+   EVIDENCE: "The doctrine expressed by FW is a form of compatibilism, but not the only one."
+
+264. VIEW: A person is free to the extent that she is able to do what she wants to do, and she is unfree to the extent that she is not able to do what she wants to do.
+   EVIDENCE: "A person is free to the extent that she is able to do what she wants to do, and she is unfree to the extent that she is not able to do what she wants to do."
+
+265. VIEW: Smith is more free than Jones according to the analysis of freedom described by FW.
+   EVIDENCE: "A consequence of the analysis of freedom described by FW is that Smith is more free than Jones."
+
+266. VIEW: Some compatibilists have rejected the idea that one is free to the extent that one can do what one wants because FW has the unpalatable consequence that Smith is more free than Jones.
+   EVIDENCE: "Because FW has the unpalatable consequence that Smith is more free than Jones, some compatibilists have rejected the idea that one is free to the extent that one can do what one wants."
+
+267. VIEW: Smith has a kind of freedom that Jones lacks, but Jones has a more important kind of freedom that Smith lacks.
+   EVIDENCE: "It may be that Smith has a kind of freedom that Jones lacks. But it's also clear that Jones has a kind of freedom-probably a more important kind of freedom-that Smith lacks."
+
+268. VIEW: Jones is more self-aware than Smith.
+   EVIDENCE: "Jones is more self-aware than Smith."
+
+269. VIEW: Jones' actions are, to a lesser degree than Smith's, the inevitable byproducts of natural forces.
+   EVIDENCE: "Because Jones is more self-aware than Smith, his (Jones') actions are, to a lesser degree than Smith's, the inevitable byproducts of natural forces."
+
+270. VIEW: The universe is deterministic
+   EVIDENCE: "the universe is deterministic"
+
+271. VIEW: All acts are equally caused
+   EVIDENCE: "all acts are equally caused"
+
+272. VIEW: Some acts are freer than others
+   EVIDENCE: "even though some acts are freer than others"
+
+273. VIEW: In a deterministic universe, free acts have internal causes
+   EVIDENCE: "free acts have internal causes"
+
+274. VIEW: In a deterministic universe, unfree acts have external causes
+   EVIDENCE: "unfree acts have external causes"
+
+275. VIEW: If determinism is correct, all events other than mental ones are caused
+   EVIDENCE: "If determinism is correct, all events other than mental ones are caused"
+
+276. VIEW: If determinism is correct, mental events are uncaused
+   EVIDENCE: "but mental events are uncaused"
+
+277. VIEW: If determinism is correct, any insignificant act had to occur given the state of the universe a billion years ago
+   EVIDENCE: "If determinism is correct, then, given the state of the universe a billion years ago, E had to occur"
+
+278. VIEW: Chisholm argues that for somebody to do something freely, it isn't enough she could have done otherwise; it's necessary also that she could have been able to choose to do otherwise
+   EVIDENCE: "Chisholm argues that for somebody to do something freely, it isn't enough she could have done otherwise; it's necessary also that she could have been able to choose to do otherwise"
+
+279. VIEW: If the world is not completely deterministic, it does not clearly follow that the world is completely unpredictable
+   EVIDENCE: "Given only that information, does it clearly follow that the world is completely unpredictable? c. No."
+
+280. VIEW: If the world is completely deterministic, given how the world was 20 minutes ago, it was inevitable that you would be doing whatever it is that you're doing right now
+   EVIDENCE: "Given how the world was 20 minutes ago, it was inevitable that you would be doing whatever it is that you're doing right now"
+
+281. VIEW: If you hold that there cannot be freedom in a deterministic world, you are not a compatibilist
+   EVIDENCE: "If you hold that there cannot be freedom in a deterministic world, which of the following statements is clearly true? d. None of the above."
+
+282. VIEW: If you are a compatibilist, you believe that it's possible for there to be freedom in a world in which the state of the universe at any given moment fixes how the universe will be at all later moments
+   EVIDENCE: "You hold that it's possible for there to be freedom in a world in which the state of the universe at any given moment fixes how the universe will be, in every respect, at all later moments"
+
+283. VIEW: If the world is deterministic, the world is in principle completely predictable
+   EVIDENCE: "The world is-in principle, though not necessarily in practice-completely predictable"
+
+284. VIEW: The idea of a square circle is incoherent
+   EVIDENCE: "The idea of a square circle is an incoherent one"
+
+285. VIEW: The concept of free will is equally incoherent as the idea of a square circle
+   EVIDENCE: "Argue that the concept of a free will is equally incoherent"

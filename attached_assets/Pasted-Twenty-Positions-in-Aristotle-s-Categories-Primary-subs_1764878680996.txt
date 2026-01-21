@@ -1,0 +1,22 @@
+Twenty Positions in Aristotle's Categories
+
+Primary substances (individual things—"this man," "this horse") are ontologically fundamental; everything else is either predicated of them or present in them.
+Secondary substances are the species and genera under which primary substances fall; they are less fundamental but still substantial.
+There are exactly ten categories (highest genera of being): substance, quantity, quality, relation, place, time, position, state, action, affection.
+The "said of" relation (predication) is distinct from the "present in" relation (inherence).
+Substance admits no contrary—there is no opposite of "man" or "horse."
+Substance does not admit of degrees—one man is not more a man than another.
+Substance can receive contraries while remaining numerically one (the same individual can become hot, then cold).
+Quantity is either discrete or continuous—number is discrete; line, surface, body, time, and place are continuous.
+Quantity has no contrary and does not admit of degrees.
+Parts of some quantities have position relative to one another (parts of a line), while others do not (units of number).
+Relatives are defined correlatively—a master is master of a slave; double is double of a half.
+Some relatives are simultaneous by nature with their correlatives; knowing which correlative exists entails knowing the other exists.
+Quality has four species: states/dispositions, natural capacities, affective qualities, and shape/figure.
+Quality admits both contraries and degrees—something can be more or less white; justice is contrary to injustice.
+The similar and dissimilar are predicated only in respect of quality.
+There are four types of opposition: contradictory, contrary, privative (possession/privation), and relative.
+Contradictories admit no intermediate and one must be true of any subject; some contraries admit intermediates (black/white), others do not (odd/even).
+Privation differs from negation—blindness is privation of sight in what naturally has sight, not mere absence.
+Priority has multiple senses: temporal, existential (what can exist without the other), order of exposition, and value.
+Change/motion falls into six species: generation, corruption, increase, diminution, alteration, and locomotion.

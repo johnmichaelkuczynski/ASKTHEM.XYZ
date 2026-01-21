@@ -1,0 +1,435 @@
+The file is long. Let me get the full content:Now I have the complete text. Here is a comprehensive extraction of all positions advocated in this work:
+
+---
+
+## **POSITIONS EXTRACTED FROM: *Theoretical Knowledge and Inductive Inference* (J.-M. Kuczynski)**
+
+---
+
+### **I. EPISTEMOLOGY: KNOWLEDGE AND BELIEF**
+
+1. **Knowledge is either direct or indirect** (inferential vs. non-inferential).
+
+2. **Indirect knowledge is acquired through inference**—forming new beliefs on the basis of old ones.
+
+3. **Legitimate inferences correspond to legitimate rules of inference, which in turn correspond to dependence-relations.**
+
+4. **There are two kinds of dependence-relations: logical and causal.**
+
+5. **Logical dependence-relations hold among propositions; causal dependence-relations hold among states of affairs (space-time occupants).**
+
+6. **Propositions are the objects of belief and knowledge**—one knows truths, not objects directly.
+
+7. **One can be aware of non-propositions (rocks, trees) but does not "know" them; rather, one knows truths about them.**
+
+8. **Knowledge is conceptually articulated awareness**—requires concepts, whereas mere awareness does not necessarily require concepts.
+
+9. **There are two kinds of awareness: propositional and objectual.**
+
+10. **All knowledge is justified true belief, but not all justified true belief is knowledge** (the Gettier-like distinction: a broken clock example shows the need for causal connection to truth).
+
+11. **Knowledge requires being "en rapport" with the relevant realities via information-transmissive (not merely evidence-generative) structures.**
+
+12. **Truths, not objects, are the objects of explanation**—to explain an avalanche is to explain why it is true that the avalanche occurred.
+
+13. **Causal relations can only be known empirically**—through sensory observation or real-time psychological awareness.
+
+---
+
+### **II. THEORETICAL KNOWLEDGE**
+
+14. **All theoretical knowledge is inferential, but not all inferential knowledge is theoretical.**
+
+15. **A theory is a proposition that, if true, describes some relatively comprehensive fact about the structure of the universe.**
+
+16. **Theoretical knowledge is either (i) knowledge of such a theory or (ii) knowledge derived from such a theory.**
+
+---
+
+### **III. INFORMATION, EVIDENCE, AND CAUSATION**
+
+17. **Information-transmission is structure-preservation**—a structure-preserving causal series is an information-bearing series.
+
+18. **All information is evidence, but not all evidence is information**—evidence that lacks structural isomorphism is not information.
+
+19. **Sense-perceptions are isomorphs of their objects**—objects transmit their structures to perceptions.
+
+20. **A perception is veridical (and thus knowledge-generating) to the extent that it inherits its structure from its object.**
+
+21. **Knowledge is linked by information-transmissive series to corresponding realities; otherwise, it is mere belief.**
+
+22. **A testimony-based belief is knowledge only if the testimony is constitutive of an information-transmissive link.**
+
+23. **The difference between knowledge and mere belief is not statistical**—a reliable clock (that usually works) doesn't confer knowledge if, in the relevant case, the mechanism was not information-transmissive.
+
+24. **Temporal precedence is to be understood in terms of possible causal processes**: e precedes e* iff there is a possible causal process from e to e*.
+
+25. **Simultaneity means no possible causal process connects the two events.**
+
+26. **Continuity is the essence of causation and information-transmission**—effects are continuations of their causes.
+
+---
+
+### **IV. DEDUCTION AND INDUCTION**
+
+27. **Entailment (deductive inference) = logical consequence**; if P entails Q and P is true, Q may be inferred.
+
+28. **Confirmation (inductive inference) = probability-raising**; P confirms Q iff P, if true, increases the likelihood of Q.
+
+29. **Entailment ≠ maximal confirmation**—entailment is a logical notion; confirmation is an explanatory notion.
+
+30. **Entailment is transitive and monotonic; confirmation is neither transitive nor monotonic.**
+
+31. **For P to entail Q is for P ∧ ¬Q to be counterlogical; for P to confirm Q is for P ∧ ¬Q to be counterexplanatory.**
+
+32. **Confirmation-relations, though not themselves causal, often hold in virtue of causal relations.**
+
+33. **Conditionals ("if P, then Q") are the form in which laws are often expressed.**
+
+---
+
+### **V. NATURAL LAW**
+
+34. **Laws of nature are typically expressed by universal generalizations** (for any x, if φ(x), then ψ(x)).
+
+35. **The scope of natural law is not confined to actual objects—laws hold for merely possible objects and even for physically impossible limiting cases.**
+
+36. **Laws describing limiting cases (e.g., "an object undergoes no change if no forces act on it") are especially important for understanding actual cases.**
+
+37. **Knowledge of the imperceptible (future, past, possible, present-but-unseen) is knowledge of conditional truth.**
+
+38. **There are three kinds of imperceptibles**: (i) perceptible in principle but causally cut off; (ii) too small but detectable with technology; (iii) inherently unobservable (e.g., photons).
+
+39. **Scientists aspire to identify laws that enable predictions and explanations in context-specific situations.**
+
+40. **Any scientific interest in particular facts is subordinate to interest in the general principles those facts instantiate.**
+
+41. **Laws of nature can be place- and time-sensitive (limited scope)**—not all laws are spatiotemporally invariant.
+
+42. **Low-grade, approximate generalizations (like "humans are cyanide-intolerant") are still laws if they support counterfactuals and predictions, even if of limited scope.**
+
+43. **Meaningful generalizations have a systemic basis**—laws hold in virtue of underlying structural/physiological/physical facts, not merely statistical regularities.
+
+44. **Laws of nature are not perfect concomitances**—a law can exist even if no instances of the antecedent ever produce instances of the consequent.
+
+45. **Laws are dispositive of regularities, not identical with them.**
+
+---
+
+### **VI. CAUSATION**
+
+46. **Causation is a relation between events, not objects**—objects have causal properties, but are not themselves causes or effects.
+
+47. **Conditions (stable patterns of events) can be causes and effects because they are event-pluralities.**
+
+48. **So-called "changes" are typically meta-changes**—changes in patterns of change.
+
+49. **Scientific knowledge enables explanation, prediction, and control.**
+
+50. **Stable-event patterns are a prerequisite for explanation-identification; rogue events cannot be explained.**
+
+51. **Explanation almost always involves identifying program-causes**—structures or conditions that predetermine specific events.
+
+52. **Freud's fourfold causal analysis of mental illness is endorsed**: precondition, specific cause, concurrent cause, precipitating cause.
+
+53. **Psychological "overdetermination" (Freud) means an event is brought about by a confluence of justifying factors, none individually sufficient.**
+
+54. **Threshold effects and the analog-digital distinction**: discontinuous changes involve threshold effects; continuous changes do not.
+
+55. **Causes are INUS conditions**: Insufficient but Non-redundant parts of Unnecessary but Sufficient conditions.
+
+56. **Counterfactuals affirm dependence-relations**—either causal or logical.
+
+57. **David Lewis's possible-worlds analysis of counterfactuals is rejected**: counterfactuals hold in virtue of the causal/logical structure of our world, not other worlds.
+
+58. **There is no reason (apart from Lewis's analysis) to posit possible worlds.**
+
+59. **Program-causality**: the program-cause (e.g., boiling water) guarantees certain particle-collisions, even though the specific collisions are contingent.
+
+60. **Causal redundancy blocks conversion of causal truths to counterfactual truths** (e.g., firing squad cases).
+
+---
+
+### **VII. THE COUNTERFACTUAL ANALYSIS OF CAUSALITY (CAC) — REJECTED**
+
+61. **CAC (e causes e* iff e* wouldn't have happened without e) is both extensionally and intensionally false.**
+
+62. **CAC fails for threshold effects**: the same elevator comes regardless of who pushes the button.
+
+63. **CAC fails for multiply implementable events**: calculator outputs are the same regardless of who presses ENTER.
+
+64. **CAC fails for program-causality**: micro-events implementing a macro-process are interchangeable.
+
+65. **Software-level activity is distinct from hardware-level activity**, even if spatiotemporally coincident.
+
+66. **Frankfurt's counterexample refutes CAC**: my pushing the button is the cause even if someone else would have pushed it.
+
+67. **CACD (Counterfactual Analysis of Causality Defended) also fails** because event identity is not contingent on exact micro-composition.
+
+---
+
+### **VIII. THE REGULARITY ANALYSIS OF CAUSATION (RA) — REJECTED**
+
+68. **Hume's Regularity Analysis: e causes e* iff e-similar events always precede adjacent e*-similar events.**
+
+69. **Hume's analysis embodies a fundamental fallacy**: it conflates continuity (immanent causation) with contiguity (transeunt causation).
+
+70. **Two kinds of causal processes**: (i) transeunt (interactions, discontinuous) and (ii) immanent (persistence, continuous).
+
+71. **Transeunt causation involves breakdowns of continuity; immanent causation preserves structure.**
+
+72. **The world has a digital structure to the extent it hosts transeunt causation; analog structure to the extent it hosts immanent causation.**
+
+73. **Genuine causal processes are observationally distinguishable from pseudo-causal processes**: effects are continuous with causes, not merely contiguous.
+
+74. **The essence of causation is continuity**—continuous event-series are causal; discontinuous series are not.
+
+75. **Hume-worlds (pseudo-causal) are observationally different from genuine causal worlds** (via deformation, temperature changes, etc.).
+
+76. **Problem #1 with RA: The temporal order is understood in terms of the causal order, not vice versa**—Hume's analysis is thus viciously circular.
+
+77. **Problem #2 with RA: Correlation is not causation**—epiphenomenal causation (e.g., thermometer mercury rising) is not genuine causation.
+
+78. **Problem #3 with RA: For any adjacent event-pair, some regularity includes that sequence**—RA would make all adjacent events causally related.
+
+---
+
+### **IX. THE DEDUCTIVE-NOMOLOGICAL MODEL (DN) — CRITIQUED**
+
+79. **DN claims: E is explained iff E is a logical consequence of laws + initial conditions.**
+
+80. **DN is viciously circular because distinguishing nomic from accidental generalizations requires prior causal knowledge.**
+
+81. **Laws support counterfactuals; accidental generalizations do not—but counterfactuals are crypto-causal claims.**
+
+82. **To know that a generalization is a law, one must already know of specific causal instances**—thus explanations are not categorically law-based.
+
+83. **Knowledge of singular causation precedes knowledge of covering laws**, not vice versa.
+
+84. **Low-resolution explanations (identifying the cause) are genuine explanations even without knowledge of operative laws.**
+
+85. **Pre-scientific explanations are not non-explanations**—they are correct but incomplete.
+
+86. **Knowledge-why = high-resolution knowledge-what**—to explain is to identify causes; laws provide detail.
+
+87. **Singular causation refutes DN**: we can know the cause without knowing the covering law.
+
+88. **DN fails spectacularly for psychological explanation**—perfect regularities are unavailable, yet causes are known.
+
+89. **Statistical laws don't save DN**: high-frequency correlations don't entail causation (swimmers wearing bathing suits aren't caused by pools).
+
+90. **Wesley Salmon's statistical relevance model is a "degenerate research program."**
+
+91. **DN's legitimate sphere is scientific (high-resolution) explanation, not explanation in general.**
+
+---
+
+### **X. CAUSAL KNOWLEDGE**
+
+92. **We know what causes what by identifying singularities**: if e* is singular and has a singular antecedent e, e is probably the cause.
+
+93. **Singular causation can be known without knowledge of regularities.**
+
+94. **Causal knowledge is differential knowledge**: effects are proportional to causes; we identify causes by correlating input-differences with output-differences.
+
+95. **If conditions are held constant, cause-effect regularities appear; otherwise, causes are identified by proportionality.**
+
+96. **Experiments identify specific information about causes not available in non-experimental settings.**
+
+97. **Experiments presuppose approximate prescientific causal beliefs.**
+
+98. **The interval between cause and effect is instantaneous in the limit**—no non-null interval guarantees an effect.
+
+99. **Laws are not regularities; they are not even structures responsible for regularities**—they are dispositive of regularities.
+
+100. **Galileo discovered the law of inertia by studying bodies in states of near-equilibrium and extrapolating.**
+
+---
+
+### **XI. THE RAVEN PARADOX — SOLVED**
+
+101. **The Raven Paradox arises from failing to distinguish extensional from intensional readings of generalizations.**
+
+102. **"All ravens are black" read intensionally (causally) ≠ "All non-black things are non-ravens" extensionally.**
+
+103. **A pink piano doesn't confirm "all ravens are black" because the law is causal: being a raven causes blackness.**
+
+104. **Hempel's solution (that pink pianos do confirm it, relative to background beliefs) is false**—we can't learn about ravens by studying pianos.
+
+105. **The Raven Paradox is a by-product of the Regularity Analysis of Causation.**
+
+---
+
+### **XII. THE PROBLEM OF INDUCTION — DISSOLVED**
+
+106. **Enumerative induction (EI) is unjustifiable**—Hume was right about that.
+
+107. **But there is no such thing as pure enumerative induction**—whenever people seem to use EI, they are actually using Inference to the Best Explanation (IBE).
+
+108. **IBE = positing entities/structures that eliminate anomalies in the data.**
+
+109. **EI without IBE-backing is irrational**: if you believe there's no causal mechanism linking past φ's to future φ's, you have no reason to expect future φ's to resemble past φ's.
+
+110. **Psychological claim: People never genuinely infer via EI alone—they always tacitly accept some causal hypothesis (IBE).**
+
+111. **Discontinuity-elimination is the essence of explanation**—to explain is to restore continuity.
+
+112. **Inductive knowledge is knowledge of continuities underlying discontinuities.**
+
+113. **IBE is justified because positing unobserved continuities is required to validate the datum that observed events co-occupy the same space-time manifold.**
+
+114. **If no event at t* were continuous with any event at prior t, then U1 and U2 wouldn't be parts of the same space-time manifold.**
+
+115. **For two events to be co-occupants of one manifold, there must be a causal connection between them.**
+
+116. **The Uniformity Principle (U) is a precondition of induction, not a conclusion of it**—if U weren't true, nothing would persist, including inference-makers.
+
+117. **Hume's skepticism presupposes that laws are separable from the space-time manifold—but laws are constitutive of the manifold.**
+
+118. **If even one law of physics changed at t*, practically every other law would have to change, objects would cease to exist, and U1 and U2 would not constitute a single manifold.**
+
+119. **Different laws → different forces → different objects → no persistence → no induction-makers.**
+
+120. **Objects are causal series**—they are constituted by the laws governing their parts.
+
+---
+
+### **XIII. DETERMINISM AND PREDICTABILITY**
+
+121. **Determinism = the world at t fixes the world at all later times.**
+
+122. **The world is deterministic to the extent it is law-governed; predictable to the extent it is deterministic—but determinism doesn't entail complete predictability.**
+
+123. **Reason #1: Interference effects**—learning about the world requires interacting with it, which changes it.
+
+124. **Reason #2: One cannot predict what one will come to know**—knowledge growth affects action, which affects the world.
+
+125. **Laplace's demon is impossible**: no conceivable being can have complete knowledge of the present microstate.
+
+126. **The inherent structure of knowledge (requiring causal connection between subject and object) guarantees some unknowability.**
+
+127. **Unknowable facts must still be granted to exist**: science itself implies there are things we cannot know.
+
+---
+
+### **XIV. SUPERVENIENCE AND REDUCTION**
+
+128. **Biological facts supervene on microphysical facts**—no biological difference without a microphysical difference.
+
+129. **Supervenience ≠ identity**: multiply realizable properties supervene but are not identical (aesthetic, biological, software properties).
+
+130. **The mental supervenes on the physiological**, but the relationship is different from other supervenience relations—it's counternomic, not counterlogical, to imagine physiologically identical creatures differing psychologically.
+
+131. **Being bound by physical law ≠ being explained by physical law**—a statue is not identical with its clay; a computer is not identical with its atoms.
+
+132. **Physics is blind to software/computational/functional concepts**—physics-omniscience doesn't yield computer-knowledge.
+
+133. **Software-identical systems can be hardware-distinct**; software realities supervene on hardware realities.
+
+---
+
+### **XV. SOFTWARE DETERMINISM AND PROBABILITY**
+
+134. **Software determinism ≠ statistical determinism**: a deterministic program may have probabilistic implementation.
+
+135. **Machine error doesn't make programs indeterministic—it means the machine isn't implementing the program.**
+
+136. **Lower-order indeterminism doesn't entail higher-order indeterminism**: micro-level randomness can cancel out at macro-level.
+
+137. **Statistics are evidence of probabilities, not identical with probabilities**—the Frequency Theory of Probability is false.
+
+138. **A world where (by coincidence) smokers never get cancer still has the same probabilities as ours—just different statistics.**
+
+139. **Probability claims are causal claims, not statistical claims.**
+
+---
+
+### **XVI. MEASUREMENT THEORY**
+
+140. **Measurement ≠ enumeration**: there are no minimal units of length; length is not determined by counting.
+
+141. **The essence of measurement is comparison with a standard**—all length-claims are relative.
+
+142. **Absolute length = length relative to a universally stipulated standard.**
+
+143. **Three axioms of measurement**: transitivity of "longer than," trichotomy, and transitivity of "same length."
+
+144. **Scalar quantities (length, mass, temperature) are given by single numbers; vector quantities by ordered n-tuples.**
+
+145. **Congruence must be defined before length-determinations are meaningful.**
+
+146. **Length is non-additive (at large scales)**—due to relativistic effects.
+
+147. **Extensive magnitudes (length, mass) are approximately additive in small-scale cases; intensive magnitudes (temperature) are not additive at all.**
+
+148. **Speed is extensive but not additive**: the speed of light is framework-invariant.
+
+149. **Direct measurements yield only rational numbers**—irrational lengths are known indirectly (via geometry).
+
+---
+
+### **XVII. CONVENTIONALISM — REJECTED**
+
+150. **Metrical conventionalism**: length-standards are stipulated, not discovered.
+
+151. **Nomic conventionalism**: laws are determined by conventions (choice of standards).
+
+152. **Conventionalism is distinct from strict conventionalism**—laws are convention-based (relative to standards) but not convention-determined (empirical measurements matter).
+
+153. **Strict conventionalism is false**: if laws were wholly conventional, measurements wouldn't be needed.
+
+154. **Metrical conventionalism doesn't entail nomic conventionalism**: laws describe non-conventional relations between standards and events.
+
+155. **Conventionalism is self-defeating**: measurements using erratic standards (e.g., eels) yield inconsistent results; measurements using stable/optical standards yield consistent results. Consistency is not conventional.
+
+156. **Given that n=n for any n, and given that inconsistent measurements violate this, there is a fact of the matter about which standards are correct.**
+
+---
+
+### **XVIII. CONCLUSION: THE NATURE OF SCIENTIFIC KNOWLEDGE**
+
+157. **Causal series are continuous series.**
+
+158. **Information-bearing series are continuous structure-preserving series.**
+
+159. **To know explanations is to know causes.**
+
+160. **Scientific hypotheses are correct when they eliminate discontinuities**—they are correct when they are constitutive of information-transmissive continuities.
+
+---
+
+### **XIX. METHODOLOGICAL AND META-PHILOSOPHICAL POSITIONS**
+
+161. **The difference between immanent and transeunt causation is fundamental to understanding causality.**
+
+162. **Hume's paradigm case of causation (billiard balls) is transeunt causation, which is actually the exception, not the rule.**
+
+163. **The causal order is more fundamental than the spatiotemporal order.**
+
+164. **The concept of a "Hume-world" does not support Hume's analysis.**
+
+165. **Intensional correctness of a theory ≠ extensional correctness**—a theory can fit the data for the wrong reasons.
+
+166. **Frankfurt-style counterexamples are valid and cannot be evaded by CACD.**
+
+167. **The Deductive-Nomological model presupposes what it is supposed to explain.**
+
+168. **Approximate, low-resolution explanations are genuine explanations—not mere placeholders for scientific explanations.**
+
+169. **The methods of a science do not fall within the scope of that science** (botanists use magnifying glasses but don't study them).
+
+170. **Additivity is a property of cardinal numbers, not physical magnitudes per se** (Russell).
+
+171. **The concept of "force of inertia" is notional but useful.**
+
+172. **Lakatos's concept of a "degenerating research program" is endorsed.**
+
+173. **Freud's doctrine that people project psychological-causal order onto external reality is endorsed**—but Hume's version (that the external world is causally unstructured) is incoherent.
+
+174. **Russell's contributions (immanent/transeunt causation distinction, additivity points, epistemological observations) are credited.**
+
+175. **The term "Inference to the Best Explanation" is not an honorific—an IBE may be wrong; it's called such because the proponent believes it's best.**
+
+---
+
+This extraction yields **175 distinct positions**. If you want, I can organize these further by theme, or produce a structured document/spreadsheet for your database.

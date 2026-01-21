@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Topics***
+
+1. The **Topics** concerns dialectical reasoning—syllogisms from reputable opinions (endoxa), not from necessary truths as in demonstration.
+
+2. **Dialectic** is useful for training, for conversation with the many, and for philosophical sciences (by revealing aporiai and first principles).
+
+3. A **dialectical proposition** is one that seems true to all, to most, or to the wise (and among the wise, to all, most, or the most notable).
+
+4. A **problem** is a thesis about which people either hold no opinion, or the many disagree with the wise, or there is disagreement within either group.
+
+5. Every dialectical proposition and problem concerns one of **four predicables**: definition, genus, proprium (unique property), or accident.
+
+6. A **definition** states the essence and is convertible with its subject—it applies to all and only instances of the definiendum.
+
+7. A **genus** is predicated essentially of many things differing in species—it says what the subject is but not uniquely.
+
+8. A **proprium** is not the essence but belongs to only that species and is convertible with it (e.g., capable of learning grammar / man).
+
+9. An **accident** is what may belong or not belong to the same subject—it is neither definition, genus, nor proprium.
+
+10. The dialectician must collect **topoi (commonplaces)**—general argumentative strategies applicable across subject matters.
+
+11. Topoi are organized according to which predicable is at issue: there are topoi for attacking or establishing definitions, genera, propria, and accidents.
+
+12. **Topoi for definition** include: checking if the definition fails to be convertible, if it is obscure, if it uses metaphor, if it is circular, if it fails to state the genus.
+
+13. **Topoi for genus** include: checking if the proposed genus is not predicated in the "what is it" category, if something participates in the genus but not the species.
+
+14. **Topoi for proprium** include: checking if the property fails to hold of all instances, if it is not convertible, if it holds only sometimes.
+
+15. **Topoi for accident** include: examining opposites, correlatives, coordinates, and inflections to find inconsistencies.
+
+16. **Induction** is the progression from particulars to universals and is more persuasive to the many; **syllogism** moves from universals and is more compelling to dialecticians.
+
+17. The questioner's goal is to extract concessions that yield a contradictory conclusion to the answerer's thesis; the answerer's goal is to avoid contradiction.
+
+18. One should distinguish **multiple senses of a term** (homonymy) before proceeding—ambiguity is a source of fallacious refutation.
+
+19. **Dialectical practice** requires knowing not just the topoi but when and how to deploy them—order, timing, and concealment matter.
+
+20. Dialectic is **propaedeutic to first philosophy**: by thoroughly examining aporiai from all sides, dialectic clears the path toward grasping the first principles that nous ultimately apprehends.

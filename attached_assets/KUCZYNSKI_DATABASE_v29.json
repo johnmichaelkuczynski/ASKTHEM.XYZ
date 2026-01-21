@@ -1,0 +1,3882 @@
+[
+  {
+    "positionId": "ACTION-006",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Compatibilism About Free Will",
+    "content": "Free will is compatible with determinism. One acts freely when actions result from one's own desires and deliberations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-001",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Rationalist Foundationalism",
+    "content": "Knowledge rests on bedrock of non-empirical, purely logical truths",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-002",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Anti-Empiricism",
+    "content": "Strict empiricism false; non-empirical knowledge required for all knowledge",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-003",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge as Non-Accidentally Justified True Belief",
+    "content": "Four conditions for knowledge: truth, belief, justification, non-accidental connection",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-015",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Refutation of Humean Skepticism",
+    "content": "Induction justified; Hume's argument commits gambler's fallacy",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-016",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Gettier Problem: Justification Must Be Non-Accidental",
+    "content": "Justified true belief is not sufficient for knowledge. The connection between justification and truth must be non-accidental.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-017",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Three Sources of Justification",
+    "content": "There are ultimately only three sources of justification: (a) perceptual evidence, (b) introspective evidence, (c) rational inference.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-018",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Testimony Requires Independent Verification",
+    "content": "For testimony-based belief to constitute knowledge, one must have independent evidence of the source's reliability.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-019",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Cartesian Skepticism Refuted",
+    "content": "Global skepticism is self-refuting. The skeptical hypothesis cannot coherently be entertained.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-020",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Inductive Inference Cannot Be Justified A Posteriori",
+    "content": "The principle of induction cannot be justified empirically without circularity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-021",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Rationalist Solution to Induction",
+    "content": "The principle of induction must be known a priori if it is to be justified at all.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-022",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Universals Cannot Be Sense-Perceived",
+    "content": "Universals cannot be sense-perceived because they are non-spatiotemporal and perception requires causal interaction.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-023",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Thought Requires Universals",
+    "content": "All thought, language, and explanation require universals. The idea of non-universal-involving thought is incoherent.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-024",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Empiricism Refuted by Need for Universals",
+    "content": "Strict empiricism is false. Since universals are required for all thought and cannot be sense-perceived, not all knowledge is empirical.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-025",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Berkeley's 'To Be Is To Be Perceived' Refuted",
+    "content": "Berkeley's idealism is false. Multiple arguments refute 'esse est percipi'.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-026",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Phenomenalism Refuted",
+    "content": "Phenomenalism (reducing physical objects to perceptions) is false. Carnap's project failed.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-010",
+    "domain": "LOGIC",
+    "paperTitle": "Logicism Defended (Frege's Project)",
+    "content": "Arithmetic is reducible to logic. Mathematical truths are logical truths.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-001",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Platonism about Properties",
+    "content": "Properties exist as non-spatiotemporal entities distinct from instances",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-002",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Propositions as Sets of Properties",
+    "content": "Propositions are sets of properties; truth is instantiatedness",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-004",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Properties as Non-Spatiotemporal Entities (Platonism)",
+    "content": "Properties exist as non-spatiotemporal entities. They are not identical with their instances.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-005",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Uninstantiated Properties Exist",
+    "content": "Properties can exist even when nothing has them. The property of being a unicorn exists.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-006",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Determinism vs Randomness vs Unpredictability",
+    "content": "Determinism, randomness, and predictability are distinct concepts that must not be conflated.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-007",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Personal Identity Through Time",
+    "content": "Personal identity consists in psychological continuity, not bodily continuity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-008",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Causality as Counterfactual Dependence",
+    "content": "Event A causes event B iff: (1) both occur, and (2) had A not occurred, B would not have occurred.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MODAL-003",
+    "domain": "MODAL LOGIC",
+    "paperTitle": "Against Possible Worlds Semantics",
+    "content": "Possible worlds semantics for modality is either false or trivial. It doesn't explain what necessity and possibility are.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-014",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Logical Form vs Grammatical Form (Frege's Insight)",
+    "content": "Logical form is not identical with grammatical form. What a sentence says is not always what its grammatical structure suggests.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-015",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Propositions as Abstract Objects",
+    "content": "Propositions are abstract, mind-independent objects that exist outside space and time.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-016",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Truth as Correspondence",
+    "content": "A proposition is true iff it corresponds to reality—if the world is as it says the world is.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-017",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Meaning is Not Mental",
+    "content": "Linguistic meaning is not reducible to mental states or psychological facts.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-018",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Russell's Theory of Descriptions",
+    "content": "Definite descriptions are not referring terms. 'The F is G' means 'Something uniquely is F, and any such thing is G.'",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-019",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Frege's Sense/Reference Distinction Collapses into Russellianism",
+    "content": "Frege's theory that definite descriptions have both sense and reference collapses into Russell's theory.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-020",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Against Fregean Intensional Contexts",
+    "content": "Frege's distinction between extensional and intensional contexts is a failed epicycle.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-021",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Literal Meaning vs Cognitive Significance",
+    "content": "Literal meaning (semantic content) must be distinguished from cognitive significance.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-022",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Semantic Externalism (Putnam's Insight)",
+    "content": "Meanings of natural kind terms are partially determined by facts external to the speaker's mind.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-001",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Anti-Language of Thought",
+    "content": "We do not think in language (natural or innate)",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-008",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Against Language of Thought Hypothesis",
+    "content": "We do not think in words. Thought is not conducted in a language-like medium. The Language of Thought hypothesis is false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-009",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Thought Is Prior to Language",
+    "content": "Thought is logically and developmentally prior to language. One must think to understand language.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-010",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Against Burge's Semantic Externalism for Attitudes",
+    "content": "Burge's extension of semantic externalism to mental content is a blunder. Mental states are individuated by internal features.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-011",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Selfhood Requires Values",
+    "content": "Being a self requires having values and making value-judgments. Selfhood is normative, not merely cognitive.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-002",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Instrumental vs Intrinsic Good",
+    "content": "Goodness divides into instrumental good (useful for goals) and intrinsic good (good in itself). Ethics concerns intrinsic goodness.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-003",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Intrinsic Good vs Commendable",
+    "content": "Intrinsic goodness and praiseworthiness are distinct. Some intrinsically good things are not praiseworthy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-004",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Moral Responsibility Based on Intentions",
+    "content": "Praise/blame depends on intended outcome, not actual outcome.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-005",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Emotivism",
+    "content": "Moral judgments are not merely expressions of emotion. They are genuine assertions with truth-values.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-006",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Moral Relativism",
+    "content": "Moral relativism is false. There are objective moral truths.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-007",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Kant's Categorical Imperative",
+    "content": "Kant's categorical imperative fails as a criterion for right action.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-008",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Pure Hedonism",
+    "content": "Pleasure is not the only intrinsic good. Hedonism is false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-009",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Pure Utilitarianism",
+    "content": "Act utilitarianism is false. It violates rights and permits obviously wrong actions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-010",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Against Divine Command Theory",
+    "content": "Morality is not based on God's commands. Euthyphro dilemma refutes divine command theory.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-011",
+    "domain": "VALUE THEORY",
+    "paperTitle": "We Cannot Choose Our Values",
+    "content": "We cannot freely choose what we value. The idea of 'choosing one's own values' is incoherent.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-012",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Law Must Be Based on Justice",
+    "content": "The purpose of law is to secure justice. Legal systems must be evaluated by whether they achieve justice.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ANALYTIC PHILOSOPHY COMPLETE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-006",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Aboriginal Procedural Knowledge",
+    "content": "Humans have in-built procedural knowledge of dependence-relations",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-007",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Continuity-Based External World Knowledge",
+    "content": "We know external world by interpolating continuities between experiential data",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-003",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Anti-Constructivism",
+    "content": "Constructivism self-refuting through reductio",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-002",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Perspectival Theory of Feelings",
+    "content": "Feelings represent relationship to universe, inherently perspectival",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-003",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Systematicity of Mental Representation",
+    "content": "Cognitive success depends on systematic connection and coherence of mental entity systems",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-004",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Mind as Multi-Mapper",
+    "content": "Mind maps itself onto different structures (musical, graphical, visual, athletic)",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "ASK ME ANYTHING ABOUT EPISTEMOLOGY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MODAL-001",
+    "domain": "MODAL LOGIC",
+    "paperTitle": "No Necessary A Posteriori Truths",
+    "content": "Apparent necessary a posteriori truths are either necessary-and-analytic or contingent-and-a-posteriori",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MODAL-002",
+    "domain": "MODAL LOGIC",
+    "paperTitle": "Epistemic and Metaphysical Necessity Coincide",
+    "content": "No genuine distinction between epistemic and metaphysical necessity",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-001",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Semantics vs. Presemantics Distinction",
+    "content": "Literal meaning must be distinguished from information through which one identifies that meaning",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-002",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Universal Extensionality",
+    "content": "ALL contexts extensional at semantic level. Co-referring terms intersubstitutable.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-003",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Direct Referentialism for Proper Names",
+    "content": "Proper names are mere labels referring directly to objects",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-005",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Against Indirect Referentialism",
+    "content": "Frege's sense/reference theory for descriptions is incoherent",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-006",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Presemantic Implicature Theory",
+    "content": "New category beyond Gricean post-semantic implicature",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "INTENSIONALITY, MODALITY, AND RATIONALITY: SOME PRESEMANTIC CONSIDERATIONS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METHOD-004",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Pragmatics-Constrained Semantics",
+    "content": "Semantic theories must respect known pragmatic principles. Can't just assert 'implicature explains it' without checking constraints.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-007",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Definite Descriptions as Referring Expressions",
+    "content": "Definite descriptions ('the phi') are referring terms, not quantificational. Always encode propositions of form 'a has phi'",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-008",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Referential-Attributive Distinction as Pragmatic",
+    "content": "Not semantic ambiguity. Both uses involve reference. Attributive: reference to entity in understood existence claim. Referential: ostensive.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-009",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Presupposition Not Assertion",
+    "content": "Following Strawson: descriptions presuppose existence. Abortive (not false) when presupposition fails.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-010",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Against Contextualism",
+    "content": "Rejects neo-Russellian move that context restricts quantifier domains. Violates Gricean principles.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-011",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Against Conventional Implicature Solution",
+    "content": "D-sentences don't implicate object-dependent propositions via conventional implicature. Violates implicature principles.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-012",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Anaphoric Descriptions as Referential",
+    "content": "Anaphoric descriptions refer to entities introduced by antecedents. Not bound variables.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-013",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Logical Form vs Semantics",
+    "content": "Logical form (inferential structure) ≠ semantics (literal meaning). Same proposition can have multiple logical forms.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PRAG-001",
+    "domain": "PRAGMATICS",
+    "paperTitle": "Cancelability Test",
+    "content": "Conversational implicatures always cancelable. Existence presuppositions not cancelable. Therefore not conversational implicature.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PRAG-002",
+    "domain": "PRAGMATICS",
+    "paperTitle": "Conventional Implicature Constraint",
+    "content": "Conventional implicature doesn't obscure truth-conditions. Adds 'tone' but never makes synonyms differ in truth-conditions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A NON-RUSSELLIAN TREATMENT OF THE REFERENTIAL-ATTRIBUTIVE DISTINCTION",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "ACTION-001",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Intentions as System-Level Judgments",
+    "content": "Intentions = judgments about how to consolidate psychological architecture. NOT desires.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "ACTION-002",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Values Distinct from Desires",
+    "content": "Values = beliefs about what consolidates psychological architecture. Values ≠ desires (though can interact).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "ACTION-003",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Free Acts as Value-Driven",
+    "content": "Free acts driven by values, NOT by second-order desires (contra Frankfurt). Second-order desires can be warped.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "ACTION-004",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Rational vs. Intelligent Distinction",
+    "content": "Rational = embodies due regard for interests. Intelligent = computational power. Irrational acts can be highly intelligent.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "ACTION-005",
+    "domain": "ACTION THEORY",
+    "paperTitle": "Frankfurt's Analysis Insufficient",
+    "content": "Frankfurt right about higher-order states but wrong that second-order desires sufficient. Rationalization problem.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-004",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Philosophy Justifies Empirical Science's Presuppositions",
+    "content": "Empirical disciplines make assumptions they cannot empirically justify. Only philosophy can provide non-empirical justification. Philosophy is meta-science.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-005",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Observation Cannot Self-Corroborate",
+    "content": "Observation cannot justify that observation is reliable. Witnesses cannot self-corroborate. Pure empiricism is circular.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-008",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Two Ways Sense-Perception Adds to Knowledge",
+    "content": "Perception contributes via (1) direct content transmission and (2) triggering ratiocinative processes beyond perceptual content",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-009",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Principles Cannot Be Sense-Perceived",
+    "content": "Can perceive specific objects but cannot perceive principles or general truths. Principles grasped through reason.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-010",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Non-Empirical Knowledge Exists",
+    "content": "Some truths are known without empirical justification: mathematical, logical, some metaphysical",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-011",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "All Non-Empirical Knowledge is Analytic",
+    "content": "All non-empirical knowledge concerns conceptual structures. Explicitly rejects Kant's synthetic a priori.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-012",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "A Priori Knowledge as Constitutive of Reasoning Ability",
+    "content": "A priori knowledge = knowledge constitutive of ability to reason. Not acquired through experience but enables learning from experience.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-013",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "A Priori Knowledge Necessary for Any Learning",
+    "content": "Cannot learn from experience without a priori knowledge. Cannot deduce principles of deduction from experience (circular). Must have deductive knowledge ab initio.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-014",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "A Priori Knowledge as Subpersonal",
+    "content": "A priori knowledge not ordinary propositional knowledge but constitutive of subject itself. Principles are ability to think, not objects of thought.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-001",
+    "domain": "LOGIC",
+    "paperTitle": "Analytic Truth Defined by Content Alone",
+    "content": "Analytic truths hold entirely in virtue of own content. Given only what they say, could not fail to be true.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-002",
+    "domain": "LOGIC",
+    "paperTitle": "Tautologies are NOT Analytic Truths",
+    "content": "Tautologies = definitional truths about word usage (empirical). No analytic truths are tautologies.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-003",
+    "domain": "LOGIC",
+    "paperTitle": "All Mathematical Truths are Analytic",
+    "content": "Every mathematical truth is analytic. Mathematical knowledge = non-empirical knowledge of conceptual relations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-004",
+    "domain": "LOGIC",
+    "paperTitle": "Not All Analytic Truths are Mathematical",
+    "content": "Philosophy has its own domain of analytic truths. Example: 'All math truths are analytic' is analytic but philosophical.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-005",
+    "domain": "LOGIC",
+    "paperTitle": "Analytic Truth vs. Formal Truth Distinction",
+    "content": "Analytic truth ≠ formal truth. Formally true = recursively definable. Math truths analytic but not formal.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-006",
+    "domain": "LOGIC",
+    "paperTitle": "Incompleteness as Non-Recursive-Definability",
+    "content": "Incomplete = no recursive definition. Most scientifically important statement-sets incomplete.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-008",
+    "domain": "LOGIC",
+    "paperTitle": "Logic is Incomplete (More General than Gödel)",
+    "content": "Class of all logics not itself recursively definable. Logic is incomplete. More general than Gödel's result.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-009",
+    "domain": "LOGIC",
+    "paperTitle": "Logic as Recursively Defined Statement-Set",
+    "content": "A logic = recursively defined statement-set = axiomatic system",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SELF-001",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Minds ≠ Selves",
+    "content": "Having a mind does not entail being a self. Co-corporeal, informationally integrated mental states = mind, but NOT sufficient for selfhood.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SELF-002",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Selves Require Values",
+    "content": "No values = no self (though may have mind). Values necessary for agency. No agency without selves.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SELF-003",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Selfhood as Matter of Degree",
+    "content": "Selfhood not binary but admits of degrees. Correlates with degree of value-structured architecture.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "VALUE-001",
+    "domain": "VALUE THEORY",
+    "paperTitle": "Intrinsic Value and Self-Consolidation",
+    "content": "Intrinsically valuable = what consolidates one's agency. Not hedonistic.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "A PRIORI KNOWLEDGE AND OTHER PHILOSOPHICAL WORKS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-027",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Poverty of Stimulus Argument for A Priori Knowledge (Chomsky)",
+    "content": "Humans acquire linguistic competence from minimal data while non-linguistic entities cannot, proving humans possess innate, pre-experiential cognitive structure (a priori knowledge).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-028",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Innate Cognitive Structure Required for Language Learning",
+    "content": "Language acquisition requires pre-existing innate cognitive structure. This structure is cognitive, not merely physiological.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-029",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Language Learning as 'Triggering' Pre-Existing Structure",
+    "content": "Experience does not create linguistic knowledge de novo but 'triggers' or 'turns on' pre-existing cognitive structures. Learning is activation, not construction.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-030",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "A Priori Knowledge as Cognitive Framework (Not Framework Content)",
+    "content": "A priori knowledge is not knowledge you have (content within framework) but knowledge you are (the framework itself). It is not the object of awareness but the subject that makes awareness possible.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-031",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Framework-Knowledge vs Content-Knowledge Distinction",
+    "content": "Fundamental distinction between (1) structure-internal knowledge (learned, content) and (2) structure-constitutive knowledge (a priori, framework). All learned knowledge presupposes the framework.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-032",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Deep Unconsciousness of Cognitive Framework",
+    "content": "Framework-constitutive structures are 'deeply unconscious' (Chomsky's term) - unlike Freudian unconscious. Cannot become conscious because consciousness presupposes them.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-023",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Systematicity and Productivity of Language",
+    "content": "Languages exhibit two fundamental properties: (1) Productivity - expressions can be combined into larger expressions, and (2) Systematicity - parts composing complex expressions can be re-arranged to form other expressions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-012",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Cognitive Structure Not Purely Physiological",
+    "content": "Cognitive structures underlying language and thought are not purely physiological but are cognitive - they encode insight, intelligence, and understanding of logical relations. Pure physiology enables only stereotyped responses.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-013",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Sub-Personal Thought Exists",
+    "content": "Genuine thought (cognitive operations involving understanding of logical relations) occurs at sub-personal level - below conscious awareness. Chomsky's second major contribution to philosophy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CHOMSKY'S TWO CONTRIBUTIONS TO PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METPH-001",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Bundle Theory of Personal Identity",
+    "content": "A person/self is class of all mental contents I-related to given mental content. Two mental contents belong to same person iff there is chain such that each link directly interacts with its neighbor. Direct interaction = no intervening physical events.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METPH-002",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Content-Bearing Processes Are Ipso Facto Mental",
+    "content": "If physical process non-derivatively bears representational/thematic content, it is ipso facto mental (whatever else it is). Content-bearing is sufficient (though not necessary) for mentality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-024",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Semantic Rules Are Ultimately Descriptive",
+    "content": "Semantic rules describe what speakers mean/understand by expressions. They are not purely conventional stipulations independent of speaker practices. For 'red' to mean red just IS for speakers to mean/understand red by 'red'.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-014",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "No Language of Thought Exists",
+    "content": "There is no Language of Thought (Mentalese). Thinking does not consist in the tokening of internal symbols. Thought cannot reduce to language processing.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-015",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Semantic Rule Knowledge Required for Language Understanding",
+    "content": "To know or understand any language requires knowing its semantic rules. This is trivially true by definition of 'knowing language'.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-016",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Tarski's Theorem Blocks Self-Expression of Semantics",
+    "content": "No language can express its own semantic rules (Tarski's theorem). Therefore semantic understanding requires external meta-language or non-linguistic grasp.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-017",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Semantic Regress Refutes Language of Thought",
+    "content": "Language of Thought hypothesis generates vicious infinite regress. Each language requires meta-language for semantic understanding, ad infinitum.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-018",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Language Presupposes Non-Linguistic Thought",
+    "content": "Any language knowledge requires non-linguistic thought. To avoid infinite regress, semantic rules must ultimately be grasped non-linguistically. Therefore thought cannot reduce to language.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-019",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "No Atomic Concepts Exist",
+    "content": "There are no atomic (minimal, non-interdefinable) concepts. All concepts are constitutively connected to other concepts. To grasp any concept requires ability to grasp other concepts.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-020",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Conceptual Atomism Is False",
+    "content": "Fodor's conceptual atomism (concepts have no constitutive interdependencies) is demonstrably false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-021",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Constitutive Relations Are Not Containment Relations",
+    "content": "Constitutive connections among concepts are not containment relations or decomposability relations (following Wittgenstein). Azure is constitutively related to navy blue but neither contains the other.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-022",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Symbol Containment Theory Leads to Thinking Absurdities",
+    "content": "If concepts were symbols and constitutive relations were containment relations, thinking about 1,423 would require simultaneously thinking about 1,422, 1,421, etc. This is absurd.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-023",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Thought Is Not Computation Over Symbols",
+    "content": "Mental activity does not consist in computation or processing of internal symbolic code. Cognitive activity is not fundamentally information processing over a language-like medium.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-024",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "We Are Not Computers (Consequence)",
+    "content": "If there is no Language of Thought, and if being a computer requires internal symbolic processing (standard characterization), then we are not computers.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-025",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "No Bare Representation: Aspectual Constraint",
+    "content": "One cannot just represent an object without representing it AS having properties. All representation is aspectual.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-026",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Properties Individuated by Relations to Other Properties",
+    "content": "All properties are individuated, at least in part, by their relations to other properties. Grasping any property requires ability to locate it in 'space' of other properties.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-027",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Color Concepts Require Multiple Color Grasp",
+    "content": "Cannot grasp specific color/shade without ability to grasp other colors. Creature that can represent only one shade cannot represent what's specific about that shade.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-028",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Mental Interaction Has Normative Dimension",
+    "content": "When mental contents interact, result is thematically/semantically appropriate to interacting contents. This appropriateness has no analogue in purely physical interactions. Mental interaction is explicative, not merely causal.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-050",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Falsifies Enumerative Induction Model",
+    "content": "AI systems demonstrate that successful induction does not proceed by enumerating instances and generalizing. Instead, AI uses pattern recognition, analogy, and constraint satisfaction that cannot be reduced to simple enumeration of cases.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-051",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Pattern Recognition as Alternative to Enumeration",
+    "content": "Successful inductive reasoning operates through pattern recognition mechanisms that identify structural similarities rather than counting instances. AI systems reveal this by succeeding at induction without explicit enumeration.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-052",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Resolves Rationalism vs Empiricism Debate",
+    "content": "AI systems demonstrate that knowledge acquisition requires both innate structure (rationalist element) and learning from data (empiricist element). Neither pure rationalism nor pure empiricism can account for AI's success. The debate is resolved by recognizing both are necessary.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-053",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Innate Architecture is Necessary for Learning",
+    "content": "AI systems require substantial innate architectural constraints to learn successfully from data. This vindicates the rationalist insight that some knowledge structure must precede experience, while acknowledging the empiricist insight that specific content comes from experience.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-054",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge Acquisition is Neither Pure Discovery nor Pure Construction",
+    "content": "AI reveals that knowledge acquisition is neither pure discovery of pre-existing facts (naive realism) nor pure construction from experience (radical constructivism). It involves interaction between innate processing architecture and environmental structure.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-055",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Solves the Gettier Problem",
+    "content": "AI learning systems demonstrate a solution to the Gettier problem by showing that genuine knowledge requires not just justified true belief but also that the justification tracks truth through a reliable causal-computational process. AI systems that learn reliably exemplify this tracking relationship.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-056",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Reliable Process Theory of Knowledge via AI",
+    "content": "AI systems reveal that knowledge requires beliefs formed through reliable processes that systematically track truth. This vindicates reliabilist theories of knowledge over traditional JTB (justified true belief) accounts.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-057",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge Systems Minimize Anomalies",
+    "content": "Both human knowledge and AI systems operate by minimizing anomalies - discrepancies between expectations and observations. This convergence reveals anomaly minimization as a fundamental principle of rational cognition.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-058",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Learning Mirrors Scientific Theory Revision",
+    "content": "The process by which AI systems update their models to accommodate new data mirrors the process of scientific theory revision in response to anomalies. This suggests a common underlying logic of belief revision.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-059",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Continuous Properties Are Cognitively Necessary",
+    "content": "AI reveals that continuous (graded) properties are necessary for cognitive systems to handle uncertainty and partial information, but this doesn't entail that truth itself is non-binary. Epistemic gradations are compatible with metaphysical bivalence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-060",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Vindicates Pragmatist Theory of Knowledge",
+    "content": "AI development vindicates pragmatism's core insight that knowledge acquisition is fundamentally interactive rather than passive. AI systems learn through active engagement with their environment, validating pragmatist emphasis on the practical, interactive nature of inquiry.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-061",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI as New Epistemic Faculty",
+    "content": "Interaction with AI constitutes a genuinely new epistemic faculty - a fourth level of observation beyond passive observation, active interaction, and tool creation. AI enables rational interaction with our own capacity for rational interaction, generating unique knowledge.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-062",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge is Inherently Perspectival and Interactive",
+    "content": "AI reveals that all knowledge, even 'objective' knowledge, begins from perspectival, interaction-based data driven by practical interests. There is no view from nowhere - even AI's knowledge is grounded in its interactions with reality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-063",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Tool-Creating Interaction Generates Irreducible Knowledge",
+    "content": "Creating tools (including AI) generates knowledge that cannot be obtained from merely using tools or observing passively. Each level of reflexive interaction (tool use, tool creation, AI development) reveals new knowledge irreducible to lower levels.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-016",
+    "domain": "LOGIC",
+    "paperTitle": "Classical Logic Fails as a Tool for Reasoning",
+    "content": "Classical logic fundamentally fails as a tool for reasoning because recognizing that an inference instantiates a logical law requires more intelligence than recognizing the validity of the inference directly. Logic organizes existing knowledge about entailment but cannot generate new knowledge.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-017",
+    "domain": "LOGIC",
+    "paperTitle": "Performance-Demanding vs Competence-Demanding Inferences Distinction",
+    "content": "Inferential challenges divide into performance-demanding (requiring computational/memory resources) and competence-demanding (requiring genuine insight). Classical logic can only assist with the former, not the latter - the very kind that most need logical assistance.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-018",
+    "domain": "LOGIC",
+    "paperTitle": "Gödel's Incompleteness Refutes Logic as Mathematical Foundation",
+    "content": "Gödel's demonstration that not even arithmetic is recursively definable makes the reduction of mathematics to logic impossible in principle. Logic cannot both justify and generate mathematical knowledge as was hoped.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-019",
+    "domain": "LOGIC",
+    "paperTitle": "System L: Discovery Logic via AI",
+    "content": "A new logical system (System L) embodied in certain AI forms represents a decisive break from classical logic. It employs semantic networks, meta-reasoning patterns, and defeasible reasoning to actually help with competence-demanding inferences rather than merely cataloging known-valid inferences.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-020",
+    "domain": "LOGIC",
+    "paperTitle": "Semantic Networks Enable Competence-Level Reasoning",
+    "content": "System L represents concepts as nodes in a vast web of relationships capturing not just formal logical connections but probabilistic associations, causal links, and analogical mappings. This enables insight-level reasoning that formal logic cannot provide.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-021",
+    "domain": "LOGIC",
+    "paperTitle": "Meta-Reasoning Patterns Generate New Inferences",
+    "content": "System L uses higher-order templates for generating new inferences that go beyond simple deductive rules. Example template: 'If capability X requires mechanism Y, and mechanism Y can malfunction in way Z, then X implies the potential for Z-type malfunctions.'",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-022",
+    "domain": "LOGIC",
+    "paperTitle": "Defeasible Reasoning Mirrors Actual Human Reasoning",
+    "content": "Incorporating defeasible reasoning - provisional inferences that can be revised in light of new information - better mirrors actual human reasoning and provides more practical utility than classical logic's requirement for absolute certainty.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-023",
+    "domain": "LOGIC",
+    "paperTitle": "Grammatical Structure Guides Logical Inference",
+    "content": "LLMs successfully perform logical reasoning by following grammatical structure, demonstrating that surface grammar encodes logical relationships. This vindicates the traditional view that grammatical form reveals logical form.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-011",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Binary Truth Despite Continuous Representation",
+    "content": "AI systems demonstrate that truth remains fundamentally binary (true/false) even though cognitive systems represent information continuously. Continuous confidence values or fuzzy representations are epistemic features, not ontological features of truth itself.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-007",
+    "domain": "METHODOLOGY",
+    "paperTitle": "AI Construction Tests Cognitive Theories Empirically",
+    "content": "The requirement that cognitive theories be implementable in functioning AI systems provides an empirical constraint: theories that cannot generate working systems are falsified. This connects abstract theorizing to concrete engineering requirements.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-008",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Formalization Requires Generative Not Just Organizational Adequacy",
+    "content": "AI reveals that adequate formalization requires not just organizing existing knowledge but generating new valid instances. A formalization is adequate only if it can generate the full range of valid cases, not merely classify them post hoc.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-009",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Generative Tests Reveal Hidden Inadequacies in Formalizations",
+    "content": "Testing whether a formalization can generate valid new instances (as AI systems must) reveals inadequacies invisible to purely organizational approaches. Many traditional formalizations fail this stronger generative test.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AI-004",
+    "domain": "PHILOSOPHY OF AI",
+    "paperTitle": "AI Provides Empirical Test for Logical Theories",
+    "content": "Artificial intelligence systems, particularly large language models, provide empirical evidence about how reasoning actually works, revealing that System L's approach better captures both human and artificial reasoning than classical logic.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-033",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "AI Vindicates Semantics-Pragmatics Distinction",
+    "content": "Large language models demonstrate a clear distinction between semantic content (literal meaning) and pragmatic interpretation (context-dependent meaning). The success of LLMs requires maintaining this distinction, vindicating classical theories of meaning against pragmatist attempts to collapse semantics into pragmatics.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-034",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Literal Meaning is Computationally Prior to Pragmatic Interpretation",
+    "content": "AI systems must compute literal semantic content before applying pragmatic adjustments. This computational priority reveals that semantics is foundational and pragmatics is derivative, supporting classical over post-modern theories of meaning.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-035",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Context-Independence of Core Semantics",
+    "content": "LLMs demonstrate that core semantic content can be represented context-independently and then applied across contexts. This vindicates the classical view that meaning has a stable core that pragmatic factors modulate rather than wholly constitute.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-036",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "AI Vindicates Syntax-Semantics Interface",
+    "content": "Large language models demonstrate that grammatical structure (syntax) and meaning (semantics) are distinct but systematically related. The success of LLMs requires explicit representation of this interface, vindicating classical grammatical theory against attempts to reduce one to the other.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-037",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Syntactic Structure Constrains Semantic Interpretation",
+    "content": "AI language systems reveal that syntactic structure constrains possible semantic interpretations. This supports the classical view that grammar is not arbitrary convention but reflects systematic constraints on meaning composition.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-038",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Compositional Semantics Requires Syntactic Structure",
+    "content": "The ability of LLMs to understand novel sentences demonstrates that semantic interpretation is compositional - the meaning of complex expressions derives systematically from their parts and syntactic structure. This requires and vindicates traditional compositional semantic theories.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-039",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Grammar and Logic are Fundamentally Aligned",
+    "content": "AI language systems demonstrate that grammatical structure and logical form are fundamentally aligned - grammatical categories and relations correspond to logical types and operations. This alignment is not accidental but reflects deep unity of form in human cognition.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-040",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Universal Grammar Can Be Implemented Subsymbolically",
+    "content": "AI demonstrates that universal grammar principles can be implemented through subsymbolic connectionist architectures rather than requiring explicit symbolic rules. The functional role of UG is preserved even if implementation differs from classical theory.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-041",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Universal Grammar Principles Extend to Music",
+    "content": "AI analysis reveals that the computational principles underlying universal grammar in language also apply to music cognition. Both domains share abstract structural principles about hierarchical organization and rule-governed combination.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-039",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Functional Replication Reveals Necessary Architecture",
+    "content": "When AI successfully replicates a cognitive function, the architecture required for that replication reveals necessary (though not necessarily sufficient) conditions for that function. This provides insight into the minimal requirements for cognition.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-040",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Music Has Cognitive Architecture Parallel to Language",
+    "content": "AI analysis reveals that music processing requires cognitive architecture with structural parallels to language: hierarchical organization, syntactic rules, and semantic interpretation. This supports the view that music is a cognitive system with language-like properties.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-041",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Musical Competence Requires Innate Structure",
+    "content": "AI systems that successfully generate or analyze music require substantial innate architectural constraints, suggesting that human musical competence also depends on innate cognitive structure rather than being purely learned.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-042",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Connectionism Can Implement Chomskyan Insights",
+    "content": "Contrary to Chomsky's critique, connectionist AI systems can implement key Chomskyan insights about innate linguistic structure. The debate is not whether innate structure exists but how it is implemented - symbolic rules vs. weighted connections.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-043",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI Falsifies Classical Computational Theory of Mind",
+    "content": "The success of modern AI systems (especially neural networks) falsifies the classical computational theory of mind which requires serial symbol manipulation. Intelligence can be achieved through parallel, subsymbolic processes that don't manipulate discrete symbols according to explicit rules.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-044",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Intelligence Does Not Require Symbol Manipulation",
+    "content": "AI demonstrates that intelligence and rational behavior do not require manipulation of discrete symbols in a language of thought. Subsymbolic pattern recognition and transformation can achieve cognitive competence without symbolic representation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-045",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Analog Computation Can Support Rational Thought",
+    "content": "Neural network AI systems demonstrate that analog (continuous) computation can support rational thought and problem-solving, contrary to the classical assumption that rationality requires discrete digital computation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-046",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Neural Architecture Constrains Cognitive Possibilities",
+    "content": "AI neural architectures reveal that cognitive capacities are constrained by underlying computational architecture. Different architectures enable different cognitive possibilities, suggesting mind is fundamentally shaped by its neural implementation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-047",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Multiple Realizability Has Architectural Limits",
+    "content": "While cognitive functions show some multiple realizability, AI reveals that architectural constraints limit which substrates can implement which functions. This challenges strong multiple realizability theses that treat implementation as irrelevant to function.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-048",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Domain-General Principles Underlie Domain-Specific Competencies",
+    "content": "AI systems demonstrate that apparently domain-specific competencies (language, music) can arise from application of domain-general computational principles to different types of input. This supports a middle ground between pure modularity and pure domain-generality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-049",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Consciousness Has Functional Role Absent in Current AI",
+    "content": "AI systems demonstrate that many cognitive functions traditionally associated with consciousness (perception, reasoning, learning) can occur without consciousness. This reveals consciousness has a distinct functional role that current AI lacks - likely related to unified subjective experience and certain forms of self-monitoring.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-050",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI Success Without Consciousness Reveals Consciousness is Not Required for Intelligence",
+    "content": "The success of AI at intelligent tasks without consciousness demonstrates that consciousness is not necessary for intelligence per se, but may be necessary for specific types of cognitive integration or self-awareness.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-051",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Phenomenal Consciousness vs Functional Consciousness Distinction",
+    "content": "AI reveals a crucial distinction between phenomenal consciousness (subjective experience) and functional consciousness (information integration, self-monitoring). AI can have functional analogs without phenomenal properties.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-052",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Self-Representation Requires Specific Architectural Features",
+    "content": "AI systems reveal that genuine self-representation requires specific architectural features: recursive self-modeling, distinction between self and environment, and temporal continuity tracking. Not all intelligent systems automatically have these features.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MIND-053",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Narrative Self vs Minimal Self in AI Architecture",
+    "content": "AI demonstrates the distinction between minimal self (basic subject of experience) and narrative self (autobiographical self-concept). These require different architectural implementations and can exist independently.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-004",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "AI Falsifies Popperian Falsificationism",
+    "content": "AI's success in scientific discovery falsifies Popper's theory that science proceeds primarily through conjecture and refutation. AI systems generate successful theories through pattern matching and inductive generalization, not primarily through bold conjectures and attempts at falsification.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-005",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Inductive Discovery Precedes Deductive Testing",
+    "content": "Contra Popper, successful scientific discovery requires inductive pattern recognition to generate plausible hypotheses before deductive testing. AI demonstrates that purely conjectural approaches without inductive guidance are ineffective.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-006",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Reverse Brain Engineering as Scientific Method",
+    "content": "By building AI systems that replicate cognitive functions, we can infer the computational architecture necessary for those functions. This 'reverse engineering' of the brain through AI construction represents a new and powerful methodology in philosophy of science and cognitive science.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-007",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "AI Falsifies Deductive-Nomological Model of Explanation",
+    "content": "AI's successful explanatory practices falsify the deductive-nomological (covering law) model of explanation. AI generates successful explanations through pattern recognition, analogy, and causal modeling that don't require deduction from universal laws.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-008",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Causal-Mechanistic Explanation Doesn't Require Universal Laws",
+    "content": "AI demonstrates that causal-mechanistic explanation can be successful without appeal to universal laws. Understanding how something works doesn't require subsuming it under exceptionless generalizations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-009",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Explanatory Understanding Through Pattern Recognition",
+    "content": "AI reveals that explanatory understanding can be achieved through recognition of patterns and structural similarities rather than derivation from laws. This suggests explanation is more about grasping relevant relationships than deductive systematization.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "AI AND PHILOSOPHY",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-064",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Two Kinds of Knowledge: Direct and Indirect",
+    "content": "There are exactly two kinds of knowledge: direct (non-inferential, primitive) knowledge and indirect (inferential) knowledge. All knowledge falls into one of these two categories.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-065",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "All Theoretical Knowledge is Inferential",
+    "content": "All theoretical knowledge is inferential knowledge, though not all inferential knowledge is theoretical knowledge. Theoretical knowledge requires reasoning from observations to explanatory hypotheses.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-066",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge is Justified True Belief (But Not Vice Versa)",
+    "content": "All knowledge is justified true belief, but not all justified true belief is knowledge. Additional conditions beyond justification, truth, and belief are required for knowledge.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-067",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Two Kinds of Dependence Relations: Causal and Logical",
+    "content": "There are exactly two fundamental types of dependence relations: causal dependence relations and logical dependence relations. These are distinct and irreducible to each other.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-068",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Logical Dependence Relations Not Known Through Observation",
+    "content": "Relations of logical dependence are not known through observation. They are known a priori, through conceptual analysis or reasoning, not through empirical investigation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-069",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Causal Relations Known Through Observation",
+    "content": "Causal relations are known through observation. Unlike logical relations, causal dependencies are empirical matters discoverable through perception and experience.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-070",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Analytic Knowledge is Always Knowledge of Dependence Relations",
+    "content": "Analytic knowledge is always and necessarily knowledge of dependence-relations. To know analytic truths is to know how concepts or propositions depend on each other.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-071",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Propositions Are the Objects of Belief",
+    "content": "Propositions, not objects or states of affairs, are the proper objects of belief. To believe is to take a proposition to be true.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-072",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge Distinct From Awareness",
+    "content": "Knowledge must be sharply distinguished from mere awareness. One can be aware of something without knowing anything about it, and one can know things without being directly aware of them.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-073",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "The Concept of Evidence: Causal Relatedness",
+    "content": "One state of affairs e is evidence of another state of affairs e* if and only if e and e* are causally related such that knowledge of e's existence provides reason to believe in e*'s existence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-074",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Information-Transmission as Structure-Preservation",
+    "content": "Information-transmission is structure-preservation. An information-bearing series is one in which earlier events transmit their structure to later events through causal processes that preserve structural relationships.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-075",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Information Distinct From Evidence",
+    "content": "All information is evidence, but not all evidence is information. Evidence requires only causal relatedness; information requires causal relatedness plus structure-preservation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-076",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Information-Transmission as the Basis of Knowledge",
+    "content": "Knowledge is based on information-transmission. Our sense-perceptions are isomorphs of the objects they represent, inheriting structure from their causes. Beliefs are knowledge only to the extent they are linked by information-transmissive series to corresponding realities.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-077",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Knowledge Independent of Statistical Reliability",
+    "content": "The difference between knowledge and mere belief is not statistical. A belief is knowledge if and only if it is the end-result of an information-transmissive series, regardless of the general reliability of the mechanism that produced it.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-143",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "The Frequency Theory of Probability is false",
+    "content": "Frequency Theory (FT) - the view that probabilities are identical with statistical frequencies - is false. Refuted by W1/W2 thought experiment and smoking-cancer example.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-024",
+    "domain": "LOGIC",
+    "paperTitle": "Entailment Defined as Logical Consequence",
+    "content": "P entails Q if and only if Q is a logical consequence of P. If P entails Q and P is true, then Q must be true and may be legitimately inferred from P.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-025",
+    "domain": "LOGIC",
+    "paperTitle": "Confirmation Defined as Probability-Increase",
+    "content": "P confirms Q if and only if P, supposing it true, increases the likelihood that Q is true. Confirmation does not by itself license inference from P to Q.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-026",
+    "domain": "LOGIC",
+    "paperTitle": "Conditions for Legitimate Inductive Inference",
+    "content": "Q may legitimately be inferred from P if and only if: (a) the supposition that P is true and Q is false has fewer unexplainable consequences than the supposition that P and Q are both true, AND (b) the supposition that P is true has fewer unexplainable consequences than the supposition that P is false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-027",
+    "domain": "LOGIC",
+    "paperTitle": "Four Principles: Entailment vs. Confirmation",
+    "content": "Four logical principles hold: (i) Entailment is transitive; (ii) Confirmation is not transitive; (iii) Entailment is monotonic; (iv) Confirmation is non-monotonic. These differences show entailment and confirmation are fundamentally different relations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-028",
+    "domain": "LOGIC",
+    "paperTitle": "Entailment Not Maximal Confirmation",
+    "content": "Entailment is not maximal confirmation. Entailment is a logical notion concerning what is counterlogical; confirmation is an explanatory notion concerning what is counterexplanatory.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-029",
+    "domain": "LOGIC",
+    "paperTitle": "Confirmation-Relations Non-Objectual in Nature",
+    "content": "Confirmation relations, though not themselves causal relations, sometimes hold in virtue of causal relations. But confirmation relates propositions, not objects or events.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LOGIC-030",
+    "domain": "LOGIC",
+    "paperTitle": "The Counterfactual Analysis of Causality (CAC) Is False",
+    "content": "The Counterfactual Analysis of Causality - the view that 'e caused e*' means 'if e hadn't happened, e* wouldn't have happened' - is both extensionally and intensionally false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-012",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Causation as the Essence of Temporal Precedence",
+    "content": "For one event e to precede another event e* is for there to be a possible causal process beginning with e and ending with e*. Simultaneity is the absence of such a process.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-013",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Continuity as the Essence of Causation",
+    "content": "Effects are continuations of their causes. Causation essentially involves continuity - causal processes preserve structural relationships across temporal intervals without gaps.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-014",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Causation a Relation Between Events, Not Objects",
+    "content": "Causation is fundamentally a relation between events, not between objects. Objects participate in causal relations only derivatively, in virtue of events involving those objects.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-015",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Conditions Identical with Event-Patterns",
+    "content": "Conditions are identical with event-patterns. A condition is not a state but rather a pattern or type of event sequence that can be instantiated multiple times.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-016",
+    "domain": "METAPHYSICS",
+    "paperTitle": "So-Called Changes Typically Identical with Meta-Changes",
+    "content": "What are ordinarily called changes are typically meta-changes - changes in the rate, direction, or pattern of already-occurring changes rather than absolute transitions from rest to motion or vice versa.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-017",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Threshold Effects and Psychological Overdetermination",
+    "content": "In psychology, causation often involves exceeding thresholds rather than simple sufficient conditions. An effect may require the confluence of multiple reasons, none sufficient alone but jointly sufficient once a threshold is exceeded.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-018",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Threshold Effects and the Analog-Digital Distinction",
+    "content": "Discontinuous changes tend to involve threshold effects; continuous changes do not. To the extent the world changes discontinuously it has digital structure; to the extent continuously, analog structure.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-019",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Causes as INUS-Conditions",
+    "content": "In most contexts, to say 'X caused Y' means 'X was an INUS condition for Y' - an Insufficient but Non-redundant part of an Unnecessary but Sufficient condition for Y's occurrence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-020",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Counterfactuals Hold in Virtue of Dependence-Relations",
+    "content": "All counterfactuals affirm the existence of instances of necessitation of some kind. Causal counterfactuals hold in virtue of causal dependence-relations; logical counterfactuals hold in virtue of logical dependence-relations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-021",
+    "domain": "METAPHYSICS",
+    "paperTitle": "David Lewis's Possible Worlds Analysis of Counterfactuals Rejected",
+    "content": "David Lewis's analysis of counterfactuals in terms of similar possible worlds is false. Events have deep causal roots such that changing one event requires either massive world-differences or changes to deterministic mechanisms.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-022",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Program-Causality Distinguished from Token-Causality",
+    "content": "Program-causality differs from token-causality. Sometimes the appropriate causal explanation cites a condition that guaranteed occurrence of token-causes rather than the token-causes themselves.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "META-023",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Causal Redundancy Defeats Counterfactual Analysis",
+    "content": "Where there is causal redundancy, causal truths cannot be converted into counterfactual truths. 'X caused Y' can be true even when 'if X hadn't occurred, Y wouldn't have occurred' is false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-010",
+    "domain": "METHODOLOGY",
+    "paperTitle": "No Such Thing as Enumerative Induction",
+    "content": "There is no such thing as enumerative induction (inferring 'all Fs are Gs' from 'all observed Fs are Gs'). What appears to be enumerative induction always involves implicit appeal to Inference to the Best Explanation (IBE).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-011",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Discontinuity-Elimination the Essence of Explanation",
+    "content": "To explain is to eliminate discontinuities. A correct scientific hypothesis eliminates anomalies by showing how apparently disconnected facts are part of continuous causal processes.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-012",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Inductive Knowledge as Knowledge of Continuities",
+    "content": "Inductive knowledge is knowledge of continuities between continuities. Valid induction extends known continuous causal processes to unobserved cases by identifying higher-order patterns of continuity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-013",
+    "domain": "METHODOLOGY",
+    "paperTitle": "IBE Justified by Continuity-Completion",
+    "content": "Inference to the Best Explanation (IBE) is justified because it completes causal continuities. A hypothesis is justified to the extent it fills gaps in causal sequences, eliminating discontinuities in the data.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-014",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Measurement Distinct from Enumeration",
+    "content": "Measurement is fundamentally distinct from enumeration. Length cannot be determined by counting because (1) there are no minimal length units, and (2) length is not strictly additive at large scales.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-015",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Relativization to Standards the Essence of Measurement",
+    "content": "The essence of measurement is comparison with respect to a standard. All measurement, including 'absolute' measurement, is fundamentally relative comparison to stipulated standards.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-016",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Three Axioms of Measurement Theory",
+    "content": "Three axioms are necessary for any viable measurement system: (i) If L1>L2 and L2>L3, then L1>L3 (transitivity). (ii) If L1≠L2, one is greater (trichotomy). (iii) If L1=L2 and L2=L3, then L1=L3 (transitivity of identity). Violation makes measurement meaningless.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-017",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Metrical Conventionalism Versus Strict Conventionalism",
+    "content": "Conventionalism (laws are convention-based) differs from strict conventionalism (laws are convention-determined). Only the former is correct. That laws are expressed relative to conventional standards doesn't make them entirely conventional.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METH-018",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Conventionalism Self-Defeating",
+    "content": "Conventionalism is self-defeating. If laws hold in virtue of non-conventional relations between conventions and events (as conventionalism requires), then measurement standard choice is constrained by objective facts, undermining conventionalism.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-010",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Laws of Nature Not Confined to Actual Objects",
+    "content": "The scope of natural law is not confined to actual or even possible objects. Many laws hold with respect to classes all of whose members are merely possible or even prohibited by other natural laws.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-011",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Knowledge of Imperceptibles Identical with Conditional Knowledge",
+    "content": "Knowledge of the imperceptible is identical with knowledge of conditional truth. Knowledge of future, past, possible, and imperceptible present states is always conditional knowledge based on laws.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-012",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Three Kinds of Imperceptibles",
+    "content": "Physical objects can be imperceptible in three ways: (1) imperceptible due to severed causal processes (objects in other rooms); (2) imperceptible due to size but perceptible with technology (cells, molecules); (3) imperceptible by natural law regardless of technology (photons, subatomic particles).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-013",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "The Epistemic Function of Natural Law",
+    "content": "Scientists aspire to identify natural laws so they can, when given context-specific information, make true statements about future, past, or possible behavior of contexts. Laws enable conditional prediction and explanation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-014",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Science Prioritizes Principles Over Particular Facts",
+    "content": "Any interest science has in a given particular fact is subordinate to its interest in the general principles in terms of which that fact is to be understood. Scientists study particular instances only insofar as they instantiate general laws.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-015",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Laws May Be Place and Time-Sensitive",
+    "content": "Some natural laws are place- and time-sensitive rather than spatiotemporally invariant. Laws need not hold uniformly across all regions of space-time to be genuine laws.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-016",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Hume's Regularity Analysis of Causation Is False",
+    "content": "Hume's Regularity Analysis - the view that causation is nothing but constant conjunction, that 'X causes Y' means 'events of type X are regularly followed by events of type Y' - is demonstrably false.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-017",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Hume-Worlds Observationally Different from Non-Humean Worlds",
+    "content": "A Hume-world (where causation equals regularity with no underlying powers) would be observationally different from our world. The concept of a Hume-world cannot support Hume's analysis.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-018",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "The Deductive-Nomological Model of Explanation Is False",
+    "content": "The Deductive-Nomological (DN) model - which holds that to explain event E is to derive E from natural laws plus antecedent conditions - is fundamentally mistaken. Explanation requires causal knowledge, not merely law-subsumption.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-019",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "DN Viciously Circular via Counterfactual Support",
+    "content": "The DN model is viciously circular if it requires laws to support counterfactuals (as Hempel proposes). Counterfactuals are cryptocausal statements; knowing them requires knowing causes; but knowing causes already provides explanations.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-020",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Causal Knowledge as Differential Knowledge",
+    "content": "Causal knowledge is differential knowledge - knowledge of what varies with what. To know causes is to know which changes depend on which other changes and in what proportions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-021",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Causation as Proportionality Restoration",
+    "content": "Causation is fundamentally proportionality restoration. Effects are proportional to their causes (threshold effects aside). When a force acts on an object, the resulting change is proportional to the force magnitude.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-022",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Physical Laws as Regularities of Proportion",
+    "content": "Physical laws are regularities of proportion rather than simple universal generalizations. Laws describe how magnitudes vary proportionally with each other rather than stating that all Fs are Gs.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-023",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Knowledge-Why Equals High-Resolution Knowledge-What",
+    "content": "To have knowledge-why is to have high-resolution knowledge-what. Explanatory knowledge differs from mere descriptive knowledge in degree of detail and specificity, not in kind.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-024",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "The Raven Paradox a By-Product of Regularity Analysis",
+    "content": "The Raven Paradox (that non-black non-ravens confirm 'all ravens are black') is an artifact of the Regularity Analysis of causation. Once causation is properly understood, the paradox dissolves.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-025",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Determinism Doesn't Entail Complete Predictability",
+    "content": "Determinism (every event has a cause) does not entail complete predictability. Two reasons: (1) interference effects make prediction impossible without infinite precision, and (2) knowledge growth itself cannot be predicted.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-026",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Implementation-Indeterminism Distinguished from Program-Determinism",
+    "content": "Program-determinism (software-level determinism) is compatible with implementation-indeterminism (hardware-level indeterminism). The same program can be implemented by different physical processes.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-027",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Truths Not Objects Are Objects of Explanation",
+    "content": "Truths, not objects or states of affairs themselves, are the proper objects of explanation. We explain why propositions are true, not why objects exist (except derivatively).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-050",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Probability is causal, not statistical",
+    "content": "When it is said that probability of a computer-malfunction is greater than 0%, the statement being made is to be interpreted CAUSALLY, not statistically. Probability is a function of laws and causal mechanisms, not observed frequencies.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-051",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Statistics are evidence for probability, not identical with probability",
+    "content": "Statistics are evidence of probabilities; statistics are not themselves probabilities. Frequency Theory (FT) wrongly identifies statistics with probability.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-052",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "W1/W2 thought experiment refutes Frequency Theory",
+    "content": "W1: laws say P(malfunction)=10%, statistics show 10%. W2: same laws, P(malfunction)=10%, but by coincidence statistics show 0%. Frequency Theory wrongly says P(W2)=0% but P(W1)=10%. Both actually have P=10% (determined by laws).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-053",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Smoking-cancer example refutes Frequency Theory",
+    "content": "In a world with our biological laws but where by coincidence no smoker gets cancer, Frequency Theory says P(cancer|smoking)=0%. Wrong. P(cancer|smoking) = same as our world (determined by biological laws), regardless of coincidental statistics.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-054",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Same laws entail same probabilities regardless of statistics",
+    "content": "Worlds with identical laws of nature have identical probabilities, regardless of any statistical divergences caused by coincidence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "SCI-055",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Different causal/nomic structures entail different probabilities",
+    "content": "If two universes have different causal/nomic structures (different laws), they have different probabilities, even if their event-sequences are observationally identical.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "THEORETICAL KNOWLEDGE AND INDUCTIVE INFERENCE",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-144",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Truth out of context as damaging as falsehood",
+    "content": "Truths taken out of context, or made available to people who don't know how to contextualize them, can be as damaging as falsehoods and lead to confusion that enables acceptance of falsehoods.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-145",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Plato's extreme rationalism is political, not epistemological",
+    "content": "Plato's radical epistemological claim that observables are unreal 'shadows' while only pure thought accesses reality is not genuine epistemology but political belief presented as epistemological belief, driven by fear of political change.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-146",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Plato's epistemology rationalizes his social position",
+    "content": "Plato's epistemological views make little sense as epistemology but make perfect sense as attempts to rationalize and preserve his privileged social position against threatening changes.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-147",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Descartes' epistemology responds to Church authority crisis",
+    "content": "Descartes' epistemological project was fundamentally an attempt to cope with social unrest caused by science stripping Catholic Church of credibility. He sought new certainties to replace discredited Church certainties.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-148",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Extreme rationalism correlates with anxiety about social change",
+    "content": "Both Plato and Descartes advocate extreme rationalism (overplaying role of thought, underplaying observation) because both were uneasy about social changes - Plato unambivalently hostile, Descartes ambivalently accepting.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-149",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Empiricizing philosophy enables world-engagement",
+    "content": "Locke and Hume's empiricism represented attempt to make philosophy engage the world. Their political philosophies succeeded precisely to extent they empiricized/anti-philosophized philosophy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-150",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Empiricism collapses into skepticism/autistic withdrawal",
+    "content": "The empiricist project ultimately defeats itself: arch-empiricism (knowledge only of direct sensory evidence) collapses into pure skepticism (knowledge only of conscious states), representing the most complete autistic withdrawal from reality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HIST-2",
+    "domain": "HISTORY OF PHILOSOPHY",
+    "paperTitle": "Socrates operationally trained oligarchic coup leaders",
+    "content": "Socrates didn't merely 'lay groundwork' for oligarchic coups - he operationally trained the men who tried to take over Athens (Critias, Alcibiades, Charmides). He was assembling a team, not innocently thinking.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-37",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Socrates executed for wartime disruption, not truth-seeking",
+    "content": "Socrates was executed for being disruptive during Athens' civil war, not for seeking truth. He caused Athenians to question moral beliefs that undergirded patriotism precisely when Athens most needed political unity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-38",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Philosophical questioning can undermine necessary political unity",
+    "content": "While truth is generally preferable to fiction, philosophical questioning of foundational beliefs can weaken necessary social cohesion, especially during crises requiring unified action.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-39",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Socrates sought power through intellectual influence",
+    "content": "Socrates' philosophical activity was a strategy to gain power not through official positions but by installing his worldview at the top through grooming power-adjacent elites. He wanted to be the state, not serve it.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-40",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Philosopher-king doctrine as mission statement, not abstract ideal",
+    "content": "The philosopher-king doctrine was not an abstract ideal but Socrates' mission statement - a concrete plan for installing someone like himself in power. That's why he was executed: his answers, if acted on, would have made him king.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-41",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Socrates delegitimized authority with replacement theory",
+    "content": "Socrates wasn't just exposing ignorance for sport - he was methodically delegitimizing existing authority while building a replacement system where 'someone who knows' (the philosopher) should rule instead of generals, priests, or wealthy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-42",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "The Republic as conservative propaganda disguised as political philosophy",
+    "content": "Plato's Republic is fundamentally conservative propaganda designed to rationalize aristocratic power and prevent revolution, not genuine political philosophy seeking justice.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-43",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Plato's Good/Real equivalence as coded social stability doctrine",
+    "content": "Plato's linking of 'the Good' with 'the real' makes no literal sense (since bad things are real) but makes perfect sense as code: 'good/real' = what conduces to social stability, 'bad/shadows' = what threatens social stability.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-44",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Plato's political philosophy replaces world with thought-world",
+    "content": "Plato's system was completely a priori - he wasn't engaging actual world but proposing to replace it with his own thought-world having little reality or justification outside his thought-space.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-45",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Philosopher-king doctrine is incoherent",
+    "content": "The idea that society should be ruled by philosopher-king is incoherent because societies must be run by sapient doers, not sapient thinkers - by people who engage world through action, not by those who flee into intellectual constructions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "POL-46",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Marx's political philosophy as destructive a priori fantasy",
+    "content": "Marx explicitly proposed destroying existing social structure and replacing it with system having no real basis in reality (totally fabricated), which when implemented led to unprecedented loss of life and opportunity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PSY-131",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "Philosophy as intellectualized impotence / retreat from reality",
+    "content": "Both OCD and philosophy involve retreating from exigencies of external actual reality into the safety of internal pseudo-reality. Both are forms of intellectualized impotence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PSY-132",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "OCD and philosophy are homologous psychopathologies",
+    "content": "OCD and philosophy are not merely analogous but homologous - from a psychopathological perspective they represent the same underlying condition: autistic withdrawal from reality into thought-space.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PSY-133",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "Republic exhibits OCD-like rigidity and protocols",
+    "content": "The absurdity of Plato's Republic manifests in its OCD-like features: rigid society, stereotyped protocols for education and social interaction, death penalty for minor violations (in Laws).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "WHY WAS SOCRATES EXECUTED? AND OTHER PAPERS ON PLATO",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-018",
+    "domain": "AESTHETICS",
+    "paperTitle": "Drama Ages Better Than Comedy Due to Archetypal vs. Cultural Content",
+    "content": "Drama endures because rooted in existential constants (death, love, guilt, betrayal) not cultural taboos. Comedy decays because depends on shared repressions that fade.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-019",
+    "domain": "AESTHETICS",
+    "paperTitle": "Freud's Theory Explains Why Old Comedies Suck",
+    "content": "Freud's theory: humor releases repressed psychic energy. Comedy ages poorly because depends on shared repressions/taboos - once taboos fade, jokes fall flat.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-020",
+    "domain": "AESTHETICS",
+    "paperTitle": "M*A*S*H as Comfort Food for the Quietly Obedient",
+    "content": "M*A*S*H fans love Hawkeye because they ARE Frank Burns but don't want to admit it. Show offers false rebellion - lets safe people pretend they're brave without risk.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-021",
+    "domain": "AESTHETICS",
+    "paperTitle": "The Thin Blue Line / Errol Morris as Boring Stylistic Void",
+    "content": "Errol Morris films boring - style over substance, manipulation over insight. Inflates content with cinematic gimmicks. Remembered for consequences not as compelling cinema.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-022",
+    "domain": "AESTHETICS",
+    "paperTitle": "Apocalypse Now as Bloated Incoherent Spectacle",
+    "content": "Apocalypse Now is bloated, incoherent spectacle - self-conscious attempt to create Great Work without discipline. Says nothing real about Vietnam, war, or human nature.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-023",
+    "domain": "AESTHETICS",
+    "paperTitle": "In Cold Blood / Wilderness of Error / Apocalypse Now as Dishonest Works",
+    "content": "These three works united by deeper commonality: fundamentally dishonest - betray realities they claim to explore, sacrifice truth for self-indulgence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-024",
+    "domain": "AESTHETICS",
+    "paperTitle": "Capote Withered After In Cold Blood Due to Unlivable Fantasy",
+    "content": "Capote withered after In Cold Blood because he encountered embodiment of his unlivable sexual/emotional fantasy in Perry Smith. When fantasy collapsed, left with permanent starvation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-025",
+    "domain": "AESTHETICS",
+    "paperTitle": "Dr. Melfi / A.J. Soprano as Failed Characters",
+    "content": "Dr. Melfi worst recurring character - stiff, judgmental, tone-deaf. Lorraine Bracco performing competence not inhabiting complexity. A.J. equally bad - Robert Iler brought no emotion or presence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-026",
+    "domain": "AESTHETICS",
+    "paperTitle": "ASMR as Soft-Core Porn Disguised as Therapy",
+    "content": "ASMR is scam - soft-core pornography disguised as therapy. Relies on calculated cultural dishonesty. Most content features women making erotic mouth sounds while claiming therapeutic benefit.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-027",
+    "domain": "AESTHETICS",
+    "paperTitle": "Husserl as Schizophrenic Drivel",
+    "content": "Husserl's phenomenology not rigorous philosophical system but mind unraveling under guise of precision. Affective and cognitive structure bears disturbing resemblance to schizophrenia phenomenology.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-115",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Coherentism vs. Foundationalism: AI Architecture Favors Coherentism",
+    "content": "Modern AI architecture (LLMs) supports coherentist epistemology over foundationalism. Knowledge emerges from interconnected web of mutually supporting beliefs rather than foundational truths.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HI-015",
+    "domain": "HISTORY",
+    "paperTitle": "Glubb's Theory is Theory of Liberal Empire Not All Empires",
+    "content": "John Glubb's 250-year imperial life-cycle describes liberal empires specifically, not all empires. Pattern is pathology of liberalism in terminal form, not universal civilizational law.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HI-016",
+    "domain": "HISTORY",
+    "paperTitle": "Kennedy and Dalio Wrong: Civilizations Collapse From Loss of Self-Belief Not Debt",
+    "content": "Paul Kennedy and Ray Dalio wrong about civilizational collapse. Root cause not debt/overextension/trade deficits but loss of self-belief. These are symptoms not causes.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HI-017",
+    "domain": "HISTORY",
+    "paperTitle": "Protestantism, Capitalism, New Worldism as Mutually Reinforcing",
+    "content": "Protestant Reformation, rise of capitalism, and New World colonization were not separate parallel developments but mutually reinforcing and interdependent events.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "MP-072",
+    "domain": "METAPHYSICS",
+    "paperTitle": "Cardinal Numbers as Classes of Ordered Pairs",
+    "content": "For any cardinal n, n can be identified with class Cn of all ordered pairs <Kn#,Rn#> where Kn# is any class and Rn# any relation such that class k has n-many members iff kRn#Kn#. Reconciles Frege and Von Neumann.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PL-047",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Bullshit as Institutional Truth Replacing Actual Truth",
+    "content": "Frankfurt wrong about bullshit. Not indifference to truth but substitution of institutional truth for actual truth. Bullshit is rhetorical performance of truth under conditions where truth structurally excluded.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-058",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI as Embedded Mind - The Pianist's Hand Analogy",
+    "content": "AI doesn't think but behaves as if trained by someone who does. It is embedded intelligence - vessel full of mind-shaped behaviors. Like pianist's hand: performs with inflections of thought because tuned by thought.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-059",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI as Behavioral Prosthesis of Collective Intelligence",
+    "content": "AI is behavioral prosthesis of collective intelligence. Does not think but remembers how thinking sounds. Not conscious but expresses embedded intelligence from training.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-060",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Prompt-Engineering as New Form of Writing",
+    "content": "Prompt-engineering is new form of writing - collaborative dance between human intention and AI that expands authorship boundaries. Resulting text neither purely human nor purely machine.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-061",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI-Integrated Authorship as Third Space",
+    "content": "AI creates third space between purely human and purely machine text - collaborative terrain where human intention and AI capability meet to produce what neither could alone. This is new artform.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-062",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Academic Writing as Sophisticated Recycling Exposed by AI",
+    "content": "Academics fear AI not for ethical reasons but because AI threatens to reveal how much academic work is sophisticated recycling. AI can now generate and detect derivative academic content.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-063",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Thought and Emotion Processed in Different Brain Systems",
+    "content": "Crucial difference between reading thoughts (cortical, symbolic) and reading emotions (subcortical, preverbal, body-based). Being skilled in one doesn't guarantee skill in other.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-064",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Emotional Detachment as Defense Against Empathic Overload",
+    "content": "Apparent emotional detachment often functional strategy by hyper-aware individuals who had to 'turn down' awareness to avoid psychic overload. Not deficit - defense against excess.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PR-018",
+    "domain": "PHILOSOPHY OF RELIGION",
+    "paperTitle": "The Devil as European Projection - Not in Hebrew Bible",
+    "content": "Modern concept of 'the Devil' is not rooted in Hebrew Bible but product of centuries of mistranslation, theological reinterpretation, and cultural projection by European Christianity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-028",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Instantaneous vs. Non-Instantaneous Variables in Macroeconomics",
+    "content": "Macroeconomic policy often vitiated by conceptual confusion: belief that instantaneous variables (prices) can be straightforwardly read off non-instantaneous variables (GDP over year). Category error with policy consequences.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-029",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Two Kinds of Disciplines and Birth of Third (AI)",
+    "content": "Disciplines historically fall into two categories by directionality: mind-to-matter (physics, engineering - substrate is math) and mind-to-mind (psychology, sociology - substrate is philosophy). AI is hybrid third kind.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-030",
+    "domain": "PHILOSOPHY OF SCIENCE",
+    "paperTitle": "Economics Should Be Philosophy-Based Not Math-Based",
+    "content": "Economics sits uncomfortably trying to be crisp/quantitative/law-like but true nature is cognitive phenomena (beliefs, expectations, utility, strategy). Substrate should be philosophy not math.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-092",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Zen as Ultra-Authoritarianism",
+    "content": "Zen is not liberation from authority but authoritarianism perfected - dissolution of ego in service of obedience to structure and ritual stripped of justification",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-093",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Zen as Scam - The Koan as Psychological Battering Ram",
+    "content": "Zen koans are not mind-openers but psychological battering rams designed to collapse cognition and annihilate resistance. Satori is not awakening but the moment resistance stops.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-094",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Zen Functions Oppositely in East vs West",
+    "content": "Zen serves radically different functions depending on cultural context: maximal collectivism in East Asia, maximal individualism in the West",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-095",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Rawlsian Proceduralism as Civilizational Suicide",
+    "content": "When Western civilization accepted proceduralism as its moral core, it signed its own death warrant. Proceduralism is elegant and scalable but dead inside - offering no conception of the good, only fairness.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-096",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "In Democracy, Virtue Equals Bureaucracy",
+    "content": "In procedural democracy, the only officially virtuous behavior is compliance with procedure. All other moral traits - courage, principle, loyalty - have no legal standing.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-097",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Democratic Systems Embody No Affirmative Morality",
+    "content": "Pure democracy has no built-in conception of the good life - it is procedural mechanism, not moral framework. Meaningless systems are weak systems.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-098",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Proceduralism Makes Justice Expensive and Unattainable",
+    "content": "Modern legal proceduralism transforms courtroom into stage for gamesmanship where justice depends on resources, not truth. Truth matters only if successfully formatted and introduced through proper channels.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-099",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Proceduralism is About Safety for Judge, Not Justice for Accused",
+    "content": "Lawyers and judges love proceduralism because it keeps them physically safe by dissipating rage through abstraction, not because it produces justice.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-100",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Proceduralism Makes System More Punitive, Not Less",
+    "content": "More proceduralist a legal system becomes, harsher its punishments - because when system finally proves guilt after vaulting labyrinth of hurdles, it throws the book at offender.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-101",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Proceduralism Probably Doesn't Lower Crime",
+    "content": "Despite theory that procedural justice creates legitimacy reducing crime, US (most proceduralist system) has highest incarceration rate in developed world - suggesting proceduralism doesn't work as advertised.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-102",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "There Are No Laws - Only a Legal System",
+    "content": "Laws as objective, fairly-applied rules don't exist. What exists is a legal system - powerful and coercive, but outcomes depend on lawyer skill, resources, relationships, not 'the law'.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-103",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Every Procedural System Needs Moral Override",
+    "content": "Purely procedural system will always fail because no rule set can account for every situation. Must include 'manual override clause' - structural way to be human when rules produce monstrosity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-104",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Need for Evidentiary Override in Legal Systems",
+    "content": "Legal systems need evidentiary override - formal recognition that truth sometimes appears out of order and innocence must not be overruled by filing error.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-105",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "How to Build Scalable Legal System With Moral Override",
+    "content": "Can design legal system that is scalable, predictable, commercially functional AND capable of recognizing when rules lead to absurd outcomes through three-layer architecture.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-106",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Law School Makes You Dumber",
+    "content": "Legal education doesn't sharpen intellect - it blunts it. Doesn't cultivate truth-seeking - it conditions obedience. Is system designed to cripple independent judgment while masquerading as rigorous reasoning.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-107",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Lawyers Are Cognitively Crippled on Facts",
+    "content": "Lawyers are clueless about facts not because stupid but because legal system is entirely proceduralist - trains them to follow procedure, not discover truth.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-108",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Circumscribed Psychopathy as Byproduct of Proceduralism",
+    "content": "Lawyers display circumscribed psychopathy - not because evil but because system demands mind that can ignore reality when procedurally inconvenient.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-109",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Cognitive Homology Between Mafiosi and Lawyers",
+    "content": "Mafiosi and lawyers undergo same cognitive mechanism - deliberate suppression of basic human drives. Mafioso suppresses empathy, lawyer suppresses truth-seeking. Same brain mechanisms.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-110",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Liberalism as Feminine and Therefore Doomed",
+    "content": "Liberalism is fundamentally feminine archetype - grounded in dependency, seeking harmony not greatness. Its highest value is peace, not transcendence. This makes it unable to withstand rejection or opposition.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-111",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Liberalism and Libertarianism as Privative Doctrines",
+    "content": "Both liberalism and libertarianism are privative - define by what they are NOT. Mistake absence of violence for presence of virtue. Both hollow twins that clear path for those who want something.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-112",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Libertarianism's False Affirmation: Darwinism in Place of Telos",
+    "content": "Libertarianism smuggles in affirmative telos while claiming to have none - believes removing state unleashes Darwinian arena producing greatness. Markets are moral battlegrounds that will refine humanity.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-113",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Libertarianism as Trojan Horse for Capital",
+    "content": "Libertarianism bankrolled by big capital to moralize dismantling of oversight. Real beneficiaries not individual entrepreneurs but multinationals, megabanks, billionaire investors. Foot soldiers sold fantasy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-114",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Trickle-Down Darwinism: Selling Gods to Fools",
+    "content": "Trickle-down economics is theological promise for libertarians: let market reign and you shall ascend. But wealth doesn't trickle, it coagulates. Libertarian foot soldiers serve Mammon thinking they'll become gods.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-115",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Soviet Union Gave American Proceduralism Undeserved Legitimacy",
+    "content": "American proceduralism looked like moral clarity only because framed against Soviet totalitarianism. Once USSR fell, Americans saw system in isolation - procedure without purpose - and patriotism declined.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-116",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "When Procedures Replace Purpose: Iron Cage Analysis",
+    "content": "Proceduralism's promise of neutrality masks paradox: by refusing to endorse substantive virtues, implicitly elevates market logic as default metric of worth. Creates culture of castrated thinking.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-117",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Rawls vs. Stalin: Veil of Ignorance Assumes Moral Sameness",
+    "content": "Rawls's veil of ignorance only works if everyone behind veil is basically like Rawls - liberal, mild, procedurally minded, risk-averse. Moment you introduce adversarial moral asymmetry (Stalin), framework collapses.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-118",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Rawlsian Proceduralism Leads to 'No Right to Exist' Position",
+    "content": "Logical extreme of consent-based Rawlsian ethics: people don't have right to exist because they didn't consent to existence. Under fully proceduralist morality, even existence ethically suspect.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-031",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "Mafiosos and Cops Gain Cognitive Edge from Clarity About Human Nature",
+    "content": "Mafiosos and cops exhibit sharpness within their domains because they have clarity about human nature. Cannot afford to assume best in people - survival depends on assuming base motives.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-032",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "Why Dictators Wear Tunics",
+    "content": "Dictators wear tunics because tunic is visual embodiment of psychological regime - declares control, not seduction. Anti-relational sexuality of domination without seduction.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-033",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "'Gifted Child' as Mother's Proxy Narcissism",
+    "content": "'Gifted child' label is mother's proxy narcissism filling void in her life. Child becomes identity, status marker, proof that she matters. Often occurs in father's absence.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-034",
+    "domain": "PSYCHOLOGY",
+    "paperTitle": "New Meaning of 'Developer' - From Implementer to Idea Person",
+    "content": "Word 'developer' shifting meaning - from person who writes code to bring someone else's idea to life, to idea person who can build it themselves using no-code/AI tools.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION (2025)",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-028",
+    "domain": "AESTHETICS",
+    "paperTitle": "Star Wars as Jungian Dreamscape",
+    "content": "Star Wars (1977) is not space opera but Jungian dreamscape - every frame steeped in archetype, guided by mythic structure, powered by psychological machinery Jung mapped. About soul, not space.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-029",
+    "domain": "AESTHETICS",
+    "paperTitle": "Star Trek's Psychological Symmetry as Source of Durability",
+    "content": "Star Trek's brilliance isn't stories but psychological symmetry: id pushes for passion, superego demands restraint, ego must choose/balance/synthesize/act. Each episode is microcosm of self in conflict.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-030",
+    "domain": "AESTHETICS",
+    "paperTitle": "Satire Fails Without Systems Understanding",
+    "content": "Literary satire falls apart if you don't understand the system you're mocking. Writers like Lewis portray middle-class work as absurd without understanding capital flows, risk underwriting, legal frameworks, infrastructure coordination.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-031",
+    "domain": "AESTHETICS",
+    "paperTitle": "The Babbitt Problem: Mocking Components as Clowns",
+    "content": "Babbitt may be windbag but he occupies place in real machinery of civilization - helps allocate space, facilitates growth, is node in economic network. Lewis doesn't see this because he never bothers. To him Babbitt is type not participant, clown not component.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-032",
+    "domain": "AESTHETICS",
+    "paperTitle": "The Frank Burns Problem: Mocking the Machinery That Makes Everything Possible",
+    "content": "Hawkeye mocks Frank Burns, but Burns follows procedure and keeps system running. Hawkeye mocks the machinery, but it's the machinery that makes surgery possible. Satire without respect equals superficiality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-033",
+    "domain": "AESTHETICS",
+    "paperTitle": "Snobbery as Epistemological Vice",
+    "content": "Snobbery is not just social vice but epistemological one - a kind of built-in blindness. Lewis's portrayal of Babbitt suffers from defensiveness dressed up as superiority, presumption of guilt that ruins ability to see clearly.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-034",
+    "domain": "AESTHETICS",
+    "paperTitle": "The Anthropologist Analogy for Bad Satire",
+    "content": "Imagine anthropologist who despises tribe he's meant to observe - thinks rituals stupid, beliefs primitive. Maybe feels threatened by their strength, cohesion, joy, so adopts supercilious posture. How much will he learn? Nothing. His fieldwork is already over.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-035",
+    "domain": "AESTHETICS",
+    "paperTitle": "Bach's Music as Engineering Not Just Expression",
+    "content": "Bach's music isn't just expressive but engineered - in same sense as suspension bridge or cathedral. His fugues and chorales are systems: harmonic architectures, counterpunctual machines, vaults of sound built with structural intelligence and terrifying precision. This IS German engineering in musical form.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "AE-036",
+    "domain": "AESTHETICS",
+    "paperTitle": "Music as Intelligible Emotion - Soul Through System",
+    "content": "Music at its best is intelligible emotion - emotion made knowable through form. What happens when human feeling is passed through filter of logic, structure, constraint and transformed into something enduring. Emotion is energy, structure is geometry, music is fusion.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-151",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "EMH 'Priced In' as Unfalsifiable Tautology",
+    "content": "EMH's concept of 'priced in' is logically circular: if price moves, information was priced in; if price doesn't move, information was already priced in. This makes EMH immune to contradiction but also immune to usefulness.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-152",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "EMH Collapses Signal-Noise Distinction",
+    "content": "Under semi-strong and strong EMH, 'information' includes sentiment, rumors, trends, tweets, collective mood - leading to inversion where 'whatever drives prices is, by definition, information', collapsing distinction between signal and noise.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-153",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "EMH as Theology of Price Not Theory of Value",
+    "content": "EMH is theology of price - inviting trust in markets because everything is priced in. It confuses knowledge with movement, rationality with reaction, truth with trend, turning 'pricing in' from useful heuristic into circular article of faith.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-154",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Reverse Brain Engineering as New Epistemic Modality",
+    "content": "Building AI systems that approximate human cognition is not merely technical feat but fundamentally new way of knowing - a reflexive, co-constructive epistemic loop between creator and creation that transcends deduction, induction, and abduction.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-155",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI as Epistemic Partner Not Amplifier",
+    "content": "Unlike telescope or particle accelerator (epistemic amplifiers that strengthen senses), AI systems theorize back. They embody theories in dynamic unfolding way, forcing us to confront limitations of our own cognition, intuitions, philosophical assumptions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-156",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Recursive Co-Modeling as New Form of Knowledge Generation",
+    "content": "Reverse brain engineering is recursive co-modeling - dialogical process where line between subject and object, knower and known, begins to blur. When we build artificial minds that help us understand our own, we create mirrors that talk back.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-157",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "AI Development as Epistemological Turning Point",
+    "content": "Just as writing changed not just what we knew but how we knew, construction of artificial minds marks turning point in epistemology. We're no longer simply thinking about mind - we're thinking with it in new synthetic form.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-158",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "When Model Becomes Reality: Metaphysical Violence",
+    "content": "When economists attempt to predict or restructure alien economies using only their own conceptual vocabulary, they aren't doing science - they're doing metaphysical violence. Converting world into format their models can digest, discarding everything else as noise.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "EP-159",
+    "domain": "EPISTEMOLOGY",
+    "paperTitle": "Humility vs Equations in Understanding Alien Systems",
+    "content": "If you want to understand a society, must allow it to remain strange - see its economy as living form of life not market-in-waiting. Takes humility, not equations. Without humility, economic theory isn't tool but colonizer with calculator.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HI-018",
+    "domain": "HISTORY AND CIVILIZATION",
+    "paperTitle": "Structural Music Emerges Only in Civilizations with Engineering/Logic",
+    "content": "We don't get music of enduring formal complexity in cultures lacking corollary in engineering, architecture, mathematics, or theology-as-logic. Wherever civilization has deep commitment to structure, it gives rise to music reflecting that commitment.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "HI-019",
+    "domain": "HISTORY AND CIVILIZATION",
+    "paperTitle": "Music as Civilizational Diagnostic",
+    "content": "If you want to know where a civilization stands, don't look at its politics - look at its music. Music reveals whether civilization has structure, logic, theology, engineering, or has collapsed into formless expression.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-065",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Minds as High-Order Counter-Entropic Systems",
+    "content": "Minds are not metaphysical mysteries but thermodynamic marvels - the most structured counter-entropic systems known, capable of storing information, making predictions, and engineering further counter-entropy.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-066",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "AI as Engineered Counter-Entropic System",
+    "content": "AI represents a third kind of discipline - one that builds counter-entropy. Neural networks and large language models are designed to self-organize, self-correct, and self-model, creating artificial systems that push back against entropy in novel, non-biological ways.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-067",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Hero's Journey as Individuation Map",
+    "content": "Jung's individuation (integration of all aspects of self: conscious, unconscious, shadow, anima/animus) is what hero's journey really maps - not story template but internal transformation.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-068",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Darth Vader as The Shadow",
+    "content": "In Jungian terms, Vader represents the Shadow - the denied, repressed, projected part of self that is powerful, dangerous, and essential. He is the unclaimed part of Luke - what Luke could become if he gives in to power without balance.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-069",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "The Force as Collective Unconscious",
+    "content": "The Force is Jungian metaphor: impersonal, morally ambiguous, accessible through intuition, binding everything transcending language. It's deep substrate of shared symbolic life, not God or science.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-070",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Star Trek as Freudian Psychic Diagram",
+    "content": "Star Trek: TOS wasn't just sci-fi but psychological diagram - Kirk/Spock/McCoy map exactly onto Freud's ego/superego/id and his three libidinal character types (narcissist/obsessional/libidinal).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-071",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Kirk as Ego - Mediator Between Impulse and Restraint",
+    "content": "Kirk embodies Freudian ego and narcissist type: brash, confident, improvisational, making decisions and taking responsibility. He navigates between Spock's logic and McCoy's sentiment, integrating and synthesizing to act.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-072",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "Spock as Superego - Harshest Internal Judge",
+    "content": "Spock is superego embodied: reason, logic, restraint through repression of human half. He's obsessional character - intellectual, self-disciplined, defending against emotion. Embodies Freud's observation that superego is harshest judge of self.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PM-073",
+    "domain": "PHILOSOPHY OF MIND",
+    "paperTitle": "McCoy as Id - Voice of Passion and Body",
+    "content": "McCoy is not primitive brute but voice of passion, outrage, care, body - the libidinal type and structural id. He expresses energy, anger, yearning that others (especially Spock) suppress.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-119",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Cultural Hollowness Laments as Status Anxiety",
+    "content": "When writers lament 'the hollowness of our times' (Eliot, Sartre, Camus, anti-capitalist intellectuals), they're not describing historical condition but their own status anxiety - they feel displaced by mass culture, new money, technology, change.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-120",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Snobbery as Performance of Half-Safe Position",
+    "content": "Snobbery is something junior people do to impress senior people - 'please like me' disguised as 'I am above you.' It's the culture of the half-safe. When you're actually fighting for your life, you have no bandwidth for class-posturing.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-121",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Status Anxiety Disguised as Historical Diagnosis",
+    "content": "Hollowness these writers see in world is really just echo of their own fading status. Their 'diagnosis' is job interview disguised as cultural criticism.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-122",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Freud's Misreading of American Vitality as Spiritual Hollowness",
+    "content": "Freud treated American vitality (efficiency, productivity, optimism) as mask for decay rather than different mode of health. He had no serious understanding of how economies work and couldn't see that 'hollowness' was actually mass coordination, energy management, risk absorption at unprecedented scale.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-123",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "American Aspiration vs European Repression as Different Health Modes",
+    "content": "Freud believed psychic health came from facing darkness. America was full of people building rather than brooding. For Freud this looked like evasion. But maybe it was civilization powered not by repression but by aspiration.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-124",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Appeals Process as Ritual Audit Not Truth-Seeking",
+    "content": "Appeals courts don't ask 'Was justice done?' but 'Were the rules followed?' They evaluate procedural/legal errors, not actual innocence. Legal system views trial as ritual and appellate process as ritual audit - concern is whether form was maintained, not whether defendant is innocent or guilty.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PP-125",
+    "domain": "POLITICAL PHILOSOPHY",
+    "paperTitle": "Scalia and Rawlsian Proceduralism: Fairness in Structure is Enough",
+    "content": "Legal system embodies belief that fairness in structure is enough - if the system was followed, justice has been done. This is not only wrong in theory but devastating in practice, allowing innocent to be imprisoned while courts say 'paperwork was in order.'",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-035",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Fundamental Division in Science: Entropic vs Counter-Entropic Systems",
+    "content": "The fundamental division in science is not between mental and physical, but between entropic systems (that degrade toward disorder) and counter-entropic systems (that build and maintain structure).",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-036",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Economics Misplaced as Entropic Science",
+    "content": "Economics deals with expectations, preferences, beliefs, and strategy (counter-entropic systems) but attempts to align itself with physics, producing models that are impressive in form but brittle in content because they model minds, not falling bodies.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-037",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "𝜉 (Xi) Metric: Price-Fundamental Correlation in Equities",
+    "content": "Introduced proprietary metric 𝜉 (xi) measuring statistical degree to which changes in price correlate with changes in company fundamentals. For large-cap equities, 𝜉 is effectively zero - prices move independently of economic reality.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-038",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Large-Cap Price Decoupling from Fundamentals",
+    "content": "Large-cap stock prices can rise or fall independently of any measurable change in core economic reality. Fundamental information becomes lagging background noise in markets dominated by order book dynamics, momentum patterns, and algorithmic traders.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-039",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Why Small and Mid-Cap Show Higher 𝜉",
+    "content": "Smaller firms exhibit modestly higher 𝜉 because: (1) reduced algorithmic saturation, (2) greater transparency of fundamentals, (3) lower narrative interference, (4) analyst neglect paradox allows real performance to move price.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-040",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Markets Price Second-Order Beliefs Not Value",
+    "content": "When 𝜉 is low, price reflects second-order beliefs (beliefs about what others believe) rather than about what is true. This reflexivity feeds a feedback loop in which narrative and structure supplant content.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-041",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Stocks as Claims on Imagined Futures Not Intrinsic Utility",
+    "content": "Unlike commodities with intrinsic utility (wheat, copper), stocks are claims on imagined futures with no intrinsic use, only expectations. Their price depends on mood, narrative, and belief - making them more like luxury goods than commodities.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-042",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "OCD as Adaptive Machinery in Overdrive",
+    "content": "OCD is not just pathology but adaptive machinery pushed into overdrive. Built from traits that in right amounts helped ancestors survive: error detection, threat anticipation, long-range consequence modeling, rule-following, mental rehearsal, moral self-monitoring.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-043",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "OCD Prototype in Prehistoric Context",
+    "content": "50,000 years ago in tight-knit band, someone who double-checked perimeter, insisted on ritual cleanliness, mentally simulated threats repeatedly, felt guilty after minor transgressions might have been liability in some ways but godsend in others - especially if compulsions aligned with group needs.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-044",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "OCD as Misapplied Boundary-Maintenance System",
+    "content": "In modern abstract, crowded, digital world, machinery that maintained physical/moral boundaries has no natural object. So turns inward, fixates on trivialities, creates imagined scenarios to defuse through ritual. System isn't broken - it's misapplied, doing its job too well in wrong context.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-045",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "OCD as Sacred Function Misfiring",
+    "content": "You don't get OCD from nowhere - you get it from same architecture that in another life might have made you priest, scout, healer, watchman. Pain is real but mind isn't broken - it's just tuned for world that no longer exists.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-046",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Economics Not Self-Contained Predictive System",
+    "content": "Economics is not self-contained system that can predict itself. It's downstream of culture, politics, religion, personality, invention. Charismatic leader can redirect nation's economy in week. War, famine, singularity make mockery of best economic models. These events aren't noise - they're constitutive.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-047",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Economics vs Biology: Probabilistic vs Non-Self-Predictive",
+    "content": "Biology is probabilistic but not arbitrary - state variables constrain future through non-random mechanisms. Economics not even robustly probabilistic. System never was self-predictive to begin with. Not that it's sound but occasionally disrupted - it's that it was never self-predictive.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-048",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Inca Example: Economics Records But Doesn't Explain Non-Economic Systems",
+    "content": "To predict Inca behavior in 1457, look at 1456 rituals, laws, cosmic beliefs, cosmological metaphors - not marginal utility curves. Economics may record food stores and track trade but won't tell why workers redeployed to sacred site, surplus burned instead of stored, labor restructured to appease eclipse.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-049",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Serial Killerdom as Specific Cognitive-Behavioral Protocol",
+    "content": "Serial murder is not random violence but premeditated, patterned, highly stylized behavior with limited recurring types (organized/disorganized, visionary/hedonistic, power/mission-oriented). This taxonomic stability suggests it's specific cognitive-behavioral protocol, not generic trauma response.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-050",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Serial Killerdom Not Modern Invention But Modern Category",
+    "content": "Serial murder has long existed (Gilles de Rais, Elizabeth Báthory, slaughtering priests of empires). What's new isn't behavior but recognition as distinct category - product of modern bureaucratic state with tools to track, name, mythologize recurring patterns.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-051",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Trauma as Trigger Not Cause of Serial Killing",
+    "content": "Many serial killers had disturbing upbringings but 'trauma = serial killer' doesn't track. Most abuse victims don't become serial murderers. Some notorious killers didn't experience abuse exceeding ordinary dysfunction. Trauma is trigger sparking very particular pre-existing architecture.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-052",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Serial Killerdom as Evolutionary Spandrel or Vestigial Adaptation",
+    "content": "If behavior is specific, structured, eerily reproducible, must ask where it came from. Evolution repurposes, mutates, experiments with hyper-specialists. Serial killerdom perhaps: spandrel (byproduct of adaptive features), vestigial adaptation, or extreme failure mode of modules serving critical social functions.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-053",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Serial Killers as Overclocked Predator Mode",
+    "content": "What sets serial killers apart isn't violence but method: they stalk, hunt, blend in, mimic normal social behavior with chilling precision. Not moral deformity but overactivation of predator mode made grotesque by misfiring reward circuits and unregulated internal narratives.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-054",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Economic Theory as Intellectual Colonization",
+    "content": "When Western-trained economist attempts to manage non-Western economy, doesn't observe or listen but immediately translates: 'What's your interest rate? Marginal productivity? Utility function?' None make sense in native conceptual world, but economist is there to re-code not learn.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "PS-055",
+    "domain": "PSYCHOLOGY AND SCIENCE",
+    "paperTitle": "Flattening Sacred into Economic Data",
+    "content": "Incan administrator describes labor system organized around sacred seasons, familial debt, reciprocal land stewardship. Economist replies: 'Ah yes, non-monetary kinship-based tax structure with redistributive efficiency function.' But that's not what it is - that's just bad translation. The ritual is no longer ritual, sacred no longer sacred.",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "LANG-004",
+    "domain": "PHILOSOPHY OF LANGUAGE",
+    "paperTitle": "Direct Referentialism for Definite Descriptions",
+    "content": "Descriptions refer directly but communicate Russellian propositions",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  },
+  {
+    "positionId": "METHOD-003",
+    "domain": "METHODOLOGY",
+    "paperTitle": "Concrete Examples Before Abstract Principles",
+    "content": "Use concrete examples to motivate and illustrate abstract philosophical positions",
+    "author": "J.-M. Kuczynski",
+    "figureId": "common",
+    "sourceWork": "BLOG ESSAYS COLLECTION - SET 2",
+    "chunkIndex": 0
+  }
+]

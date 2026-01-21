@@ -1,0 +1,216 @@
+# ANALYTIC PHILOSOPHY - DATABASE SCHEMA BLUEPRINT
+# Generated for LLM context sharing
+
+================================================================================
+                              DATABASE TABLES
+================================================================================
+
+## POSITIONS (structured philosophical positions with embeddings)
+  id            varchar PK
+  thinker       text NOT NULL
+  topic         text
+  position_text text NOT NULL
+  source_text_id varchar
+  embedding     vector(1536)
+  search_vector text
+  created_at    timestamp
+
+## QUOTES (direct quotations with embeddings)
+  id            varchar PK
+  thinker       text NOT NULL
+  quote_text    text NOT NULL
+  topic         text
+  source_text_id varchar
+  embedding     vector(1536)
+  search_vector text
+  created_at    timestamp
+
+## CHUNKS (full text chunks from complete works - actual table in DB)
+  id            varchar PK
+  thinker       text NOT NULL
+  chunk_text    text NOT NULL
+  source_file   text
+  chunk_index   int
+  embedding     vector(1536)
+  created_at    timestamp
+
+## TEXT_CHUNKS (alternate chunk storage)
+  id            varchar PK (uuid)
+  thinker       text NOT NULL
+  source_file   text NOT NULL
+  chunk_text    text NOT NULL
+  chunk_index   int NOT NULL
+  created_at    timestamp
+  UNIQUE(thinker, source_file, chunk_index)
+
+## PAPER_CHUNKS (academic paper sections with embeddings)
+  id            varchar PK (uuid)
+  figure_id     varchar FK→figures NOT NULL
+  author        text NOT NULL
+  paper_title   text NOT NULL
+  content       text NOT NULL
+  embedding     vector(1536)
+  chunk_index   int NOT NULL
+  position_id   text (optional - for DB v25 positions)
+  domain        text (optional)
+  philosophical_engagements jsonb (optional)
+  source_work   text (optional)
+  significance  text (optional)
+  created_at    timestamp
+  UNIQUE(figure_id, paper_title, chunk_index)
+
+## ARGUMENT_STATEMENTS (structured philosophical arguments)
+  id            varchar PK (uuid)
+  thinker       text NOT NULL
+  argument_type text NOT NULL (deductive/causal/definitional/analogical/reductio/inductive)
+  premises      jsonb NOT NULL (string[])
+  conclusion    text NOT NULL
+  source_section text
+  source_document text
+  importance    int NOT NULL DEFAULT 5 (1-10)
+  counterarguments jsonb (string[])
+  embedding     vector(1536)
+  created_at    timestamp
+
+## FIGURES (philosopher metadata and system prompts)
+  id            varchar PK
+  name          text NOT NULL
+  title         text NOT NULL
+  description   text NOT NULL
+  icon          text NOT NULL
+  system_prompt text NOT NULL
+  sort_order    int NOT NULL
+  created_at    timestamp
+
+## USERS
+  id            varchar PK (uuid)
+  username      varchar UNIQUE
+  email         varchar UNIQUE
+  first_name    varchar
+  last_name     varchar
+  profile_image_url varchar
+  created_at    timestamp
+  updated_at    timestamp
+
+## PERSONA_SETTINGS
+  user_id       varchar PK FK→users
+  response_length int NOT NULL DEFAULT 1000
+  write_paper   bool NOT NULL DEFAULT false
+  quote_frequency int NOT NULL DEFAULT 10
+  selected_model text NOT NULL DEFAULT 'zhi1'
+  enhanced_mode bool NOT NULL DEFAULT true
+  dialogue_mode bool NOT NULL DEFAULT false
+
+## CONVERSATIONS
+  id            varchar PK (uuid)
+  user_id       varchar FK→users NOT NULL
+  title         text
+  created_at    timestamp
+
+## MESSAGES
+  id            varchar PK (uuid)
+  conversation_id varchar FK→conversations NOT NULL
+  role          text NOT NULL
+  content       text NOT NULL
+  created_at    timestamp
+
+## FIGURE_CONVERSATIONS
+  id            varchar PK (uuid)
+  user_id       varchar FK→users NOT NULL
+  figure_id     varchar FK→figures NOT NULL
+  created_at    timestamp
+
+## FIGURE_MESSAGES
+  id            varchar PK (uuid)
+  conversation_id varchar FK→figure_conversations NOT NULL
+  role          text NOT NULL
+  content       text NOT NULL
+  created_at    timestamp
+
+## TEXTS (complete works storage)
+  id            varchar PK
+  thinker       text NOT NULL
+  title         text
+  source_file   text
+  content       text
+  created_at    timestamp
+
+## AUXILIARY (works by authors not on site - Gauss, Shakespeare, etc.)
+  id            int PK
+  author        text NOT NULL
+  content       text NOT NULL
+  source        text
+  topic         text
+  created_at    timestamp
+
+## THINKER_POSITIONS (curated position statements)
+  id            varchar PK (uuid)
+  thinker_id    varchar NOT NULL
+  thinker_name  varchar NOT NULL
+  position      text NOT NULL
+  source        varchar
+  topic         varchar
+  category      varchar
+  created_at    timestamp
+
+## THINKER_QUOTES (authentic quotes for quote generator)
+  id            varchar PK (uuid)
+  thinker_id    text NOT NULL
+  thinker_name  text NOT NULL
+  quote         text NOT NULL
+  topic         text
+  source        text
+  created_at    timestamp
+  UNIQUE(thinker_id, quote)
+
+## GOALS
+  id            varchar PK (uuid)
+  user_id       varchar FK→users NOT NULL
+  text          text NOT NULL
+  created_at    timestamp
+
+## SESSIONS (Replit Auth session storage)
+  sid           varchar PK
+  sess          jsonb NOT NULL
+  expire        timestamp NOT NULL
+
+================================================================================
+                           KEY RELATIONSHIPS
+================================================================================
+
+users → persona_settings (1:1)
+users → goals (1:many)
+users → conversations (1:many)
+users → figure_conversations (1:many)
+conversations → messages (1:many)
+figure_conversations → figure_messages (1:many)
+figures → figure_conversations (1:many)
+figures → paper_chunks (1:many)
+
+================================================================================
+                              INDEXES
+================================================================================
+
+positions: thinker_idx
+quotes: thinker_idx
+paper_chunks: figure_idx, author_idx, position_idx, domain_idx
+argument_statements: thinker_idx, type_idx, importance_idx
+text_chunks: thinker_idx
+texts: thinker_idx
+auxiliary: author_idx
+thinker_positions: thinker_idx, topic_idx, category_idx
+thinker_quotes: thinker_idx, topic_idx
+sessions: expire_idx
+
+================================================================================
+                           VECTOR EMBEDDINGS
+================================================================================
+
+Tables with vector(1536) embeddings for semantic search:
+- positions.embedding
+- quotes.embedding
+- paper_chunks.embedding
+- argument_statements.embedding
+- chunks.embedding (in actual DB)
+
+All embeddings use OpenAI text-embedding-ada-002 (1536 dimensions)

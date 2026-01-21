@@ -1,0 +1,946 @@
+
+
+
+
+
+analyticphilosophy.net
+
+
+
+Access
+
+Share
+
+Republish
+
+
+Files
+
+
+
+Commands
+Search
+
+
+
+/
+
+
+
+Theme
+
+Docs
+
+New Secret
+Secrets are accessible to anyone who has access to this App. To restrict secret access, you must update App invite permissions. For more information, visit our documentation.
+
+
+SESSION_SECRET
+
+••••••••
+
+
+
+DATABASE_URL
+
+••••••••
+
+
+
+PGDATABASE
+
+••••••••
+
+
+
+PGHOST
+
+••••••••
+
+
+
+PGPORT
+
+••••••••
+
+
+
+PGUSER
+
+••••••••
+
+
+
+PGPASSWORD
+
+••••••••
+
+
+
+ZHI_PRIVATE_KEY
+
+••••••••
+
+
+
+ANTHROPIC_API_KEY
+
+••••••••
+
+
+
+AZURE_SPEECH_KEY
+
+••••••••
+
+
+
+AZURE_SPEECH_REGION
+
+••••••••
+
+
+
+NEON_DATABASE_URL
+
+••••••••
+
+
+
+OPENAI_API_KEY
+
+••••••••
+
+
+
+XAI_API_KEY
+
+••••••••
+
+
+
+Edit as JSON
+
+Edit as .env
+
+Overview
+
+Logs
+
+Analytics
+
+Resources
+
+Domains
+
+Manage
+
+Republish
+
+Advanced settings
+
+Run security scan
+Production
+Status
+johnmichaelkucz published 17 days ago
+
+Visibility
+Private
+Domain
+https://analyticphilosophynet-johnmichaelkucz.replit.app
+
+
+Type
+Autoscale
+(4 vCPU / 8 GiB RAM / 3 Max)
+See all usage
+Database
+Production database connected
+Your production database is ready! Your app can now save and manage live user data securely.
+2eef52aa
+JO
+
+johnmichaelkucz
+johnmichaelkucz
+published about 1 month ago
+
+npm run dev
+
+Ask Agent…
+2m
+ • 
+3 minutes ago
+
+
+~/workspace
+: 
+bash
+
+
+
+Enable "Accessible Terminal" in Workspace Settings to use a screen reader with the shell.
+
+Add 100 position statements from Kuczynski's "What Are Propositions and What Is Truth?"
+
+
+
+Show previous events
+
+3 messages & 14 actions
+I see the issue. Let me check how the figure chat endpoint handles RAG for philosophers like Jung:
+Checkpoint made
+1 day ago
+Add Jung and Aesop to author mappings for accurate retrieval
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE JUNG POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 14 actions
+More Jung positions! Let me read the full file and embed these additional works:
+Checkpoint made
+1 day ago
+Add extensive new position statements from Jung's collected works
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE JUNG POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 13 actions
+More Jung positions! Let me read the full file:
+Checkpoint made
+1 day ago
+Add extensive position statements for Jung and Galileo
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+GALILEO POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 14 actions
+Galileo position statements! Let me read the full file and embed these:
+Checkpoint made
+1 day ago
+Add historical scientific positions from Galileo Galilei to the corpus
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+FOR EACH OF THE THINKERS ON THIS APP, I AM GOING TO GIVE YOU LISTS OF POSITION STATEMENTS THAT RELATE TO THEIR DISCIPLINE BUT THAT THE THINKER IN QUESTION MAY NOT HAVE KNOWN OF. FOR EXAMPLE, FOR GALILEO, I AM GOING TO GIVE YOU A LIST OF PHYSICS AND MATH DEVELOPMENTS THAT OCCURRED AFTER HE DIED BUT THAT ARE RELEVANT TO HIS WORK. DO YOU FOLLOW? HERE IS THE FIRST SUCH LIST: THIS IS FOR GALILEO. THIS IS A GALILEO-ADJACENT POSITION STATEMENT; AND I WILL BE PROVIDING YOU WITH MULTIPLE X-ADJACENT POSITION STATEENTS, WHRE X IS ANY THINKER ON THIS APP.
+
+1 day ago
+
+3 messages & 15 actions
+I understand completely! These are **X-ADJACENT** position statements - developments in a thinker's discipline that occurred AFTER their death. This allows Galileo (or any thinker) to engage with subsequent developments in physics, astronomy, and mathematics that built on or vindicated their work. Let me read the full file and embed these:
+Checkpoint made
+1 day ago
+Add Galileo's post-mortem scientific developments to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE GALILEO (ACTUAL GALILEO, NOT ADJACENT) POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 14 actions
+More actual Galileo positions! Let me read the full file and embed these:
+Checkpoint made
+1 day ago
+Add extensive Galileo physics and philosophy statements
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 3 minutes
+GALILEO POSITION STATEMENT
+
+1 day ago
+
+2 messages & 12 actions
+Galileo's Physics Discoveries - 106 detailed physics positions! Let me embed these:
+Checkpoint made
+1 day ago
+Add detailed positions on Galileo's physics discoveries to the corpus
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+NEWTON POSITION STATEMENT
+
+1 day ago
+
+4 messages & 25 actions
+Newton! A new thinker with 100 position statements. Let me add Newton to the system and embed these:
+Checkpoint made
+1 day ago
+Add Isaac Newton's foundational scientific and philosophical ideas to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+ANOTHER GALILEO POSITION STATEMENT (MAY BE REDUNANT)
+
+1 day ago
+
+2 messages & 3 actions
+This appears to be the **same 58 physics discoveries** I already embedded earlier - just with markdown formatting. Let me verify:
+Checkpoint made
+1 day ago
+Add Galileo's physics discoveries to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 27 seconds
+NEWTON POSITION STATEMENT (SOME REDUNANCY)
+
+1 day ago
+
+3 messages & 14 actions
+This has the same 100 positions already embedded, PLUS additional optics positions. Let me read the full file for the new content:
+Checkpoint made
+1 day ago
+Add 200 new positions on Isaac Newton's work and ideas
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+GOOD. NOTE PROGRESS
+
+1 day ago
+
+1 message & 6 actions
+**Progress noted in replit.md** ## Current RAG Database Status | Thinker | Positions | Works | |---------|-----------|-------| | Kuczynski | 23,256 | 205 | | Freud | 4,366 | 75 | | Leibniz | 3,195 | 17 | | Jung | 2,321 | 58 | | Plato | 1,510 | 36 | | Russell | 1,427 | 22 | | Spinoza | 810 | 13 | | Aristotle | 652 | 48 | | Galileo | 650 | 40 | | Newton | 300 | 3 | | Aesop | 108 | 2 | **Total: 38,595 positions across 519 works from 11 thinkers** Ready for more content!
+Checkpoint made
+1 day ago
+Update knowledge base with new philosophical content
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+KUCZYNSKI POSITION STATEMENT
+
+1 day ago
+
+4 messages & 18 actions
+New Kuczynski positions! Let me embed these:
+Checkpoint made
+1 day ago
+Add new Kuczynski positions on empiricism and epistemology
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+NIETZSCHE POSITION STATEMENTS
+
+1 day ago
+
+5 messages & 20 actions
+Nietzsche positions! Let me read the full file to see all works:
+Checkpoint made
+1 day ago
+Saved progress at the end of the loop
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+MORE KUCZYNSKI POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 14 actions
+More Kuczynski positions! This has the first 100 (already embedded) plus new content. Let me read the full file:
+Checkpoint made
+1 day ago
+Add more Kuczynski position statements on semantics and causation
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE KUCZYNSKI POSITION STATEMENTS
+
+1 day ago
+
+4 messages & 15 actions
+More Kuczynski positions! Let me read the full file:
+Checkpoint made
+1 day ago
+Add statements on Libet's experiment and consciousness
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 3 minutes
+MORE KUCZYNSKI POSITION STATEMENTS
+
+1 day ago
+
+3 messages & 12 actions
+Two more files! Let me embed both:
+Checkpoint made
+1 day ago
+Add more Kuczynski position statements on psychology and formal language
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE KUCZYNSKI POSITION STATEMENTS
+
+1 day ago
+
+4 messages & 14 actions
+More Kuczynski positions! Let me read the full file:
+Checkpoint made
+1 day ago
+Add more position statements on rationalization and self-deception
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+HERE IS AN ANSWER FROM KUCZYNSKI. SEVERAL ISSUES. FIRST, THIS IS NOT HIS STYLE. HE WRITES IN SHORT PARAGRAPHS WITH EXTREMELY WELL-DEFINED TOPIC SENTENCES. HE WRITES IN SHORT TO MEDIUM LENGTH PUNCHY SENTENCES. ALSO, THE CITATIONS, WHY THE FUCK DOES IT SAY "Mind, Meaning & Scientific Explanation 1762355363740"???????????? THAT LOOKS TERRIBLE. JUST MENTIONED THE WORK; NO NEED FOR PAGE NUMBER (OR WHATEVER THAT FUCKING STRING OF NUMBERS IS SUPPOSED TO REPRESENT).
+
+1 day ago
+
+7 messages & 28 actions
+I see the issues clearly: 1. **Writing style** - The response doesn't match Kuczynski's distinctive style (short paragraphs, punchy topic sentences) 2. **Citation format** - Showing ugly ID strings like "1762355363740" instead of just work titles Let me analyze the code to fix both issues:
+Checkpoint made
+1 day ago
+Improve citation formatting and enforce specific writing style
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 3 minutes
+MAKE SURE THAT ALL THE WRITERS ON HERE WRITE IN THAT WAY. THAT MAY OR MAY NOT BE THEIR STYLE; BUT I WANT THEIR VIEWS TO BE CLEAR AND READABLE. SO DON'T TRY TO WRITE LIKE NIETZSCHE/MARX/ETC. GIVE ALL OF THEM THE STYLE THEY WOULD HAVE HAD IF THEY WROTE CLEARLYK AND SUCCINCETLYK AND PROFESSIONALLY
+
+1 day ago
+
+3 messages & 13 actions
+Understood! All figures should write clearly and professionally - not mimicking archaic or stylized historical writing. Let me update the system prompts for all philosophers:
+Checkpoint made
+1 day ago
+Update writing style to enforce clarity and professionalism across all figures
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MUCH BETTER
+
+1 day ago
+
+1 message & 1 action
+Excellent! The writing style is now clear and professional across all philosophers. The key fixes: - **Short paragraphs** (2-4 sentences max) - **Punchy topic sentences** starting each paragraph - **Clean citations** (work title only, no ugly number strings) - **First person voice** throughout - **No archaic/stylized writing** - just clear, readable prose Ready for more position statements or any other improvements!
+Checkpoint made
+1 day ago
+Saved progress at the end of the loop
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 9 seconds
+BERKELEY POSITION STATEMENTS:
+
+10 hours ago
+
+6 messages & 20 actions
+Berkeley position statements! Let me read the full file:
+Checkpoint made
+10 hours ago
+Add George Berkeley's philosophical positions to the database
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+EMMA GOLDMAN POSITION STATEMENTS:
+
+9 hours ago
+
+4 messages & 19 actions
+Emma Goldman! Let me read the full file and embed all her positions:
+Checkpoint made
+9 hours ago
+Add Emma Goldman's position statements to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+WILLIAM JAMES POSITION STATEMENTS
+
+8 hours ago
+
+5 messages & 18 actions
+William James - massive corpus! Let me read the full file and embed all positions:
+Checkpoint made
+8 hours ago
+Add William James's philosophical positions to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 8 minutes
+LE BON POSITION STATEMENTS
+
+7 hours ago
+
+4 messages & 16 actions
+Gustave Le Bon - crowd psychology pioneer! Let me read the full file and embed all positions:
+Checkpoint made
+7 hours ago
+Add Gustave Le Bon's psychological positions to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+MORE JUNG POSITION STATEMENTS
+
+7 hours ago
+
+3 messages & 14 actions
+More Jung positions! Let me read the full file and embed all of them:
+Checkpoint made
+7 hours ago
+Add more writings and positions from Carl Jung
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE KUCZYNSKI POSITION STATEMENTS (FROM HIS BOOK "PARADOXES")
+
+7 hours ago
+
+2 messages & 12 actions
+Kuczynski's Paradoxes book! Let me embed all 111 positions:
+Checkpoint made
+7 hours ago
+Add 111 Kuczynski paradox positions to the database
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+MORE KUCZYNSKI POSITION STATEMENTS
+
+7 hours ago
+
+2 messages & 12 actions
+More Kuczynski - "Pragmatism: Epistemology Posing as Metaphysics"! Let me embed all 106 positions:
+Checkpoint made
+7 hours ago
+Add new insights into the nature of panic attacks and pragmatic philosophy
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+ANOTHER WORK BY KUCZYNSKI FOR DATABASE ALONG WITH POSITION STATEMENT FOR IT
+
+7 hours ago
+
+2 messages & 12 actions
+Kuczynski's "Panic Attacks Have an Objective Basis" - 53 positions! Let me embed them:
+Checkpoint made
+7 hours ago
+Add new details on the causes and nature of panic attacks
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+I WILL BE GIVING YOU POSITION STATEMENT FOR THINKERS (E.G. OTTO KERNBERG, ALBERT EINSTEIN) WHO ARE NOT EXPLICITLY REPRESNTED ON THIS SITE BUT WHOSE DATABASES I WANT FREUD /ZHI/JUNG TO BE ABLE TOA CCESS TO ENRICH THEIR ANSWERS. OK? I WIL START WITH KERNBERG:
+
+6 hours ago
+
+8 messages & 32 actions
+Got it! You want to add "auxiliary" thinkers whose positions can enrich answers from the main represented philosophers. Let me read the full Kernberg file and embed his positions:
+Checkpoint made
+6 hours ago
+Incorporate knowledge from auxiliary thinkers into search results
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 6 minutes
+KUCZYNSKI POSITION STATEMENTS ON CHOMSKY (PLUS ORIGINAL PAPER)
+
+5 hours ago
+
+2 messages & 12 actions
+Kuczynski on Chomsky - 38 positions! Let me embed them:
+Checkpoint made
+5 hours ago
+Add Kuczynski's statements on Chomsky and Reich's position statements
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+REICH POSITION STATEMENTS
+
+5 hours ago
+
+3 messages & 14 actions
+Wilhelm Reich position statements! Let me read the full file and embed them as an auxiliary thinker:
+Checkpoint made
+5 hours ago
+Add Wilhelm Reich's psychoanalytic theories to the knowledge base
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 7 minutes
+KUCZYNSKI POSITION STATEMENT WITH QUOTATIONS
+
+5 hours ago
+
+3 messages & 14 actions
+More Kuczynski on Pragmatism with quotations! Let me read the full file and embed:
+Checkpoint made
+5 hours ago
+Add detailed viewpoints on pragmatism and the nature of truth
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+POSITION STATEMENT FOR STEKEL (PSYCHOANALYST, CONTEMPORARY OF FREUD, EXPERT ON OCD)
+
+5 hours ago
+
+3 messages & 18 actions
+Stekel! Major psychoanalyst, expert on OCD. Let me read the full file and embed:
+Checkpoint made
+5 hours ago
+Add psychoanalyst Stekel's key positions on anxiety and dreams
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 4 minutes
+5 hours ago
+
+3 messages & 13 actions
+More Kuczynski on Neurosis vs Psychosis with quotes! Let me read the full file and embed:
+Checkpoint made
+5 hours ago
+Add Kuczynski's views on neurosis versus psychosis to the database
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+EDMUND BERGLER (PSYCHOANALYST) POSITION STATEMENTS
+
+4 hours ago
+
+4 messages & 16 actions
+Edmund Bergler! Major psychoanalyst known for oral masochism theory. Let me read the full file and embed:
+Checkpoint made
+4 hours ago
+Add psychoanalytic positions from Edmund Bergler's major works
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 4 minutes
+ARE YOU THERE?
+
+4 hours ago
+
+1 message & 1 action
+Yes, I'm here! Ready to continue embedding. **Current Status:** | Auxiliary Thinker | Positions | Works | |-------------------|-----------|-------| | Wilhelm Reich | 1,117 | 51 | | Edmund Bergler | 630 | 53
+Checkpoint made
+4 hours ago
+Add key philosophical positions from David Hume's major works
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 8 seconds
+4 hours ago
+
+3 messages & 15 actions
+David Hume! Major philosopher. Let me read the full file and embed:
+Checkpoint made
+4 hours ago
+Add key philosophical positions from David Hume's major works
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+ADD THIS WORK TO KUCZYNSKI WORKS. ALSO INCORPORATE CORRESPONDING POSITION STATEMENT
+
+4 hours ago
+
+8 messages & 26 actions
+Huge Kuczynski corpus! Let me read more of the position statements file and embed:
+Checkpoint made
+3 hours ago
+Saved progress at the end of the loop
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 33 minutes
+ADAM SMITH POSITION STATEMENTS
+
+3 hours ago
+
+3 messages & 15 actions
+Adam Smith! Let me read the full file and embed:
+Checkpoint made
+3 hours ago
+Add position statements from Adam Smith's major works
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+I WANT TO INTRODUCE A NEW FEATURE THAT WILL MAKE IT EASIER FOR USERS TO INTERFACE WITH THIS APP.
+FOR EACH THINKER, THE USER CAN, WITH A SINGLE CLICK OF A BUTTON, GET A LIST OF TOPICS THAT SAID
+THINKER KNOWS ABOUT, ALONG WITH A LIST OF QUESTIONS TO ASK THAT THINKER ABOUT THAT TOPIC. MOREOVER,
+EACH ENTRY WILL CLICKABLE: WHEN THE USER CLICKS ON A GIVEN TOPIC X, THERE WILL APPEAR (IN THE INPUT BOX FOR THAT THINKER)
+"TELL ME ABOUT X". SO, FOR EXAMPLE, IF X IS "THE DEDUCTIVE NOMOLOGICAL MODEL" (AND THE THINKER IS KUCZYNSKI), THEN, WHEN THE USER CLICKS
+"DEDUCTIVE NOMOLOGICAL MODEL", IT WILL SAY "TELL ME ABOUT DEDUCTIVE NOMOLOGICAL MODEL" IN THE USER INPUT BOX, AND THEN KUCZYNSKI WILL ANSWER SAME.
+AND IF USER CLICKS ON A GIVEN QUESTION (E.G. 'EXPLAIN WHY DEDUCTIVE NOMOLOGICAL MODEL IS VICIOUSLY CIRCULAR'), THE QUESTION WILL APPEAR IN INPUT BOX, AND
+THINKER (IN THIS CASE KUCZYNSKI) WILL GENERATE ANSWER. THIS WILL BE DONE FOR EACH OF THE THINKERS ON HERE; BUT WE WILLL START RIGHT NOW WITH KUCZYNSKI.
+TWWO THE TWO UPLOADS.
+
+3 hours ago
+
+12 messages & 45 actions
+Great feature idea! Let me read both files fully and implement this "What to Ask" button for Kuczynski:
+Checkpoint made
+3 hours ago
+Add a feature to easily find topics and questions to ask philosophers
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 7 minutes
+THE 'ASK A PHILOSOPHER' OVERLAPS WITH THE LOGIN PLACE
+
+43 minutes ago
+
+3 messages & 13 actions
+I see the overlap issue. Let me find and fix the header layout:
+Checkpoint made
+42 minutes ago
+Adjust layout to prevent header elements from overlapping
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 1 minute
+HERE ARE TOPICS AND QUESTIONS (BY TOPIC) FOR FREUD
+
+39 minutes ago
+
+4 messages & 13 actions
+Let me read the rest of the Freud topics file and create the data structure:
+Checkpoint made
+37 minutes ago
+Add Freud's topics and questions to the "What to Ask" feature
+
+Rollback here
+
+Changes
+
+Preview
+ACTUALLY GET RID OF THOSE FREUD QUESTIONS. THEY WERE SHIT.
+
+35 minutes ago
+
+1 message & 7 actions
+Done. Freud questions removed. The "What to Ask" feature is now Kuczynski-only (37 topics, 370 questions). When you have better Freud questions ready, just share them and I'll add them.
+Checkpoint made
+35 minutes ago
+Remove Freud topics from the "What to Ask" feature
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 30 seconds
+HERE ARE SOME GOOD FREUD QUESTIONS:
+
+33 minutes ago
+
+4 messages & 10 actions
+These are excellent - real questions people actually have. Let me get the rest and create the data file:
+Checkpoint made
+30 minutes ago
+Add Freud topics to the "What to Ask" feature
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+HERE AER MORE
+
+30 minutes ago
+
+3 messages & 9 actions
+Let me get the rest of the file and update with these better questions:
+Checkpoint made
+27 minutes ago
+Update Freud topics with more insightful and phenomenon-focused questions
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 2 minutes
+MORE KUCZYNSKI POSITION STATEMENTS AND QUESTIONS FOR KUCZYNSKI V
+
+18 minutes ago
+
+3 messages & 33 actions
+I'll add these Chapter 1 positions to the database and add the new questions to Kuczynski's "What to Ask" feature.
+Checkpoint made
+12 minutes ago
+Add new philosophical topics and questions for Kuczynski
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+MORE KUCZYNSKI POSITION STATEMETNS WITH QUOTES ANALYTIC PHILOSOPHY CHAPTER 13
+
+12 minutes ago
+
+3 messages & 17 actions
+Let me get the rest of that file to extract all the positions:
+Checkpoint made
+6 minutes ago
+Add 100 position statements from Kuczynski's "What Are Propositions and What Is Truth?"
+
+Rollback here
+
+Changes
+
+Preview
+Worked for 5 minutes
+KUCZYNSKI POSITION CLAIMS ANALYTIC PHILOSOPHY CHAPTER 3
+
+6 minutes ago
+
+2 messages & 11 actions
+Let me get the rest and embed all 100 positions from Chapter 3:
+CHAPTER 5 ANALYTIC PHILOSOPHY POSITION STATEMENTS KUCZYNSKI

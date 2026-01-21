@@ -1,0 +1,6 @@
+Starting batch test at Fri Jan  9 01:52:15 PM UTC 2026
+[1/42] adler - SKIPPED (2583 words)
+[2/42] aesop - SKIPPED (2601 words)
+Testing allen...
+SUCCESS: allen - 2624 words in 152.3s
+Testing aristotle...

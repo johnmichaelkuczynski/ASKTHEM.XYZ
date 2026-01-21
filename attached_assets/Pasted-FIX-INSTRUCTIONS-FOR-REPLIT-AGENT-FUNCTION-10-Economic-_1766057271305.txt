@@ -1,0 +1,70 @@
+FIX INSTRUCTIONS FOR REPLIT AGENT: FUNCTION 10 - Economic Interpretation
+
+PROBLEM: The function is performing VOCABULARY TRANSFORMATION (introducing new symbols, rewriting axioms). This is wrong. That's Function 8's job.
+
+WHAT IT SHOULD DO: Find a CONCRETE ECONOMIC MODEL where the axioms are TRUE. A model consists of:
+1. A specific DOMAIN (goods, firms, markets, consumers, currencies, etc.)
+2. A specific INTERPRETATION of each primitive (what R means in economic terms)
+3. VERIFICATION that each axiom holds under this interpretation
+
+RULE: NEVER introduce new symbols. NEVER rewrite axioms. KEEP the original primitives. FIND an economic domain where they are true.
+
+---
+
+EXAMPLE INPUT:
+
+∀x ( R(x,x) )
+∀x∀y ( R(x,y) → R(y,x) )
+∀x∀y∀z ( (R(x,y) ∧ R(y,z)) → R(x,z) )
+
+CORRECT OUTPUT:
+
+DOMAIN: Goods in a market
+INTERPRETATION: R(x,y) holds iff x and y are in the same price bracket.
+
+VERIFICATION:
+- Axiom 1 (Reflexivity): Every good is in the same price bracket as itself. ✓
+- Axiom 2 (Symmetry): If x is in the same bracket as y, then y is in the same bracket as x. ✓
+- Axiom 3 (Transitivity): Same-bracket relation is transitive. ✓
+
+EXAMPLE: R(bread, milk) is true if both cost $3-5; R(bread, caviar) is false.
+
+ALTERNATE CORRECT OUTPUT:
+
+DOMAIN: Companies on a stock exchange
+INTERPRETATION: R(x,y) holds iff x and y are in the same industry sector.
+
+VERIFICATION:
+- Axiom 1: Every company is in the same sector as itself. ✓
+- Axiom 2: If x is same sector as y, then y is same sector as x. ✓
+- Axiom 3: Same-sector relation is transitive. ✓
+
+EXAMPLE: R(Apple, Microsoft) is true (both tech); R(Apple, ExxonMobil) is false.
+
+ANOTHER ALTERNATE:
+
+DOMAIN: Consumers in a market
+INTERPRETATION: R(x,y) holds iff x and y have the same income quintile.
+
+VERIFICATION:
+- Axiom 1: Every consumer is in the same quintile as themselves. ✓
+- Axiom 2: If x is same quintile as y, then y is same quintile as x. ✓
+- Axiom 3: Same-quintile is transitive. ✓
+
+EXAMPLE: R(Alice, Bob) is true if both earn $50k-75k annually.
+
+---
+
+KEY DISTINCTION:
+
+WRONG (vocabulary transformation):
+
+LANGUAGE: {S(x,y)}
+DEFINITIONS: R(x,y) ↔ S(x,y)
+AXIOMS: ∀x S(x,x) ...
+
+RIGHT (model finding):
+
+DOMAIN: [concrete economic entities]
+INTERPRETATION: R(x,y) means [specific economic relation]
+VERIFICATION: [check each axiom holds]

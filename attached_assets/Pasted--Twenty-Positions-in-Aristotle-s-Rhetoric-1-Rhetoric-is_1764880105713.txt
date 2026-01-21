@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Rhetoric***
+
+1. **Rhetoric is the counterpart (antistrophos) of dialectic**—both deal with matters that are common knowledge and belong to no specific science; both argue on opposite sides.
+
+2. Rhetoric is the faculty of **discovering the available means of persuasion** in any given case—it is an art (technē), not mere knack or natural talent.
+
+3. Rhetoric is **useful** because truth and justice are naturally stronger, but audiences are imperfect; the skilled speaker helps truth prevail.
+
+4. The rhetorician must be able to **argue both sides**—not to practice injustice, but to understand the arguments and refute sophistical opponents.
+
+5. There are **three modes of persuasion (pisteis)**: ethos (character of the speaker), pathos (emotional state of the audience), and logos (the argument itself).
+
+6. **Ethos** persuades when the speech makes the speaker appear credible—this must be achieved through the speech itself, not prior reputation.
+
+7. **Pathos** persuades by putting the audience into a certain emotional state—emotions alter judgment, so the rhetorician must understand psychology.
+
+8. **Logos** persuades through demonstration or apparent demonstration—rhetorical arguments take the form of enthymemes and examples.
+
+9. The **enthymeme is the rhetorical syllogism**—it proceeds from probable premises or signs rather than necessary truths, and often leaves premises unstated.
+
+10. The **example (paradeigma)** is rhetorical induction—it argues from particular to particular, using historical or invented parallels.
+
+11. There are **three species of rhetoric**: deliberative (political), forensic (judicial), and epideictic (ceremonial praise and blame).
+
+12. **Deliberative rhetoric** concerns future action—its end is the expedient or harmful; the speaker advises or dissuades the assembly.
+
+13. **Forensic rhetoric** concerns past action—its end is the just or unjust; the speaker accuses or defends before a jury.
+
+14. **Epideictic rhetoric** concerns present character—its end is the noble or shameful; the speaker praises or blames before spectators.
+
+15. Each species has its own **topics (topoi)**—commonplaces and lines of argument suited to its characteristic subject matter.
+
+16. Book II analyzes the **emotions** in detail—anger, calm, friendship, enmity, fear, confidence, shame, pity, indignation, envy, emulation—showing their causes and how to arouse or allay them.
+
+17. Book II also treats **character types**—youth, old age, prime of life, nobility, wealth, power—since speakers must adapt to their audiences.
+
+18. **Style (lexis)** matters because the manner of expression affects persuasion—clarity is the chief virtue, with appropriateness to subject and audience.
+
+19. **Metaphor** is the most important stylistic device—it produces clarity, pleasure, and vividness; facility with metaphor indicates natural genius.
+
+20. **Arrangement (taxis)** of a speech has essential parts—at minimum a statement of the case and the proof; the elaborated structure includes proem, narration, proof, and epilogue.

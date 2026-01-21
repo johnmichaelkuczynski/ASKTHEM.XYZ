@@ -1,0 +1,374 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/11/2025, 8:44:10 AM
+Source Length: 4241 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+No quotes extracted
+
+--- ANNOTATED CITATIONS ---
+No annotated quotes
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+undefined
+
+[Chunk 2]
+
+
+[Chunk 3]
+undefined
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+undefined
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+undefined
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: Existentialism is more of an attitude than a doctrine
+   EVIDENCE: "At its core, existentialism is therefore less of a doctrine than it is an attitude."
+
+2. VIEW: Doctrines are systems of interconnected propositions
+   EVIDENCE: "A doctrine is a system of interconnected propositions."
+
+3. VIEW: The viability of a doctrine is independent of personal feelings
+   EVIDENCE: "The viability of a doctrine has nothing to do with how anyone feels about anything."
+
+4. VIEW: Doctrines are to be judged by logical or empirical benchmarks
+   EVIDENCE: "They are to be judged according to how well they measure up to the relevant logical or empirical benchmarks."
+
+5. VIEW: Attitudes cannot be judged as right or wrong
+   EVIDENCE: "Attitudes cannot be understood in these terms."
+
+6. VIEW: Existentialism as an attitude cannot be judged as wrong
+   EVIDENCE: "So to the extent that it is an attitude, existentialism cannot be judged to be wrong."
+
+7. VIEW: Choosing values leads to more reflection on what values should be
+   EVIDENCE: "If you come into the world believing that values are to be chosen, as opposed to passively accepted, you are probably more likely than you would otherwise be to reflect on what your values should be."
+
+8. VIEW: Choosing values leads to reflection on traditionally accepted values
+   EVIDENCE: "and also, consequently, on what the merits (or demerits) are of traditionally accepted values."
+
+9. VIEW: Choosing values is psychologically beneficial
+   EVIDENCE: "First, if you choose your values, instead of simply accepting the values of others, you are (all other things being equal) more likely to live according to values that work for you psychologically."
+
+10. VIEW: Choosing values, even if wrong, affirms rationality and freedom
+   EVIDENCE: "Second, even if you choose the wrong values, the mere fact that you chose your values, instead of passively and robotically accepting the values of others, would seem to be an affirmation of your rationality and freedom."
+
+11. VIEW: Choosing values affirms humanness
+   EVIDENCE: "and, therefore, of your humanness."
+
+12. VIEW: Some values diminish the self
+   EVIDENCE: "A number of values seem to involve a diminishment of self."
+
+13. VIEW: Traditional values often demand a reduction of the self
+   EVIDENCE: "Why do traditional values so often demand a reduction of the self?"
+
+14. VIEW: Society's values are good for society but not necessarily for the individual
+   EVIDENCE: "One possible answer is that the values that are endorsed by society are those that are good for society, and therefore aren't necessarily those that are good for the individual."
+
+15. VIEW: Society requires the abridgment of individual freedoms
+   EVIDENCE: "As Freud emphasized in Civilization and its Discontents, society is possible only if the aspirations of individuals are abridged."
+
+16. VIEW: Society's values embody antagonism among people
+   EVIDENCE: "A related point-one that presupposes a rather dark conception of human nature and may therefore meet with some resistance-is that the values that society asks the individual to accept embody much of the antagonism that people have for one another."
+
+17. VIEW: Choosing values protects against moralistic propaganda
+   EVIDENCE: "If you see values as yours to accept or reject, you are less likely to be duped by moralistic propaganda into reducing yourself."
+
+18. VIEW: Choosing values leads to a life following its intended path
+   EVIDENCE: "and your life is more likely to follow the path that it should take, as opposed to the one that others want it to take."
+
+19. VIEW: There is some truth to the idea that choosing values is beneficial
+   EVIDENCE: "In any case, that is the idea-and I'm pretty sure that there is at least some truth to it."
+
+20. VIEW: Existentialism seems viable based on the attitude discussed
+   EVIDENCE: "Given only what we've said, existentialism seems to be viable."
+
+21. VIEW: Existentialist philosophers have produced doctrines to validate the existentialist attitude
+   EVIDENCE: "existentialist philosophers have spent a great deal of time producing doctrines (belief-systems) that validate the attitude in question."
+
+22. VIEW: The doctrines produced by existentialist philosophers may not be correct or coherent
+   EVIDENCE: "Even though that attitude may be salutary, it doesn't follow that those doctrines are correct or even coherent."
+
+23. VIEW: Existentialist philosophy involves providing a rational foundation for the existentialist attitude
+   EVIDENCE: "Since we are concerned with existentialist philosophy-that is, with the efforts of existentialist philosophers to provide a rational foundation for the attitude that we've been discussing-we have to assess whether those doctrines are any"
+
+24. VIEW: There is a problem with the existentialist attitude itself
+   EVIDENCE: "there is also a problem (actually, a couple of problems) with the existentialist attitude itself."
+
+25. VIEW: The values that other people tell us to accept may not always be the right ones
+   EVIDENCE: "The values that other people tell us to accept may not always be the right ones."
+
+26. VIEW: It doesn't follow that there are no values
+   EVIDENCE: "But it doesn't follow that there are no values"
+
+27. VIEW: One is answerable to certain ethical norms by being human
+   EVIDENCE: "one is not, by the mere fact of being human (and therefore sentient and rational and intelligent), answerable to certain ethical norms."
+
+28. VIEW: Rejecting conventional values can be to uphold other values
+   EVIDENCE: "Sometimes when people reject conventional values, it is because they feel that they must do so to uphold other values."
+
+29. VIEW: Fruitful rebellion against conventional values involves acceptance of deeper values
+   EVIDENCE: "It would be hard to think of a single case where a fruitful rebellion against conventional values did not involve an acceptance of what (at least in the mind of the rebel in question) was a deeper and more legitimate set of values."
+
+30. VIEW: There are cases where one oughtn't accept the values that others want one to accept
+   EVIDENCE: "So while there are obviously cases where one oughtn't accept the values that others want one to accept"
+
+31. VIEW: There are values that one ought to accept
+   EVIDENCE: "it doesn't follow that there are no values that one ought to accept."
+
+32. VIEW: Attitudes are not themselves true or false
+   EVIDENCE: "We said earlier that attitudes are not themselves true or false."
+
+33. VIEW: Attitudes involve presuppositions that are true or false
+   EVIDENCE: "But, despite this fact, attitudes often involve presuppositions that are true or false."
+
+34. VIEW: Emotional attitudes are grounded in beliefs about the world
+   EVIDENCE: "In general, our emotional attitudes-though (arguably) not true or false in and of themselves-are grounded in beliefs about the world, and those beliefs are true or false."
+
+35. VIEW: Existentialism as an attitude is not true or false
+   EVIDENCE: "Considered as an attitude, existentialism is not true or false."
+
+36. VIEW: Existentialism presupposes a thesis that is true or false
+   EVIDENCE: "But it seems to presuppose a thesis that is true or false"
+
+37. VIEW: The thesis (EX) is ambiguous
+   EVIDENCE: "But (EX) is ambiguous"
+
+38. VIEW: Thesis (A) amounts to there being no such thing as morality
+   EVIDENCE: "So (A) really amounts to: there is no such thing as morality."
+
+39. VIEW: There are no universally valid moral truths
+   EVIDENCE: "there are no universally valid moral truths."
+
+40. VIEW: Feelings can have an objective basis
+   EVIDENCE: "MR presupposes that feelings cannot possibly have any objective basis. But this isn't so."
+
+41. VIEW: Our feelings track our feelings about rightness and wrongness
+   EVIDENCE: "Our feelings seem to track our feelings about rightness and wrongness."
+
+42. VIEW: We tend to be extremely angry at people who we believe have wronged us
+   EVIDENCE: "We tend to be extremely angry at people who we believe to have wronged us."
+
+43. VIEW: Our feelings are not always appropriate
+   EVIDENCE: "This is not to say that our feelings are always appropriate."
+
+44. VIEW: Our feelings are often misguided
+   EVIDENCE: "But given only that our feelings are often misguided"
+
+45. VIEW: It doesn't follow that our feelings are categorically without an objective basis
+   EVIDENCE: "it doesn't follow that they are categorically without an objective basis."
+
+46. VIEW: Our perceptions aren't always completely accurate
+   EVIDENCE: "Our perceptions aren't always completely accurate."
+
+47. VIEW: Our perceptions are not always completely wrong
+   EVIDENCE: "But that doesn't mean that they are always completely wrong."
+
+48. VIEW: The same goes for our beliefs
+   EVIDENCE: "The same goes for our beliefs."
+
+49. VIEW: Feelings are not always wrong, given only that they sometimes are
+   EVIDENCE: "So why suppose that feelings are always wrong, given only that they sometimes are?"
+
+50. VIEW: The statement (A) is at least extremely questionable
+   EVIDENCE: "it is clear that (A) is, at the very least, extremely questionable"
+
+51. VIEW: There is a strong pre-theoretic presumption to the effect that there are objective moral truths
+   EVIDENCE: "the reason being that there is a strong pre-theoretic presumption to the effect that there are objective moral truths."
+
+52. VIEW: The word 'value' is ambiguous
+   EVIDENCE: "the word 'value' is ambiguous"
+
+53. VIEW: The word 'value' has at least three meanings
+   EVIDENCE: "as it has (at least) three meanings."
+
+54. VIEW: A 'value' can be something that is in fact valued, or it can be something that one ought to value
+   EVIDENCE: "A 'value' can be something that is in fact valued, or it can be something that one ought to value."
+
+55. VIEW: In the sentence (LH), the word 'value' doesn't mean 'something that people believe to be valuable' or 'something that people like'
+   EVIDENCE: "the word 'value' doesn't mean 'something that people believe to be valuable' and it certainly doesn't mean 'something that people like.'"
+
+56. VIEW: (LH) would not be false in a world where everyone is a sociopath
+   EVIDENCE: "(LH) would not, at least not on that account, be false in such a world."
+
+57. VIEW: In a world of mathematical morons, the statement '2 + 2 = 4' would not be false
+   EVIDENCE: "In a world of mathematical morons, nobody would know that 2 + 2 = 4; but the statement '2 + 2 = 4' would not on that account be false."
+
+58. VIEW: In a world of 'moral imbeciles', (LH) wouldn't be false
+   EVIDENCE: "Similarly, in a world of 'moral imbeciles' (the 19th-century psychiatric term for sociopath), (LH) wouldn't be false"
+
+59. VIEW: A 'value' can be something that somebody believes to be valuable
+   EVIDENCE: "A 'value' can be something that somebody believes (perhaps wrongly) to be valuable."
+
+60. VIEW: People often come to believe that they have been abiding by the wrong values
+   EVIDENCE: "People often come to believe that they have been abiding by the wrong values, and must therefore adopt new ones."
+
+61. VIEW: Tolstoy's novel The Death of Ivan Ilyich illustrates the point about changing values
+   EVIDENCE: "Tolstoy's novel The Death of Ivan Ilyich illustrates this point."
+
+62. VIEW: Ivan Ilyich thinks that what is valuable is being socially respectable, not rocking the boat, and meeting with general approval
+   EVIDENCE: "Up until the moment right before his death, Ivan Ilyich thinks that what is valuable is being socially respectable, not rocking the boat, and making sure that one's thoughts and deeds meet with general approval."
+
+63. VIEW: Ivan Ilyich is not a bad person in any obvious sense
+   EVIDENCE: "Ilyich is by no means a bad person, at least not in any obvious sense."
+
+64. VIEW: Ivan Ilyich doesn't commit crimes
+   EVIDENCE: "He doesn't commit crimes."
+
+65. VIEW: Ivan Ilyich is a good father and husband
+   EVIDENCE: "He is a good father and husband."
+
+66. VIEW: Emotions track value-judgments
+   EVIDENCE: "In general, it's hard to believe that emotions don't track value-judgments-hard to believe, therefore, that they aren't identical with such judgments."
+
+67. VIEW: Emotions embody value-judgments
+   EVIDENCE: "Supposing that our emotions embody value-judgments, it seems to follow rather straightforwardly that we cannot choose any value-system without jeopardizing our own happiness."
+
+68. VIEW: Emotions presuppose certain ethical views
+   EVIDENCE: "It thus seems that your emotions presuppose certain ethical views."
+
+69. VIEW: Changing value system requires changing emotions
+   EVIDENCE: "Thus, a necessary condition for really accepting a new set of values would be that you re-wire, so to speak, your emotions-that you change how you emotionally react to situations."
+
+70. VIEW: Innate psychological structure limits happiness
+   EVIDENCE: "Your innate psychological structure obviously puts limits on what you can do and still be happy."
+
+71. VIEW: Emotional state tracks views on moral fitness
+   EVIDENCE: "Your emotional state-and, in particular, your level of happiness-tracks your views as to the moral fitness of facts about your life, a corollary being that your emotions incorporate a certain value system."
+
+72. VIEW: Adopting new value system affects emotional well-being
+   EVIDENCE: "you thus would be able to adopt a new value system only at the expense of your own emotional well-being."
+
+73. VIEW: Value systems are internal to emotional architecture
+   EVIDENCE: "certain value systems are internal to his/her emotional architecture."
+
+74. VIEW: Range of admissible value systems is limited by psychology and biology
+   EVIDENCE: "the range of admissible value systems is limited by immutable facts about our psychology (and biology)."
+
+75. VIEW: Different viable languages exist
+   EVIDENCE: "Obviously there are different viable languages-in fact, infinitely many different (possible) viable languages."
+
+76. VIEW: Humanly learnable languages satisfy formal constraints
+   EVIDENCE: "But Chomsky showed that any humanly learnable language satisfies rather narrowly defined formal constraints."
+
+77. VIEW: Range of viable languages is set by innate facts
+   EVIDENCE: "the range of languages that are viable (for humans) is set by innate facts about our psychological-biological structure"
+
+78. VIEW: Range of admissible values is limited
+   EVIDENCE: "the range of psychologically (and biologically) admissible values is limited."
+
+79. VIEW: Innate psychological structure limits acceptable value systems
+   EVIDENCE: "it doesn't seem correct to say that your innate psychological structure puts no limits on what kind of value system you can happily accept."
+
+80. VIEW: Value system is internal to emotional architecture
+   EVIDENCE: "If, as we've been arguing, a value system (or, possibly, a plurality of value systems) is internal to your emotional architecture, then there are limits not only to what kinds of value systems you can happily accept, but to what you kinds of value systems you can accept at all."
+
+81. VIEW: Emotional reactions to situations are hard to change
+   EVIDENCE: "Presumably, you cannot change (except within fairly narrow limits) how you emotionally react to situations."
+
+82. VIEW: Changing value system requires changing emotional architecture
+   EVIDENCE: "you can change your value system only by changing your emotional architecture"
+
+83. VIEW: One cannot change value system except in trivial respects
+   EVIDENCE: "then you cannot (except in trivial respects) change your value system at all."
+
+84. VIEW: Compliance with a value system that doesn't make you happy is possible
+   EVIDENCE: "Of course, you can, in terms of your overt behavior, comply with a value system that doesn't make you happy."
+
+85. VIEW: True acceptance of a value system requires emotional alignment
+   EVIDENCE: "But if the view we've been defending is right, you don't really accept such a value system."
+
+86. VIEW: Emotions reflect actual values
+   EVIDENCE: "If your emotions reflect your actual values, then you don't really accept a value system that brings you misery."
+
+87. VIEW: Innate psycho-biological endowment limits value system acceptance
+   EVIDENCE: "It does not seem to be the case that one's innate psycho-biological endowment puts no limits on what kind of value system one can accept without jeopardizing one's chances of having a happy or otherwise good life."
+
+88. VIEW: It is ethically permissible to choose one's own ethics
+   EVIDENCE: "Does it make sense to say that it is ethically permissible to choose one's own ethics?"
+
+89. VIEW: Choosing one's own ethics embodies a contradiction
+   EVIDENCE: "Doesn't that question embody a contradiction?"
+
+90. VIEW: There must be ethical principles for choosing values to be ethically permissible
+   EVIDENCE: "For presumably there must already be ethical principles if it is to be ethically permissible to choose one's values."
+
+91. VIEW: If ethical principles exist, one must abide by them
+   EVIDENCE: "But if there are such principles, then one must abide by them"
+
+92. VIEW: Abiding by ethical principles means one isn't free to choose one's values
+   EVIDENCE: "in which case one isn't free to choose one's value."
+
+93. VIEW: The argument about choosing one's ethics is flawed
+   EVIDENCE: "Is this argument-the one contained in the last few sentences-any good?"
+
+94. VIEW: It is possible to choose one's values
+   EVIDENCE: "And, setting aside whether it is ethical to do so, is it possible to choose one's values?"
+
+95. VIEW: There are limits to the range of possible value systems we might adopt
+   EVIDENCE: "If so, are there no limits as to the range of possible value systems we might adopt?"
+
+96. VIEW: Facts about our psychology and biology limit the range of possible value systems
+   EVIDENCE: "Or do facts about our psychology, and possibly our biology, limit that range?"
+
+97. VIEW: The Brothers Karamazov is considered the greatest novel ever written
+   EVIDENCE: "The Brothers Karamazov, by Fodor Dostoevsky, is considered by many to be the greatest novel ever written."
+
+98. VIEW: If there is no God, there are no moral laws
+   EVIDENCE: "In other words, if there is no God, there are no moral laws."
+
+99. VIEW: Rachels discusses the issue of God and moral laws in Chapter 4 of his book
+   EVIDENCE: "Make sure that you take into account what Rachels says in Chapter 4 of his book"
+
+100. VIEW: The reader's corresponding chapter discusses the issue of God and moral laws
+   EVIDENCE: "and what I say in the corresponding chapter of the reader."

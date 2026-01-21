@@ -1,0 +1,110 @@
+- Poincaré discovered that deterministic systems can exhibit unpredictable behavior, founding chaos theory.
+- Poincaré conjectured that any closed three-dimensional manifold without holes is topologically equivalent to a sphere.
+- Poincaré developed the theory of automorphic functions and introduced Fuchsian groups.
+- Poincaré proved the uniformization theorem for Riemann surfaces.
+- Poincaré proved that closed systems will eventually return arbitrarily close to their initial states.
+- Poincaré established the relationship between the indices of vector field singularities and the Euler characteristic of a manifold.
+- Poincaré invented homology theory and the fundamental group, founding algebraic topology.
+- Poincaré discovered the duality between homology groups of complementary dimensions on manifolds.
+- Poincaré argued that the choice between Euclidean and non-Euclidean geometries is conventional rather than empirical.
+- Poincaré independently derived the Lorentz transformations before Einstein published special relativity.
+- Poincaré identified the symmetry group of Minkowski spacetime.
+- Poincaré proved that bounded planar dynamical systems must converge to fixed points or limit cycles.
+- Poincaré created the qualitative theory of differential equations, analyzing solutions geometrically rather than algebraically.
+- Poincaré developed rigorous methods for using divergent series through asymptotic expansions.
+- Poincaré extended residue calculus to functions of several complex variables.
+- Poincaré solved problems in celestial mechanics concerning the equilibrium shapes of rotating fluid masses.
+- Poincaré laid foundations for the theory of analytic functions of several complex variables.
+- Poincaré contributed foundational ideas to arithmetic algebraic geometry.
+- Poincaré constructed a disk model representing hyperbolic geometry.
+- Poincaré invented the sweeping-out method in potential theory.
+- Poincaré introduced compensating stresses to resolve issues in electromagnetic theory.
+- Poincaré founded bifurcation theory, studying how system behavior changes as parameters vary.
+- Poincaré proved fundamental results about the existence and behavior of limit cycles.
+- In the restricted three-body problem, where two massive bodies orbit their common center of mass and a third body of negligible mass moves under their gravitational influence, the equations of motion are nonintegrable, meaning no closed-form solution exists, and infinitesimally small changes in initial conditions lead to exponentially diverging trajectories over time, making long-term prediction impossible despite the system being fully deterministic.
+
+- Every simply connected, closed three-dimensional manifold—that is, a compact manifold without boundary in which every continuous loop can be contracted to a point—is homeomorphic to the three-sphere S³, the set of points equidistant from the origin in four-dimensional Euclidean space.
+
+- Automorphic functions are meromorphic functions on the complex plane or upper half-plane that remain invariant under a discrete group of Möbius transformations, and Fuchsian groups are discrete subgroups of PSL(2,ℝ) acting on the hyperbolic plane by isometries, with fundamental domains that tessellate the plane.
+
+- Every simply connected Riemann surface is conformally equivalent to exactly one of three canonical domains: the Riemann sphere, the complex plane, or the open unit disk, and any Riemann surface can be expressed as the quotient of one of these domains by a discrete group of conformal automorphisms acting freely and properly discontinuously.
+
+- For any measure-preserving transformation of a finite measure space, almost every point in any measurable set of positive measure will return to that set infinitely often under repeated iteration of the transformation.
+
+- For a smooth vector field on a compact differentiable manifold with isolated zeros, the sum of the indices of all zeros equals the Euler characteristic of the manifold, where the index at each zero is the degree of the map from a small sphere around the zero to the unit sphere induced by normalizing the vector field.
+
+- The fundamental group π₁(X, x₀) consists of homotopy equivalence classes of loops based at x₀, with concatenation as the group operation, and homology groups Hₙ(X) are abelian groups constructed by taking n-dimensional cycles modulo n-dimensional boundaries, where cycles are formal sums of n-simplices whose boundaries cancel and boundaries are images of (n+1)-chains under the boundary operator.
+
+- For an orientable closed n-dimensional manifold M, there exists a canonical isomorphism between the k-th homology group Hₖ(M) and the (n−k)-th cohomology group H^(n−k)(M), induced by the cap product with the fundamental class [M] ∈ Hₙ(M).
+
+- The axioms of Euclidean geometry and those of hyperbolic or elliptic geometry are equally consistent, and no experiment can determine which geometry is "true" because any apparent empirical test actually tests the conjunction of geometric axioms with physical hypotheses about rigid bodies and light rays, and we are free to choose whichever geometry simplifies our total physical theory.
+
+- The coordinate transformations that preserve the form of Maxwell's equations between inertial reference frames are x′ = γ(x − vt), t′ = γ(t − vx/c²), y′ = y, z′ = z, where γ = 1/√(1 − v²/c²), and these transformations form a group under composition with the property that the quantity x² + y² + z² − c²t² is invariant.
+
+- The isometry group of Minkowski spacetime, the four-dimensional real vector space equipped with the indefinite quadratic form x² + y² + z² − c²t², is the ten-parameter Poincaré group, consisting of the Lorentz group SO(3,1) of rotations and boosts together with the four-dimensional translation group ℝ⁴.
+
+- For a continuous dynamical system on the plane defined by ẋ = f(x, y), ẏ = g(x, y), if a trajectory remains in a closed bounded region containing no fixed points, then it must approach a periodic orbit called a limit cycle as t → ∞.
+
+- Rather than seeking explicit formulas for solutions to differential equations, one can study the topology of the phase space, the nature and stability of singular points, the existence of periodic orbits, and the global structure of the flow, classifying singular points as nodes, saddles, foci, or centers based on the eigenvalues of the linearized system.
+
+- A formal power series Σaₙxⁿ that diverges for all nonzero x can still provide accurate approximations to a function f(x) in the sense that for each fixed N, the partial sum Σₙ₌₀ᴺ aₙxⁿ differs from f(x) by O(x^(N+1)) as x → 0, and these asymptotic expansions can be manipulated algebraically and used for computation despite never converging.
+
+- For a meromorphic function f(z₁, ..., zₙ) of several complex variables, residues can be computed by integrating over products of small circles around the polar divisor, yielding a theory of residue currents that generalizes the one-variable residue theorem and connects to the cohomology of the complement of the polar locus.
+
+- A rotating self-gravitating fluid mass in equilibrium can take the form of a Maclaurin spheroid (oblate ellipsoid of revolution) or a Jacobi ellipsoid (triaxial ellipsoid) depending on the angular momentum, and as angular momentum increases, the Jacobi ellipsoids become increasingly elongated until they reach a bifurcation point where pear-shaped figures branch off, with stability changing at each bifurcation.
+
+- Analytic functions of several complex variables exhibit rigidity properties absent in one variable: a function analytic on a connected open set is uniquely determined by its values on any open subset, the zero set is a complex analytic variety of codimension one rather than a discrete set, and domains of holomorphy need not be geometrically simple but are characterized by pseudoconvexity.
+
+- Algebraic varieties over number fields can be studied through their associated complex analytic spaces, their reductions modulo primes, and the arithmetic of their rational points, with the zeta function encoding information about point counts over finite fields and conjecturally satisfying functional equations and having analytic continuation.
+
+- The interior of the unit disk {z ∈ ℂ : |z| < 1} equipped with the metric ds² = 4(dx² + dy²)/(1 − x² − y²)² is a model of the hyperbolic plane with constant Gaussian curvature −1, in which geodesics are circular arcs orthogonal to the boundary and the group of orientation-preserving isometries is PSL(2,ℝ) acting by Möbius transformations.
+
+- To solve the Dirichlet problem for a domain, one can "sweep out" the mass of a measure onto the boundary by repeatedly replacing the restriction of the measure to small balls by harmonic measures on their boundaries, obtaining a sequence that converges to the solution of the boundary value problem.
+
+- To make the electromagnetic energy-momentum tensor of a charged particle consistent with Lorentz covariance and finite self-energy, one must add non-electromagnetic stresses to the particle that compensate for the Coulomb repulsion and ensure that the total stress-energy tensor transforms correctly as a four-tensor.
+
+- As a parameter in a family of differential equations varies continuously, the qualitative structure of the phase portrait can change abruptly at critical parameter values where fixed points appear, disappear, change stability, or exchange stability with periodic orbits through mechanisms such as saddle-node, transcritical, pitchfork, and Hopf bifurcations.
+
+- For planar polynomial vector fields of degree n, the question of the maximum number of limit cycles and their possible configurations remains open, but specific cases can be analyzed using Dulac functions, Lyapunov quantities at weak foci, and the Poincaré return map, which is the map taking a point on a transversal to the next intersection of its orbit with that transversal.
+
+- The axioms of geometry are neither synthetic a priori truths nor empirical generalizations but conventions chosen for their convenience, and we could describe physical space using Euclidean, hyperbolic, or elliptic geometry equally well by making compensating adjustments to our physical laws, so the question of which geometry is "true" has no determinate answer.
+
+- Mathematical entities are neither discovered in a Platonic realm nor constructed arbitrarily by the mind but are constituted through the activity of the intellect operating according to its own laws, making mathematics neither purely objective nor purely subjective.
+
+- The principle of mathematical induction is not derivable from logic alone but is a synthetic a priori judgment that expresses the mind's capacity for indefinite iteration, and this capacity is what distinguishes mathematical reasoning from purely logical reasoning.
+
+- Scientific hypotheses are never tested in isolation but only as parts of entire theoretical systems, so when an experimental result contradicts a prediction, we have a choice about which element of the system to revise, and this choice is guided by considerations of simplicity and convenience rather than being forced by the data.
+
+- The so-called laws of nature are not discovered features of an independent reality but are convenient summaries of regularities that we impose on experience, and their apparent necessity reflects the structure of our cognitive faculties rather than any metaphysical necessity in things themselves.
+
+- Space and time are not objective features of the world but forms imposed by the mind on the manifold of sensations, yet unlike Kant's view, the specific structure of these forms (such as three-dimensionality or the Euclidean metric) is conventional rather than necessary.
+
+- The value of science lies not in the accumulation of facts but in the discovery of relations between facts, and these relations persist through theory change while the ontological commitments of theories are regularly abandoned.
+
+- Logical and mathematical reasoning proceeds by a creative faculty called intuition that grasps the validity of inferences in a single act of insight, and this faculty cannot be reduced to the mechanical application of formal rules because any system of rules requires intuition for its application.
+
+- The continuum cannot be constructed from points because the notion of a point as an entity with no extension is an abstraction that presupposes the continuum it is supposed to constitute, and the continuum is given to intuition as a primitive whole that is prior to its elements.
+
+- Physical theories are underdetermined by all possible evidence, meaning that for any theory consistent with all observations there exist alternative theories equally consistent with all observations but incompatible with the first, and the choice between them rests on non-empirical virtues like simplicity and elegance.
+
+- Simplicity is not merely an aesthetic preference but has genuine epistemic value because simpler hypotheses are more likely to be true, though this cannot be demonstrated empirically and must be accepted as a regulative principle of inquiry.
+
+- The uniformity of nature—the assumption that the future will resemble the past and that unobserved cases will resemble observed cases—cannot be justified by logic or experience but must be presupposed as a condition for the possibility of science.
+
+- Absolute simultaneity has no operational meaning because there is no experiment that could determine whether two distant events occur at the same time, and the definition of simultaneity requires a convention about synchronizing clocks that involves an unavoidable arbitrary element.
+
+- The creative process in mathematics begins with an extended period of conscious work followed by a period of unconscious incubation, after which the solution appears suddenly in consciousness as a flash of insight, and this insight is then verified by conscious deductive reasoning.
+
+- Mathematical proof is not a mechanical procedure but requires aesthetic judgment about which among many possible correct proofs provides genuine understanding, and beauty in mathematics is a reliable guide to depth and importance.
+
+- The infinite exists only potentially as an indefinitely extensible process and never as a completed actual totality, and attempts to treat infinite collections as completed wholes lead to the paradoxes of set theory.
+
+- Physical objects are not bundles of sensations nor things-in-themselves lying behind appearances but are invariant structures that remain constant through the transformations of our sensory perspectives.
+
+- The task of physics is not to explain phenomena by appeal to underlying mechanisms but to describe the mathematical relations among phenomena in the most economical way possible, and questions about what things "really are" behind the phenomena are metaphysical pseudo-questions.
+
+- The mind is not passive in perception but actively constitutes objects by synthesizing the data of sense according to innate principles, and this constructive activity is the same whether we are perceiving physical objects or constructing mathematical entities.
+
+- Scientific progress does not consist in approaching ever closer to a final truth but in replacing less convenient with more convenient descriptions, and the notion of correspondence with reality is not a meaningful standard by which theories can be evaluated.
+
+- Chance is not merely a name for our ignorance of determining causes but in certain contexts represents an irreducible feature of reality, and the calculus of probabilities is an objective science of real phenomena rather than a subjective measure of belief.

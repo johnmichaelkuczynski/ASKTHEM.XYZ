@@ -1,0 +1,249 @@
+# 100 Positions Extracted from Kuczynski, "What Are Propositions and What Is Truth?"
+
+---
+
+## I. CORE THESIS: Propositions as Sets of Properties
+
+**1.** A proposition is what is meant by an utterance of a sentence—it is the semantic content, not the linguistic vehicle.
+
+**2.** Propositions are sets of properties.
+
+**3.** A proposition is true just in case the properties that are members of it are jointly instantiated.
+
+**4.** Truth is identical with the property of being a set (of a certain kind) all of whose members are instantiated.
+
+**5.** Roughly speaking, truth is instantiatedness.
+
+**6.** Only sets of properties qualify as propositions—no other ontological category suffices.
+
+**7.** The question of whether all sets of properties qualify as propositions may be left open, but all propositions are sets of properties.
+
+---
+
+## II. The Structure of Atomic Propositions
+
+**8.** The proposition "Tommy is smoking" consists of at least three components: (i) something individuative of Tommy, (ii) the property of smoking, and (iii) a synthesis of the two.
+
+**9.** The "individuative" element for a subject like Tommy is the property of being identical with Tommy—a property he uniquely and necessarily instantiates.
+
+**10.** For "Tommy is smoking" to be true, three properties must be instantiated: (A) the property of being identical with Tommy, (B) the property of smoking, and (C) the property of being identical with something that is smoking and is identical with Tommy.
+
+**11.** Properties (A) and (B) could be instantiated in a world where Tommy is not smoking—hence a third, synthesizing property (C) is required.
+
+**12.** Property (C) is the crucial "synthesizing" property: if instantiated, it guarantees that both (A) and (B) are instantiated.
+
+**13.** A proposition P is true if and only if each member of the property-set S with which P is identified is instantiated.
+
+**14.** Not every set of properties whose joint instantiation is materially equivalent to a proposition's truth can be identified with that proposition—only sets whose membership aligns with the proposition's known constituency.
+
+**15.** A set Z containing necessarily instantiated properties (like "being an even number") alongside a proposition's core property cannot be identified with that proposition, because Z's membership doesn't naturally align with the proposition's intuitive constituency.
+
+---
+
+## III. The Unity of the Proposition (Against Frege's "Saturation")
+
+**16.** Frege's claim that propositions result from an argument "saturating" a function is merely a label for the operation, not an explanation of it.
+
+**17.** Davidson correctly observed that Frege's term "saturate" provides no explanatory content—it names the mystery rather than solving it.
+
+**18.** Kuczynski's analysis provides the actual meaning of "saturation": the proposition "Tommy is smoking" is identical with a set S consisting of the property of being Tommy, the property of smoking, and the property of being a smoking Tommy.
+
+**19.** For any proposition X to be the result of Y "saturating" Z means: X is a set whose members are (i) the property of being identical with Y, (ii) Z itself, and (iii) the property of being identical with something that is identical with Y and also has Z.
+
+**20.** This analysis demystifies and literalizes the Fregean metaphor of saturation.
+
+---
+
+## IV. Why Propositions Cannot Be Identified with Single Properties
+
+**21.** Though "Tommy is smoking" is true just in case property C (being a smoking Tommy) is instantiated, identifying the proposition with C alone fails to accommodate the presumption that the proposition has discrete parts.
+
+**22.** An instance of the property "being a smoking Tommy" does not contain, in any obvious way, discrete parts corresponding to Tommy and to smoking separately.
+
+**23.** Properties, being non-spatiotemporal entities, don't have discrete parts in any straightforward sense.
+
+**24.** A property-instance is a "dent or ripple in the quantum"—a shift in mass-energy distribution—which cannot be neatly parsed into subject and predicate components.
+
+**25.** By contrast, the proposition "Tommy is smoking" is, of its very nature, neatly parsed into Tommy, the property of smoking, and a synthesizing constituent.
+
+**26.** The articulations found in propositions are found in the set S (the set of properties), but not in property C taken by itself.
+
+**27.** States of affairs (facts) do not have the same kinds of "articulations" as propositions—the quantum-ripples on which truth supervenes lack the structure of the proposition.
+
+**28.** The proposition "Tommy is smoking" has a unique and relatively simple decomposition; the corresponding state of affairs (physiological, psychological, sub-atomic disturbances) does not uniquely decompose in the same way.
+
+---
+
+## V. Common Constituents Across Propositions
+
+**29.** Propositions "Tommy is smoking" and "Tommy is snoring" have in common the constituent Tommy (or something corresponding thereto).
+
+**30.** Both propositions share the property of being a Tommy who is doing something.
+
+**31.** However, instances of these properties (the actual mass-energy distributions) do not have discrete, isolable parts in common merely because both "comprise Tommy."
+
+**32.** There is no such thing as "Tommy simpliciter" in reality—only Tommy-doing-this-or-that, Tommy-having-this-or-that-property.
+
+**33.** Two situations comprising Tommy do not, in virtue of that fact, have a discrete, isolable entity in common.
+
+**34.** By contrast, the sets of properties identified with these propositions DO have well-defined, discrete parts in common—exactly what the propositions have in common.
+
+**35.** Both sets include: the property of being Tommy, the property of being a Tommy that does something, and the property of being something that does something.
+
+**36.** The set-theoretic analysis accounts perfectly for what propositions entail, what their components are, and how higher-level components are forged from lower-level components.
+
+---
+
+## VI. Against the Russell-Kaplan-Salmon Analysis (Ordered Pairs)
+
+**37.** According to Russell, Salmon, Kaplan, Moore, Perry, and King, a proposition is some kind of "structure" consisting of objects and properties—typically identified with ordered pairs.
+
+**38.** The ordered pair view identifies "Socrates is bald" with something like ⟨Socrates, baldness⟩ or ⟨the relation of having, ⟨Socrates, baldness⟩⟩.
+
+**39.** Problem: The ordered pair ⟨2,7⟩ isn't true or false; neither is ⟨2, 7, ⟨less than⟩⟩. Why should ⟨Socrates, baldness⟩ be true or false?
+
+**40.** We could invent a code whereby "⟨Socrates, baldness⟩" meant "Socrates is bald," but this tells us nothing about propositional structure beyond what we already knew.
+
+**41.** The ordinal relation in the ordered pair is problematic: if it bears no resemblance to the relation Socrates would have to baldness if bald, then there's no principled reason why that particular ordering is correct.
+
+**42.** If the ordinal relation IS the very relation Socrates would have to baldness, then Socrates's actual baldness is built into the proposition's existence—making the proposition predetermine its own truth.
+
+**43.** A theory that requires propositions to model facts too well wrongly requires contingent propositions to be true.
+
+**44.** A theory risks arbitrariness if the relations holding among a proposition's parts have no intuitive counterpart in the facts that would make the proposition true.
+
+**45.** There's a dilemma: either the proposition-structure models the fact too closely (collapsing possibility into actuality) or too loosely (becoming arbitrary and schematic).
+
+---
+
+## VII. The Problem of Propositions About Non-Existents
+
+**46.** The proposition "Socrates is alive" obviously exists even though Socrates does not—propositions can exist without their subjects existing.
+
+**47.** The proposition "Joey loves to read" should not cease to exist merely because Joey died.
+
+**48.** Salmon and Soames hold the desperate view that propositions about non-existents "exist as non-existent entities"—this is neither necessary nor plausible nor helpful.
+
+**49.** The reasoning that Joey must be a constituent of "Joey loves to read" (because the proposition is true iff Joey reads) is spurious.
+
+**50.** It doesn't follow from rigid designation that the individual per se (rather than a property individuative of them) is a constituent of propositions about them.
+
+**51.** The property of being identical with Joey can exist even when Joey does not exist—that's why "I am not Joey" is meaningful and correct.
+
+**52.** We can meaningfully and correctly say "Plato does not exist" because we're saying of an existing property (being identical with Plato) that it is uninstantiated.
+
+**53.** Kuczynski's analysis is consistent with direct reference theory: there is some x such that x is Plato and "Plato snores" is true iff x snores, regardless of Plato's other properties.
+
+**54.** The direct referentialist gets the truth conditions she wants without the awkward position of saying propositions exist despite the non-existence of entities on which their existence constitutively depends.
+
+**55.** Joey's existence is a prerequisite for the TRUTH, not the EXISTENCE, of "Joey loves to read."
+
+**56.** Unless one implausibly maintains that the property of being identical with Joey exists only if instantiated, "Joey loves to read" doesn't cease to exist when Joey does.
+
+**57.** Frege similarly held that concepts (not individuals per se) are constituents of propositions—this is consistent with sentences retaining meaning even if their subjects cease to exist.
+
+**58.** Frege's view, however, was quite as vague as Russell's—he was extremely opaque about propositional structure and relied on unhelpful metaphors like "saturate."
+
+**59.** What's good about the Russell-Frege-Kaplan-King view is insistence that propositions resemble the sentences expressing them—this is consistent with languages being learnable.
+
+---
+
+## VIII. Against Propositions as Sets of Consequences (Lewis-Carnap)
+
+**60.** Lewis and Carnap held that the intension (meaning/proposition) of a sentence is identical with the class of all propositions inferable from it.
+
+**61.** This analysis is viciously circular: propositions deducible from P often include P itself as a component (e.g., "P or there are square circles").
+
+**62.** The circularity problem is not insuperable—the position can be amended to exclude the proposition itself and any propositions having it as a component.
+
+**63.** Even amended, this view is implausible: the class of consequences doesn't have a structure remotely corresponding to the proposition's expected structure.
+
+**64.** Propositions almost certainly have structures non-trivially similar to the sentences expressing them—consequence-classes lack this.
+
+**65.** To determine whether a proposition is a consequence of P, one must already grasp P itself.
+
+**66.** The set of consequences is infinitely large and can only be grasped via a rule—grasping that rule involves grasping the original proposition, making the analysis circular.
+
+---
+
+## IX. Against Possible Worlds Semantics (PWS)
+
+**67.** According to PWS, a proposition is necessary (possible) if true in all (some) possible worlds.
+
+**68.** PWS identifies propositions with functions assigning truth-values to worlds, or with sets of worlds where they're true.
+
+**69.** If "worlds" are propositions or sets of propositions, then "a proposition is a set of worlds" becomes "a proposition is a set of propositions"—which is viciously regressive and false.
+
+**70.** Some PWS advocates say worlds are concrete objects—veritable maximal states of affairs, not merely properties that would be worlds if instantiated.
+
+**71.** Problem: Few will grant the existence of bona fide alternative concrete worlds.
+
+**72.** Even if alternative worlds exist, we can know nothing about them except via modal knowledge obtained independently of them.
+
+**73.** David Lewis correctly says we don't know alternative worlds by touring them—we know them by applying modal principles we already possess and checking if they square with propositions whose modal status we're investigating.
+
+**74.** The worlds "answer to us, not us to them"—our modal knowledge is the tail wagging the dog.
+
+**75.** From the viewpoint of explaining or validating modal knowledge, alternative worlds are useless (though there may be other reasons to posit them).
+
+**76.** PWS cannot distinguish analytically equivalent propositions: the class of worlds where "1+1=2" is identical with the class where "triangles have three sides," yet these propositions are obviously distinct.
+
+**77.** You can think one of these propositions without thinking the other—this is not an intensional fallacy since propositions ARE intensions.
+
+**78.** To avoid this problem, PWS must take an intensionalist view of functions (individuated by how they generate pairs, not just which pairs they generate).
+
+**79.** But this undermines PWS's raison d'être: PWS was supposed to replace intensions (seen as scientifically problematic) with extensions (seen as methodologically unimpeachable).
+
+**80.** If PWS adopts intensionalism about functions, it lets properties back in—properties are no longer identified with sets of instances.
+
+**81.** By parity of reasoning, propositions needn't be identified with sets of their instances (worlds where they hold).
+
+**82.** PWS cannot without arbitrariness take an intensionalist view; but it cannot without falsely identifying distinct propositions take an extensionalist view.
+
+**83.** If the function assigning truth to worlds is understood intensionally (as a rule), that rule must be understood in terms of the very proposition in question—making PWS circular.
+
+**84.** The function for "grass is green" assigns truth to worlds satisfying the condition that grass is green—this presupposes grasping the proposition "grass is green."
+
+---
+
+## X. Analysis of Molecular Propositions
+
+**85.** The set-theoretic analysis applies to molecular propositions (negations, quantifications, disjunctions) as well as atomic ones.
+
+**86.** Existential generalizations like "something snores" have a distinctive decompositional structure involving multiple constituents.
+
+**87.** "Something snores" involves: (a) the property of snoring, (b) the property of being instantiated, (c) the property of being an instantiated function each of whose instances snores, (d) the property of being a function each of whose instances has some property.
+
+**88.** The structure of "something snores" cannot be identified simply with the property of snoring or a singleton set thereof—this would miss the proposition's Fregean decompositional structure.
+
+**89.** Negative propositions like "Timmy is not smoking" must be handled carefully to avoid making embedded propositions instantiated (and therefore true).
+
+**90.** Negation can be thought of as a function assigning truth to all and only false propositions—or equivalently, as a property of false propositions.
+
+**91.** For "Not-P," the constituents include: the property of being a false proposition, the property of being identical with P, and the property of being identical with a proposition that is false and is identical with P.
+
+**92.** Universal propositions like "Everything snores" involve: the property of snoring, the property of being universally instantiated, and the property of being a universally instantiated property identical with snoring.
+
+**93.** "Nothing snores" is treated as the negation of "something snores," analyzed accordingly.
+
+**94.** Disjunctions like "Tommy is smoking or Tommy is snoring" involve: the property of disjunction (being a pair of propositions at least one of which is true), the property of being identical with that specific pair, and a synthesizing property.
+
+---
+
+## XI. Methodological and Meta-Philosophical Claims
+
+**95.** Frege (1918) made clear that propositions are contents of psychological entities but are not themselves psychological entities—this foundational insight remains correct.
+
+**96.** Since Frege, attempts to say what propositions are have been either programmatic to near-emptiness, or demonstrably false, or both.
+
+**97.** It is possible to identify structures that model the properties we know propositions to have on both theoretical and commonsensical grounds.
+
+**98.** The set-theoretic analysis gives non-metaphorical meanings to terms that have heretofore been used purely metaphorically—like "constituent" and "synthesize."
+
+**99.** A "constituent" of a proposition is a member of the set of properties whose joint instantiatedness is necessary and sufficient for that proposition's truth.
+
+**100.** Two properties p1 and p2 are "synthesized" into p3 when any instance of p3 is ipso facto an instance of both p1 and p2—this definition avoids misleading chronological or psychological overtones.
+
+---
+
+*Document extracted from: Kuczynski, J.M. "What Are Propositions and What Is Truth?" Chapter 3.*

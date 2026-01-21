@@ -1,0 +1,537 @@
+ARISTOTLE POSITIONS AND QUESTIONS 
+
+# ARISTOTLE: SYSTEMATIC CONTENTIONS DATABASE
+
+---
+
+## I. THEOLOGY / THE NATURE OF GOD (50 Contentions)
+
+1. God is the Unmoved Mover—that which causes motion without itself being moved.
+2. The Unmoved Mover is eternal and imperishable.
+3. God is pure actuality (energeia) with no potentiality whatsoever.
+4. Since potentiality implies change, and God has no potentiality, God cannot change.
+5. God is immaterial, having no body or extension.
+6. The divine substance is thinking (noesis).
+7. God's activity is self-contemplation—thought thinking itself (noesis noeseos).
+8. Divine thought has itself as its object because the divine mind and its object must be identical.
+9. God does not think about the world, for this would make God dependent on something inferior.
+10. God is the most excellent being, and the most excellent activity is contemplation; therefore God contemplates.
+11. God's life is eternally active contemplation, the highest form of existence.
+12. God is living, since life belongs to whatever has the activity of thought.
+13. God possesses life in the highest degree, being eternally alive.
+14. God is supremely good, being pure actuality of the best kind.
+15. God is the final cause of all cosmic motion—things move toward God as toward their end.
+16. God moves the cosmos as an object of desire moves a desirer—by being loved, not by mechanical action.
+17. The heavens move eternally in imitation of divine perfection.
+18. God does not deliberate or make choices, for deliberation implies incompleteness.
+19. God has no emotions, since emotions involve bodily change and potentiality.
+20. God is not benevolent toward humans in any personal sense.
+21. God does not answer prayers or intervene in human affairs.
+22. God has no memory, since memory pertains to what has passed and implies temporal change.
+23. God has no anticipation of the future, since anticipation implies incompleteness.
+24. Divine thought is identical with its object; in God, knower and known are one.
+25. There is only one Unmoved Mover, since if there were many, the cosmos would lack unity.
+26. God is numerically one and unique, not a species with multiple instances.
+27. God is simple, having no composition of matter and form.
+28. God has no genus, since genus implies potentiality for differentiation.
+29. God cannot be defined in the ordinary sense, since definition requires genus and differentia.
+30. God is necessary being—it is impossible for God not to exist.
+31. God's existence is self-explanatory and requires no external cause.
+32. The existence of eternal motion proves the existence of an eternal mover.
+33. Without an Unmoved Mover, there would be no explanation for why anything moves.
+34. God is the principle (arche) of all things, that on which all else depends.
+35. God is separate from sensible things, being purely intelligible.
+36. God is not in space, since only bodies occupy space.
+37. God is not in time, since time is the measure of motion and God does not move.
+38. God's eternity is not infinite duration but timeless actuality.
+39. God is perfect, lacking nothing and requiring nothing.
+40. God's perfection makes God entirely self-sufficient.
+41. The divine intellect is always in the state that human intellect achieves only momentarily.
+42. Human contemplation is a participation in divine activity.
+43. God is that for the sake of which the heavens revolve eternally.
+44. The celestial spheres are moved by intelligences (subordinate unmoved movers).
+45. There are 47 or 55 unmoved movers corresponding to celestial spheres, but one supreme Unmoved Mover.
+46. The Prime Mover is located (metaphorically) at the outermost celestial sphere.
+47. God does not create the world, since the world is eternal.
+48. The relationship between God and the world is not one of efficient causation but final causation.
+49. Knowledge of God is the highest achievement of metaphysics (first philosophy).
+50. Theology is the most honorable science, having the most honorable object.
+
+---
+
+## II. PHYSICS (20 Contentions)
+
+1. Nature (physis) is an internal principle of motion and rest in things.
+2. Natural things have their principle of motion within themselves; artificial things do not.
+3. Motion (kinesis) is the actuality of potentiality qua potentiality.
+4. There are four kinds of motion: substantial change (generation/corruption), qualitative change, quantitative change, and locomotion.
+5. All motion requires a mover—nothing moves itself in the primary sense.
+6. The infinite exists only potentially, never actually; there is no actual infinite magnitude.
+7. Void (empty space) does not exist, since motion through void would have no determinate ratio.
+8. Place is the innermost motionless boundary of the containing body.
+9. Time is the number of motion with respect to before and after.
+10. Time does not exist without motion, and motion does not exist without time.
+11. Time requires a soul to count it, but motion exists independently.
+12. Continuous magnitudes are infinitely divisible but not composed of indivisible points.
+13. There is no first instant of motion, since every instant is a boundary, not a part.
+14. The cosmos is finite in extent, bounded by the sphere of fixed stars.
+15. There are two regions of the cosmos: the sublunary (subject to generation and corruption) and the superlunary (eternal and unchanging except for locomotion).
+16. The natural motion of heavy bodies is toward the center; of light bodies, away from the center.
+17. The four sublunary elements (earth, water, air, fire) have natural places to which they tend.
+18. The celestial bodies are composed of a fifth element (aether) whose natural motion is circular.
+19. Circular motion is prior to and more perfect than rectilinear motion.
+20. Motion is eternal—there was no first moment of motion and will be no last.
+
+---
+
+## III. BIOLOGY (20 Contentions)
+
+1. The soul is the first actuality of a natural body having organs.
+2. Soul and body are related as form to matter, not as two separate substances.
+3. Living things are distinguished from non-living by nutrition, growth, and reproduction.
+4. There is a scala naturae—a continuous gradation from plants to animals to humans.
+5. Plants possess only the nutritive soul; animals add sensation; humans add reason.
+6. Reproduction serves to achieve immortality of the species, since individuals perish.
+7. Sexual generation involves the male contributing form and the female contributing matter.
+8. The male semen transmits the form; the female menstrual blood provides material substrate.
+9. Spontaneous generation occurs for some lower organisms from putrefying matter.
+10. Each organ exists for a purpose—nature does nothing in vain.
+11. Function determines structure: organs are for the sake of their functions, not vice versa.
+12. The heart is the central organ of the body, the seat of vital heat.
+13. Blood is concocted in the heart and distributed through blood vessels.
+14. The brain's function is to cool the blood, not to think.
+15. Animals are classified by blood (blooded vs. bloodless), locomotion, and habitat.
+16. Viviparous animals are more perfect than oviparous, which are more perfect than those producing larvae.
+17. Teeth, horns, and other defensive structures are distributed according to nature's economy—no animal has both.
+18. Dolphins and whales are not fish but a distinct kind of blooded animal (effectively mammals).
+19. Some sharks are viviparous, giving birth to live young.
+20. Development proceeds from the general to the specific—the heart forms first, then differentiation occurs.
+
+---
+
+## IV. PSYCHOLOGY (20 Contentions)
+
+1. Psychology is the study of soul (psyche), which is the principle of life.
+2. The soul is not separable from the body, except possibly the intellect.
+3. To ask whether soul and body are one is like asking whether the wax and its shape are one.
+4. Sensation is the reception of sensible forms without matter.
+5. The sense organ must be potentially what the sensible object is actually.
+6. Each sense has a proper object (color for sight, sound for hearing) and cannot err about it.
+7. There are common sensibles (motion, rest, number, shape, magnitude) perceived by multiple senses.
+8. The common sense unifies the deliverances of the five special senses.
+9. Imagination (phantasia) is the movement produced by actual sensation.
+10. Thinking requires images—the soul never thinks without an image (phantasm).
+11. The passive intellect (nous pathetikos) is the capacity to receive intelligible forms.
+12. The active intellect (nous poietikos) is that which makes all things intelligible, as light makes colors visible.
+13. The active intellect is separable, impassible, unmixed, and eternal.
+14. Memory is the possession of an image as a copy of that of which it is an image.
+15. Recollection is the recovery of knowledge or sensation previously possessed.
+16. Dreams are movements of sense-images occurring in sleep when the senses are inactive.
+17. Desire (orexis) is the efficient cause of animal locomotion.
+18. Practical reason alone does not produce action; desire must be present.
+19. Pleasure is the unimpeded activity of a natural state.
+20. Pain is the impediment of natural activity.
+
+---
+
+## V. POLITICS (20 Contentions)
+
+1. Man is by nature a political animal (zoon politikon).
+2. The polis exists by nature and is prior in nature to the individual.
+3. One who lives outside the polis is either a beast or a god.
+4. The state originates for the sake of life but exists for the sake of the good life.
+5. The household is the natural unit from which the polis develops.
+6. There are three relations in the household: master-slave, husband-wife, parent-child.
+7. Some people are slaves by nature—those whose function is bodily service and who lack deliberative capacity.
+8. Natural slavery is just and beneficial to both master and slave.
+9. There are six forms of constitution: three correct (kingship, aristocracy, polity) and three deviant (tyranny, oligarchy, democracy).
+10. Deviant constitutions serve the interest of the rulers; correct ones serve the common good.
+11. The best practicable constitution for most states is polity—a mixture of oligarchy and democracy.
+12. A large middle class is the foundation of political stability.
+13. Extreme democracy and extreme oligarchy are both unstable.
+14. Revolution occurs when those who are equal in one respect (e.g., free birth) demand equality in all respects.
+15. Property should be private in ownership but common in use.
+16. The purpose of the state is to enable citizens to live well, not merely to live.
+17. Citizens properly so called are those who share in judicial and deliberative functions.
+18. Education should be public and the same for all citizens.
+19. The best life for both individual and state is the life of virtue sufficiently equipped with external goods.
+20. Law is reason without passion; it is preferable to the rule of any individual.
+
+---
+
+## VI. EUDAIMONIA (20 Contentions)
+
+1. Eudaimonia (happiness/flourishing) is the highest good, that for the sake of which all else is done.
+2. Eudaimonia is activity of soul in accordance with virtue, in a complete life.
+3. Eudaimonia is not a state but an activity—it consists in living and doing well.
+4. Virtue alone is not sufficient for eudaimonia; external goods are also necessary.
+5. A happy life requires a certain span of time; one swallow does not make a spring.
+6. Children cannot be called eudaimon, since eudaimonia requires completed virtuous activity.
+7. The eudaimon person can never become wretched, though great misfortunes may diminish happiness.
+8. Eudaimonia is self-sufficient—it makes life desirable and lacking in nothing.
+9. Pleasure accompanies eudaimonia but is not identical with it.
+10. The pleasures proper to virtuous activity are the truest pleasures.
+11. There are two kinds of virtue: intellectual (acquired by teaching) and moral (acquired by habituation).
+12. The highest eudaimonia is the life of contemplation (theoria), exercising theoretical wisdom.
+13. The secondary form of eudaimonia is the life of moral virtue and practical wisdom.
+14. Contemplation is the highest activity because it is the most continuous, self-sufficient, and divine.
+15. The gods live in perfect eudaimonia, which consists entirely in contemplation.
+16. Human eudaimonia requires the virtues concerned with human affairs, but aspires to the divine.
+17. Honor, wealth, and pleasure are not the good, though they may contribute to it.
+18. The function (ergon) of man is rational activity; eudaimonia is the excellent performance of this function.
+19. Eudaimonia is an objective condition, not merely a subjective feeling.
+20. The happy person is one whose life manifests stable virtue and who is not buffeted by fortune.
+
+---
+
+## VII. EXPLANATION / CAUSES (20 Contentions)
+
+1. To know something is to know its cause (aition); scientific knowledge is causal knowledge.
+2. There are four causes: material, formal, efficient, and final.
+3. The material cause is that out of which something comes to be and persists.
+4. The formal cause is the essence or definition—what the thing is.
+5. The efficient cause is the primary source of change or rest.
+6. The final cause is that for the sake of which something is done—the end or purpose.
+7. In natural things, the formal, efficient, and final causes often coincide.
+8. Nature is a cause that operates for an end; natural processes are teleological.
+9. Chance and spontaneity are incidental causes, parasitic on per se causes.
+10. Necessity in nature is hypothetical: if the end is to be achieved, then certain means are necessary.
+11. Scientific demonstration (apodeixis) proceeds from causes to effects.
+12. The premises of demonstration must be true, primary, immediate, better known than, prior to, and causes of the conclusion.
+13. There is no infinite regress of causes; demonstration rests on first principles.
+14. First principles are known by nous (intellection), not by demonstration.
+15. Different sciences have different first principles; there is no universal demonstrative science.
+16. The most complete explanation cites all four causes.
+17. Why-questions can be answered at different levels corresponding to different causes.
+18. Mathematical objects have only formal causes; they have no matter, motion, or purpose.
+19. Understanding requires grasping the universal in the particular—why this belongs to that.
+20. Knowledge progresses from what is better known to us to what is better known by nature (the causes).
+
+---
+
+## VIII. LOGIC (20 Contentions)
+
+1. Logic is the instrument (organon) of all sciences, not a substantive science itself.
+2. A syllogism is discourse in which, certain things being stated, something other than what is stated follows of necessity.
+3. Every syllogism consists of three terms: major, minor, and middle.
+4. The middle term connects the major and minor terms and does not appear in the conclusion.
+5. There are three figures of the syllogism, determined by the position of the middle term.
+6. In the first figure, the middle is subject of the major premise and predicate of the minor.
+7. The first figure is the most perfect; the other figures can be reduced to it.
+8. Affirmative propositions have four forms: universal affirmative (A), universal negative (E), particular affirmative (I), particular negative (O).
+9. Propositions are contradictory when one is the negation of the other; they cannot both be true or both be false.
+10. Propositions are contrary when both cannot be true but both can be false.
+11. A term is distributed when the proposition says something about the whole of its extension.
+12. No valid syllogism has two negative premises or two particular premises.
+13. If the premises are true and the syllogism valid, the conclusion must be true.
+14. Demonstration is a syllogism productive of scientific knowledge.
+15. Dialectic reasons from reputable opinions (endoxa), not from first principles.
+16. Eristic reasoning aims at apparent victory, not truth.
+17. Categories are the highest genera of being: substance, quantity, quality, relation, place, time, position, state, action, passion.
+18. Substance is the primary category; all others are predicated of or present in substances.
+19. Definition states the essence through genus and differentia.
+20. Predication is not symmetrical: "Socrates is a man" does not imply "Man is Socrates."
+
+---
+
+## IX. SCIENTIFIC CONTENTIONS THAT PROVED CORRECT OR HIGHLY ANTICIPATORY (20)
+
+1. **Dolphins and whales are fundamentally different from fish** — Aristotle correctly classified cetaceans as a distinct group (effectively recognizing them as mammals based on live birth, lungs, and milk production).
+
+2. **Some sharks are viviparous** — Confirmed; many shark species give birth to live young rather than laying eggs.
+
+3. **The octopus has a complex nervous system and remarkable intelligence** — Aristotle described the octopus's sophisticated behavior; modern science confirms cephalopod intelligence.
+
+4. **Embryological development proceeds from general to specific** — Von Baer's laws (1828) confirmed that embryos develop from undifferentiated to differentiated structures.
+
+5. **The heart forms first in embryonic development** — Confirmed; the heart is the first functional organ in vertebrate embryos.
+
+6. **Catfish males guard the eggs** — Confirmed by modern ichthyology; many catfish species exhibit male parental care.
+
+7. **The placental connection in certain sharks (galeus)** — Aristotle described a placenta-like structure in smooth dogfish; confirmed in 19th century as the yolk-sac placenta.
+
+8. **Functional explanation in biology is legitimate** — Teleological explanation (what is the function of X?) remains central to biology despite mechanistic reductions.
+
+9. **Classification should be based on multiple characters, not single features** — This polythetic approach anticipated modern taxonomy and cladistics.
+
+10. **Hyenas are not hermaphrodites** — Aristotle correctly rejected the popular myth, identifying the unusual female genitalia as merely resembling male organs.
+
+11. **Bees do not collect honey ready-made from flowers** — Aristotle recognized that bees transform nectar; this was not confirmed until the 18th century.
+
+12. **The hectocotylus arm of cephalopods functions in reproduction** — Aristotle noted this specialized arm; its reproductive function was confirmed in the 19th century.
+
+13. **Electric rays use electricity to stun prey** — Aristotle accurately described the numbing effect; electric organs were discovered much later.
+
+14. **Ruminants have multiple stomach compartments** — Confirmed; Aristotle's observations of ruminant digestion were anatomically accurate.
+
+15. **The cuttlebone provides buoyancy control** — Modern research confirms the cuttlebone regulates buoyancy through gas-liquid balance.
+
+16. **Heavier bodies do not fall proportionally faster than lighter ones in the same medium** — In *De Caelo*, Aristotle notes that in a given medium, the ratio of speeds is not equal to the ratio of weights—anticipating Galileo's insight that in a vacuum all bodies fall equally.
+
+17. **Nature is economical—organisms don't have superfluous parts** — This anticipates optimization principles in evolutionary biology.
+
+18. **Species are real and stable but exhibit variation** — Aristotle held species-realism while acknowledging individual variation; this maps onto modern population thinking.
+
+19. **The brain requires cooling** — While wrong about thinking, Aristotle was correct that the brain requires temperature regulation; hyperthermia damages neural function.
+
+20. **Habituation is a form of learning distinct from conditioning** — Aristotle distinguished ethos (habit formation) from other learning; modern neuroscience recognizes habituation as a fundamental learning mechanism.
+
+
+QUESTIONS 
+
+# ARISTOTLE: QUESTIONS FOR SYSTEMATIC CONTENTIONS DATABASE
+
+---
+
+## I. THEOLOGY / THE NATURE OF GOD (50 Questions)
+
+1. What is God's relationship to motion in the cosmos?
+2. Is the Unmoved Mover subject to generation or destruction?
+3. Does God have any potentiality, or is God purely actual?
+4. Can God change or undergo any alteration?
+5. Does God have a body or any material composition?
+6. What is the essential substance or activity of the divine?
+7. What does God think about?
+8. Why must divine thought have itself as its object?
+9. Does God think about worldly affairs or human concerns?
+10. Why is contemplation the activity of God?
+11. How would you characterize God's mode of existence?
+12. Is God alive?
+13. To what degree does God possess life?
+14. Is God good, and in what sense?
+15. How does God cause motion in the cosmos?
+16. By what mechanism does God move the heavens?
+17. Why do the heavens move eternally?
+18. Does God deliberate or make decisions?
+19. Does God experience emotions?
+20. Does God love humanity or care about human welfare?
+21. Does God respond to prayers or intervene in earthly affairs?
+22. Does God have memory of past events?
+23. Does God anticipate or plan for the future?
+24. What is the relationship between divine knowledge and its object?
+25. Are there multiple unmoved movers, or only one?
+26. Is God unique, or could there be other gods of the same kind?
+27. Is God composite or simple in nature?
+28. Does God belong to a genus?
+29. Can God be defined in the standard way?
+30. Is God's existence contingent or necessary?
+31. Does God's existence require an external explanation?
+32. What proves the existence of an eternal mover?
+33. Why must there be an Unmoved Mover?
+34. What is God's relationship to all other beings?
+35. Is God among sensible things or separate from them?
+36. Does God occupy space?
+37. Is God in time?
+38. What is the nature of God's eternity?
+39. Is God perfect, and what does that mean?
+40. Does God need anything external to Godself?
+41. How does divine intellect compare to human intellect?
+42. What is the relationship between human contemplation and divine activity?
+43. What is the purpose or final cause of celestial motion?
+44. What moves the celestial spheres?
+45. How many unmoved movers are there, and how are they related?
+46. Where is the Prime Mover located?
+47. Did God create the world?
+48. What kind of causal relationship exists between God and the world?
+49. What is the highest achievement of metaphysics?
+50. Why is theology the most honorable science?
+
+---
+
+## II. PHYSICS (20 Questions)
+
+1. What is nature, and how is it defined?
+2. What distinguishes natural things from artificial things?
+3. How do you define motion or change?
+4. What are the different kinds of motion?
+5. Can anything move itself, or does all motion require a mover?
+6. Does the infinite exist actually or only potentially?
+7. Does void or empty space exist?
+8. What is place?
+9. What is time?
+10. Can time exist without motion, or motion without time?
+11. Does time require a soul or mind?
+12. Are continuous magnitudes composed of indivisible points?
+13. Is there a first instant when motion begins?
+14. Is the cosmos finite or infinite in extent?
+15. What are the two regions of the cosmos, and how do they differ?
+16. What determines the natural motion of heavy and light bodies?
+17. What are the four sublunary elements, and where do they naturally tend?
+18. What are the celestial bodies made of, and how do they move?
+19. Which is more perfect: circular or rectilinear motion?
+20. Did motion have a beginning, and will it have an end?
+
+---
+
+## III. BIOLOGY (20 Questions)
+
+1. What is the soul?
+2. How are soul and body related?
+3. What distinguishes living things from non-living things?
+4. Is there a continuous gradation among living things?
+5. What capacities of soul do plants, animals, and humans respectively possess?
+6. Why do organisms reproduce?
+7. What do male and female contribute to sexual generation?
+8. What is the specific role of semen and menstrual blood in reproduction?
+9. Can organisms arise from non-living matter?
+10. Do organs have purposes?
+11. What determines the structure of organs?
+12. What is the central organ of the body?
+13. Where is blood produced and how is it distributed?
+14. What is the function of the brain?
+15. How should animals be classified?
+16. How are viviparous, oviparous, and larva-producing animals ranked?
+17. Why don't animals have both teeth/horns and other defensive structures?
+18. Are dolphins and whales fish?
+19. Do any sharks give birth to live young?
+20. What is the sequence of embryonic development?
+
+---
+
+## IV. PSYCHOLOGY (20 Questions)
+
+1. What is the subject matter of psychology?
+2. Can the soul exist separately from the body?
+3. Is the soul-body relationship one of identity or separation?
+4. What is sensation?
+5. What must be true of a sense organ for it to perceive?
+6. What are the proper objects of each sense, and can the senses err about them?
+7. What are the common sensibles?
+8. What unifies the deliverances of the different senses?
+9. What is imagination?
+10. Can the soul think without images?
+11. What is the passive intellect?
+12. What is the active intellect, and what is its function?
+13. Is the active intellect immortal?
+14. What is memory?
+15. What is recollection?
+16. What are dreams?
+17. What causes animal locomotion?
+18. Can reason alone produce action?
+19. What is pleasure?
+20. What is pain?
+
+---
+
+## V. POLITICS (20 Questions)
+
+1. Is man naturally solitary or naturally political?
+2. What is the relationship between the polis and the individual?
+3. What kind of being lives outside the polis?
+4. What is the purpose of the state's existence?
+5. What is the natural unit from which the polis develops?
+6. What are the fundamental relationships within the household?
+7. Are some people naturally suited to slavery?
+8. Is natural slavery just?
+9. What are the forms of constitution, and how are they classified?
+10. What distinguishes correct from deviant constitutions?
+11. What is the best practicable constitution for most states?
+12. What is the foundation of political stability?
+13. Why are extreme forms of democracy and oligarchy unstable?
+14. What causes revolution?
+15. Should property be held in common or privately?
+16. What is the ultimate purpose of the state?
+17. Who properly counts as a citizen?
+18. Should education be public or private?
+19. What is the best life for both individual and state?
+20. Is it better to be ruled by law or by individuals?
+
+---
+
+## VI. EUDAIMONIA (20 Questions)
+
+1. What is the highest good for human beings?
+2. How do you define eudaimonia?
+3. Is eudaimonia a state or an activity?
+4. Is virtue alone sufficient for happiness?
+5. Does eudaimonia require a complete life?
+6. Can children be called happy?
+7. Can great misfortune destroy a person's happiness?
+8. What makes eudaimonia self-sufficient?
+9. What is the relationship between pleasure and eudaimonia?
+10. What are the truest pleasures?
+11. What are the two kinds of virtue, and how are they acquired?
+12. What constitutes the highest form of eudaimonia?
+13. What is the secondary form of eudaimonia?
+14. Why is contemplation the highest activity?
+15. In what does divine happiness consist?
+16. How does human happiness relate to the divine?
+17. Are honor, wealth, and pleasure the good?
+18. What is the function of man, and how does it relate to happiness?
+19. Is eudaimonia objective or subjective?
+20. How would you characterize the happy person?
+
+---
+
+## VII. EXPLANATION / CAUSES (20 Questions)
+
+1. What is scientific knowledge?
+2. How many causes are there, and what are they?
+3. What is the material cause?
+4. What is the formal cause?
+5. What is the efficient cause?
+6. What is the final cause?
+7. How do the causes relate to each other in natural things?
+8. Does nature operate for purposes?
+9. What is the status of chance and spontaneity as causes?
+10. What kind of necessity operates in nature?
+11. How does scientific demonstration work?
+12. What must be true of the premises in a demonstration?
+13. Is there an infinite regress of causes and demonstrations?
+14. How are first principles known?
+15. Do all sciences share the same first principles?
+16. What makes an explanation complete?
+17. Can why-questions be answered in different ways?
+18. Do mathematical objects have all four causes?
+19. What is the relationship between universals and particulars in understanding?
+20. How does knowledge progress?
+
+---
+
+## VIII. LOGIC (20 Questions)
+
+1. What is the status of logic relative to the other sciences?
+2. What is a syllogism?
+3. How many terms does a syllogism have?
+4. What is the function of the middle term?
+5. What determines the figure of a syllogism?
+6. What characterizes the first figure?
+7. Why is the first figure most perfect?
+8. What are the four forms of categorical propositions?
+9. What is the relationship between contradictory propositions?
+10. What is the relationship between contrary propositions?
+11. When is a term distributed?
+12. What syllogistic combinations are invalid?
+13. What guarantees that a syllogistic conclusion is true?
+14. What is demonstration?
+15. How does dialectic differ from demonstration?
+16. What is eristic reasoning?
+17. What are the categories?
+18. Why is substance the primary category?
+19. How is definition properly constructed?
+20. Is predication symmetrical?
+
+---
+
+## IX. SCIENTIFIC CONTENTIONS: VERIFICATION QUESTIONS (20 Questions)
+
+1. Are dolphins and whales fundamentally the same kind of animal as fish?
+2. Do all sharks lay eggs?
+3. How intelligent is the octopus?
+4. Does embryological development proceed from specific to general, or general to specific?
+5. What is the first organ to form in embryonic development?
+6. Do male catfish play any role in caring for offspring?
+7. Do any sharks have placenta-like structures?
+8. Is teleological or functional explanation legitimate in biology?
+9. Should biological classification be based on single features or multiple characters?
+10. Are hyenas hermaphrodites?
+11. Do bees collect honey ready-made from flowers?
+12. Does the hectocotylus arm of cephalopods have any special function?
+13. How do electric rays stun their prey?
+14. How many stomach compartments do ruminants have?
+15. What is the function of the cuttlebone?
+16. Do heavier bodies fall proportionally faster than lighter ones in the same medium?
+17. Do organisms possess superfluous parts?
+18. Are species real and stable, or do they vary?
+19. Does the brain require temperature regulation?
+20. Is habituation a distinct form of learning?

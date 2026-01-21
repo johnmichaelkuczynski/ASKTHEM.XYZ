@@ -1,0 +1,1033 @@
+What is
+an
+IlEhle:
+
+number?
+
+ 
+
+I/ V&4 ¢
+                              What is an infinite number?
+
+                                  J.-M. Kuczynski, PhD
+
+  Finite numbers as inductive numbers
+
+  Transfinite numbers as non-inductive numbers
+
+  Transfinite numbers as the numbers of reflexive classes
+
+  Two conceptions of class-size
+
+  Three orders of Magnitude
+
+  Series, Sequences, and Limits
+
+  [ℝ]>[ℕ]
+
+
+  Enumerable vs. Non-denumerable
+
+  The Power-set Theorem
+
+          [K]
+  [PK]=2
+
+  Orders of Infinity
+
+  Cardinal Arithmetic
+
+  Transfinite Cardinal Arithmetic: Addition and Multiplication
+
+  Transfinite Cardinal Arithmetic: Subtraction and Division
+
+  Ordinal numbers and Ordinal Transfinite Arithmetic
+
+  The importance of Ordinals
+
+                                    ℵ0
+  Important facts about [ℝ]=2
+
+                                                  n
+  The significance of the fact that [ℝ]=[ℝ]
+
+
+
+
+                        Finite numbers as inductive numbers
+
+  A cardinal number is the number of elements of a class. Thus, the cardinalnumber of K={Larry, Moe, Curly} is three. In other words, [K]=3.
+
+  A finite cardinal is an inductive cardinal, and a transfinite (or infinite)
+
+cardinal is a non-inductive cardinal.
+
+  Explanation: Let ℕ be the smallest class that contains 0 and that contains
+
+n+1 whenever it contains n. In others words, n∈ℕ smallest class that
+
+contains 0 and that contains n+1 whenever it contains n. In that case, n∈ℕ
+
+(read: n is an element of ℕ) just in case either n=0 or n=m+1, where m is an
+
+arbitrary element of ℕ.
+
+  Thus, for any finite number n, there is some object X and some operation
+
+O such that, if one starts with X, one need only apply O a finite number of
+
+times, possibly zero times, to generate X.
+
+
+
+
+                    Transfinite numbers as non-inductive numbers
+
+  Question: Is the cardinal number of ℕ finite?
+
+  No: Let ℵ be the cardinal number of ℕ. If one starts with 0 and applies
+            0
+
++1a finite number of times, one will not reach ℵ.  Thus, ℵis transfinite by
+ 00 
+
+virtue of being non-inductive. In general, a transfinite cardinal is a non-
+
+inductive cardinal.
+
+
+
+
+              Transfinite numbers as the numbers of reflexive classes
+
+  There is a second way of defining of “transfinite number”: A transfinite
+
+number is the number of a reflexive class.
+
+  A class K is reflexive iff (read: if and only if) K can be bijected with a proper
+
+subset of itself. K can be bijected with K* iff there one-one (read: one to
+
+one) function from the one class to the other, i.e. if there is a function ϕ
+
+such that ϕ assigns at least one element of K* to any given element of K and
+
+such that ϕ never assigns the same element of K* to more than element of
+
+K.  
+
+ℕ can be bijected with a proper subset of itself.
+
+  First example: Let ℕ be the class of all even numbers, i.e. let ℕ be the
+                          22
+
+class of all elements of ℕ that are divisible by 2. The function F(x)=2x bijectsℕ and ℕ.
+        2
+
+  Second example: Let ℕ be the class of all prime numbers. The function
+                            P 
+
+P(x) bijects ℕ and ℕ, where P(x) assigns 1 to 1 and, for any n>1, assigns the
+                      P
+
+smallest prime p≥n that has not already been assigned.
+
+
+
+
+                            Two conceptions of class-size
+
+  Question: What does it mean to say that two class K and K* have the
+
+same number of elements? In other words, under what circumstances is it
+
+the case that [K]=[K*]?
+
+    There are two distinct but equally legitimate answers to this question:
+
+  Answer #1: [K]=[K*] iff K≈K*. In other words, the number of elements in
+
+K is the same as number of elements in K* iff K can be bijected with K*.
+1
+
+  Answer #2: [K]=[K*] iff
+
+  (i) K≈K*,
+
+  (ii) Neither class is identical with, or capable of being bijected with, any
+
+class that is a proper subset of the other.
+
+  Explanation of Answer #1: Let K be the number of forks that you have,
+
+and let K* be the number of spoons that you have. [K]=[K*] iff K≈K*.  
+
+  Problem with Answer #1: There is presumably some sense in which K
+                                                                                    2
+
+(the class of even numbers) has fewer elements than ℕ, and there is
+
+presumably some sense in which KP (the class of primes) has fewer
+
+elements than ℕ. In general, if K⊂K*---i.e. if K is a proper subset of K*,
+
+meaning that every element of K is an element of K* but not vice versa---
+
+then [K]<[K*].
+
+    Hence Answer #2, according to which
+
+  (a) K≈K*
+
+is necessary but not sufficient for
+
+  (b) [K]=[K*],
+
+it also being necessary that       (c) For any class K#, if either K or K* can be bijected with K#, then
+
+  neither K nor K* is a proper subset of K#.
+
+  Answer #2 is generally accepted, and Answer #3 is generally rejected. In
+
+what follows, we will assume the truth of Answer #2.
+
+                              Three orders of Magnitude
+
+  An order of magnitude is not a specific magnitude, but is rather a range of
+
+magnitudes that are mathematically similar in some important respect.
+
+  For the purposes of set-theory, this being the study of class-size, there
+
+are ultimately three orders of magnitude:
+
+      (i) Finite,
+
+      (ii) Infinite and recursive, and
+
+      (iii) Infinite and non-recursive.
+
+      Given a class K, [K] is finite if there is some n such that
+
+      (a) n∈ℕ, and
+
+      (b) [K]=n.
+
+      [K] is infinite and recursive iff [K]=ℵ. In other words, [K] is
+                                                0
+
+denumerable iff K is recursively definable.
+
+      K is recursively definable iff, for some object α and some function ϕ,
+
+x∈K iff 
+
+        (i) x= α or
+
+      (ii) x=ϕ(β), where β∈K.
+
+
+  In other words, K is recursive iff, for some object α and some function ϕ K
+
+is the posterity of  α with respect to ϕ.
+
+  Proposition: If each of K and K* is recursively definable, then [K]=[K*].
+
+  Proof: Being recursively definable, each class is the posterity of α with
+
+respect to ϕ, for some object α and some operation ϕ, and that class may
+
+therefore be bijected with ℕ by associating
+
+  (A) α with 0 and
+
+  (B) ϕ(x) with n+1, whenever x is associated with n.
+
+  Given that any two classes that can be bijected with a third class can bebijected with each other, it follows that K≈K*.
+
+  Let ℤ be the class of signed integers. +3 and -4 are signed integers. In
+
+general, if n is an integer, then +n and -n are signed integers.
+
+  Proposition: [ℤ]=[ℕ]. Proof: ϕ bijects ℕ and ℤ, where
+
+  (i) ϕ(0)=−1,
+
+  (ii) ϕ(n+1)=+n whenever  ϕ(n)=−n, and   
+
+  (iii) ϕ(n+1)=−n whenever  ϕ(n)=+n.
+
+  ϕ assigns −1 to 0, +1 to 1, −2 to 2, +2, to 3, and so on.
+
+  Thus, [ℤ]=ℵ=[ℕ]. Q.E.D.
+                0
+
+  Let ℚ be the class of rational numbers, a rational number being one of
+
+the form m/n, where each of m and n is an integer. Proposition: ℚ is
+
+recursive. Proof:  Given two rationals a/b and c/d, put a/b before c/d if
+
+a+b<c+d and put c/d before a/b if a+b>c+d. If a+b=c+d, put a/b before b/c if
+
+a+b<c+d; otherwise, put c/d before a/b. Thisgives us the following series:
+ 
+
+  1/1, ½, 2/1, 1/3, 2/2, 3/1, ¼, 2/3, 3/2, 4/1, 1/5, 2/4, 3/3, 4/2, 5/1,…
+
+  There is no rational that does not occur in this series. Define a function ϕ
+
+such that ϕ(1)=1/1 and such that, if ϕ(n) is the nth member of the above
+
+series, then ϕ(n+1) is the member following the nth member. ϕ recursively
+
+defines ℚ, and in so doing it bijects ℕ and ℚ. Thus [ℕ]=[ℚ]=ℵ. Q.E.D.
+                                                                        0
+
+
+
+
+                              Series, Sequences, and Limits
+
+      A series is a class whose elements have been ordered.  In other words,
+
+a series is a class each of whose elements has been associated with a
+
+number and no two of whose elements have been assigned the number.
+
+Thus, the series
+
+    1, 2, 3, 4,…
+
+is identical with class whose elements are (1,1), (2,2), (3,3), etc., and the
+
+series
+
+    0, 1, 2, 3,…is identical with the class whose elements (0,1), (1,2), (3,3), (3,4), etc.
+
+      This last series is defined by the ordered pair (ℕ, <), the first element of
+
+corresponds to the elements being ordered and second element of which
+
+corresponds to the relevant ordering-relation.
+
+      A sequence is a discrete series. A discrete series is one each of whose
+
+elements has an immediate successor. Thus, (ℕ, <) is a sequence.  A series
+
+that is not discrete is compact. Thus, (ℚ, <) is a compact series, and so is (ℝ,
+
+<).
+
+    Given a class K, the elements of K can be arranged in a sequence just in
+
+case K is either finite or infinite but recursive.
+
+      A continuous series is a compact series that contains each of its own
+
+limits.  Let S be a series or series-segment and let R be corresponding
+
+ordering-relation. In that case, L is a limit of S just in case
+
+  (i) Any given element of S bears R to L,
+
+  (ii) L does not bear R to any element of S, and
+
+  (iii) There is no non-element N of S such that N bears R to L.
+
+  For example, if ℚ is the class of all elements of ℚ whose squares are
+                      √2
+
+less than 2, then √2 is the limit of (ℚ,<).
+                                          √2
+
+  Another example: If ℚis the series ½, ¾, 7/8, 15/16,…then the limit of
+                            1 
+
+ℚis 1.
+1 
+
+  √2 is not an element of ℚ, and √2 therefore doesn’t belong to (ℚ, <).
+
+Many of the limiting points of (ℚ, <) do not belong to (ℚ, <). For this reason,
+
+(ℚ, <) is not continuous even though it is compact.  By contract, (ℝ, <) is
+
+both compact and continuous.
+
+  All continuous series are compact, but not vice versa.
+
+                                          [ℝ]>[ℕ]
+
+
+  Proposition: ℝ is both infinite and non-recursive, i.e. ℝ is non-
+
+denumerable.
+
+  Proof: Let S be an arbitrary sequence of real numbers, each of which is
+
+expressed as a non-repeating decimal. Define a function D(S) such that if n is
+
+the figure in the nth decimal place in the nth member of S, then D(S)replaces n with n+1 if n<9 and D(L) replaces n with 1 if n=9. D(S) generates a
+
+number N such that, for each n, the figure in the nth decimal place in N is
+
+different from the figure in the nth decimal place in the nth member of S.
+
+Given that any series of figures defines a real number, it follows that there is
+
+no sequence of real numbers that contains every real number. Equivalently,
+
+there is no recursive definition of ℝ. Q.E.D. 
+
+  It follows that [ℝ]>[ℚ]. Given that [ℚ]=[ℕ] and that [ℕ]= ℵ, it follows
+                                                                        0
+
+that [ℝ]>ℵ. It also follows---though the requisite proof falls outside the
+          0
+
+scope of this monograph---that (ℝ, <) contains each of its own limiting
+
+points. (The proof is stated in my book Mathematical Logic and Formal
+
+Arithmetic: Part 1.)
+
+                            Enumerable vs. Non-denumerable
+
+  To enumerate is to count. It is always the elements of classes that are
+
+counted. In other words, to count is to determine a class-size, when you
+
+count your socks, you are counting the elements of k, this being the class of
+
+your socks.
+
+      An enumeration of a class k is a function that bijects the elements of k
+
+with those of with an initial segment (a segment that includes 0 and that
+
+includes n whenever it includes n+1) of (ℕ, <), this being the series 0, 1, 2, 3,
+
+…If [k]=[ℕ], then the initial segment in question is an improper one.
+
+      If [k]>[ℕ], then k cannot be enumerated, i.e. it is non-denumerable. ℝ is
+
+non-denumerable, as previously proved.
+
+                                The Power-set Theorem
+
+  Proposition: For any K, whether finite or infinite, [PK]>[K]. Proof: Assume
+
+arguendo that [PK]=[K]. In that case, there is a function ϕ from K to PK that
+
+bijects those two classes. Define a subset k of K such that, if x is an arbitrary
+
+element of K, then x∈k iff x∉ϕ(x). Let α be an element of K such that ϕ(α)=k.
+
+If α∈k, then α∉ϕ(α); and if α∉ϕ(α), then α∉k. Therefore, α∈k iff α∉k.
+
+Therefore, there is no α such that ϕ(α)=k. Therefore, contrary to our
+
+assumption, there is no function ϕ such that ϕ bijects K and PK. Therefore,
+
+[PK] ≠[K]. Given that, for each element x of K, there is a corresponding
+
+element {x} of PK, it follows that PK is at least as large as K. Therefore, giventhat [PK]≠[K], it follows that [PK]>[K]. Q.E.D.
+
+                                                  [K]
+                                          [PK]=2
+
+  Let ∅ be the empty set, i.e. the set that has no members. There is only
+
+such set. This is because K and K* are different sets only if one them has
+
+some member not had by the other. If K and K* are empty sets, neither has
+
+any members not had by the other; wherefore, K and K* are not different
+
+sets.
+
+  Given a class K, let PK is the power-set of K, meaning that PK is the set of
+
+all subsets of K.
+
+  Proposition: Given any class K, ∅ is an element of PK. Proof: A class C is a
+
+subset of a class C* just in case there is no element C that is not also an
+
+element of C*. Given that ∅ has no elements, it follows that ∅ has no
+
+elements that it does not share with K. Therefore, ∅ is a subset of K, for any
+
+K.
+
+                                                                    [K]
+  Proposition: For any K, whether finite or infinite, [PK]=2. Proof by
+
+                                                                [K]
+induction:  First, prove that if [K]=0. In that case, [PK]=2=1. Proof: Let
+
+K=∅.Given that ∅ is a subset of any given class, it follows that ∅ is a subset of
+
+∅. Given that ∅ has no members, it follows that ∅ is the only subset of ∅.
+
+                                    0[K]
+Therefore, [P∅]=1. Given that n=1, for any n, it follows that if 2=1, when
+
+                                                              [PK]+1
+[K]=0.  If [K]=n and [K*]=[K]+1, then [PK*]=2×[PK]=2. Next, prove that,
+
+                                  n
+for any n, if [K]=n, then [PK]=2. Proof: Assume that [K*]=[K]+1. In that case,
+
+there is some α such that K*=K∪α. Therefore, for each element k of PK,
+
+there is exactly one element of k* of PK such that k*=k∪α. Therefore,
+
+                  [K][K]+10
+[PK*]=2×[PK]=2×2=2. Therefore, if [K]=0, [PK]=2=1, and, for any n>0,
+
+                n[K]
+if [K]=n, [PK]=2. Therefore, for any n, [PK]=2. Q.E.D.
+
+                                                                                [K]
+  It follows that for any class K, whether finite or transfinite, [PK]=2
+                                                                                  .
+
+
+
+
+                                              Orders of Infinity
+
+                        [K]
+ Given that [PK]=2>[K], for any K, whether finite or infinite, it follows
+
+that there are infinitely many transfinites and, therefore, infinitely many
+
+orders of infinity.   [ℝ]>[ℕ]. (Already proved.) [ℕ]=ℵ. (This is a matter of definition.) ℵ=
+                                        DF 01
+
+DF The smallest transfinite greater than ℵ0. This much is known.
+
+                                            [K]
+  What is not known is whether ℵ=2Indeed, given any n, it is unknown
+                                        1. 
+
+                  ℵn
+whether ℵ=2.
+          n+1
+
+  The Continuum Hypothesis is the position that [ℝ]=[Pℕ]=ℵ.
+                                                                        1
+
+  The Generalized Continuum Hypothesis is position that, for any infinitely
+
+large class K, [PK] is the smallest number that is greater than [K].
+
+
+
+
+                                    Cardinal Arithmetic
+
+  In order to understand the arithmetic of transfinites, we must
+
+understand the arithmetic of finites. 
+
+  The meaning of 2+3=3 is the union of a two-membered class with a non-
+
+overlapping three-membered class is a six-membered class.
+
+In general, A+B=C is the union of an A-membered class and a non-
+
+overlapping B-membered class is a C-membered class.
+
+  The meaning of 2×3=6 is the Cartesian Product of a two-membered class
+
+and a three-membered class is a six-membered class.  (For obvious reasons,
+
+it does not matter whether or not the classes in question overlap.) In
+
+general, the meaning of A×B=C is the Cartesian Product of an A-membered
+
+class and a B-membered class is a C-membered class.
+
+                              3
+  Finally, the meaning of 2=8  is there are eight selections from a three-
+
+membered class of two-membered classes, meaning that  there are eight
+
+different classes K# such that
+
+(a) K# has exactly one element in common with each element of K and
+
+(b) K# has no members that do not belong to K.
+
+      Explanation: Let K be the smallest class whose members are: {a,b}, {c,d},
+
+{e,f}. In that case, K# is the smallest class whose members are:
+
+{a, c, e}
+
+{a, c, f}
+
+{a, d, e}{a, d, f}
+
+{b, c, e}
+
+{b, c, f}
+
+{b, d, e}
+
+{b, d, f}.
+
+                                    B
+       In general, the meaning of A=C is there are C-many selections from a B-
+
+membered class of A-membered classes.
+
+      Cardinal arithmetic concerns unordered classes, as opposed to sequences
+
+(ordered classes). Therefore, where cardinals are concerned, be they finite
+
+or transfinite, addition and multiplication are necessarily commutative.
+
+Therefore, cardinal addition and multiplication are always distinct
+
+operations from their ordinal analogues. Where finite cardinals are
+
+concerned, cardinal addition and multiplication are in lockstep with their
+
+ordinal analogues. This is not the case where transfinite cardinals are
+
+concerned, and it was only when the arithmetic or transfinites was first
+
+seriously investigated that the distinction between cardinals and ordinals
+
+was first made. Once it was made, it proved to be of great importance,
+
+primarily because it facilitated the development of vector-arithmetic, which
+
+is generalized ordinal arithmetic.
+
+
+
+
+            Transfinite Cardinal Arithmetic: Addition and Multiplication
+
+
+
+
+  If n is any finite number, ℵ+n=ℵ. Let S be identical with (ℕ, <), that is,
+                                  001
+
+with the sequence:
+
+0, 1, 2, 3,…
+
+And let S be identical with the sequence:
+        2
+
+(0,0), (1,1), 0, 1, 2, 3,…
+
+  ϕ bijects the elements of Swith the elements of S, where:
+                                  1 2(i) ϕ(0)=(0,0),
+
+(ii) ϕ(1)=(1,1), and
+
+(iii) For any cardinal n≥3,  ϕ(n)=n+2.
+
+  Thus, Shas exactly as many members as S, and it follows that ℵ+2=ℵ.
+          1 200
+
+By parity of reasoning, S has exactly as many members as S,  is an arbitrary
+                            1n
+
+class that contains every element of some class K that has ℵ-many
+                                                                      0
+
+members, along with n-many members that do not belong to K.
+
+       For similar reasons, ℵ×n=ℵ, for any finite cardinal n. Explanation: Let
+                            00
+
+K be the smallest class such that:
+T
+
+
+(i) Every element of ℕ belongs to K, and
+                                        T
+
+(ii) For each element n of ℕ, (n, n) belongs to K.
+                                                      T
+
+
+      ϕ bijects ℕ and K, where
+                      T
+
+(a) ϕ(0)=(0,0),
+
+(b) ϕ(1)=1,
+
+(c) For any odd n>1, ϕ(n)=n−1, and  
+
+(d) For every even n>0, ϕ(n)=(n−2, n−2).
+
+  ϕ assigns 0 to (0,0), 1 to 1, 2 to (1,1), 3 to 2, 4 to (2, 2), and so on. It
+
+follows that ℵ×2=ℵ. For any finite n, obvious generalizations of this
+              00
+
+reasoning establish that ℵ×n=ℵ, and non-obvious generalizations (omitted
+                              00
+
+because of their technical character and lack of importance) establish
+
+          2
+ℵ×ℵ=ℵ=ℵ. 
+0000
+
+
+
+
+              Transfinite Cardinal Arithmetic: Subtraction and Division
+
+
+
+
+If A and B are transfinite cardinals, A−B is infinitely ambiguous, and so is
+
+A÷B.Let K and K* each be identical with ℕ. In that case, A−B=ℵ−ℵ=0.
+                                                                    00
+
+Let A and B be identical with, respectively ℕ and the class containing every
+
+element of ℕ other than 1. In that case, A−B=ℵ−ℵ=1.
+                                                      00
+
+Let A and B be identical with, respectively ℕ and the class containing every
+
+element of ℕ other than 1 and 2 In that case, A−B=ℵ−ℵ=2.
+                                                              00
+
+Let A and B be identical with ℕ and the smallest class containing every even
+
+element of ℕ. In that case, A÷B=ℵ÷ℵ=ℵ.
+                                      000
+
+Finally, let A and B both be identical with ℕ. In that case, A÷B=ℵ÷ℵ=1.  
+                                                                            00
+
+By non-obvious extensions of this reasoning (omitted because of their
+
+technical character and lack of importance), ℵ÷ℵ may equal n, for any
+                                                      00
+
+finite n. 
+
+                Ordinal numbers and Ordinal Transfinite Arithmetic
+
+
+
+
+  Just as a cardinal number is the number of a class, an ordinal number is
+
+the number of a series. Thus, the ordinal number 1 is the number of any
+
+one-membered series; the ordinal number 2 is the number of any two-
+
+membered series; and so on.
+
+  Ordinal numbers are positions. In the series,
+
+  4, 8, 12, 16,…
+
+  4’s ordinal number is 1.  What this means is that the smallest 4-
+
+containing subseries of this series contains one member.
+
+  In the series,
+
+  1, 2, 3, 4,…
+
+  4’s ordinal number is 4. What this means is that the smallest 4-contaning
+
+subseries of series contains four members.
+
+  If a series S is finite, rearranging S’s member always yields a series S*
+
+that has the same number of elements as S. For this reason, where finite
+
+ordinals are concerned, addition and multiplication are commutative
+
+operations, meaning that, if A and B are finite ordinals, then A+B=B+A and
+
+A×B=B×A.  But if S is an infinitely long series, rearranging S’s members may yield a
+
+series S* that does not contain the same number of elements as S.
+
+Explanation:  Let S be (ℕ, <). So S is the series:
+                    11
+
+  0, 1, 2, 3, 4, 5,…
+
+  And let S be the series
+            2
+
+  3, 0, 1, 2, 4, 5…
+
+S and S obviously have the same number of members.
+  12
+
+      Let S be the series:
+        3
+
+    0, 1, 3, 4, 5,…2
+
+S has one more member than S. This is because the members of S can be
+311
+
+bijected with the elements of the segment of S that precedes 2, a
+                                                      3
+
+consequence being that S is one larger than S.  For the same reason, S is
+                            313
+
+one larger than S.
+                  2
+
+  Let ω be the number of (ℕ, <). Thus, ω= [S]=[S]. ωis the smallest
+        00 120 
+
+transfinite ordinal number.
+
+  Given that [S] is one larger than [S], it follows that ω+1> ω, but given
+                  3100
+
+that [S2]=[S], it follows that 1+ ω= ω. And given that
+            100
+
+  These points can be generalized. Let S be the series:
+                                                4
+
+    2, 3, 0, 1, 4, 5,…,
+
+and let S be the series:
+        5
+
+    0, 1, 4, 5,…2, 3
+
+      By obvious extensions of points already made, it follows that [S]=[S]=ω
+                                                                              410
+
+and also that S is larger by two than S. Given that  [S]=[S]=ω, it follows
+                51410
+
+that 2+ω> 1+ω>ω; and given that S is larger by two than S, it follows
+        00051
+
+that ω+2> ω+1>ω.
+      000
+
+  Moving on: Let S be the series:
+                      6  0, (0, 0), 1, (1, 1), 2, (2, 2), 3, (3,3),…
+
+and let S be the series:
+        7
+
+  0, 1, 2, 3, 4, 5,….(0,0), (1,1), (2,2), (3,3), (4,4), (5,5)…
+
+  Given that S can be bijected with S, it follows that [S]=ω=ω×2, where
+                16600
+
+“ω×2” is being used to denote a progression of pairs, as opposed to a pair
+0
+
+of progressions; and given that S can be bijected with the part of S
+                                      17
+
+preceding (0,0), and also with the part Sbeginning with (0,0), it follows that
+                                              7 
+
+2×ω is twice as large as each of ωand ω×2, where “2×ω” is being used to
+  00 00
+
+denote a pair of progressions, as opposed to a progression of pairs. 
+
+  For analogous reasons, [S]=ω, whereas [S] is three times greater than
+                                809
+
+ω, where S and S are, respectively,
+089
+
+  0, (0,0), (0,0,0), 1, (1,1), (1,1,1,), 2, (2,2), (2,2,2),…
+
+and
+
+  0, 1, 2, 3, 4, 5,….(0,0), (1,1), (2,2), (3,3), (4,4), (5,5)…(0,0,0), (1,1,1),
+
+(2,2,2), (3,3,3), (4,4,4), (5,5,5),…
+
+  To sum up, addition and multiplication are commutative where finite
+
+ordinals are concerned but not where transfinite ordinals are concerned. 
+
+More generally, addition and multiplication are commutative where scalar
+
+(one-dimensional) magnitudes are concerned, but not, except under special
+
+circumstances, where vector (n-dimensional, for n>1) magnitudes are
+
+concerned.
+
+
+
+
+                              The importance of Ordinals
+
+      An ordinal number is a serial number, i.e. it is the number of a series.
+
+  A series is an ordered pair (K,R), where K is a class and R is a relation
+
+strictly orders the elements of K, meaning that if x, y and z are arbitrary
+
+elements of K, then:
+
+  (i) x does not bear R to x,  (ii) if x bears R to y, y does not bear R to x, and
+
+  (iii) if x bears to y and y bears R to x, then x bears R to y.
+
+    [(K, R)]=[(K*, R*)] means that (K, R) has the same ordinal number as
+
+(K*, R*).
+
+ [(K, R)]=[(K*, R*)] iff there is a one-one function ϕ such that if S is any
+
+statement concerning the interrelations of the elements of K, ϕ(S) is an
+
+equivalent statement about the interrelations of the elements of K*. (Two
+
+statements s and s* are equivalent iff s is true iff s* is also true.)
+
+  And therein lies the importance of ordinals: Series are ordinally identical
+
+just in case truths about the one series can be represented as truths about
+
+the other series. More generally, any two structured manifolds are ordinally
+
+identical just in case any truth concerning the elements of the one can be
+
+expressed as truths concerning elements of the other.  A structured
+
+manifold is any class whose elements are ordered with respect to one
+
+another. (A class of strictly ordered triples is a structured manifold, albeit
+
+one of little complexity, given only two ordering-relations are involved.)
+
+  Conversely, wherever translation is possible, there is ordinal identity. It is
+
+only because the English language is ordinally identical with the Spanish
+
+language that English can be translated into Spanish and vice versa.
+
+  Ordinal numbers are mathematical representations of structure, and any
+
+given structure is described by an ordinal number, with the qualification that
+
+the two-dimensional ordinals that we have been considering describe
+
+exgtremely primitive structures.
+
+  We will now discuss some ordinal identities of a less trivial nature.
+
+
+
+                                                                ℵ0
+   Important facts about [ℝ]=2
+
+
+  [ℝ]=The number of points on a line.
+
+  Proposition: The points on a line can be bijected with the points in a two-
+
+dimensional space; the points in a two-dimensional space can be bijected
+
+with the points in a three-dimensional space; the class of points in an n-
+
+dimensional space can be bijectd with the points in an n+1-dimensional
+
+manifold. 
+
+    Proof-preliminaries:  Each point on a line may be identified with a realnumber.
+
+  Any given real number may be identified with an infinite series of
+
+integers.
+
+  Any given point in a two-dimensional space is given by an ordered pair
+
+(A, B).
+
+    Therefore, any given point in a two-dimensional space is given by two
+
+infinitely long series of integers.
+
+  Let A*B be a single integer-series consisting of the integer-series that is
+
+    identical with A followed by the integer-series that is identical with B. In
+
+  that case, A*B≠C*D, unless A=C and B=D.  
+
+  Proof proper: If A*B is assigned to (A, B), for reach real-pair (A, B), the
+
+class of real-pairs is a bijected with the class of reals. If A*B*C is assigned to
+
+(A, B, C), for each real-triple (A, B, C), the class of real-triples is bijected with
+
+the class of reals; and so on.
+
+                  2n
+  Thus, [ℝ]=[ℝ]=[ℝ], for any finite n.
+
+
+
+                                                                      n
+                      The significance of the fact that [ℝ]=[ℝ]
+
+                        2
+ Given that [ℝ]=[ℝ], it follows that a line can be ‘transformed’ into a
+
+plane. More plainly, it follows that if a line segment is appropriately curved,
+
+                                                                          2
+it can fill out a two-dimensional space. Contrariwise, if [ℝ]<[ℝ], then a line
+
+could not fill out a plane. If a line could not fill out a plane, then it would not
+
+possible for the trajectory of an object to cover every point on a plane. This
+
+means that the trajectory of an object would---for reasons of mathematics,
+
+as opposed to physics or circumstance-specific fact---be limited to a proper
+
+subset of a given plane’s points. Such a plane would not as a whole
+
+constitute a possible physical space, since a physical space is, by definition, a
+
+class of points that can be occupied. Therefore, such a plane would a plane
+
+in name only.
+
+                                                3
+  For analogous reasons, unless [ℝ]=[ℝ], not all of the points in a given
+
+plenum (three-dimensional space) could be occupied; wherefore, that
+
+plenum would be a plenum in name only.
+
+                              n
+  So the fact that [ℝ]=[ℝ], for any finite n, is not a theoretical curiosity. On
+
+the contrary, it is an important part of the mathematical foundation ofkinematics (the study of motion) and therefore of dynamics (the study force-
+
+governed motion).

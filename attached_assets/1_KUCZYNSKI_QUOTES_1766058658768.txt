@@ -1,0 +1,654 @@
+# Quotes by Topic - Analytic Philosophy (First 10%)
+
+## 1. Analytic Philosophy
+
+1. "Philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world."
+
+2. "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+
+3. "Analytic philosophy is post-Fregean philosophy."
+
+4. "Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements."
+
+5. "Philosophical puzzles are solved by making it clear what statements mean. This is the basic tenet of analytic philosophy."
+
+---
+
+## 2. Ontology
+
+1. "Everything that exists is either a property or is in space-time."
+
+2. "Analytic philosophers are, almost by definition, ontologically very conservative. In other words, they don't want to grant existence to anything whose existence hasn't been demonstrated beyond a shadow of a doubt."
+
+3. "Pre-analytic, pre-Fregean philosophers were ontologically very liberal."
+
+4. "Even though analytic philosophers do ontologize, they do it only when there is no other way of demonstrating the legitimacy of some indisputably correct form of inference."
+
+5. "Philosophy explains by clarifying statements. Science explains by positing entities."
+
+---
+
+## 3. Categories
+
+1. "We understand the world in terms of certain categories (e.g., person, statement, fact, impossibility, existence). Philosophy studies these categories."
+
+2. "Event, space, time, cause, persistence, thing, mind, perception, belief, knowledge, language, truth, value-judgment, law, justice. Whatever we know, we know it through these categories."
+
+3. "Philosophy has the very non-trivial job of identifying, in as clear and explicit a manner as possible, the conditions that a given thing must satisfy if it is to fall into a given one of these categories."
+
+4. "Although we cannot think without them, they are seldom the objects of thought. The result is that, although we're adept at using them, we know little about them."
+
+5. "Philosophy analyzes the categories in terms of which we think about the world."
+
+---
+
+## 4. Causation
+
+1. "The world isn't homogeneous. It is articulated into events bearing various causal and, more generally, spatiotemporal relations to one another."
+
+2. "The philosopher wants to know what causes what and what mechanisms were involved only to the extent that knowing this helps him understand what it is for one thing to cause another."
+
+3. "The philosopher wants to know what it is that one knows in knowing that one thing made another happen."
+
+4. "The connection between a thing's being made of copper and its being a good conductor of electricity isn't fortuitous and is grounded in the natures of those two properties."
+
+5. "Nomic connections (e.g., the connection between a thing's being made of copper and its being a good conductor of electricity) are expressed by statements whose subjects are properties."
+
+---
+
+## 5. Perception
+
+1. "Most animate (mind-having) beings have sense-perceptions; i.e., they see things, hear things, etc."
+
+2. "Our sense-perceptions give us pictures. Not all sensory modalities give us visual pictures, of course. Hearing gives us auditory pictures, touch gives us tactile pictures, etc."
+
+3. "Perception is description. If you're looking at an actual elephant, which we'll call 'Larry,' the information encoded in your visual perception isn't the effect that Larry is standing over there."
+
+4. "Seeing Larry involves seeing a thing having various properties—having a certain color, shape, size, position (relative to you), etc."
+
+5. "Your seeing Larry consists in your seeing those property-instances—in your seeing that such and such properties are instantiated."
+
+---
+
+## 6. Knowledge
+
+1. "Some of these beliefs are true; others are false. Some of the true ones are cases of knowledge."
+
+2. "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+
+3. "It's hard to identify the principles that guide our thoughts. Self-understanding isn't the mind's primary function."
+
+4. "Even though we are good at knowing who knows a language and who does not, we don't know what it is that we know by virtue of knowing this."
+
+5. "The property of having knowledge is a form of the property of having a mind."
+
+---
+
+## 7. Epistemology
+
+1. "This discipline studies the nature and extent of knowledge. Among the questions it tries to answer are: What is knowledge? What separates those beliefs that are knowledge from those that are not?"
+
+2. "Can we know about the future, the past, the possible but not actual, the impossible?"
+
+3. "Are there any self-evident or self-justifying beliefs? Or must all justified beliefs be justified by beliefs other than themselves?"
+
+4. "What is the structure of the totality of our knowledge? Are there some pieces of knowledge from which all the rest are derived or are all pieces of knowledge interdependent?"
+
+5. "Is there a fundamental difference between knowledge of spatiotemporal fact and knowledge of purely conceptual truths?"
+
+---
+
+## 8. Language
+
+1. "Some percipient creatures communicate with one another through the use of language. Mastery of a language makes it easier for one to communicate one's beliefs to others, and it also enhances one's ability to reason."
+
+2. "We are excellent at distinguishing linguistic from non-linguistic behavior, which suggests that, at some level, we know what conditions a creature's behavior must meet if it is to embody knowledge of a language."
+
+3. "A burst of noise that doesn't have a meaning is just a burst of noise. A burst of noise is an expression only if it has a meaning."
+
+4. "Our knowledge of what words mean is what guides our linguistic behavior."
+
+5. "Speaking consists in making noises for the reason that one believes that, given existing semantic rules, those noises have certain meanings."
+
+---
+
+## 9. Philosophy of Language
+
+1. "This discipline studies the nature of linguistic meaning."
+
+2. "What does it mean to say that 'Smith' refers to Smith? What, in general, does it mean to say of an expression E that it picks out some object O?"
+
+3. "How do the meanings of a sentence's parts relate to the meaning of the sentence as a whole?"
+
+4. "How is it that statements about non-existent things can be meaningful?"
+
+5. "How well does the grammatical structure of a sentence reveal what it actually says? Does grammar distort meaning or, on the contrary, is grammar a good guide to logical form?"
+
+---
+
+## 10. Metaknowledge
+
+1. "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+
+2. "The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold."
+
+3. "He wants to know the laws that the laws can't break."
+
+4. "The non-philosopher wants to know specifics. What happened? When did it happen? What did it cause? How did it cause it?"
+
+5. "The philosopher is to the physicist what the physicist is to the engineer and, therefore, what the engineer is to the stranded motorist."
+
+---
+
+## 11. Truth
+
+1. "Most percipient (perception-having) creatures have beliefs. Some of these beliefs are true; others are false."
+
+2. "A sentence is true or false depending on whether it has a true or false proposition for its meaning."
+
+3. "For a proposition to be true is for it to fit the facts."
+
+4. "Propositions are properties and truth is instantiatedness."
+
+5. "Nothing false is meaningless, since to be false is to bear a false meaning."
+
+---
+
+## 12. Belief
+
+1. "Most percipient (perception-having) creatures have beliefs."
+
+2. "By stating a few of our most basic beliefs, we can identify some more of the categories in terms of which we understand the world."
+
+3. "To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+4. "Our knowledge of what words mean is what guides our linguistic behavior."
+
+5. "Mental entities have propositions for their contents. When correct, those propositions describe existing things."
+
+---
+
+## 13. Mind
+
+1. "Some of these things have minds. Most animate (mind-having) beings have sense-perceptions."
+
+2. "Self-understanding isn't the mind's primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one."
+
+3. "According to Franz Brentano, the essence of the mental is intentionality."
+
+4. "For something to be a mental entity is for it to be representational."
+
+5. "The property of having knowledge is a form of the property of having a mind."
+
+---
+
+## 14. Value Theory
+
+1. "Rational (reason-capable) creatures tend to make value-judgments. They judge one another's actions, and sometimes their own, to be good or bad."
+
+2. "We're excellent at distinguishing between moral and immoral behavior."
+
+3. "We know that rape is immoral and that donating money to charity (for selfless reasons) is moral."
+
+4. "When asked to identify the principles embodied in these pedestrian and uncontroversial judgments, we have trouble producing theories that don't distort them."
+
+5. "Creatures that make such judgments tend to regulate their behavior towards one another by means of systems of law."
+
+---
+
+## 15. Ethics
+
+1. "Rational (reason-capable) creatures tend to make value-judgments."
+
+2. "We're excellent at distinguishing between moral and immoral behavior."
+
+3. "We know that rape is immoral and that donating money to charity (for selfless reasons) is moral."
+
+4. "When asked to identify the principles embodied in these pedestrian and uncontroversial judgments, we have trouble producing theories that don't distort them."
+
+5. "Political philosophy has benefited enormously from post-Fregean love of rigor."
+
+---
+
+## 16. Justice
+
+1. "Creatures that make such judgments tend to regulate their behavior towards one another by means of systems of law, the supposed purpose of which is to ensure that such behavior satisfy the requirements of justice."
+
+2. "Utterances of words like 'justice,' 'knowledge,' and 'truth' are used in situations that don't necessarily have any observable characteristics in common with one another."
+
+3. "People are likely to use that word when they're in classes concerning ethics or the philosophy of law."
+
+4. "They're likely to use it when they believe that they've been wronged."
+
+5. "Any correct generalization as to when words like 'justice,' 'logic,' 'knowledge' and 'morality' are used will itself employ the very concepts that knowledge of such generalizations is supposed to yield."
+
+---
+
+## 17. Law
+
+1. "Creatures that make such judgments tend to regulate their behavior towards one another by means of systems of law."
+
+2. "There could in principle be a legal system that failed to embody any morality at all."
+
+3. "x's being a legal system is inconsistent with x's failing to embody a certain morality."
+
+4. "There are analytic philosophers of law, analytic ethicists, analytic philosophers of religion, etc."
+
+5. "The supposed purpose of law is to ensure that behavior satisfy the requirements of justice."
+
+---
+
+## 18. Frege
+
+1. "Gottlob Frege (1848–1925), the great philosopher and mathematical logician, meant when he said that logic studies not the laws of nature but the 'laws of the laws of nature.'"
+
+2. "Frege is often described as the first analytic philosopher."
+
+3. "Frege showed that this is wrong. Any interest that botanists have in plants that might exist, but don't, is subordinate to their interest in what plants actually exist."
+
+4. "Frege's legacy to philosophy can be summed up thus: When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief."
+
+5. "Frege showed that, by thinking clearly, systematically, and self-critically, one could make real headway on philosophical problems in which others had yet to make so much as a dent."
+
+---
+
+## 19. Russell
+
+1. "Russell (1905, 1914, 1917, 1918, 1927, 1948) did a very good job of clarifying and developing this viewpoint."
+
+2. "Russell (1905) holds (correctly, I will argue) that one cannot possibly say of some individual x either that x does exist or that x does not exist."
+
+3. "The argument about to be given was put forth by Russell (1920)."
+
+4. "See Russell (1917, Chapter X), Barwise (1983), Kuczynski (2007)."
+
+5. "See Russell (1917, Chapter X), and Russell (1984)."
+
+---
+
+## 20. Theory of Descriptions
+
+1. "When one says 'the even prime greater than two doesn't exist,' one isn't saying of some number x such that x is an even prime greater than two that x doesn't exist."
+
+2. "What one is actually saying is that the class of even numbers greater than two doesn't overlap with the class of prime numbers."
+
+3. "All meaningful negative existentials are to be similarly analyzed."
+
+4. "In reparsing NS, Frege showed that its logical syntax differed from its apparent syntax."
+
+5. "To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+---
+
+## 21. Logical Form
+
+1. "Frege's key insight: Logical form ≠ grammatical form."
+
+2. "SS's logical form diverges from its grammatical form."
+
+3. "Were their actual meanings reflected in their grammar—they'd be ungrammatical since they have no meanings."
+
+4. "Frege showed that a sentence's surface structure sometimes pulled apart from its deep structure."
+
+5. "When we align TM's real meaning with its grammar, we don't have to swallow this rank absurdity."
+
+---
+
+## 22. Grammar
+
+1. "In respect of its grammatical form, 'John smokes' is comparable to 'Mary smokes.'"
+
+2. "In terms of what its grammar suggests that it is saying, SS is indistinguishable from sentences that attribute the property of smoking to specific objects."
+
+3. "When we align NS's logical form with its grammatical form, we no longer have to say, completely absurdly, that NS attributes to some non-specific individual."
+
+4. "Notice that UP's grammatical form is the opposite of TM's."
+
+5. "A sentence's surface structure sometimes pulled apart from its deep structure."
+
+---
+
+## 23. Reference
+
+1. "What does it mean to say that 'Smith' refers to Smith?"
+
+2. "Given any meaningful expression (e.g. 'knowledge'), there is some object that is its meaning."
+
+3. "In the sentence 'Larry is standing over there, next to that tree, looking ill [etc.]' Larry is represented by a single, semantically simple symbol (namely, 'Larry')."
+
+4. "Among the narrowly semantic concepts are compositionality, reference, quantification, force, and negation."
+
+5. "To what extent can the nature of linguistic meaning in general be understood in terms of the relationship that proper names bear to their referents?"
+
+---
+
+## 24. Sense and Reference
+
+1. "The proposition meant by that sentence can be grasped without speaking English."
+
+2. "Propositions are the things meant by sentences. 'Snow is white,' 'schnee is weiss,' and 'la neige est blanche' all mean the same thing."
+
+3. "There is some one proposition that is the meaning of each of them."
+
+4. "A sentence is true or false depending on whether it has a true or false proposition for its meaning."
+
+5. "For a sentence to be 'true' is for it to encode a true proposition."
+
+---
+
+## 25. Definite Descriptions
+
+1. "What 'nobody likes Larry' means is not that some un-person likes Larry, and is instead that the set of people who like Larry is empty."
+
+2. "If you put all the square circles in existence in an otherwise empty room, that room would remain empty."
+
+3. "SC says, not some un-thing is a circle, but that the set of things that are both circular and square is an empty one."
+
+4. "NS says that the property of being a smoker is instantiated."
+
+5. "NS2's grammatical subject corresponds to NS's grammatical predicate; and NS2's grammatical predicate corresponds to NS's grammatical subject."
+
+---
+
+## 26. Existence
+
+1. "For a property to be instantiated is for there to be an instance of it."
+
+2. "Properties that nothing has are uninstantiated."
+
+3. "There exists a property, viz. that of triangularity, such that, because nothing has it, it doesn't exist. Which is absurd."
+
+4. "The property of being a perfect husband is obviously distinct from the property of being a perfect soldier, even though neither property is instantiated."
+
+5. "Everything that exists is either a property or is in space-time."
+
+---
+
+## 27. Negative Existentials
+
+1. "Russell (1905) holds (correctly, I will argue) that one cannot possibly say of some individual x either that x does exist or that x does not exist."
+
+2. "When one says 'the even prime greater than two doesn't exist,' one isn't saying of some number x such that x is an even prime greater than two that x doesn't exist."
+
+3. "What one is actually saying is that the class of even numbers greater than two doesn't overlap with the class of prime numbers."
+
+4. "All meaningful negative existentials are to be similarly analyzed."
+
+5. "Nothing non-existent or quasi-existent can be the object of a thought or perception."
+
+---
+
+## 28. Quantifiers
+
+1. "SS is making a statement, not about some non-specific individual, but about a very specific property, and it's saying of this property that it's instantiated."
+
+2. "Do expressions like 'some person,' 'all people,' and 'no people' function in the same way as proper names?"
+
+3. "'Someone' isn't in the same category as 'John' and 'Ethel.' It doesn't function in the same way."
+
+4. "There is no individual N such that it is self-contradictory to say that someone smokes but N does not."
+
+5. "Therefore 'someone' doesn't refer to anyone."
+
+---
+
+## 29. Facts
+
+1. "For a proposition to be true is for it to fit the facts."
+
+2. "The world was a certain way before we were around; it will be a certain way after we're gone."
+
+3. "Certain propositions are true independently of our having any beliefs."
+
+4. "Mental entities have propositions for their contents. When correct, those propositions describe existing things."
+
+5. "Pictures, unlike sentences, go straight to the facts, if any there be, that they represent."
+
+---
+
+## 30. Correspondence Theory
+
+1. "For a proposition to be true is for it to fit the facts."
+
+2. "For a proposition to be true is for the world to be a certain way."
+
+3. "The proposition that Smith is in Richmond is true if the world is a certain way and it's false if it isn't."
+
+4. "The world's being a certain way is identical with its having a certain property."
+
+5. "A proposition's being true must be identified with its being instantiated."
+
+---
+
+## 31. Properties
+
+1. "Not everything that exists is in space-time. Everything that is in space-time is an instance of at least one property, and properties are not themselves in space-time."
+
+2. "No matter how thoroughly one searches the universe, one will never encounter the property of liking to play tennis. One will, at most, encounter its instances."
+
+3. "Consider the property of having a perfectly triangular shape. Nothing has this property. Are we to say that it doesn't exist?"
+
+4. "A consequence of identifying properties with 'aggregates' of their instances is that properties that clearly aren't identical with each other must be seen as being identical with each other."
+
+5. "Unless it's conceded that properties exist, there is no way to account for the fact that there are principled relationships of any kind."
+
+---
+
+## 32. Sets
+
+1. "Sets are not spatiotemporal, and sets do not initially appear to be identical with properties. But they too turn out to be properties."
+
+2. "Contrary to what many a philosopher has said, properties are not identical with the sets that contain their own instances."
+
+3. "The property of being a bird is not identical with the set of all birds."
+
+4. "Let S1 be the set containing the smallest number greater than zero that is divisible by two, and let S2 be Fred's favorite number, which happens to be the number two. S1 and S2 are the same set."
+
+5. "The set of things that are both circular and square is an empty one."
+
+---
+
+## 33. Instantiation
+
+1. "For a property to be instantiated is for there to be an instance of it. An instance of a property is something that has it."
+
+2. "You are an instance of, and therefore instantiate, the property of being human since, being human, you have that property."
+
+3. "The property of being a square circle has the property of being uninstantiated."
+
+4. "Propositions are properties and truth is instantiatedness."
+
+5. "The instances of higher-properties, being properties themselves, are not in space-time. The instances of first-order properties are in space-time."
+
+---
+
+## 34. Universals
+
+1. "The doctrine that spatiotemporal things are instances of non-spatiotemporal things is known as 'Platonism.'"
+
+2. "Plato was the first person to advocate that doctrine."
+
+3. "Sometimes Platonism is known as the theory of universals."
+
+4. "Nominalism is so called because some anti-Platonists held that universals are identical with words."
+
+5. "Words are themselves universals."
+
+---
+
+## 35. Entailment
+
+1. "One statement entails another if, supposing the first is true, the second couldn't possibly be false."
+
+2. "'Smith is a triangle' entails 'Smith has more than one side.'"
+
+3. "One statement, S1, formally entails another sentence, S2, if the statement 'if S1, then S2' is a formal truth."
+
+4. "A statement is a formal truth if every statement having the same form as it is true."
+
+5. "The only way to know that some formal entailment is valid is to know that some informal entailment is valid."
+
+---
+
+## 36. Empiricism
+
+1. "Empiricism says that all knowledge is observation based."
+
+2. "The rules that we use to make inferences from perceptual experience cannot themselves be learned strictly on the basis of sense-perception."
+
+3. "This is the real problem with empiricism."
+
+4. "Since empiricists cannot grant the existence of things, such as properties, that cannot be seen or otherwise known directly on the basis of observation, they end up denying that anything has any bearing on anything."
+
+5. "Those who deny the existence of properties tend to be empiricists."
+
+---
+
+## 37. Logic
+
+1. "Frege meant when he said that logic studies not the laws of nature but the 'laws of the laws of nature.'"
+
+2. "Philosophy is the analysis of analysis, the logic of logic, the science of science."
+
+3. "All principled connections are relationships between properties."
+
+4. "All logical connections (e.g., the connections between a thing's having knowledge and its having a mind) are expressed by statements whose subjects are properties."
+
+5. "Philosophical logic is the branch of philosophy that aspires to clarify the concepts that are used in formal logic but that themselves resist formal treatment."
+
+---
+
+## 38. Metaphysics
+
+1. "Everything that exists is either a property or is in space-time."
+
+2. "Properties themselves have properties. The property of being a square circle has the property of being uninstantiated."
+
+3. "Properties of properties are higher-order properties."
+
+4. "Non-spatiotemporal entities that seem not to be properties always turn out to be so."
+
+5. "Propositions are not spatiotemporal and propositions do not initially seem to be identical with properties. But propositions turn out to be properties."
+
+---
+
+## 39. Philosophy of Mind
+
+1. "This discipline studies the concepts in terms of which the mind is to be understood."
+
+2. "Must one know a language in order to think? Or, on the contrary, is the ability to think a prerequisite to learning and operating with a language?"
+
+3. "What are beliefs, and what is the difference between believing that Smith is tall and wondering whether he is tall?"
+
+4. "How is perception related to thought?"
+
+5. "Can perceptual content (i.e., what our eyes, ears, etc., tell us) be put into words?"
+
+---
+
+## 40. Semantics
+
+1. "Among the narrowly semantic concepts are compositionality, reference, quantification, force, and negation."
+
+2. "The semantic rules of English don't say that snow is white. They say that, if snow is white, one can express that fact by saying 'snow is white.'"
+
+3. "Sentences depict facts by way of having propositions for their meanings."
+
+4. "Semantic rules, though often capable of being expressed by sentences, are not themselves sentences."
+
+5. "No language can express all of its own semantic rules."
+
+### Analytic Philosophy
+1. "Analytic philosophy is philosophy that is driven by acceptance of FL."
+2. "Analytic philosophy is post-Fregean philosophy."
+3. "Philosophy is conceptual analysis. To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+### Logical Analysis
+1. "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+2. "Philosophy explains by clarifying statements. Science explains by positing entities."
+3. "Philosophical insight is acquired, not by doing parascience, but by analyzing meanings—not by positing entities, but by clarifying statements."
+
+### Philosophical Categories
+1. "We understand the world in terms of certain categories (e.g., person, statement, fact, impossibility, existence). Philosophy studies these categories."
+2. "Event, space, time, cause, persistence, thing, mind, perception, belief, knowledge, language, truth, value-judgment, law, justice."
+3. "Whatever we know, we know it through these categories (and others like them—the list is not complete)."
+
+### Meta-Knowledge
+1. "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+2. "The philosopher is interested in the laws governing the laws."
+3. "John Stuart Mill... said that he was an expert in but one science, that being the science of science."
+
+### Preconditions of Knowledge
+1. "Philosophy has the very non-trivial job of identifying... the conditions that a given thing must satisfy if it is to fall into a given one of these categories."
+2. "So far as philosophy succeeds in this endeavor, it makes it clear what it is that we are doing when we are doing anything cognitive."
+3. "Philosophy is the analysis of the preconditions of all knowledge."
+
+### Philosophy vs. Science
+1. "The philosopher is to the physicist what the physicist is to the engineer."
+2. "Philosophy isn’t para-science. Philosophy is conceptual analysis."
+3. "Science posits entities that are not themselves directly encountered but that... account for phenomena that are directly encountered."
+
+### Frege's Insights
+1. "Frege’s legacy to philosophy can be summed up thus: (FL) When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief."
+2. "Frege showed that this is wrong [that philosophers study the most general features of the actual world]."
+3. "Frege is often described as the first analytic philosopher."
+
+### Logical Form
+1. "Frege’s key insight: Logical form ≠ grammatical form."
+2. "SS’s logical form diverges from its grammatical form."
+3. "What SS is saying... is that the characteristic... of being a smoker is instantiated."
+
+### Grammatical Form
+1. "In respect of its grammatical form, (JS) 'John smokes' is comparable to (MS) 'Mary smokes.'"
+2. "The wrong way to react to grammatical surface-structure."
+3. "If one were to take TM at face value, and were thus to assume that its meaning paralleled that of JTM..."
+
+### Quantification
+1. "Statements that make sense describe possible realities and those that don’t don’t."
+2. "'Someone' isn’t in the same category as 'John' and 'Ethel.'"
+3. "SS is making a statement... about a very specific property, and it’s saying of this property that it’s instantiated."
+
+### Instantiation
+1. "For a property to be instantiated is for there be an instance of it."
+2. "The property of being a person who has run a three-minute mile is uninstantiated."
+3. "SC says... that the property of being a square circle is uninstantiated."
+
+### Uninstantiation
+1. "There are properties that nothing has."
+2. "TM says that... the property of being a person who has run a three-minute mile is uninstantiated."
+3. "The set of things that are both circular and square is an empty one."
+
+### Ontological Conservatism
+1. "Analytic philosophers are, almost by definition, ontologically very conservative."
+2. "As a general rule, analytic philosophers do not try to solve philosophical problems by 'ontologizing'."
+3. "Pre-analytic, pre-Fregean philosophers were ontologically very liberal."
+
+### Intentionality
+1. "According to Franz Brentano... the essence of the mental is intentionality."
+2. "For something to be a mental entity is for it to be representational."
+3. "Mental entities have propositions for their contents."
+
+### Hallucinations
+1. "Hallucinations are mental entities. But what does a hallucination of a pink elephant represent?"
+2. "Your visual experience today has for its content a false proposition to the effect that there is a thing having thus and such properties."
+3. "Hallucinations no more require the existence of non-existent existents than veridical perceptions."
+
+### Meinong's Objects
+1. "His pupil, Alexius Meinong... added another bogus category... the category of 'subsistent' entities."
+2. "Brentano and Meinong were ontologizing when they should have been analyzing."
+3. "A hallucination of a pink elephant has a non-existent pink elephant for its object. But that’s absurd."
+
+### Empirical Puzzles
+1. "Some puzzles result from ignorance of spatiotemporal facts."
+2. "The puzzles that science deals with typically involve a failure to know all the facts."
+3. "Scientific breakthroughs have two components: (i) a strictly fact-based component... (ii) a purely conceptual component."
+
+### Philosophical Puzzles
+1. "Unlike scientific puzzles, philosophical puzzles are not solved by generating new raw data."
+2. "Philosophical puzzles are purely conceptual in nature and have no strictly factual component."
+3. "Philosophical puzzles result... from a failure to draw the right inferences. They result... from confusion."
+
+### Conceptual Clarification
+1. "Philosophy is explication; it is the clarification of the statements that we accept but whose depths we haven’t yet fully fathomed."
+2. "Philosophical puzzles are solved by making it clear what statements mean."
+3. "To make a philosophical discovery is... to make explicit a previously unrecognized implication of an existing belief."

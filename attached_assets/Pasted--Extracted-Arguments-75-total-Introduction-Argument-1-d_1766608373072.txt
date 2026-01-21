@@ -1,0 +1,1019 @@
+# Extracted Arguments (75 total)
+
+## Introduction
+
+### Argument 1 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James puts forth several different definitions of 'pragmatism.'
+- (v) Truth is made, not discovered.
+
+**→ Conclusion:** Pragmatism posits that truth is a construct rather than a discovery.
+
+*Source: Introduction | Importance: 9/10*
+
+---
+
+### Argument 2 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The document critically examines William James' pragmatism, arguing that it conflates epistemology with metaphysics and ontology.
+
+**→ Conclusion:** James' pragmatism incorrectly conflates epistemology with metaphysics and ontology.
+
+*Source: Introduction | Importance: 9/10*
+
+---
+
+### Argument 3 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James puts forth several different definitions of 'pragmatism.'
+- The following list contains the primary such definitions: (i) The meaning of a hypothesis - what it says about the world - lies in its observable consequences.
+
+**→ Conclusion:** Pragmatism is defined partly through the observable consequences of a hypothesis.
+
+*Source: Introduction | Importance: 8/10*
+
+---
+
+### Argument 4 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James puts forth several different definitions of 'pragmatism.'
+- (ii) A true idea is one that allows us to control the world; a false one is one that doesn't.
+
+**→ Conclusion:** Pragmatism equates truth with control over the world.
+
+*Source: Introduction | Importance: 8/10*
+
+---
+
+### Argument 5 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James puts forth several different definitions of 'pragmatism.'
+- (iii) True ideas are those that we can 'assimilate', and false ones are those we cannot.
+
+**→ Conclusion:** Pragmatism links truth to the ability to assimilate ideas.
+
+*Source: Introduction | Importance: 8/10*
+
+---
+
+### Argument 6 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James puts forth several different definitions of 'pragmatism.'
+- (iv) 'Truth happens to an idea.'
+
+**→ Conclusion:** Pragmatism suggests that truth is a process or event that befalls an idea.
+
+*Source: Introduction | Importance: 8/10*
+
+---
+
+### Argument 7 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatism: Epistemology Posing as Metaphysics Table of Contents.
+- I. Introduction
+- II. (i)-(v) Evaluated.
+- III. Pragmatism: Epistemology Posing as Ontology
+
+**→ Conclusion:** The document aims to provide a comprehensive examination of pragmatism's philosophical stance.
+
+*Source: Introduction | Importance: 8/10*
+
+---
+
+### Argument 8 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- This list contains some redundancies, as we will see.
+
+**→ Conclusion:** There are overlapping concepts within James' definitions of pragmatism.
+
+*Source: Introduction | Importance: 7/10*
+
+---
+
+### Argument 9 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- A Pragmatist Counterargument: What about Hypotheses that are observationally equivalent for reasons of natural law?
+
+**→ Conclusion:** There are counterarguments to pragmatism regarding observationally equivalent hypotheses.
+
+**Counterarguments addressed:**
+- What about Hypotheses that are observationally equivalent for reasons of natural law?
+
+*Source: Introduction | Importance: 7/10*
+
+---
+
+### Argument 10 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Section Description: This section introduces the concept of pragmatism as defined by William James, listing the primary definitions and setting the stage for their evaluation.
+
+**→ Conclusion:** The introduction sets the stage for evaluating James' definitions of pragmatism.
+
+*Source: Introduction | Importance: 6/10*
+
+---
+
+## Evaluation of Pragmatist Definitions (i)-(v)
+
+### Argument 11 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatist argues truth is equated with usefulness.
+- This does not allow explanation of truth’s inherent value.
+- A realist can distinguish truth from usefulness.
+
+**→ Conclusion:** Realist approach is necessary for explaining truth’s value.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 9/10*
+
+---
+
+### Argument 12 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- (i) is tantamount to saying: Instead of asserting some hypothesis H, you might as well just assert O, where O is a description of H’s observable consequences.
+- The relationship between a hypothesis and its observable consequences is always contingent, never analytic.
+
+**→ Conclusion:** (i*) is false.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 8/10*
+
+---
+
+### Argument 13 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatist cannot take the position that usefulness is derived from truth.
+- A distinction between truth and usefulness is necessary.
+
+**→ Conclusion:** Pragmatist position is untenable.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 8/10*
+
+---
+
+### Argument 14 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James writes: Pragmatism, on the other hand, asks its usual question. 'Grant an idea or belief to be true,' it says, 'what concrete difference will its being true make in anyone's actual life?'
+- The meaning of a hypothesis lies in its observable consequences.
+
+**→ Conclusion:** (i) The meaning of a hypothesis lies in its observable consequences.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 15 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- There may be cases where, for reasons of natural law, two hypotheses cannot possibly differ in their observable consequences.
+- Example: (Q) There are deterministic mechanisms underlying quantum phenomena must have the same observable consequences as (Q*) There are no deterministic mechanisms.
+
+**→ Conclusion:** Q and Q* are not the same hypothesis.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 16 (reductio ad absurdum)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatism’s view is there is nothing to (C)’s being true other than its being useful.
+- This forces the absurd view that the reality described by (C) didn’t exist 300 years ago.
+
+**→ Conclusion:** Pragmatist position leads to paradox.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 17 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Hypothesis (H): People come from apes.
+- Observable consequences of H depend on certain conditions and causal mechanisms.
+- Different conditions or mechanisms would result in different observational consequences.
+
+**→ Conclusion:** H and O are not equivalent, observationally or otherwise.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 18 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If I believe that cyanide is poisonous, I am better able to control the world than if I believe otherwise.
+- For an idea to be true is for it to increase our ability to control the world.
+
+**→ Conclusion:** (ii#) is what the pragmatist means.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 19 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The realist’s position is that a consequence of an idea’s being true is that it increases power.
+- In 1700, (C) copper has a higher degree of conductivity than brass, would have done little to increase power.
+
+**→ Conclusion:** Realist position is correct, pragmatist is wrong.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 20 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Different conditions and mechanisms might be operative in determining observable consequences.
+- Observations of fossil records and humanoid skeletons depend on certain causal mechanisms.
+
+**→ Conclusion:** Observable consequences are contingent upon conditions.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 21 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- (O^) Skeletons having such and such shapes will be discovered in Tanzania.
+- One could accept H and deny O^ without contradiction.
+
+**→ Conclusion:** H is not equivalent with O^.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 5/10*
+
+---
+
+### Argument 22 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James writes that: Truth is a property of our ideas and means their 'agreement' with 'reality.'
+- Pragmatists and intellectualists both accept this definition.
+
+**→ Conclusion:** Agreement is the key concept in defining truth.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 5/10*
+
+---
+
+### Argument 23 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- To 'agree' can only mean to be guided to reality or put into working touch with it.
+- (ii) A true idea is one that allows us to control the world; a false one is one that doesn’t.
+
+**→ Conclusion:** On at least one reading, (ii) is true.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 5/10*
+
+---
+
+### Argument 24 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The reality described by (C) hasn’t changed in the last 300 years.
+- Our relationship to reality changes usefulness.
+
+**→ Conclusion:** Pragmatist cannot say that (C)’s usefulness is derived from facts about copper and electricity.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 5/10*
+
+---
+
+### Argument 25 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Observational equivalence only guarantees actual equivalence when it is built into the very meanings of the claims in question.
+- H and H* are logically equivalent and therefore make the very same claim about the spatiotemporal world.
+
+**→ Conclusion:** Observational equivalence does not support the pragmatist’s position.
+
+*Source: Evaluation of Pragmatist Definitions (i)-(v) | Importance: 4/10*
+
+---
+
+## Pragmatism: Epistemology Posing as Ontology
+
+### Argument 26 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James writes that TRUE IDEAS ARE THOSE THAT WE CAN ASSIMILATE, VALIDATE, CORROBORATE, AND VERIFY.
+- False ideas are those that we cannot assimilate, validate, corroborate, or verify.
+
+**→ Conclusion:** For James, the meaning of truth is practical assimilation, validation, corroboration, and verification.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 9/10*
+
+---
+
+### Argument 27 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James writes that: 'Truth happens to an idea.'
+- Truth is a process of verifying itself, its veri-FICATION.
+
+**→ Conclusion:** Truth is not a stagnant property inherent in an idea but happens to it.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 9/10*
+
+---
+
+### Argument 28 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- C's usefulness is a consequence of its being on the right side of the operative causal mechanisms.
+- The nature and degree of a claim's usefulness vary from person to person.
+- The realist can explain this variability, whereas the pragmatist cannot.
+
+**→ Conclusion:** Pragmatism conflates epistemology with ontology because it cannot explain the variability in usefulness.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 8/10*
+
+---
+
+### Argument 29 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatist means by (iii) that for an idea to be true is for it to be assimilable.
+- For the reasons given in connection with (ii), what the pragmatist is saying is false.
+
+**→ Conclusion:** (iii) involves selection bias.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 8/10*
+
+---
+
+### Argument 30 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- To 'assimilate' an idea is presumably to put it to practical use or to absorb it into a useful theory.
+- True ideas do indeed tend to be more 'assimilable' than false ones.
+
+**→ Conclusion:** There is a practical difference between true and false ideas, as true ideas are more assimilable.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 7/10*
+
+---
+
+### Argument 31 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Connection between the true and the assimilable holds to varying degrees.
+- Sometimes simply fails to hold upon making a counterintuitive discovery.
+
+**→ Conclusion:** The pragmatist has no way of explaining the variability between truth and assimilability.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 7/10*
+
+---
+
+### Argument 32 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Truth is identical with usefulness.
+- Ideas gain in usefulness over time, rather than having a fixed quantity.
+- Truth (i.e., usefulness) accrues to an idea.
+
+**→ Conclusion:** Truth, identified as usefulness, can accumulate to an idea over time.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 7/10*
+
+---
+
+### Argument 33 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- Specific truths are nothing other than instruments to help organize experience.
+- James writes several passages supporting this view in Pragmatism.
+
+**→ Conclusion:** Truths serve as instruments for organizing experience, supporting James' pragmatist view.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 7/10*
+
+---
+
+### Argument 34 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- People are dismissive or simply ignorant of ideas that are irrelevant to their lives.
+- Truth and assimilability connection is, at least in part, an appearance born of selection bias.
+
+**→ Conclusion:** The tight connection between truth and the assimilable is partially due to selection bias.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 6/10*
+
+---
+
+### Argument 35 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- (iv*) is a corollary of the contention that truth is identical with usefulness.
+- It does not provide any independent evidence for this contention.
+
+**→ Conclusion:** (iv*) merely derives from the identification of truth with usefulness.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 6/10*
+
+---
+
+### Argument 36 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- A bag full of lead is lighter than an otherwise identical empty bag is of negative practical utility.
+- It is correspondingly more difficult to assimilate into a useful theory.
+
+**→ Conclusion:** False ideas, like the lead bag example, are difficult to assimilate into useful theories.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 5/10*
+
+---
+
+### Argument 37 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- For the pragmatist, truth and assimilability are one and the same.
+- The realist has no trouble explaining variability as assimilability is contingent.
+
+**→ Conclusion:** The realist can explain the variability in assimilability as it is a reflection of truth.
+
+*Source: Pragmatism: Epistemology Posing as Ontology | Importance: 5/10*
+
+---
+
+## The Essence of Pragmatism: Commonalities in (i)-(v)
+
+### Argument 38 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- James accepts (iv^) and also that (iv^) is a possible interpretation of the opaque claim that 'truth happens to an idea'.
+- The categories in terms of which we experience the world...do not represent external realities but merely embody ways of organizing what would otherwise be an amorphous mass of experience.
+
+**→ Conclusion:** The 'truths' that are constructed out of these categories are themselves to be understood in instrumental, as opposed to representational, terms.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 10/10*
+
+---
+
+### Argument 39 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Categories like knife, army, rock, tree do not represent external realities.
+- They merely embody ways of organizing experience.
+
+**→ Conclusion:** Categories used to experience the world are organizational constructs rather than representations of external reality.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 10/10*
+
+---
+
+### Argument 40 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If plate, knife, etc. embody mere constructs, then the same is true of the truths, so-called, that they compose.
+- Given that the property of being experience-organizing can be acquired over time by a given 'truth'.
+
+**→ Conclusion:** This corollary would warrant acceptance of (iv^).
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 9/10*
+
+---
+
+### Argument 41 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If (iv^) is the right interpretation of (iv), then it is also the right interpretation of James’ statement that 'truth is made true by events'.
+- (v) Truth is made, not discovered.
+
+**→ Conclusion:** Truth is made, not discovered.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 9/10*
+
+---
+
+### Argument 42 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- A construct won’t be useful unless it tracks objective realities.
+- A construct is not useful unless it is hewed to existing causal mechanisms.
+
+**→ Conclusion:** Knives, forks, nations, economies, and armies must track objective realities to be useful.
+
+**Counterarguments addressed:**
+- Counterargument: Knives, forks, nations, economies, and armies are merely projective constructs, albeit useful ones.
+- Rebuttal: They must have causal and predictive integrity to serve practical interests.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 8/10*
+
+---
+
+### Argument 43 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Useful to group people into nations and armies and economies; useful to group bricks into houses; useful to group stars into galaxies.
+- Such groups have a certain dynamic cohesiveness.
+
+**→ Conclusion:** These groupings are useful as they support otherwise hard-to-generate predictions and explanations.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 8/10*
+
+---
+
+### Argument 44 (reductio ad absurdum)
+**Author:** Kuczynski
+
+**Premises:**
+- Nations are composed of people; people are composed of organs; organs are composed of cells; cells are composed of molecules and atoms.
+- Are we to say that only subatomic particles exist?
+
+**→ Conclusion:** The existence of higher-order constructs like nations is valid despite their schematic nature.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 8/10*
+
+---
+
+### Argument 45 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The blade and the knife constitute a predictively robust ensemble.
+- Practical interests wouldn’t be well-served unless the collective thereby formed had a certain causal and predictive integrity.
+
+**→ Conclusion:** The blade and handle constitute a single object ('the knife') due to practical interests.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 46 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The reason 'fictions' like thermometers and scalpels are useful is that they track actual causal mechanisms.
+
+**→ Conclusion:** Thermometers and scalpels, as useful constructs, track actual causal mechanisms.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 47 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- It is all very well to say that thermometers and scalpels are but 'useful fictions'.
+- These so-called fictions help both diagnosticians (theoreticians) and practitioners (agents).
+
+**→ Conclusion:** Even so-called ‘useful fictions’ like thermometers and scalpels are essential for both theoreticians and practitioners.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 48 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The reason these 'fictions' are useful is that they track actual causal mechanisms.
+
+**→ Conclusion:** Useful 'fictions' like nations, economies, have schematic nature but track causal realities.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 49 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Is a knife whose handle and blade are changed the 'same'?
+- The moment you pass beyond practical use to speculative thinking, you find it impossible to say within just what limits of fact any one of them shall apply.
+
+**→ Conclusion:** Practical use defines the application of concepts like 'same', beyond which speculative thinking cannot define their limits.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 7/10*
+
+---
+
+### Argument 50 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- See how far you get as an investor without assuming the actual existence of economies and nations.
+
+**→ Conclusion:** Assuming the existence of economies and nations is necessary for investors.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 51 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- The moment you pass beyond the practical use of these categories to a merely curious or speculative way of thinking, you find it impossible to say within just what limits of fact any one of them shall apply.
+
+**→ Conclusion:** Speculative thinking cannot determine the factual limits of practical categories.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 6/10*
+
+---
+
+### Argument 52 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- Is a constellation properly a thing? Or an army?
+- Or is an ENS RATIONIS such as space or justice a thing?
+
+**→ Conclusion:** Concepts like constellations, armies, or abstract ideas like space and justice challenge the notion of being things in themselves.
+
+*Source: The Essence of Pragmatism: Commonalities in (i)-(v) | Importance: 5/10*
+
+---
+
+## Critique of Classical Epistemology
+
+### Argument 53 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Pragmatism has tremendous value as a description of our knowledge acquisition.
+
+**→ Conclusion:** Pragmatism is valuable as a description, not of truth per se, but of our knowledge of it.
+
+**Counterarguments addressed:**
+- Literal interpretation of 'truth happens to an idea' is opaque and false.
+
+*Source: Critique of Classical Epistemology | Importance: 10/10*
+
+---
+
+### Argument 54 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- Ideas acquire the property of being knowledge.
+- Ideas do not typically start out as knowledge but can become knowledge.
+
+**→ Conclusion:** 'Truth happens to an idea' should be 'Ideas acquire the property of being knowledge.'
+
+**Counterarguments addressed:**
+- Initial belief is not always knowledge; justification process is needed.
+
+*Source: Critique of Classical Epistemology | Importance: 9/10*
+
+---
+
+### Argument 55 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Beliefs become knowledge thanks to a process of justification-construction.
+
+**→ Conclusion:** Knowledge is acquired by being constructed.
+
+*Source: Critique of Classical Epistemology | Importance: 9/10*
+
+---
+
+### Argument 56 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The intellectualist conception of knowledge is replaced with an interactionist or operationalist conception.
+
+**→ Conclusion:** (i)-(v) respond to intellectualist conception by proposing interactionist.
+
+*Source: Critique of Classical Epistemology | Importance: 9/10*
+
+---
+
+### Argument 57 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Nations, people, etc. exist, albeit derivatively of other, more fundamental entities.
+- Higher-order entities are causally coherent and constitute undeniably real causal systems.
+- An entity must track real causal mechanisms to be useful, thus it cannot be a fiction if it is useful.
+
+**→ Conclusion:** The objects that it is useful to think in terms of must for that very reason be non-fictions.
+
+**Counterarguments addressed:**
+- Fictions aren’t useful unless they track real causal mechanisms.
+
+*Source: Critique of Classical Epistemology | Importance: 8/10*
+
+---
+
+### Argument 58 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Truth per se is discovered, not made.
+- Knowledge involves the generation and justification of belief.
+
+**→ Conclusion:** Knowledge is indeed made in two distinct senses.
+
+*Source: Critique of Classical Epistemology | Importance: 8/10*
+
+---
+
+### Argument 59 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Instances of knowledge are ipso facto empowering.
+
+**→ Conclusion:** Knowledge, not truth, is empowering.
+
+**Counterarguments addressed:**
+- Pragmatist claims truth is ipso facto empowering.
+
+*Source: Critique of Classical Epistemology | Importance: 8/10*
+
+---
+
+### Argument 60 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- A true idea allows us to control the world; a false one doesn't.
+
+**→ Conclusion:** (ii+) Instances of knowledge are ipso facto empowering.
+
+**Counterarguments addressed:**
+- Knowledge provides power, not truth per se.
+
+*Source: Critique of Classical Epistemology | Importance: 8/10*
+
+---
+
+### Argument 61 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Replacing an object-oriented conception of knowledge with a subject-oriented one allows for a better understanding of knowledge acquisition.
+
+**→ Conclusion:** (i)-(v) represent a shift from object-oriented to subject-oriented knowledge.
+
+*Source: Critique of Classical Epistemology | Importance: 8/10*
+
+---
+
+### Argument 62 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Day-to-day categories would be utterly useless unless they represented actual fault-lines in nature.
+
+**→ Conclusion:** Scientists delineate the categories constitutive of day-to-day thought.
+
+*Source: Critique of Classical Epistemology | Importance: 7/10*
+
+---
+
+### Argument 63 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Belief that rabbits are herbivores was not knowledge when first acquired.
+- Over time and experience, the belief became knowledge-constitutive.
+
+**→ Conclusion:** The property of being knowledge happened to that belief.
+
+*Source: Critique of Classical Epistemology | Importance: 7/10*
+
+---
+
+### Argument 64 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Observable consequences of a hypothesis are the vector sum of the hypothesis and subject’s relationship to alleged reality.
+
+**→ Conclusion:** The meaning of a hypothesis is not solely in its observable consequences.
+
+*Source: Critique of Classical Epistemology | Importance: 7/10*
+
+---
+
+### Argument 65 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Scientists make discoveries, many counterintuitive.
+- Discoveries provide fine-grained knowledge of causal mechanisms embodied in pre-theoretical cognitive schemata.
+
+**→ Conclusion:** The scientists doesn’t tell us that water doesn’t exist; he tells us what water is.
+
+*Source: Critique of Classical Epistemology | Importance: 6/10*
+
+---
+
+### Argument 66 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- True ideas are those that we can 'assimilate', and false ones are those we cannot.
+
+**→ Conclusion:** Knowledge is assimilated truth.
+
+**Counterarguments addressed:**
+- There are highly assimilable false ideas and non-assimilable true ones.
+
+*Source: Critique of Classical Epistemology | Importance: 6/10*
+
+---
+
+### Argument 67 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Our knowledge of veracity of a hypothesis is based on its observable consequences.
+
+**→ Conclusion:** Observable consequences are crucial to knowledge, but not meaning.
+
+*Source: Critique of Classical Epistemology | Importance: 6/10*
+
+---
+
+## Conclusion: Pragmatism's Value and Misinterpretations
+
+### Argument 68 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Much of physics is the fallout of attempts to create better weapons and dams and the like.
+- Much of mathematics is constructed to validate this fallout.
+- Economics was invented as a way of managing the enormous influx into Europe of wealth from the New World.
+- Anthropology was invented to help Europeans understand, and interact more productively with, the natives of the lands they were colonizing.
+- Psychoanalysis was developed in order to solve otherwise unsolvable psychiatric problems.
+
+**→ Conclusion:** Intellectual discoveries are made by solving practical problems.
+
+**Counterarguments addressed:**
+- CE may well be true in some narrow, technical sense.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 10/10*
+
+---
+
+### Argument 69 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- CE suggests knowledge-acquisition is about passively taking in what is out there.
+- Action, by contrast, is about changing what exists---that is its very purpose.
+- There is a sense in which knowledge-acquisition is antithetical to action.
+
+**→ Conclusion:** Knowledge-acquisition is about passively taking in what is out there and therefore doing as little as possible to disrupt it.
+
+**Counterarguments addressed:**
+- Knowledge-acquisition obviously involves many different forms of action.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 9/10*
+
+---
+
+### Argument 70 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- When did modern epistemology come into existence? In the mid-1600s.
+- When did modern physics and engineering come into existence? About the same time.
+- When did Church doctrines lose credibility? About the same time.
+- The reason being they were interfering with scientific progress.
+
+**→ Conclusion:** Faith-based epistemology was no longer possible, leading philosophers to come up with new, non-dogmatic epistemologies.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 9/10*
+
+---
+
+### Argument 71 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- (iN) The meaning of a hypothesis is an observation-transcendent reality.
+- (iiN) An idea can be true without for that reason increasing our control over the world.
+- (iiiN) True ideas are not necessarily more assimilable than false ones.
+- (ivN) An idea is either true or false; it does not become true.
+- (vN) Truth is discovered, not made.
+
+**→ Conclusion:** Each of (iN)-(vN) is correct.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 8/10*
+
+---
+
+### Argument 72 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Sometimes actions of knowledge-acquisition are relatively non-disruptive---consider the astronomer who merely gazes through his telescope.
+- In some cases, the actions in question are extremely invasive---consider the medical researcher who vivisects animals or the archaeologist who uses explosives.
+- Such actions are mere precursors to the having of the observations in question.
+
+**→ Conclusion:** Granting that scientists have to engage in action to ply their trade, the scientific process proper only begins when passive observation begins and, therefore, when action ends.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 8/10*
+
+---
+
+### Argument 73 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The discipline of logic began in the mid-1800s with the work of George Boole, whose objective was to automate reasoning.
+- This happened at precisely the time that much physical production was being automated.
+
+**→ Conclusion:** The development of logic coincided with industrial automation, suggesting a causal relationship.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 7/10*
+
+---
+
+### Argument 74 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Calculus was invented to compute planetary orbits and other ballistics-related problems.
+- Once it was invented, purely theoretical questions arose, such as those relating to infinitesimals and fractals.
+
+**→ Conclusion:** Purely theoretical questions in mathematics arose after practical problems were addressed by calculus.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 7/10*
+
+---
+
+### Argument 75 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Once a discipline is launched, it can concern itself with purely theoretical problems.
+- Purely theoretical problems relate to the mutual coherence of discoveries made in solving practical problems.
+
+**→ Conclusion:** Disciplines can and should concern themselves with purely theoretical problems after practical issues are addressed.
+
+*Source: Conclusion: Pragmatism's Value and Misinterpretations | Importance: 6/10*
+
+---
+

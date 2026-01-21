@@ -1,0 +1,854 @@
+Here are questions designed to elicit each position from an Adam Smith bot. I've organized them by section to match your document structure.
+
+---
+
+## Theory of Moral Sentiments — First 100
+
+**Sympathy and Fellow-Feeling (1-10)**
+
+1. Why do we care about what happens to other people when it doesn't affect us personally?
+2. How do we actually come to feel what another person is feeling?
+3. Can we ever truly know what someone else is experiencing?
+4. Why does it feel good when someone shares our feelings?
+5. What exactly do we get out of having someone sympathize with us?
+6. Do we sympathize more with people's sorrows or their joys?
+7. Why do we sometimes resent people who are extremely fortunate?
+8. Is it ever possible for two people to feel exactly the same way about something?
+9. When we sympathize with someone, are we responding to their emotion or their situation?
+10. Can we sympathize with emotions that a person should feel but doesn't?
+
+**The Impartial Spectator (11-20)**
+
+11. How do we judge whether our own actions are right or wrong?
+12. What is this "impartial spectator" you write about?
+13. How do we evaluate our own conduct when we're so biased toward ourselves?
+14. What exactly is conscience?
+15. Why do you call conscience "the man within the breast"?
+16. Why can't we just rely on what other people think of us?
+17. What gives us a sense of moral self-approval?
+18. Does the impartial spectator judge our intentions or just our actions?
+19. Should we care what others think if our conscience is clear?
+20. What should we do when popular opinion conflicts with our conscience?
+
+**Propriety and Merit (21-30)**
+
+21. What makes an action appropriate or proper?
+22. What's the difference between an action being proper and being meritorious?
+23. When is an action deserving of reward versus deserving of punishment?
+24. Can something be proper without being praiseworthy?
+25. How do we come to approve of someone's motives versus their results?
+26. Why do we feel that wrongdoers deserve punishment?
+27. What passion makes us want to retaliate when we've been wronged?
+28. What kind of resentment justifies punishment?
+29. How much do intentions matter when judging an action?
+30. Should we blame someone for harm they caused accidentally?
+
+**The Passions (31-40)**
+
+31. Why don't we sympathize much with someone's physical pain or hunger?
+32. Why do we sympathize more with emotional suffering than bodily suffering?
+33. What happens when someone expresses their emotions too intensely?
+34. Why is it hard to sympathize with someone who is angry or resentful?
+35. Why do we readily sympathize with acts of kindness and generosity?
+36. Where do the selfish passions—personal grief and joy—fall in our sympathies?
+37. Why do we expect people to moderate their selfish emotions more than their generous ones?
+38. Why does excessive grief in others make us uncomfortable rather than sympathetic?
+39. Which passion requires the most restraint to earn our sympathy?
+40. Why do we admire someone who stays calm under provocation?
+
+**Self-Command and Virtue (41-50)**
+
+41. What virtue underlies all the others?
+42. What does the virtue of self-command actually consist in?
+43. Do different societies value self-command differently?
+44. Why do less civilized peoples often show greater self-control under hardship?
+45. What kind of self-command do civilized commercial societies cultivate?
+46. Does true strength of character mean not feeling passions or controlling them?
+47. What is true magnanimity?
+48. What are the principal virtues that govern our conduct?
+49. Is prudence—looking out for yourself—really a virtue?
+50. How does a prudent person pursue their own welfare?
+
+**Justice (51-60)**
+
+51. Is justice more about doing good or avoiding harm?
+52. Why are the rules of justice more precise than other moral rules?
+53. Can we force people to be just? Can we force them to be generous?
+54. Could society survive without benevolence? Without justice?
+55. Why do you call justice the main pillar of society?
+56. Is resentment against injustice ever proper?
+57. Why doesn't punishing a criminal require positive goodwill toward society?
+58. Where do the rules of justice come from—reason, utility, or sentiment?
+59. Why do we feel guilty for unjust acts even when they benefit us?
+60. What's the difference between commutative and distributive justice?
+
+**Beneficence (61-70)**
+
+61. Can beneficence be compelled, or must it be freely given?
+62. Do we owe more to some people than to others when it comes to doing good?
+63. In what order should we direct our benevolence?
+64. Is universal love for all humanity an effective motivation for good action?
+65. Should a virtuous person cultivate particular attachments or universal benevolence?
+66. Can generosity ever be excessive?
+67. Which acts of generosity do we admire most?
+68. Is gratitude a duty?
+69. Why is ingratitude considered such a terrible vice?
+70. Is the mere failure to do good punishable?
+
+**Fortune and Moral Judgment (71-78)**
+
+71. Do the consequences of an action affect how we judge it morally?
+72. Why do we judge failed good intentions more harshly than successful ones?
+73. Is judging by outcomes rather than intentions a flaw in human nature?
+74. What purpose does our tendency to judge by outcomes serve?
+75. Should someone feel guilty for harm they never intended to cause?
+76. Does the person whose reckless action accidentally helps deserve credit?
+77. Why do societies develop rituals of expiation for unintentional harm?
+78. Can we ever fully overcome the influence of luck on our moral judgments?
+
+**Rank, Wealth, and Admiration (79-90)**
+
+79. Do people naturally admire the rich and powerful?
+80. How does admiration for wealth corrupt our moral sentiments?
+81. Who consistently distinguishes wealth from virtue?
+82. What drives human ambition?
+83. Does the pursuit of wealth actually bring happiness?
+84. If wealth doesn't bring happiness, why is the illusion useful?
+85. Does the order of society depend on our admiration for the great?
+86. What are the two paths to gaining admiration?
+87. Which path to admiration is more secure?
+88. How far does the influence of fashionable people extend?
+89. Why is flattery of the great dangerous to society?
+90. What constitutes true dignity?
+
+**Moral Rules and Systems (91-100)**
+
+91. How do we form general moral rules?
+92. What purpose do general moral rules serve?
+93. What is a sense of duty?
+94. Is acting from duty praiseworthy even without immediate sympathy?
+95. What's wrong with moral theories that derive all virtue from self-love?
+96. What did the Stoics get wrong in reducing all virtue to propriety?
+97. What's missing from theories that reduce all virtue to benevolence?
+98. Why did the casuists fail in their moral philosophy?
+99. Does utility explain why we approve of certain virtues?
+100. Is moral approval derived from calculations of interest?
+
+---
+
+## Theory of Moral Sentiments — Additional 100 (101-200)
+
+**The Love of Praise vs. Praiseworthiness (101-110)**
+
+101. What's the difference between wanting to be praised and wanting to deserve praise?
+102. Which is nobler—the desire for praise or the desire for praiseworthiness?
+103. What kind of person is satisfied with undeserved praise?
+104. Is external approval enough to make someone happy?
+105. How does a vain person differ from a proud person?
+106. Can external praise substitute for self-approval?
+107. When praise contradicts your conscience, which should you trust?
+108. How can someone bear undeserved criticism?
+109. What happens to the person who seeks only the approval of others?
+110. What keeps the person seeking praiseworthiness independent?
+
+**Custom and Fashion (111-120)**
+
+111. How much influence do custom and fashion have over moral judgment?
+112. Why do different nations approve of different degrees of emotional expression?
+113. Can what seems proper in one society seem improper in another?
+114. Can custom ever sanctify practices that natural sentiment condemns?
+115. How do the fashions of the great influence society?
+116. Can fashion make even physical deformity seem agreeable?
+117. Can custom entirely pervert our moral judgment?
+118. Does variation in moral codes across societies imply moral relativism?
+119. Is fashion in morals more dangerous than fashion in dress?
+120. How should philosophers approach the difference between natural propriety and customary propriety?
+
+**Self-Deception and Moral Psychology (121-130)**
+
+121. What is the most dangerous weakness in human nature?
+122. How do we typically view our own conduct?
+123. Why is it hard to honestly consult the impartial spectator about ourselves?
+124. Do we judge ourselves as severely as we judge others?
+125. When can we judge ourselves more impartially?
+126. Why are we blind to our own faults while seeing others' clearly?
+127. Is self-approval based on self-deception satisfying?
+128. How can we counteract our tendency toward self-flattery?
+129. How do we construct narratives about ourselves?
+130. What painful discipline does true virtue require?
+
+**Resentment, Revenge, and Punishment (131-140)**
+
+131. What role does resentment play in justice?
+132. Why has nature given us the capacity for resentment?
+133. When is resentment odious rather than proper?
+134. When do we sympathize with someone's resentment?
+135. What's the difference between revenge and just indignation?
+136. How should punishment be proportioned?
+137. Can punishment ever be excessive even for the guilty?
+138. Do we ever sympathize with a criminal who sincerely repents?
+139. What happens when society imposes capital punishment for minor offenses?
+140. Why should resentment be channeled through public institutions rather than private revenge?
+
+**Shame, Guilt, and Remorse (141-150)**
+
+141. What's the difference between shame and guilt?
+142. What is remorse?
+143. What does the person who has violated justice carry within them?
+144. Can someone feel shame without guilt?
+145. Can someone feel guilt without shame?
+146. What does the criminal dread beyond mere punishment?
+147. Why does confession of wrongdoing bring relief?
+148. What does the desire to conceal guilt reveal?
+149. What does remorse naturally prompt us to do?
+150. Can the hardened villain ever fully silence conscience?
+
+**Death and the Dread of Dissolution (151-160)**
+
+151. Why do we sympathize with the dead?
+152. Is our sympathy with the dead based on reality or illusion?
+153. Do the dead actually suffer from their condition?
+154. Where does the dread of death really come from?
+155. Is our fear of death proportionate to any actual evil?
+156. What purpose does our dread of death serve?
+157. Is the Stoic attitude toward death natural?
+158. Is excessive grief for the dead a failure of virtue?
+159. Why do we build tombs and monuments to the dead?
+160. Why do people desire posthumous fame?
+
+**The Stoic Philosophy (161-170)**
+
+161. What did the Stoics get right about virtue?
+162. Is the Stoic wise man truly happy under torture?
+163. Should we aim to eliminate our passions entirely?
+164. Did the Stoics err in treating all moral failures as equally bad?
+165. What did the Stoics correctly emphasize about external goods?
+166. How does Stoic physics support Stoic ethics?
+167. What does "living according to nature" mean when properly understood?
+168. Who best exemplified Stoic virtue in practice?
+169. Is virtue truly unified as the Stoics claimed?
+170. Is Stoic resignation admirable? Is Stoic indifference excessive?
+
+**Other Philosophical Systems (171-180)**
+
+171. What did Plato get right about the soul?
+172. What did Aristotle get right about virtue?
+173. What did Epicurus get wrong about human motivation?
+174. What's wrong with Mandeville's claim that all virtue is disguised self-love?
+175. What did Hutcheson get right and wrong about moral sense?
+176. What's wrong with purely rationalist moral systems?
+177. What's wrong with purely sentimentalist moral systems?
+178. Why can't Hobbes and Mandeville explain genuine sympathy?
+179. Why did casuistry fail?
+180. Has any philosophical system perfectly captured morality?
+
+**The Amiable and Respectable Virtues (181-190)**
+
+181. What are the amiable virtues?
+182. What are the respectable virtues?
+183. What do the amiable virtues prompt us to do?
+184. What do the respectable virtues prompt us to do?
+185. Does complete virtue require both sensibility and self-command?
+186. How do the amiable virtues differ from the respectable virtues in their effect?
+187. Have men and women traditionally cultivated different virtues?
+188. What happens to soft virtues without self-command? Hard virtues without sensibility?
+189. What does the person of perfect virtue balance?
+190. Which alone constitutes moral excellence—sensibility, self-command, or their union?
+
+**The Social Origins of Morality (191-200)**
+
+191. Could an isolated individual form moral judgments?
+192. Is the impartial spectator innate or socially formed?
+193. How do we learn to judge ourselves?
+194. How does a child develop conscience?
+195. Are moral concepts social creations?
+196. How does society show us our own character?
+197. Does the hermit carry the impartial spectator within him?
+198. How does language shape moral thought?
+199. Do different social conditions produce different moral emphases?
+200. What virtues does commercial society cultivate? Which might it weaken?
+
+---
+
+## Theory of Moral Sentiments — Final Section (201-300)
+
+**Religion and Morality (201-210)**
+
+201. Does belief in an afterlife constitute morality or merely support it?
+202. Would the sense of duty remain without religious belief?
+203. Does the natural order tend toward rewarding virtue?
+204. Has the Author of nature designed our sentiments to promote social harmony?
+205. Do religious doctrines that promise easy forgiveness corrupt morality?
+206. Is true piety compatible with ordinary duties, or does it replace them?
+207. What's wrong with the superstitious person who attends to ritual but neglects justice?
+208. What does the all-seeing Judge provide that human tribunals cannot?
+209. How can religious fanaticism pervert natural morality?
+210. Is the belief that the universe is ultimately just demonstrable or a natural sentiment?
+
+**The Administration of the Universe (211-220)**
+
+211. Has nature constituted things to promote human happiness?
+212. How does individual self-interest coordinate toward collective welfare?
+213. Is the distribution of happiness more equal than the distribution of wealth?
+214. How do the rich, despite their selfishness, distribute necessities to the poor?
+215. Does our tendency to overvalue wealth serve nature's purposes?
+216. Does pursuing self-interest promote society's interest better than intending to promote it?
+217. Does the wisdom of nature appear in the adaptation of our sentiments?
+218. What is the final cause of the moral sentiments?
+219. Do apparent disorders in moral life serve hidden purposes?
+220. Is the world designed to promote universal happiness?
+
+**The Corruption of Moral Sentiments (221-230)**
+
+221. What is the chief cause of moral corruption?
+222. What happens when we conflate wealth with virtue?
+223. Where are the worst schools of morality found?
+224. Who surrounds the great and confirms their self-deception?
+225. Does success in the world require actual virtue or merely its appearance?
+226. How can fashion corrupt virtue?
+227. What produces the poor man's shame and the rich man's arrogance?
+228. What crimes does unchecked ambition produce that mere selfishness would not?
+229. When is the corruption of moral sentiments most dangerous?
+230. Who resists the corruption pervading common moral sentiment?
+
+**National Character and Morals (231-240)**
+
+231. What produces different national characters?
+232. How do commercial and warlike nations differ in character?
+233. How do a nation's morals and government influence each other?
+234. What kind of character do republics produce? What about despotisms?
+235. How do the manners of the great affect the nation?
+236. Is national pride a virtue?
+237. What does excessive national vanity do to a people?
+238. Is the belief that one's own nation is superior natural?
+239. Does every nation believe its own customs most rational?
+240. Is cosmopolitan virtue compatible with patriotic duty?
+
+**Gratitude and Beneficence (241-250)**
+
+241. Can gratitude be extorted?
+242. Why is the ungrateful person detested?
+243. Is excessive gratitude ever blamed?
+244. Should gratitude be proportioned to the cost to the benefactor or the benefit received?
+245. What does gratitude to the dead reveal about virtue?
+246. Do unintentional benefits create claims to gratitude?
+247. In what order should beneficence proceed?
+248. Is beneficence to strangers at the expense of family proper?
+249. Why does the impartial spectator approve of partial affections?
+250. Does universal benevolence have the motivational force of particular attachments?
+
+**Conscience and Moral Authority (251-260)**
+
+251. What authority does conscience possess?
+252. Is the judgment of conscience infallible?
+253. Can we ultimately convince conscience against its verdict?
+254. What does the man at ease with his conscience enjoy?
+255. What does conscience connect the individual to?
+256. Why do the verdicts of conscience feel categorical?
+257. Does conscience wait for external consequences to punish or reward?
+258. What does a bad conscience anticipate? A good one?
+259. From what does the authority of conscience derive?
+260. What does it mean to violate conscience for worldly advantage?
+
+**Moral Education and Development (261-270)**
+
+261. Are moral sentiments natural or do they require development?
+262. How do children first learn virtue?
+263. What does early discipline form that reason alone cannot?
+264. What first awakens the child to moral judgment?
+265. What two things should education cultivate?
+266. How does literary education refine moral sentiment?
+267. What does the study of history provide for moral development?
+268. Is moral philosophy or practice more important for learning virtue?
+269. What shapes moral character more—company or explicit instruction?
+270. What does travel and exposure to other nations do for moral judgment?
+
+**Intentions, Actions, and Consequences (271-280)**
+
+271. Do favorable consequences make us judge intentions more leniently?
+272. Is the influence of consequences on moral judgment natural or unnatural?
+273. Would strict justice judge by intention alone?
+274. Why is the failed attempt judged less harshly than the successful one?
+275. What purpose does this irregularity in judgment serve?
+276. Does the negligent person who accidentally causes harm feel proportionate guilt?
+277. Does the careful person whose precautions fail feel guilt?
+278. Can we eliminate the imperfect correspondence between intention and judgment?
+279. Do legal systems wholly ignore consequence when judging intention?
+280. What does full moral assessment of an action require?
+
+**Self-Interest and Social Harmony (281-290)**
+
+281. Is self-preservation proper?
+282. Are the selfish passions inherently vicious?
+283. Is prudent attention to one's own interests a virtue?
+284. Does the claim that all virtue is disguised self-love misunderstand human nature?
+285. Are we constituted to find satisfaction only in our own welfare?
+286. Does social harmony arise from natural sympathy or calculated advantage?
+287. Is trust reducible to self-interest?
+288. Can even the most self-interested person ignore others' opinions?
+289. Does self-interest properly understood include social ties?
+290. Is there really a conflict between self-interest and social welfare?
+
+**Propriety in Expression (291-300)**
+
+291. What makes the expression of a passion proper?
+292. Do we judge expression by intensity or appropriateness?
+293. Why does grief for trivial losses seem ridiculous?
+294. Does the propriety of expression vary with circumstance?
+295. Does rank affect what expressions are appropriate?
+296. Does intimacy affect what expressions are appropriate?
+297. Does the relationship between speaker and listener affect propriety?
+298. Should the wise person adjust expression to audience?
+299. Can excessive restraint of feeling be improper?
+300. How is the propriety of expression learned?
+
+---
+
+## Wealth of Nations — First 100
+
+**Division of Labor and Exchange (1-10)**
+
+1. What is the principal cause of improvement in the productive powers of labor?
+2. What limits the extent of the division of labor?
+3. Is there a natural human tendency toward exchange?
+4. Why does the butcher sell us meat?
+5. What is the real price of everything?
+6. What is the original measure of value?
+7. Did labor alone determine value in early societies?
+8. What is the natural price of a commodity?
+9. How does market price relate to natural price?
+10. What are the three original sources of all revenue?
+
+**Markets, Dealers, and Wealth (11-15)**
+
+11. Is the interest of dealers aligned with the public interest?
+12. What constitutes the real wealth of a country?
+13. What is the role of money in the economy?
+14. How does capital naturally seek employment?
+15. How does individual pursuit of advantage affect public interest?
+
+**The Invisible Hand and Limited Government (16-22)**
+
+16. What role should the sovereign play in directing private industry?
+17. Who knows best how to employ an individual's capital?
+18. What must precede the division of labor?
+19. What immediately causes the increase of capital—industry or parsimony?
+20. Is what's saved consumed or not?
+21. Are prodigals or frugal men better for the public?
+22. What is the natural progress of economic development?
+
+**Wages, Labor, and Workers (23-30)**
+
+23. Why has Europe's policy favored towns over countryside?
+24. Are high wages a cause or effect of prosperity?
+25. Are workers more industrious where wages are high?
+26. Does the liberal reward of labor help or hurt society?
+27. Who has the advantage in wage disputes—masters or workers?
+28. Why are laws against workers' combinations enforced more than those against masters'?
+29. Why do wages vary across different employments?
+30. What happens to the rate of profit as stock increases?
+
+**Profit, Rent, and Class Interests (31-40)**
+
+31. Do high profits or high wages raise prices more?
+32. What determines rent?
+33. Do landlords contribute to production?
+34. Whose interest is connected with the general interest of society?
+35. Whose interest is always to deceive and oppress the public?
+36. How should proposals from merchants for new laws be received?
+37. What is the ranking of productive employments of capital?
+38. Does an individual prefer to employ capital near home or abroad?
+39. What authority does the statesman assume in directing private capital?
+40. What do restraints on importation give to domestic industry?
+
+**Monopoly and the Mercantile System (41-50)**
+
+41. What effect does monopoly have on profits and wages?
+42. Whom does the mercantile system enrich at whose expense?
+43. What are exportation bounties really?
+44. What is the real effect of bounties on production?
+45. Are colonial trade monopolies a violation of natural rights?
+46. Is free trade advantageous to colonies or mother countries?
+47. Have colonies been a source of revenue or expense to mother countries?
+48. What were the two greatest events in human history?
+49. How has the colonial trade monopoly affected British capital?
+50. Are treaties of commerce favoring one nation advantageous?
+
+**Trade and Money (51-60)**
+
+51. Can a nation be ruined by trade?
+52. Does exporting gold and silver impoverish a nation?
+53. What regulates the quantity of gold and silver in a country?
+54. Can paper money perform the functions of gold and silver?
+55. How do banks increase industry?
+56. What should limit the operations of banking?
+57. What happens when a bank issues too many notes?
+58. In what trades can public stock companies succeed?
+59. How do joint-stock companies perform with and without exclusive privileges?
+60. What are the exclusive privileges of corporations?
+
+**Labor Regulations and Restrictions (61-65)**
+
+61. What do apprenticeship statutes and corporation laws restrict?
+62. Are long apprenticeships necessary?
+63. What do the laws of settlement obstruct?
+64. Can the price of labor be fixed by statute?
+65. What happens when you tax necessaries?
+
+**Taxation (66-75)**
+
+66. Do taxes on luxuries raise wages like taxes on necessaries?
+67. Who ultimately bears a tax on house-rents?
+68. Who ultimately pays taxes on the produce of land?
+69. Why are tithes unequal taxes?
+70. Who ultimately pays a tax on the profits of stock?
+71. What is the nature of capitation taxes?
+72. How may taxes on consumable commodities be collected?
+73. What are the four maxims of taxation?
+74. What is the first duty of the sovereign?
+75. Are standing armies or militias superior?
+
+**Public Functions (76-85)**
+
+76. How may the expense of justice be defrayed?
+77. How should public works facilitating commerce be maintained?
+78. Is education a proper function of government?
+79. What does the division of labor do to workers' intelligence?
+80. What advantage does the state derive from public instruction?
+81. Should the state control religious instruction?
+82. What is the effect of public diversions like art and music?
+83. How should the sovereign's dignity be maintained?
+84. Are debts contracted in war honestly discharged?
+85. What have public debts done to states that contracted them extensively?
+
+**Debt and Empire (86-95)**
+
+86. What does the funding system divert capital toward?
+87. What happens to sinking funds meant to discharge debt?
+88. How will extensive national debt likely end?
+89. Who has benefited from the monopoly of colonial trade?
+90. Should Britain give up authority over the colonies or integrate them?
+91. What would union with the colonies bring?
+92. Is the loss of manufacturing employment from free trade permanent?
+93. Should free trade be restored gradually or suddenly?
+94. What is the great antidote to superstition and enthusiasm?
+95. Can a society flourish while most of its members are poor?
+
+**Government and Property (96-100)**
+
+96. What is civil government instituted to defend?
+97. What does great property imply about inequality?
+98. What determines improvement in the productive powers of labor?
+99. What do commerce and manufactures gradually introduce?
+100. What can carry society to wealth despite obstructions by law?
+
+---
+
+## Wealth of Nations — Additional 100 (101-200)
+
+**Division of Labor Detailed (101-110)**
+
+101. How does subdivision of operations increase output?
+102. What example illustrates extreme division of labor?
+103. What does focused attention on single operations encourage?
+104. How different are philosophers and porters by nature versus habit?
+105. What encourages every man to apply himself to a particular occupation?
+106. Why does water carriage extend the division of labor more than land carriage?
+107. Where did the first civilizations arise and why?
+108. Why do inland Africa and northern Asia remain less developed?
+109. What are the two meanings of "value"?
+110. Why do diamonds have high exchange value but low use value?
+
+**Value and Measurement (111-120)**
+
+111. What is the only universal measure of value?
+112. Is labor of equal value to the laborer at all times and places?
+113. Is corn or silver a better measure of value over long periods?
+114. What are the component parts of price?
+115. Do all commodities have all three component parts of price?
+116. What determines the ordinary rate of profit?
+117. Why is the rate of profit hard to ascertain?
+118. Can interest rates serve as an index of profit rates?
+119. What must the lowest ordinary rate of profit exceed?
+120. What might the highest rate of profit absorb?
+
+**Wages and Profits in Different Conditions (121-130)**
+
+121. Why do new colonies have both high wages and high profits?
+122. Can wages and profits rise together?
+123. What are wages like in a stationary country? A declining one?
+124. What is China's economic condition regarding wages?
+125. What happened to Bengal under the East India Company?
+126. How does rent enter into price differently than wages and profit?
+127. Are high wages cause or effect of high prices? What about rent?
+128. Does land used for food always yield rent?
+129. What happens to rent with population growth?
+130. How does cultivation affect animal food prices relative to grain?
+
+**Mines, Metals, and Money (131-140)**
+
+131. When do mines yield rent?
+132. What sets the price of precious metals?
+133. What did American silver mines do to silver's value in Europe?
+134. How does improvement in cultivation eventually affect precious metal values?
+135. What does wealth consist of—money or what money purchases?
+136. What is the difference between gross revenue and net revenue?
+137. Does fixed capital yield revenue on its own?
+138. What does circulating capital do?
+139. What are the four parts of circulating capital?
+140. Which part of circulating capital diminishes net revenue by its maintenance cost?
+
+**Paper Money and Banking (141-150)**
+
+141. What does paper money substitute for?
+142. What is the limit of paper money that can circulate?
+143. What happens when paper exceeds this proportion?
+144. What does the Ayr Bank's failure demonstrate?
+145. To what should banks confine their discounts?
+146. What risk does a banker face lending to projectors?
+147. What does productive labor do that unproductive labor doesn't?
+148. What distinguishes a manufacturer's labor from a servant's labor?
+149. Which occupations involve unproductive labor?
+150. Does a rich country have more productive or unproductive laborers proportionally?
+
+**Saving, Capital, and Investment (151-165)**
+
+151. Can private prodigality impoverish great nations?
+152. What happens to what is annually saved?
+153. What often causes government profusion?
+154. Is every prodigal a public enemy?
+155. What are the four ways capital may be employed?
+156. Does any capital employ more productive labor than agricultural capital?
+157. What role does nature play in agriculture versus manufacture?
+158. What does the wholesale merchant's capital do?
+159. What does the retailer's capital do?
+160. What does the foreign trade of consumption do?
+161. What does the carrying trade do?
+162. Where is the capital employed in the carrying trade?
+163. Does round-about foreign trade employ more or less domestic labor than direct trade?
+164. Does an individual prefer domestic or foreign employment of capital?
+165. What does the study of one's own advantage lead individuals to prefer?
+
+**Regulation and Natural Liberty (166-180)**
+
+166. Can regulation increase industry beyond what capital can maintain?
+167. What can regulation only do to industry?
+168. Why can't such diversion be advantageous?
+169. Are natural advantages between countries sometimes insurmountable?
+170. Is it better to make or buy foreign goods that can be bought cheaper abroad?
+171. Is what's true for a private family folly for a kingdom?
+172. What does monopoly of the home market for domestic industry do?
+173. Can regulation multiply capital?
+174. What two cases might justify restraints on importation?
+175. Is defense or opulence more important?
+176. When might retaliation be good trade policy?
+177. Should long-established restrictions be removed slowly or quickly?
+178. Should legislators follow the clamor of merchants?
+179. What have the arts of tradesmen become in manufacturing nations?
+180. Should the monopolizing spirit of merchants rule mankind?
+
+**Consumption and Production (181-190)**
+
+181. What is the sole end and purpose of all production?
+182. How does the mercantile system treat consumption and production?
+183. What is every extraordinary encouragement to exportation?
+184. Have corn bounties lowered prices?
+185. Which are the only encouragements to exportation that don't harm?
+186. Are duties to discourage consumption objectionable?
+187. Who benefit from treaties of commerce?
+188. For whose benefit was the Methuen Treaty made?
+189. What would free trade with France bring?
+190. How do colonies contribute to the mother country's power?
+
+**Colonies and Monopoly (191-200)**
+
+191. Have the American colonies been a source of revenue or expense?
+192. Where has the colonial monopoly diverted British capital?
+193. How has the monopoly affected profits in other trades?
+194. Can the original injustice of colonization be palliated by its fortune?
+195. Have the rulers of Britain possessed or imagined an empire in America?
+196. What should Britain do about this imagined empire?
+197. Whom do the corn laws serve?
+198. Are the motives of landed interest honest? Of merchants?
+199. Under what system does agriculture flourish best?
+200. What is Britain's whole colonial policy founded on?
+
+---
+
+## Ricardo (1-25)
+
+1. What determines the value of a commodity—labor or compensation paid?
+2. From what do commodities derive their exchangeable value?
+3. What is the natural price of labor?
+4. Does the market price of labor ever deviate from natural price?
+5. What determines profits?
+6. What happens to rent and profits as society advances?
+7. What is rent?
+8. From what does rent arise?
+9. Is rent paid for marginal land?
+10. Why do profits naturally tend to fall?
+11. Can improvements in agriculture affect the fall of profits?
+12. Does machinery necessarily diminish the demand for labor?
+13. Whose interest is opposed to every other class?
+14. Who pays taxes on raw produce?
+15. Where do taxes on wages ultimately fall?
+16. What determines whether trade benefits both nations in exchange?
+17. What does free trade lead each country to do?
+18. How do gold and silver distribute themselves among nations?
+19. Does a fall in money's value alter real relationships among commodities?
+20. What regulates the value of money in different countries?
+21. When does paper money depreciation occur?
+22. Is public expenditure productive or unproductive?
+23. Can a tax on land rent be shifted?
+24. Whom do the corn laws injure?
+25. What is the eventual destiny of all progressive economies?
+
+---
+
+## Playfair (1-25)
+
+1. How are complex numerical relationships best comprehended?
+2. How can the balance of trade be made intelligible at a glance?
+3. What does the line graph render intelligible?
+4. What advantage do statistical charts provide the busy statesman?
+5. What does the bar chart display?
+6. What does the pie chart exhibit?
+7. How should a nation's prosperity be judged?
+8. Has Britain's funded debt grown to dangerous proportions?
+9. What does paper credit do when not excessive? When overdone?
+10. What caused the decline of Spain and Portugal?
+11. Does national wealth depend more on gold or on industry?
+12. Does commerce or conquest enrich nations more securely?
+13. What does the rate of increase in British exports demonstrate?
+14. Why should taxation be displayed visually?
+15. How can the statistics of European states be compared at a glance?
+16. What are statistics without graphical display like?
+17. What does the area diagram display?
+18. What would annual graphical presentation of national accounts improve?
+19. Are the French Revolution's economic causes visible in fiscal statistics?
+20. Do empires rise and fall according to patterns visible in statistics?
+21. What tools does the practical businessman need?
+22. How much information can a well-constructed diagram convey?
+23. Is decline visible in trade statistics before it appears in politics?
+24. Should graphical methods be part of education?
+25. Can the progress of civilization be measured by commerce displayed through charts?
+
+---
+
+## Babbage (1-25)
+
+1. Can mental labor be divided and economized like physical labor?
+2. What should the master manufacturer analyze?
+3. Should time consumed by each process be measured?
+4. How should workers be assigned and paid?
+5. What happens when one worker combines operations requiring different skill levels?
+6. Into what may the price of any manufactured article be analyzed?
+7. Can verification reduce errors in mental as well as mechanical operations?
+8. How important is copying in manufacture?
+9. How does machinery extend human powers?
+10. What is the great advantage of machinery—replacing labor or ensuring uniformity?
+11. Why does the factory system succeed?
+12. What advantages do large factories enjoy over small producers?
+13. How does cost of motive power change with scale?
+14. Are worker combinations to raise wages generally helpful or harmful to workers?
+15. Does piece-rate or day-wage payment better align worker and employer interests?
+16. Are the prosperity of manufacturers and workers ultimately identical or opposed?
+17. What do profit-sharing arrangements do?
+18. Does improvement in machinery ultimately increase or decrease total employment?
+19. Do patents encourage invention?
+20. What is the government's duty regarding industry?
+21. Would accurate manufacturing statistics benefit the parties involved?
+22. What does the calculating engine demonstrate about mental operations?
+23. Are mathematical tables themselves manufactures?
+24. How do errors arise in mathematical tables, and what eliminates them?
+25. On what does the economy of manufactures ultimately depend?
+
+---
+
+## Mill (1-25)
+
+1. Are the laws of production and distribution equally fixed?
+2. Is property a single fixed institution?
+3. What regulates prices, wages, and profits, and how is its operation modified?
+4. What is the general rule regarding laissez-faire?
+5. How may the functions of government be classified?
+6. Is education a proper function of government?
+7. Should we dread the stationary state?
+8. Does population tend to press upon subsistence?
+9. What is the surest means of checking excessive population?
+10. Is socialism compatible with political economy?
+11. What does peasant proprietorship develop better than wage labor?
+12. What path does cooperation among workers offer?
+13. Should inheritance laws limit large fortunes across generations?
+14. Does land require the same justification for appropriation as other property?
+15. Would a tax on the unearned increment of land discourage production?
+16. What determines the minimum to which the rate of profit tends?
+17. What governs international trade and the terms of trade?
+18. Can protection ever be justified for infant industries?
+19. What do customs unions among nations promote?
+20. Should paper currency maintain convertibility?
+21. What businesses are joint-stock companies suited for?
+22. Is the wages fund doctrine rigidly fixed?
+23. Can strikes and unions raise wages?
+24. Should taxation fall on luxuries or necessities?
+25. Is proportional income tax preferable to commodity taxes?
+
+---
+
+## Marshall (1-25)
+
+1. What does economics study?
+2. What do economic laws state?
+3. What happens to the marginal utility of a commodity as quantity increases?
+4. What is consumer surplus?
+5. What determines price—demand or supply?
+6. What is equilibrium price?
+7. How does supply differ in the short run versus the long run?
+8. What is the center of difficulty in economics?
+9. What is the representative firm?
+10. What are external economies?
+11. What are internal economies?
+12. What causes increasing returns in manufacturing?
+13. Where does the law of diminishing returns apply?
+14. What is quasi-rent?
+15. How are the earnings of labor determined?
+16. What determines the supply price of labor?
+17. Do efficiency wages—cost per unit of work—tend toward equality?
+18. What does elasticity of demand measure?
+19. What does highly elastic demand mean?
+20. How does monopoly affect output and price?
+21. What governs the combination of factors of production?
+22. What is the national dividend?
+23. What is interest the reward for?
+24. What attitude should economists bring to their work?
+25. Where does the mecca of the economist lie—mechanics or biology?
+
+---
+
+## Keynes (1-25)
+
+1. Can wage reductions clear labor markets as classical theory assumes?
+2. What determines the level of employment?
+3. What does aggregate demand consist of?
+4. What does the propensity to consume determine?
+5. Is the marginal propensity to consume greater or less than unity?
+6. What does the multiplier relate?
+7. What does investment depend on?
+8. Why is the marginal efficiency of capital volatile?
+9. What is interest the reward for?
+10. What determines the rate of interest—saving-investment intersection or liquidity preference?
+11. What motives create demand for money?
+12. What happens in a liquidity trap?
+13. What brings saving and investment into equality?
+14. What is involuntary unemployment?
+15. Would flexible wages cure unemployment?
+16. Is Say's Law true—does supply create its own demand?
+17. Can the economy reach equilibrium at less than full employment?
+18. What drives investment more than rational calculation?
+19. What can fill the gap left by deficient private investment?
+20. When is deficit spending appropriate?
+21. What is the paradox of thrift?
+22. Should the rate of interest be managed?
+23. What is the euthanasia of the rentier?
+24. Should international capital flows be controlled?
+25. Is the long run a reliable guide to current policy?

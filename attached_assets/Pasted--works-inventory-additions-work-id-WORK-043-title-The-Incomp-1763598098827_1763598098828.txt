@@ -1,0 +1,152 @@
+{
+  "works_inventory_additions": [
+    {
+      "work_id": "WORK-043",
+      "title": "The Incompleteness of Deductive Logic: Why Rationality is Pattern Recognition, Not Recursive Rule-Following",
+      "source_file": "COMPLETE BOOK ON INCOMPLETENESS OF DEDUCTIVE LOGIC.txt",
+      "type": "monograph",
+      "estimated_pages": 420,
+      "status": "100% extracted",
+      "priority_domains": [
+        "logic",
+        "philosophy_of_mind",
+        "epistemology",
+        "philosophy_of_language",
+        "philosophy_of_science",
+        "artificial_intelligence"
+      ],
+      "key_innovation": "Proof that the class of all recursive truth-preserving logics is not recursively enumerable → the false equation RATIONAL = RECURSIVE is mathematically impossible → rationality is fundamentally non-recursive pattern recognition"
+    }
+  ],
+
+  "positions_additions": [
+    {
+      "position_id": "LOGIC-050",
+      "work_id": "WORK-043",
+      "domain": "logic",
+      "title": "The class of all recursive truth-preserving logics is not recursively enumerable",
+      "thesis": "There is no algorithm that can list all possible recursive formal systems. Recursion cannot recursively enumerate its own space.",
+      "significance": "Stronger than Gödel: not only is no single system complete, the entire space of recursive systems is not surveyable by any recursive procedure.",
+      "related_positions": [
+        "LOGIC-047",
+        "MODAL-008"
+      ]
+    },
+    {
+      "position_id": "LOGIC-051",
+      "work_id": "WORK-043",
+      "domain": "logic",
+      "title": "Formalism cannot formalize its own boundaries",
+      "thesis": "The main theorem shows that no formal system can characterize the class of all formal systems; formalism is necessarily incomplete with respect to its own scope.",
+      "related_positions": [
+        "LOGIC-050",
+        "EP-127"
+      ]
+    },
+    {
+      "position_id": "MIND-090",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_mind",
+      "title": "Rationality is fundamentally pattern recognition, not recursive rule-following",
+      "thesis": "Rational thought has two irreducible modes: (1) recursive/deductive (special case) and (2) non-recursive pattern recognition (general case). The false equation RATIONAL = RECURSIVE is mathematically impossible (LOGIC-050).",
+      "key_arguments": [
+        "Pattern recognition is direct, non-regressive, and self-justifying.",
+        "Deduction itself presupposes pattern recognition (to apply rules correctly).",
+        "All deductive functions (truth-preservation, consistency, justification) are recoverable by pattern recognition."
+      ],
+      "related_positions": [
+        "MIND-075",
+        "EP-128",
+        "LOGIC-050"
+      ]
+    },
+    {
+      "position_id": "MIND-091",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_mind",
+      "title": "Hume’s problem of induction dissolves: induction is basic pattern recognition",
+      "thesis": "Induction does not require deductive justification because it is a direct, self-justifying form of pattern recognition. No regress, no circularity.",
+      "related_positions": [
+        "EP-015",
+        "MIND-090"
+      ]
+    },
+    {
+      "position_id": "MIND-092",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_mind",
+      "title": "Wittgenstein’s rule-following paradox is refuted: rule-following = direct pattern instantiation",
+      "thesis": "Following a rule is recognizing that a case instantiates a pattern; this recognition is direct and non-interpretative → no infinite regress.",
+      "related_positions": [
+        "MIND-090",
+        "LANG-026"
+      ]
+    },
+    {
+      "position_id": "LANG-055",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_language",
+      "title": "Linguistic competence = UG (recursive syntax) + X (non-recursive semantic capacities)",
+      "thesis": "Chomsky correctly identified recursive syntax (UG) but overgeneralized. Full competence requires non-recursive X: ostension, naming, metalinguistic awareness, concept formation.",
+      "related_positions": [
+        "MIND-090",
+        "LANG-027"
+      ]
+    },
+    {
+      "position_id": "AI-001",
+      "work_id": "WORK-043",
+      "domain": "artificial_intelligence",
+      "title": "Neural networks succeed and GOFAI failed precisely because intelligence is not recursive",
+      "thesis": "GOFAI collapsed because it equated intelligence with symbolic recursion. Modern deep learning succeeds because it approximates non-recursive pattern recognition.",
+      "related_positions": [
+        "MIND-090",
+        "MIND-083"
+      ]
+    },
+    {
+      "position_id": "SCI-060",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_science",
+      "title": "Scientific discovery is rational but non-algorithmic",
+      "thesis": "There is no logic of discovery because discovery is non-recursive pattern recognition, not because it is irrational (contra Popper).",
+      "related_positions": [
+        "MIND-090",
+        "MIND-091"
+      ]
+    },
+    {
+      "position_id": "EP-160",
+      "work_id": "WORK-043",
+      "domain": "epistemology",
+      "title": "Knowledge does not require recursive foundations",
+      "thesis": "Perceptual and inductive knowledge are direct products of pattern recognition; foundationalism fails because rationality transcends recursivity.",
+      "related_positions": [
+        "EP-012",
+        "MIND-090",
+        "MIND-091"
+      ]
+    },
+    {
+      "position_id": "ETHICS-010",
+      "work_id": "WORK-043",
+      "domain": "ethics",
+      "title": "Moral particularism and virtue ethics are vindicated",
+      "thesis": "Moral reasoning is skilled pattern recognition (moral perception), not application of recursive principles. There are no exceptionless moral rules.",
+      "related_positions": [
+        "MIND-090"
+      ]
+    },
+    {
+      "position_id": "MATH-010",
+      "work_id": "WORK-043",
+      "domain": "philosophy_of_mathematics",
+      "title": "Mathematical intuition is rational and non-formal",
+      "thesis": "Understanding proofs and recognizing mathematical truth (including Gödel sentences) requires non-recursive pattern recognition, not just symbol manipulation.",
+      "related_positions": [
+        "MIND-090",
+        "LOGIC-050"
+      ]
+    }
+  ]
+}

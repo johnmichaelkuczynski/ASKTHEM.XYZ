@@ -1,0 +1,415 @@
+I've read the document. This is Chapter 1 of a substantial work on analytic philosophy. Let me extract 100 positions and 100 questions.
+
+---
+
+# POSITIONS EXTRACTED FROM KUCZYNSKI, CHAPTER 1
+
+## POSITIONS
+
+1. Philosophy studies the categories (person, fact, causation, knowledge, truth) through which we understand the world—it doesn't study the world directly.
+
+2. We are excellent at using fundamental categories but terrible at making them explicit—we can distinguish knowledge from mere belief without being able to say what the difference is.
+
+3. The philosopher is to the physicist what the physicist is to the engineer—each studies the conditions underlying what the other takes for granted.
+
+4. Philosophical knowledge is metaknowledge: knowledge about knowledge, not knowledge about things.
+
+5. Pre-Fregean philosophers thought they were studying general features of the actual world; Frege showed they were studying what could possibly be the case.
+
+6. Philosophical puzzles result from confusion, not ignorance—they're solved by drawing the right inferences from what's already known, not by discovering new facts.
+
+7. "Nothing is a square circle" doesn't attribute being-a-square-circle to some non-entity; it says the property of being a square circle is uninstantiated.
+
+8. Philosophical problems are solved by clarifying statements, not by positing new entities.
+
+9. Grammatical form and logical form can diverge radically—the surface structure of a sentence may misrepresent what it actually says.
+
+10. Quantified statements ("someone smokes," "nothing is round") are really statements about properties, not about mysterious non-specific objects.
+
+11. Analytic philosophers are ontologically conservative—they don't grant existence to anything whose existence hasn't been demonstrated beyond doubt.
+
+12. Pre-Fregean philosophers ontologized when they should have analyzed—they posited bizarre entities to cover up defects in their analyses.
+
+13. When ontologizing is necessary, the entities posited are always abstract objects required to account for obviously true statements.
+
+14. Properties exist and are non-spatiotemporal—you'll never encounter redness itself, only instances of it.
+
+15. Perception is description: seeing something involves seeing that various properties are instantiated in a certain place.
+
+16. The content of a perception is an existence-claim—a claim that certain properties are instantiated.
+
+17. Hallucinations don't represent non-existent objects; they encode false existence-claims.
+
+18. Nothing non-existent or quasi-existent can be the object of thought or perception.
+
+19. Brentano and Meinong were ontologizing when they should have been analyzing—their talk of "subsistent" entities was spurious.
+
+20. Propositions are properties—for a proposition to be true is for it to be instantiated (for the world to have that property).
+
+21. Propositions exist independently of human beings—the world was a certain way before we existed.
+
+22. Sentences are human artifacts, but the truths they express are not.
+
+23. The term "statement" is ambiguous—it can refer to propositions, sentences, or acts of affirming.
+
+24. Not all philosophical analysis is linguistic analysis—many philosophical puzzles have nothing to do with language.
+
+25. Wittgenstein was wrong that all philosophical problems arise from misusing language.
+
+26. Some philosophical disputes concern whether a meaningful statement is true, not what it means.
+
+27. Wittgenstein's "meaning is use" thesis is incoherent—we can't know which word to study without already grasping the concept independently of the word.
+
+28. If meaning were use, meaning couldn't guide use—but it obviously does.
+
+29. To the extent meaning doesn't guide use, people are misspeaking—use presupposes meaning, not vice versa.
+
+30. For something to be a linguistic expression at all, it must have meaning—noises without meaning are just noises.
+
+31. Speaking consists in making noises because one believes they have certain meanings according to semantic rules.
+
+32. Any correct generalization about when abstract terms like "justice" are used will itself employ the concepts those terms express.
+
+33. The analysis of sentences is really the analysis of semantic rules—and semantic rules are not themselves sentences.
+
+34. The thesis that philosophy is sentence-analysis either collapses into linguistics or into the analysis of concepts.
+
+35. Wittgenstein's Tractarian claim that all philosophical statements are ungrammatical nonsense is self-refuting.
+
+36. Ungrammatical sentences are often perfectly meaningful ("me and Herby play tennis every day").
+
+37. The problem with "the good is more identical than the beautiful" isn't bad grammar—it's that "more identical than" denotes no relation.
+
+38. Meaninglessness results from undefined terms, not grammatical violations.
+
+39. The statement that all philosophical statements are meaningless is itself a philosophical statement—so if true, it's false.
+
+40. Logical positivism says a sentence is meaningful iff it's either a tautology or an empirical statement.
+
+41. Verificationism is false—"all metal expands when heated" is meaningful but cannot be conclusively verified.
+
+42. Falsificationism is false—"there exists a gold ball weighing exactly 27.13654 lbs" is meaningful but cannot be conclusively falsified.
+
+43. Confirmationalism fails because meaningless sentences can follow from confirmable ones.
+
+44. Logical positivism is neither tautologous nor empirical—so by its own criterion, it's meaningless and therefore false.
+
+45. Empiricism is self-refuting: you can't know through observation that all knowledge is observation-based.
+
+46. Observation cannot tell you whether one statement is consistent or inconsistent with another.
+
+47. The consistency of conventions is not itself a matter of convention.
+
+48. What must be the case cannot be known through observation—observation tells only what is the case.
+
+49. There are non-empirical truths that have nothing to do with linguistic conventions.
+
+50. From tautologous premises (definitions of "triangle" and "pentagon"), non-tautologous truths can be derived.
+
+51. Goodman's grue argument shows that induction does not have a strictly observational basis.
+
+52. Some properties (like green) are inductively relevant and others (like grue) are not—but observation alone can't tell which.
+
+53. A priori knowledge is required to learn from experience at all.
+
+54. Tautologousness is a property of utterances in context, not of sentences per se.
+
+55. The same sentence can be trivial for one person and informative for another, depending on how they learned the meanings.
+
+56. One knows the meanings of expressions descriptively—different descriptions can pick out the same meaning.
+
+57. What an utterance tells you depends both on what it means and on how you came to know what it means.
+
+58. "The universe is a perfect unity" isn't meaningless because unconfirmable—it's meaningless because "perfect unity" is undefined.
+
+59. A sentence is meaningful if it attributes some property to some object.
+
+60. Any non-compound sentence either attributes a property to an individual or affirms a relation between individuals.
+
+61. Relational sentences can be reformulated as property-attributions to ordered pairs.
+
+62. Compound sentences can be reformulated as property-attributions.
+
+63. Quantified generalizations say how many members one class has in common with another.
+
+64. The picture theory of meaning is trivially true if it means sentences represent facts, and false if it means they are pictures.
+
+65. The relationship between sentences and facts has a conventional component; pictures represent non-conventionally.
+
+66. Sentences go through propositions to facts; pictures go directly to facts.
+
+67. Sentences are digital structures with unique decomposition into discrete parts; pictures are not.
+
+68. A photograph functioning as a sentence in a language doesn't function as a picture.
+
+69. Any conventional assignment of meaning to symbols yields symbols with unique decomposition into discrete parts.
+
+70. No language can state all of its own semantic rules.
+
+71. The picture theory is consistent with empiricism because perception gives us pictures.
+
+72. Much of what we know cannot be embodied in images—negative facts, for instance.
+
+73. The rules converting perceptual information into propositional knowledge cannot themselves be learned perceptually.
+
+74. Wittgenstein's claim that we cannot state the logical forms of sentences collapses into the false claim that we can never say what words mean.
+
+75. "What can be shown cannot be said" is obviously false—I can both show and tell you I can do fifty push-ups.
+
+76. The liar paradox doesn't show that semantic rules can't be stated—many semantic rules can be stated without self-reference.
+
+77. Some semantic rules cannot be put into words, but not for the reasons Wittgenstein gives.
+
+78. Not all entailment is formal entailment—"Brown is a circle" entails "Brown is two-dimensional" but not formally.
+
+79. "Circle" is not synonymous with its definition, which is why the definition is informative.
+
+80. There are non-tautologous, non-empirical truths—logical positivism is therefore false.
+
+81. The concept of a logically perfect language is incoherent.
+
+82. A sentence is perspicuous iff its logical and grammatical forms coincide.
+
+83. For each analytic truth a logically perfect language could express, there are infinitely many it couldn't.
+
+84. Formally true sentences are instances of informally true universal generalizations.
+
+85. No sentence capable of expressing such generalizations is logically perfect.
+
+86. Knowledge of a formal entailment requires prior knowledge of an informal entailment.
+
+87. There are infinitely many informally valid inferences for each formally valid one.
+
+88. Hempel showed that strict empiricism is incompatible with modern physics.
+
+89. If magnitudes can have irrational values, there's no strictly observational way to establish this.
+
+90. Modern physics requires assuming magnitudes can take irrational values.
+
+91. Strict empiricism is therefore incompatible with the obvious fact that modern physics is knowledge.
+
+92. The parallel postulate is a statement-form, not a statement—"line" and "space" function as variables.
+
+93. Different interpretations of geometric primitives yield different geometries.
+
+94. What we thought were statements sometimes turn out to be statement-forms.
+
+95. Arithmetical truth cannot be formalized—any formal characterization is incomplete or inconsistent.
+
+96. Russell's argument against naive realism is flawed—observing effects of objects is not the same as observing effects upon ourselves.
+
+97. The coldness physics studies is identical with the coldness we feel—physics tells us what that coldness is.
+
+98. Scientific breakthroughs have both factual components (new data) and conceptual components (new models of old data).
+
+99. Counterfactual statements are not about other possible worlds but are grammatical variants of causal or logical statements.
+
+100. We don't know anything about other universes; any knowledge of them would be parasitic on knowledge of counterfactual truths.
+
+---
+
+## QUESTIONS
+
+1. What is philosophy actually about—what distinguishes it from science?
+
+2. Why are we good at using concepts like "cause" and "knowledge" but bad at explaining what they are?
+
+3. What does it mean for one statement to follow from another?
+
+4. How can "nothing is a square circle" be true if there's no square circle for it to be about?
+
+5. When I think about something that doesn't exist—like a golden mountain—what exactly am I thinking about?
+
+6. What's the difference between a sentence and what it means?
+
+7. Can the same thought be expressed in completely different languages?
+
+8. What makes something a genuine statement as opposed to meaningless noise?
+
+9. How does the grammar of a sentence relate to what it actually says?
+
+10. Are there things that exist but aren't in space or time?
+
+11. What would it mean for properties like redness to exist independently of red things?
+
+12. What is perception—is it just receiving information or does it involve interpreting it?
+
+13. When I hallucinate something, what is my experience about?
+
+14. Can you think about something without there being a thing you're thinking about?
+
+15. What makes a proposition true—what does it match up with?
+
+16. Do truths exist independently of anyone thinking them?
+
+17. What's the relationship between the words we use and the thoughts we have?
+
+18. Is the meaning of a word just how it's used?
+
+19. Can I know what a word means without being able to define it?
+
+20. Does understanding a word consist in anything beyond being able to use it?
+
+21. What makes something count as language rather than just noise?
+
+22. Can philosophical questions be settled just by examining how words are used?
+
+23. What determines whether a sentence is meaningful or not?
+
+24. Can a grammatically correct sentence be meaningless?
+
+25. Can a grammatically incorrect sentence be meaningful?
+
+26. What makes one statement inconsistent with another?
+
+27. Can observation tell us what's possible and impossible?
+
+28. Is all knowledge ultimately based on observation?
+
+29. What would I have to already know to learn anything from experience?
+
+30. Are mathematical truths just definitions or do they say something about reality?
+
+31. How can we know mathematical truths if we can't observe mathematical objects?
+
+32. What is a tautology—is it just a matter of linguistic convention?
+
+33. Can the same sentence be trivial for one person and informative for another?
+
+34. What's the difference between knowing what a word means and knowing what the thing is?
+
+35. Why doesn't "the good is more identical than the beautiful" mean anything?
+
+36. What does it take for a sentence to attribute a property to something?
+
+37. How do sentences about relations ("John loves Mary") work logically?
+
+38. How do sentences about quantities ("someone smokes," "nothing flies") work logically?
+
+39. Are sentences like pictures of reality or are they something fundamentally different?
+
+40. What's the difference between how a picture represents and how a sentence represents?
+
+41. Can everything we know be captured in images?
+
+42. How do we know negative facts—that something is not the case?
+
+43. Can a language contain all its own rules?
+
+44. What is logical form and how does it differ from grammatical form?
+
+45. What does it mean for one statement to formally entail another?
+
+46. Are all valid inferences a matter of logical form?
+
+47. Can there be valid inferences that aren't formally valid?
+
+48. Why can't all truths be captured in a formal system?
+
+49. What did Gödel actually show about mathematical truth?
+
+50. Is there a limit to what can be formalized?
+
+51. What is measurement and what are its limits?
+
+52. Can we know through measurement that something has an irrational magnitude?
+
+53. What assumptions does physics make that go beyond observation?
+
+54. What is an a priori truth?
+
+55. Is there knowledge that doesn't come from experience?
+
+56. What role does prior knowledge play in learning from experience?
+
+57. What is induction and what makes one inductive inference better than another?
+
+58. Why does "all emeralds are green" seem like a better inference than "all emeralds are grue"?
+
+59. What makes some properties "natural" and others artificial?
+
+60. What is causation—is it just constant conjunction?
+
+61. How do we distinguish genuine causes from mere correlations?
+
+62. What are counterfactual statements about?
+
+63. Does "if I had dropped the glass, it would have broken" describe another possible world?
+
+64. What grounds truths about what would have happened?
+
+65. What is necessity—what makes something necessarily true?
+
+66. What is possibility—what makes something possibly true?
+
+67. Are necessity and possibility features of statements or of things?
+
+68. What is the relationship between what is actual and what is possible?
+
+69. What is existence—what does it mean for something to exist?
+
+70. Can there be different modes or degrees of existence?
+
+71. Do fictional characters exist in any sense?
+
+72. What is a fact and how does it relate to a true statement?
+
+73. What is the relationship between the mental and the physical?
+
+74. Can mental causation be reduced to physical causation?
+
+75. What is consciousness and how does it relate to the brain?
+
+76. What is intentionality—what makes thoughts "about" things?
+
+77. Can there be unconscious mental states?
+
+78. What is self-knowledge and what are its limits?
+
+79. What is perception's relationship to thought—can you perceive without conceiving?
+
+80. What do sense-experiences contribute to knowledge beyond raw data?
+
+81. Can there be pure observation uncorrupted by theory?
+
+82. What is explanation—what does it mean to explain something?
+
+83. How does philosophical explanation differ from scientific explanation?
+
+84. What is the structure of scientific theories?
+
+85. What makes a theory scientific as opposed to non-scientific?
+
+86. What is probability—is it a measure of ignorance or a feature of reality?
+
+87. Are physical laws just regularities or something more?
+
+88. What is the relationship between laws and the events they govern?
+
+89. What is truth—what makes a statement true?
+
+90. Is truth relative or absolute?
+
+91. What is knowledge—what distinguishes it from mere true belief?
+
+92. Can we know anything with certainty?
+
+93. What is meaning—what is it for an expression to mean something?
+
+94. What determines what a word refers to?
+
+95. How do the meanings of parts combine to form the meaning of a whole?
+
+96. What is logical truth—is it different from other kinds of truth?
+
+97. What are numbers and do they exist?
+
+98. What is space and what is time?
+
+99. What is personal identity—what makes me the same person over time?
+
+100. What is the relationship between philosophy and common sense?
+
+---
+
+These are questions a thoughtful person would actually ask because they want to understand reality—not questions asking Kuczynski to recite his views.

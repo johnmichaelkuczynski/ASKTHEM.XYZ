@@ -1,0 +1,578 @@
+# GALILEO POSITION QUESTIONS
+## For Ask a Philosopher Training Database
+
+---
+
+# PART I: QUESTIONS BY WORK
+
+---
+
+## SIDEREUS NUNCIUS (1610)
+
+1. Is the moon's surface smooth and perfect, or rough like Earth's terrain?
+2. How can you determine the height of lunar mountains?
+3. Why is the boundary between light and dark on the moon irregular rather than smooth?
+4. Does the moon produce its own light?
+5. What causes the faint glow on the dark portion of the moon?
+6. How would Earth appear if viewed from the moon?
+7. What is the Milky Way actually composed of?
+8. What happens to nebulae when viewed through a telescope?
+9. Why do fixed stars appear as points rather than discs through your telescope?
+10. What are the "Medicean stars" you discovered near Jupiter?
+11. Do Jupiter's moons all orbit at the same rate?
+12. How do Jupiter's moons answer the objection that Earth cannot move while keeping its moon?
+13. How many more stars exist than we can see with the naked eye?
+14. Are traditional star magnitude classifications reliable?
+15. Can we trust the telescope as an astronomical instrument?
+16. Can mathematical reasoning reveal physical properties of celestial bodies?
+17. Are the heavens fundamentally different in nature from Earth?
+18. Should observational evidence override traditional astronomical authority?
+19. Is the Ptolemaic distinction between celestial and terrestrial realms valid?
+20. Do new discoveries require revising inherited cosmological frameworks?
+21. What did you actually see when you first turned your telescope to the moon?
+22. How did your observations of the Milky Way differ from what Aristotle taught?
+23. What convinced you that Jupiter's companions were moons rather than fixed stars?
+24. How do your lunar observations challenge the doctrine of celestial perfection?
+25. What is the significance of finding a "miniature planetary system" around Jupiter?
+26. How many celestial bodies exist beyond what the ancients knew?
+27. Does observation or philosophy discover new facts about nature?
+28. What does the telescope reveal that naked-eye astronomy cannot?
+29. How do your star counts compare with ancient catalogs?
+30. What do your discoveries imply about Earth's cosmic status?
+
+---
+
+## LETTERS ON SUNSPOTS (1613)
+
+1. Are sunspots distant planets or phenomena on the sun's surface?
+2. Does the sun rotate on its axis?
+3. Are sunspots permanent bodies or do they come and go?
+4. What do sunspots resemble in their behavior?
+5. Is the sun an immutable, perfect celestial body?
+6. Does the evidence support Aristotelian celestial immutability?
+7. What phases does Venus exhibit?
+8. What do the phases of Venus prove about its orbit?
+9. Why can the Copernican system explain Venus's phases while the Ptolemaic cannot?
+10. Does Mercury also exhibit phases?
+11. Should observation or philosophical speculation settle celestial questions?
+12. Do the heavens undergo generation and corruption like terrestrial nature?
+13. Can traditional physics account for actual celestial phenomena?
+14. How should priority disputes in science be settled?
+15. What truths does the telescope reveal that naked-eye astronomy misses?
+16. Can solar phenomena be studied systematically?
+17. Does mathematical analysis apply to the sun as well as planets?
+18. Is the distinction between sublunary and superlunary physics tenable?
+19. Is Copernicanism merely a computational device or physically true?
+20. Must natural philosophy be reformed based on new observations?
+21. How did you track sunspot movements across the solar disc?
+22. What do sunspots tell us about the sun's physical nature?
+23. How did your sunspot observations strengthen the case for Copernicus?
+24. What was wrong with Scheiner's interpretation of sunspots?
+25. Why do sunspots appear to move in the pattern they do?
+26. How do your solar observations undermine Aristotelian cosmology?
+27. What evidence proves sunspots are on the sun rather than orbiting it?
+28. How does the sun's rotation relate to its physical nature?
+29. What systematic method did you use to observe the sun safely?
+30. Why is the corruptibility of the sun cosmologically significant?
+
+---
+
+## IL SAGGIATORE (1623)
+
+1. In what language is the book of nature written?
+2. What are nature's characters or alphabet?
+3. Why is natural philosophy incomprehensible without mathematics?
+4. Do qualities like taste, odor, and color exist in objects or only in perceivers?
+5. What is the distinction between primary and secondary qualities?
+6. What produces heat?
+7. How do sensory qualities arise from matter and motion?
+8. Why is the distinction between real and perceived properties fundamental?
+9. What are comets—celestial bodies or atmospheric phenomena?
+10. Does authority carry any weight in natural philosophy?
+11. What must guide natural investigation?
+12. Is poetic language appropriate for scientific discourse?
+13. Why is precision in language essential to philosophy?
+14. Do natural phenomena require mechanical explanation?
+15. What is wrong with traditional natural philosophy?
+16. How does one demonstrative proof compare to a thousand probable arguments?
+17. How should scientific disputes be resolved?
+18. Does nature act through occult qualities?
+19. Is atomistic matter theory preferable to hylomorphism?
+20. How does science proceed in its method?
+21. What do you mean by saying nature is a "book"?
+22. Why can't someone ignorant of geometry understand the universe?
+23. How do you distinguish what really exists from what we merely perceive?
+24. What causes the sensation of warmth when I touch a heated object?
+25. Why do you reject appeals to Aristotle's authority?
+26. What is wrong with explaining phenomena through "occult qualities"?
+27. How does your view of matter differ from the Aristotelian view?
+28. Why do you insist on mathematical demonstration over probable reasoning?
+29. What makes verbal philosophy "empty of content"?
+30. How should we analyze complex phenomena into simpler components?
+
+---
+
+## DIALOGUE CONCERNING THE TWO CHIEF WORLD SYSTEMS (1632)
+
+1. Does Earth rotate on its axis daily?
+2. Does Earth revolve around the sun annually?
+3. What causes the apparent motion of the heavens?
+4. Why is stellar parallax undetectable?
+5. Why don't falling bodies show the effect of Earth's rotation?
+6. Does terrestrial physics operate differently if Earth moves versus rests?
+7. What causes the tides?
+8. Why is the Copernican system simpler than the Ptolemaic?
+9. How does Earth's orbital motion explain retrograde planetary motion?
+10. What is arbitrary and unconnected about Ptolemaic epicycles?
+11. Is uniform circular motion the only natural celestial motion?
+12. Why does the moon always show the same face to Earth?
+13. Why are common-sense arguments against Earth's motion fallacious?
+14. Can relative motion be detected by observers within a moving system?
+15. What does the ship's-hold thought experiment demonstrate?
+16. How does Aristotelian physics contradict observational evidence?
+17. Must scriptural interpretation accommodate demonstrated physical truths?
+18. Can natural philosophy be conducted by syllogistic logic alone?
+19. Are the fixed stars suns at immense distances?
+20. Does the Copernican system have physical reality or merely predictive utility?
+21. If Earth moves, why don't we feel it?
+22. What happens to a stone dropped from a tower on a moving Earth?
+23. Why don't birds get left behind if Earth rotates?
+24. How does the simplicity of Copernicanism count as evidence for its truth?
+25. What would you observe below decks on a smoothly sailing ship?
+26. Why do the planets sometimes appear to move backward?
+27. How do Jupiter's moons serve as a model for Earth-moon motion?
+28. What is wrong with the Aristotelian doctrine of natural places?
+29. How does your tidal theory support Earth's motion?
+30. Why should we prefer physical explanations over mathematical conveniences?
+
+---
+
+## DISCOURSES ON TWO NEW SCIENCES (1638)
+
+1. Does the strength of materials scale proportionally with size?
+2. Why do larger structures require disproportionately more material?
+3. Are there natural limits to the size of animals and structures?
+4. How do beams break depending on their dimensions and loading?
+5. Can resistance to fracture be calculated mathematically?
+6. Do freely falling bodies accelerate uniformly regardless of weight?
+7. How is distance fallen related to elapsed time?
+8. How does velocity of falling bodies change with time?
+9. What motions compose projectile motion?
+10. What is the trajectory of a projectile?
+11. Does the angle of an incline affect the final speed of descent?
+12. Is pendulum period independent of amplitude?
+13. Does the weight of a pendulum bob affect its period?
+14. Do naturally accelerated motions follow mathematical laws?
+15. How does the mean-speed theorem relate distance to acceleration?
+16. How does air resistance affect falling bodies?
+17. How can percussion force be analyzed?
+18. How do vibrating strings produce different frequencies?
+19. What explains consonance in music?
+20. Can infinite quantities be meaningfully compared?
+21. Why can't giants exist?
+22. Why are bones hollow rather than solid?
+23. What happens when you double all dimensions of a beam?
+24. How did you "slow down" gravity to measure acceleration?
+25. Why do a dropped ball and a horizontally thrown ball hit the ground simultaneously?
+26. What is the "odd number rule" for falling bodies?
+27. What determines the range of a projectile?
+28. How did you discover that projectile paths are parabolic?
+29. What limits how high suction pumps can raise water?
+30. How does a body continue moving without continuous force?
+
+---
+
+## LETTER TO THE GRAND DUCHESS CHRISTINA (1615)
+
+1. Can Scripture and nature truly conflict?
+2. Does Scripture accommodate its language to common understanding?
+3. Should passages about natural phenomena always be interpreted literally?
+4. What is the purpose of Scripture?
+5. What does "The Bible teaches how to go to heaven, not how the heavens go" mean?
+6. Should scientific demonstrations constrain biblical interpretation?
+7. Did Augustine support non-literal interpretation when science demands it?
+8. Did the Church Fathers intend to fix cosmological doctrines?
+9. How can the Joshua passage be better interpreted under Copernicanism?
+10. Would stopping the sun in Ptolemaic physics extend the day as described?
+11. Should theological authorities prematurely condemn scientific positions?
+12. What harm could come from condemning Copernicanism?
+13. Does heresy concern physical astronomy or doctrine necessary for salvation?
+14. Should theologians respect natural philosophers' competence in their domain?
+15. Does prohibiting free inquiry damage the pursuit of truth?
+16. How should scientific matters be decided?
+17. What risk does ecclesiastical censure of science create for the Church?
+18. Does the Copernican hypothesis have strong empirical support?
+19. Why should scientific questions remain open?
+20. How do faith and reason relate to each other?
+21. What happens when Scripture seems to contradict demonstrated natural truth?
+22. Why did biblical writers describe the sun as moving?
+23. Can theologians determine questions of natural philosophy?
+24. What precedent do the Church Fathers provide for non-literal interpretation?
+25. Why is the Copernican interpretation of Joshua actually superior?
+26. What distinguishes matters of faith from matters of natural investigation?
+27. How could condemning a true scientific theory harm the Church?
+28. Should the Church wait for scientific questions to be resolved before pronouncing?
+29. Is astronomy relevant to salvation?
+30. How do you reconcile your faith with your science?
+
+---
+
+# PART II: QUESTIONS BY TOPIC
+
+---
+
+## KINEMATICS OF FALLING BODIES
+
+1. Do heavier bodies fall faster than lighter ones?
+2. Would a feather and a cannonball fall together in a vacuum?
+3. Does velocity in free fall increase with time or with distance?
+4. What is the relationship between distance fallen and time elapsed?
+5. What is the "odd-number rule" for successive distances in fall?
+6. Does the mean-speed theorem apply to falling bodies?
+7. Does the final speed of descent depend on the path taken?
+8. How do inclined planes "dilute" gravity?
+9. What is the relationship between acceleration on an incline and the angle?
+10. How did you measure acceleration when gravity acts so quickly?
+
+---
+
+## PROJECTILE MOTION
+
+1. What two motions compose projectile motion?
+2. What shape does a projectile's path trace?
+3. Are horizontal and vertical motions independent of each other?
+4. Why does a horizontally fired ball hit the ground at the same time as a dropped one?
+5. What launch angle produces maximum range?
+6. Why do complementary angles yield equal ranges?
+7. Can artillery tables be computed from mathematical principles?
+8. How does the parabolic theory follow from combining two simple motions?
+9. What happens to the horizontal velocity of a projectile in flight?
+10. How does air resistance complicate the ideal parabolic path?
+
+---
+
+## THE PRINCIPLE OF INERTIA
+
+1. Does a moving body tend to remain in motion?
+2. Is rest privileged over uniform motion?
+3. Is force required to maintain uniform motion?
+4. What does the ship's hold thought experiment demonstrate about motion?
+5. Can passengers inside a moving ship detect whether it moves or rests?
+6. How do butterflies, fish, and falling drops behave in the hold of a moving ship?
+7. What distinguishes your view of motion from Aristotle's?
+8. Does circular motion require continuous deflection?
+9. Would a ball roll forever on a perfectly level frictionless plane?
+10. What causes change in motion if not continuous force?
+
+---
+
+## PENDULUM PHENOMENA
+
+1. Does a pendulum's period depend on how far it swings?
+2. Does the weight of the bob affect the pendulum's period?
+3. What property of a pendulum determines its period?
+4. Can pendulums serve as reliable timekeepers?
+5. What happens when two pendulums of equal length are placed near each other?
+6. How did you discover the isochronism of pendulums?
+7. Why don't heavier pendulum bobs swing faster?
+8. What determines whether two pendulums will resonate?
+9. How is pendulum period related to length?
+10. What practical applications follow from pendulum regularity?
+
+---
+
+## ACOUSTICS AND VIBRATING STRINGS
+
+1. What determines the pitch of a sound?
+2. How is a string's frequency related to its length?
+3. How does tension affect a vibrating string's frequency?
+4. How does a string's thickness affect its pitch?
+5. Why do certain frequency ratios sound consonant?
+6. What causes sympathetic vibration in strings?
+7. How did scraping a bronze plate reveal facts about pitch?
+8. What physical phenomenon produces musical sound?
+9. Why does an octave correspond to a 2:1 ratio?
+10. How does your mechanical explanation of consonance differ from mystical accounts?
+
+---
+
+## STRENGTH OF MATERIALS
+
+1. Does doubling all dimensions of a beam double its strength?
+2. Why can't giants exist according to the laws of mechanics?
+3. Why do large animals require proportionally thicker bones?
+4. Where does a cantilevered beam break?
+5. How does resistance to fracture depend on dimensions?
+6. Why are hollow tubes stronger per unit weight than solid rods?
+7. Does geometric similarity imply mechanical similarity?
+8. Why can't you simply scale up a successful small design?
+9. How does nature exploit the principle of hollow structures?
+10. What limits the maximum size of animals and buildings?
+
+---
+
+## HYDROSTATICS AND FLOATING BODIES
+
+1. What determines whether a body floats or sinks?
+2. Does a flat shape help a body float?
+3. Why does ice float on water?
+4. How does a lead-hulled ship float when lead itself sinks?
+5. What is the relationship between buoyancy and displaced fluid?
+6. How did you refute the Aristotelian explanation of floating?
+7. What determines apparent weight loss in a fluid?
+8. Does the shape of an object affect its buoyancy?
+9. How did Archimedes' principle resolve disputes about floating bodies?
+10. Why were the Aristotelians wrong about flat shapes floating?
+
+---
+
+## VACUUM AND AIR PRESSURE
+
+1. Does the vacuum have physical effects?
+2. What limits how high suction pumps can raise water?
+3. Is nature's "horror of the vacuum" unlimited?
+4. What force is required to separate two smooth plates?
+5. Can the "force of vacuum" be measured?
+6. Why do water columns break at about 10 meters?
+7. Does air have weight?
+8. How do suction pumps actually work?
+9. What experiments reveal the strength of vacuum?
+10. What explains the limits of suction if not an absolute horror of vacuum?
+
+---
+
+## MECHANICS AND SIMPLE MACHINES
+
+1. What is gained and lost in using a lever?
+2. How much force is needed to hold a body on an inclined plane?
+3. Do machines create force from nothing?
+4. How does mechanical advantage relate to speed and distance?
+5. What principle underlies the analysis of all simple machines?
+6. Can you get more work out of a machine than you put in?
+7. How do pulleys multiply force?
+8. What resolved the ambiguities in earlier treatments of the inclined plane?
+9. How does virtual displacement relate to equilibrium?
+10. Why is there "no free lunch" in mechanical advantage?
+
+---
+
+## PROPERTIES OF MOTION
+
+1. Is velocity a continuous quantity?
+2. Does a body jump instantaneously from one speed to another?
+3. What is acceleration?
+4. Is motion absolute or relative?
+5. Can any mechanical experiment detect absolute rest?
+6. Is circular motion "natural" or does it require continuous deflection?
+7. What distinguishes uniform from accelerated motion?
+8. Why can the same motion be described differently from different frames?
+9. How did your analysis of motion surpass all predecessors?
+10. What makes your kinematics genuinely mathematical?
+
+---
+
+## PERCUSSION AND IMPACT
+
+1. Why is percussion force "immense but brief"?
+2. What makes a swung hammer more effective than a slowly raised one?
+3. Can percussion force exceed any static weight?
+4. How does accumulated motion produce percussion effects?
+5. Why is percussion difficult to quantify?
+6. What determines the force of a hammer blow?
+7. How does impact differ from continuous pressure?
+8. What role does velocity play in percussion?
+9. Can a light hammer with high velocity exceed a heavy static weight?
+10. Why did you consider percussion so important yet difficult?
+
+---
+
+## EXPERIMENTAL METHOD
+
+1. How does controlling variables isolate causes?
+2. Why is idealization necessary to discover laws?
+3. What role do measurement and quantification play in physics?
+4. Why must experiments be reproducible?
+5. What form do physical laws take?
+6. How do you abstract from friction and air resistance?
+7. What makes your method different from Scholastic natural philosophy?
+8. How do you move from particular observations to general laws?
+9. Why are mathematical relations the proper form of natural laws?
+10. What is the relationship between ideal cases and real phenomena?
+
+---
+
+# PART III: PHILOSOPHICAL AND METHODOLOGICAL QUESTIONS
+
+---
+
+## EPISTEMOLOGY AND METHOD
+
+1. Why is the book of nature written in mathematics?
+2. Can anyone ignorant of geometry understand the universe?
+3. How does one demonstrative proof compare to a thousand authorities?
+4. Why does the authority of thousands count for nothing against reasoning?
+5. Does verbal philosophy discover anything about nature?
+6. What is wrong with Scholastic syllogistic method?
+7. How should sense experience guide investigation?
+8. What makes an explanation genuinely explanatory?
+9. Why must we measure what is measurable and make measurable what is not?
+10. What is the proper role of hypothesis in natural philosophy?
+11. How do you distinguish demonstration from probable argument?
+12. Why does nature care not whether her reasons are understandable to men?
+13. Can you learn something from even the most ignorant person?
+14. Why can't you teach someone—only help them discover?
+15. What makes mathematics the key to physical secrets?
+
+---
+
+## METAPHYSICS OF NATURE
+
+1. What properties truly exist in external matter?
+2. Do colors, tastes, and smells exist outside consciousness?
+3. What causes our sensory experiences if not resembling qualities?
+4. Is matter ultimately composed of atoms in motion?
+5. Are celestial and terrestrial realms made of the same substance?
+6. Is the universe finite or infinite?
+7. Are the stars suns at various distances?
+8. Does the same physics govern heaven and earth?
+9. What is the nature of light?
+10. How does motion produce heat?
+
+---
+
+## COSMOLOGY
+
+1. Does Earth move?
+2. Is the sun the center of planetary orbits?
+3. Why can't we detect stellar parallax?
+4. Are the heavens perfect and immutable?
+5. What proves the heavens are corruptible?
+6. How many planets exist beyond those known to antiquity?
+7. Are planetary orbits circular or some other shape?
+8. What explains retrograde motion?
+9. Why is the Copernican system simpler than the Ptolemaic?
+10. Do the Ptolemaic epicycles have physical reality?
+11. What does the existence of Jupiter's moons prove?
+12. Why do Venus's phases prove it orbits the sun?
+13. What causes the tides?
+14. How distant are the fixed stars?
+15. Is the universe geocentric, heliocentric, or neither?
+
+---
+
+## SCIENCE AND SCRIPTURE
+
+1. Can two truths from the same God contradict each other?
+2. Why does Scripture use non-literal language about nature?
+3. What is the purpose of the Bible?
+4. Should scientific demonstrations constrain biblical interpretation?
+5. What did Augustine say about science and Scripture?
+6. Should theologians condemn unresolved scientific questions?
+7. Could condemning Copernicanism harm the Church?
+8. Is astronomy necessary for salvation?
+9. How should the Joshua passage be interpreted?
+10. What happens when Scripture seems to contradict demonstrated fact?
+11. Do theologians have authority over questions of natural philosophy?
+12. Why did the biblical writers describe nature as they did?
+13. Is Copernicanism compatible with Christian faith?
+14. Should the Church allow scientific questions to remain open?
+15. What is the relationship between faith and reason?
+
+---
+
+## POLEMICS AND INTELLECTUAL COMBAT
+
+1. Why does authority carry no weight in natural philosophy?
+2. What is wrong with appealing to Aristotle?
+3. How should scientific disputes be resolved?
+4. Why do the ignorant hate knowledge?
+5. How should priority disputes be settled?
+6. What makes traditional natural philosophy verbose and empty?
+7. Why do you insist on precision in language?
+8. What is the danger of poetic language in science?
+9. How do you respond to those who refuse to look through the telescope?
+10. Why won't syllogistic logic suffice for natural philosophy?
+
+---
+
+## THE TELESCOPE AND INSTRUMENTATION
+
+1. Is the telescope a reliable instrument?
+2. What truths does the telescope reveal that were previously inaccessible?
+3. How do you answer those who distrust telescopic observations?
+4. Why do stars appear different through the telescope than planets do?
+5. What causes the apparent magnification of stars to naked-eye vision?
+6. How does magnification work?
+7. What did the telescope reveal about the moon, stars, and planets?
+8. Does the telescope show nature as it truly is?
+9. How do instruments extend the power of the senses?
+10. What new instruments might reveal further truths?
+
+---
+
+# PART IV: DIRECT CHALLENGES
+
+---
+
+## CHALLENGES TO DEFEND POSITIONS
+
+1. Aristotle taught that heavier bodies fall faster—why is he wrong?
+2. If Earth moves, why don't we feel it or see its effects?
+3. How can Earth move when Scripture says the sun stood still for Joshua?
+4. If the heavens are corruptible, why did all ancient authorities say otherwise?
+5. Why should we trust a Dutch spectacle-maker's toy to reveal celestial truths?
+6. The Ptolemaic system predicts planetary positions accurately—why abandon it?
+7. If Earth moves, why aren't birds and clouds left behind?
+8. How can infinite quantities be compared when infinity is not a number?
+9. Why should mathematics tell us about physical reality rather than just calculate?
+10. If the vacuum exists, why did Aristotle prove it impossible?
+11. How can you claim the tides prove Earth's motion when your tidal theory is wrong?
+12. Why do you think observations trump two thousand years of philosophy?
+13. If sunspots are on the sun, doesn't that contradict its perfection as a celestial body?
+14. How can Jupiter have moons when Earth is supposed to be the center of all motion?
+15. Why should I believe your mathematics when common sense says Earth is at rest?
+
+---
+
+## REQUESTS FOR DEMONSTRATION
+
+1. Show me mathematically that falling bodies follow the square-of-time law.
+2. Demonstrate that projectile paths are parabolic.
+3. Prove that pendulum period is independent of amplitude.
+4. Show why the phases of Venus require a heliocentric model.
+5. Demonstrate that a body in motion continues without force.
+6. Prove that all bodies fall at the same rate regardless of weight.
+7. Show mathematically how inclined planes reveal the law of acceleration.
+8. Demonstrate that the Copernican system is simpler than the Ptolemaic.
+9. Prove that the strength of materials doesn't scale with size.
+10. Show how the mean-speed theorem applies to uniformly accelerated motion.
+
+---
+
+## QUESTIONS ABOUT SPECIFIC DISCOVERIES
+
+1. What exactly did you see when you first observed Jupiter's moons?
+2. How did you determine that the Medicean stars were moons and not fixed stars?
+3. What was your method for measuring lunar mountains?
+4. How did you track sunspots across the solar disc?
+5. What observations proved the Milky Way is composed of individual stars?
+6. How did you discover the parabolic path of projectiles?
+7. What experiments led you to the square-of-time law?
+8. How did you measure something as fast as free fall?
+9. What convinced you that pendulum period is isochronous?
+10. How did you determine that Venus shows a full range of phases?
+
+---
+
+## HYPOTHETICALS AND THOUGHT EXPERIMENTS
+
+1. What would happen in a ship's hold during smooth sailing?
+2. If you dropped a ball from a tower on a rotating Earth, where would it land?
+3. What would happen to a ball rolling on a perfectly frictionless plane?
+4. If Earth suddenly stopped rotating, what would happen to objects on its surface?
+5. What would we observe if we could see Earth from the moon?
+6. If we could remove all air resistance, how would falling bodies behave?
+7. What would happen to a cannonball fired vertically upward on a moving Earth?
+8. If giants could exist, what would their bones need to look like?
+9. What would happen if we could create a perfect vacuum?
+10. If the stars are suns at various distances, what does that imply about the universe?

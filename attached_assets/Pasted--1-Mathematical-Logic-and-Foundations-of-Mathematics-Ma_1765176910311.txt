@@ -1,0 +1,565 @@
+### 1. Mathematical Logic and Foundations of Mathematics
+- Mathematics can be reduced entirely to logic through logicism, as all mathematical truths derive from logical axioms and definitions.
+- Numbers exist as logical constructs, independent of human thought but discovered through analysis rather than invented.
+- Mathematical truths are certain because they are tautologies or logical necessities, unlike empirical claims which are probabilistic and fallible.
+- Infinity is coherent as a logical concept, with different sizes (cardinalities) distinguished through set theory, such as countable vs. uncountable infinities.
+- Confidence in proofs comes from their deductive structure from self-evident axioms, though consistency is assumed until paradoxes arise.
+- Logical necessity and mathematical necessity are identical, as mathematics is a branch of logic.
+- Mathematical objects are discovered via logical analysis, not invented.
+- Axioms are consistent if no contradictions are derived, though absolute proof is impossible post-Gödel.
+- Mathematics applies to the physical world because the world has a logical structure analyzable by reason.
+- There is a single correct (classical) logic, though alternatives like intuitionistic logic are unjustified.
+- Genuine proofs are formal deductions from axioms, distinct from persuasive rhetoric.
+- All mathematics can be formalized using predicate logic and type theory.
+- Mathematical existence means logical consistency within a system, not physical reality.
+- Definitions in mathematics identify logical equivalents rather than create objects.
+- Mathematical knowledge is a priori, possible through acquaintance with logical universals.
+
+### 2. Set Theory and the Theory of Types
+- Paradoxes from self-reference are avoided through the ramified theory of types, which hierarchies propositions and prohibits self-membership.
+- Hierarchy among abstract objects is natural and necessary to prevent vicious circles.
+- No collection can be a member of itself, as per type theory's restrictions.
+- A class relates to its members as a logical construct, not a substantial entity.
+- Legitimate totalities are those definable without self-reference; spurious ones lead to paradoxes.
+- A set differs from a mere collection by being defined via propositional functions.
+- The null set exists as a logical construct with no members.
+- The axiom of choice is a substantive assumption, not self-evident.
+- Predicates define sets only if they satisfy the vicious circle principle.
+- Sets too large (like the class of all classes) are improper and handled via types.
+- No universal set exists, to avoid paradoxes.
+- Intension and extension relate through propositional functions defining classes.
+- Set theory can found all mathematics via logicism.
+- Infinite sets exist logically, justified by the axiom of infinity.
+- Sets and properties differ; properties are universals, sets logical constructs.
+
+### 3. Epistemology and the Theory of Knowledge
+- Knowing differs from true belief by justification through acquaintance or description.
+- Knowledge beyond sensory experience is possible via logical inference and universals.
+- Memory is fallible but essential, trusted through coherence with present data.
+- Self-evident truths exist as logical axioms, requiring no further justification.
+- Much knowledge is inferential, built from direct acquaintance with sense data.
+- Perception relates to the external world via sense data as logical constructs.
+- Introspection provides reliable knowledge of mental states through acquaintance.
+- Testimony can yield knowledge if coherent with one's own evidence.
+- Skepticism is irrefutable logically but set aside practically for scientific method.
+- Genuine knowledge differs from lucky guesses by evidential grounding.
+- Empirical knowledge is foundationalist, based on sense data.
+- Knowledge of the future is probabilistic, based on induction.
+- Knowledge requires certainty for a priori truths, but empirical is probable.
+- Inference extends knowledge via logical relations.
+- Immediate knowledge exists through direct acquaintance with sense data.
+
+### 4. Philosophy of Language and Meaning
+- Word meaning derives from reference and sense, influenced by context and intention.
+- Meaning is in the relationship between language and world, via logical form.
+- Two people can mean the same if their propositional functions align logically.
+- Grammatical form often misleads; logical form reveals true structure.
+- Vague terms communicate via approximate propositional functions.
+- Proper names are disguised descriptions, not direct references except for logically proper names like "this."
+- Private languages cannot exist, as meaning requires public criteria.
+- Linguistic meaning ties to speaker intention but is objective via logic.
+- Metaphors mean through logical analogies, despite literal falsity.
+- Definitions are correct if they capture logical equivalence.
+- Thought can occur without language, but complex thought requires it.
+- Sense and reference distinguish: sense is mode of presentation, reference the object.
+- Indexicals like "I" get meaning from context and acquaintance.
+- Fictional discourse is meaningful as propositional functions without denotation.
+- Context determines meaning via disambiguation of ambiguity.
+
+### 5. Logical Atomism
+- Ultimate constituents of reality are atomic facts and their components (particulars and universals).
+- The world is fundamentally composed of facts, not things.
+- Complex propositions are truth-functions of simple (atomic) propositions.
+- Language structure can reveal reality's structure through logical analysis.
+- A complete description would enumerate all atomic facts.
+- Facts are subsistent entities; negative facts exist as absences.
+- General facts exist alongside particular ones.
+- Atomic propositions are independent; molecular are compounds.
+- Relations are as real as substances.
+- Logical constants are discovered through analysis.
+- Logical truths are tautologies about language.
+- Analysis reaches an endpoint at logical atoms.
+- A logically perfect language would mirror atomic facts directly.
+
+### 6. The Problem of Universals
+- Shared qualities like redness are universals instantiated in particulars, not mere resemblance.
+- Universals exist independently as logical entities.
+- Recurrence is explained by the same universal in multiple instances.
+- Similarity is a universal, but regress is avoided by treating it as primitive.
+- Nominalism cannot fully account for objective predication.
+- Universals are perceived directly through acquaintance.
+- Universals relate to instances as abstract to concrete.
+- Uninstantiated universals can exist logically.
+- Relations are universals.
+- Resemblance explains some shared properties but requires universals ultimately.
+- Particulars cannot exist bare; they have properties.
+- Universals are individuated by their logical differences.
+- There are degrees of universality in hierarchies like genera and species.
+- Abstract universals relate to concrete via instantiation in space-time.
+- The distinction is exhaustive for ontological categories.
+
+### 7. Philosophy of Mind and Neutral Monism
+- Mind is not a distinct substance but a series of events, identical in nature to physical events.
+- Sensations relate to stimuli as neutral events in causal chains.
+- Consciousness is unified but analyzable into neutral components.
+- Mental and physical differ only in arrangement of neutral stuff.
+- Mental states' privacy is due to unique causal perspectives.
+- Brain states and mental states are the same neutral events viewed differently.
+- Unconscious mental states exist as dispositional.
+- Sensations differ from thoughts by immediacy vs. relational content.
+- Introspection is inward perception of neutral events.
+- Beliefs and desires cause behavior through causal laws on neutral events.
+- The self is a bundle of experiences, not a substance.
+- Machines can think if they simulate logical processes.
+- Consciousness unity is from causal integration.
+- Attention focuses consciousness on specific events.
+- Mental causation is compatible with physical closure via neutral monism.
+
+### 8. The Analysis of Matter and Physics
+- Matter is a logical construction from sense data and events, without intrinsic qualities.
+- Physical objects exist unperceived as persistent causal structures.
+- Physics describes abstract structures; experience adds concreteness.
+- Space is a system of relations among events.
+- Continuous experience reconciles with discrete physics via perceptual approximation.
+- Common-sense objects are constructs from scientific entities.
+- Physical entities are real if they explain phenomena efficiently.
+- Causation in physics is functional regularity, not necessity.
+- Quantum indeterminacy is ontological, introducing probability.
+- Time is relational; flow is illusory.
+- Natural laws are descriptive generalizations.
+- Geometry describes physical space empirically.
+- Action at a distance is explained by fields.
+- The universe is not fully deterministic due to quantum effects.
+- Energy is a mathematical invariant in physical equations.
+
+### 9. Education and Progressive Schooling
+- Education's aim is knowledge, character, and practical skills for happiness and citizenship.
+- Children should have significant freedom to direct learning, avoiding repression.
+- Competition in education is harmful; cooperation is better.
+- Emotional development is cultivated through freedom and affection.
+- Balance individuality with cultural transmission via child-centered methods.
+- Formal education should begin around age 6, with early years focused on play.
+- Intellectual and moral education are intertwined for rational citizenship.
+- Punishment should be minimal and constructive.
+- Education should aim for breadth over early specialization.
+- Critical thinking is cultivated through evidence and doubt, avoiding cynicism.
+- Education perpetuates class differences unless reformed.
+- Religious instruction has no place in secular education.
+- Balance tradition and innovation in curriculum for relevance.
+- Optimal learning requires curiosity and lack of fear.
+- Education adapts to abilities, with individualized approaches.
+
+### 10. Marriage, Sexuality, and Morals
+- No rational basis for restricting sex to marriage; consent and consequences matter.
+- Jealousy is socially conditioned, not inevitable.
+- Parents owe children stability, shaping marriage as companionate.
+- Sexual morality should consider consequences, not rigid rules.
+- Genuine ethics distinguish from taboos via rational analysis.
+- Sexual ethics based on consent and mutual benefit.
+- Lifelong monogamy is unrealistic for most.
+- Children outside marriage should be treated equally.
+- Romantic love and sexual desire are linked but distinct.
+- Divorce should be freely available to prevent misery.
+- Sexual impulses are natural; some constructs are social.
+- State should minimally regulate sex, focusing on harm prevention.
+- Modesty has rational basis in privacy but not shame.
+- Economics influence sexual morality via power dynamics.
+- Sex education should be rational, factual, and early.
+
+### 11. Religion and Agnosticism
+- No rational ground for belief in a deity; arguments fail.
+- Religious experience is psychological, not evidential.
+- Religion serves fear and social control; needs met by science and humanism.
+- Meaningful life possible without cosmic purpose, via human values.
+- Widespread unbelief leads to better ethics than belief.
+- Religious claims are meaningful but unfalsifiable, hence unscientific.
+- Evil is incompatible with an omnipotent benevolent deity.
+- Religious belief originates in psychology, not revelation.
+- Morality survives without religion, based on humanism.
+- Mystical experience reveals psychology, not reality.
+- Religion and superstition are continuous.
+- Spirituality without religion is possible via awe at nature.
+- Agnostics should abstain from religious practices.
+- Immortality is undesirable and belief harmful.
+- Persistence of religion due to fear and tradition.
+
+### 12. Political Philosophy and Liberalism
+- State power limited to preventing harm and promoting welfare.
+- Balance liberty and welfare through democratic socialism.
+- Democracy is best as it maximizes freedom and accountability.
+- Politics and economics should separate to avoid concentrations of power.
+- Just society can tolerate inequalities if they benefit all.
+- Liberty and equality are compatible via social reforms.
+- Society can be free and secure through international cooperation.
+- Property rights justified by utility, limited by public good.
+- Prevent majority tyranny via rights protections.
+- Nationalism is illegitimate, fostering conflict.
+- Individual and community relate through mutual benefit.
+- Balance present and future via sustainable policies.
+- Revolution justified only if alternatives fail.
+- Institutions like education protect liberty.
+- Liberal society tolerates illiberal groups if non-harmful.
+
+### 13. Pacifism and Anti-War Activism
+- War is justified only as lesser evil in extreme cases (relative pacifism).
+- Weigh war's evils against uncertain prevention of worse harms.
+- Nationalism, economics, and psychology drive wars.
+- Individuals can rationally resist military service as conscientious objectors.
+- Lasting peace via world government and disarmament.
+- Nonviolent resistance can be effective against aggression.
+- Aggression roots in psychology, addressable by education.
+- Killing in war morally differs from murder but still wrong.
+- Uncertain outcomes make war rarely justifiable.
+- Nationalism generates wars via false loyalties.
+- International law can constrain violence if enforced.
+- Citizens have moral obligations to oppose unjust wars.
+- Duty to actively resist unjust wars.
+- Economic interests drive conflicts via imperialism.
+- World without war requires cooperative institutions and changed human nature.
+
+### 14. Nuclear Disarmament
+- Probability of nuclear war high under mutual deterrence; it will fail eventually.
+- Deterrence unstable long-term due to accidents and escalation.
+- International control and world government prevent nuclear war.
+- Weigh national interests against extinction by prioritizing global survival.
+- Unilateral disarmament rational if it inspires reciprocity.
+- Assess existential risks probabilistically, favoring caution.
+- Threatening retaliation is immoral, akin to terrorism.
+- International institutions can be trusted with oversight if democratic.
+- Overcome nationalism via education and appeals to reason.
+- Scientists have moral duty to oppose destructive weapons.
+- World government necessary for nuclear safety.
+- Balance sovereignty and survival by ceding arms control.
+- Psychological factors like fear increase nuclear risk.
+- Deterrence not morally justified despite preventive effect.
+- Weigh present costs against catastrophes via expected utility.
+
+### 15. History of Western Philosophy
+- Philosophical questions are conceptual, distinct from empirical science or faith-based religion.
+- Philosophy progresses by clarifying problems, though many persist.
+- Persistent problems due to language ambiguities and human limits.
+- Philosophers' ideas shaped by social conditions.
+- Few debates resolved definitively, like some logical paradoxes.
+- Philosophy makes less cumulative progress than science due to conceptual nature.
+- Philosophy refines common sense through analysis.
+- Distinguish insight from confusion via logical clarity.
+- Temperament influences positions, but logic adjudicates.
+- Philosophy has distinct method of logical analysis.
+- Cultures produce philosophy based on intellectual freedom.
+- Philosophy critiques religion rationally.
+- Evaluate systems by consistency and explanatory power.
+- Great philosophers have breadth and influence.
+- History is essential for understanding philosophy's development.
+
+### 16. The Nature of Truth and Correspondence Theory
+- A true proposition corresponds to a fact.
+- Truth is a relation between propositions and facts.
+- Unknowable truths exist if facts obtain independently.
+- Negative propositions correspond to negative facts.
+- Truth is unified for all propositions via correspondence.
+- No degrees of truth; it's binary.
+- Facts are complexes making propositions true.
+- Truth is absolute, not relative to schemes.
+- Mathematical truths correspond to logical facts.
+- Truth relates to verification but is independent.
+- Contradictions cannot be true.
+- Truth is a relation propositions stand in.
+- False propositions are meaningful if analyzable.
+- Counterfactuals true via correspondence to possible facts.
+- Truth is primitive, not fully definable.
+
+### 17. Descriptions and Reference
+- Nonexistent things are discussed via descriptions as quantifiers.
+- "The present King of France" is a quantified proposition, false due to no unique referent.
+- Names differ from descriptions: names are direct, descriptions indirect.
+- Sentences with non-referring terms are meaningful as propositional functions.
+- Reference determined by descriptive fit.
+- Statements about nonexistents like unicorns are false assertions of existence.
+- Identity statements are tautologies if names, informative if descriptions.
+- Same proposition via different sentences if logically equivalent.
+- Presupposition is existence implied by descriptions.
+- Linguistic reference ties to mental via acquaintance.
+- Descriptions in modal contexts scope ambiguously.
+- Demonstratives refer via context.
+- Reference failure in attitudes makes propositions incomplete.
+- Reference is descriptive, not purely causal.
+- Existence claims are quantifications over descriptions.
+
+### 18. Ethics and Metaethics
+- Moral judgments are expressions of attitude, not facts (emotivism).
+- Ethical disputes resolved rationally on means, but ends are preferences.
+- Rightness based on consequences for happiness.
+- Moral knowledge acquired empirically, via desires.
+- Good relates to what is desired desirably.
+- Moral and non-moral goods differ by universality.
+- Evolutionary explanations do not undermine morality.
+- Morality and self-interest align in enlightened views.
+- No moral facts, only opinions.
+- Resolve conflicts consequentially.
+- Relativism not self-refuting if emotive.
+- Moral obligation from sentiment and convention.
+- Cannot derive ought from is.
+- Virtue and duty both matter in consequentialism.
+- Moral progress is real, toward humanism.
+
+### 19. Social Criticism and Power Structures
+- Unnecessary suffering from power imbalances, war, and ignorance.
+- Propaganda manipulates via emotion; resist through critical thinking.
+- Legitimate authority based on consent and utility.
+- Economics shape politics and intellect via class interests.
+- Reforms like basic income improve welfare minimally disruptively.
+- Education controls via indoctrination; reform for freedom.
+- Economic and political power intertwined in capitalism.
+- Ideologies mask interests; expose via analysis.
+- Authority legitimate if democratic.
+- Media shapes consciousness via bias.
+- Conformity from social pressure.
+- Expertise vs. credentialism distinguished by evidence.
+- Minimize abuse via power diffusion.
+- Fear used politically for control.
+- Intellectuals challenge power structures.
+
+### 20. The Philosophy of Leibniz
+- Reality composed of monads, but critiqued as inconsistent logically.
+- Sufficient reason leads to determinism, unsustainable.
+- This is not the best possible world; evil undermines it.
+- Logic and metaphysics intertwined, but Leibniz's logic flawed.
+- Pre-established harmony does not solve mind-body; neutral monism better.
+- Identity of indiscernibles questionable.
+- Possible worlds logical, actual chosen illogically.
+- Monads windowless but harmony artificial.
+- Continuity is methodological, not metaphysical truth.
+- God and monads relation inconsistent.
+- Freedom incompatible with sufficient reason.
+- Space relational, as per Leibniz.
+- Physical forces reduce to monads illogically.
+- Leibniz's logic informs his metaphysics critically.
+- Evil not solved by best world appeal.
+
+### 1. Relativity Theory (Additional Sections Start Here)
+- Space-time is relational, not substantive.
+- Relative simultaneity implies no absolute temporal order.
+- Relativity of measurement does not imply relativity of reality.
+- Block universe reconciles with temporal experience via perspective.
+- Space-time geometry determined by matter distribution.
+- Light speed is physical limit, not mere convention.
+- General relativity eliminates gravitational force as geometry.
+- Mass and energy are convertible aspects of one thing.
+- Causation persists despite variable temporal orders.
+- Relativity supports relational motion.
+
+### 2. Structure of the Atom
+- Subatomic particles are mathematical abstractions describing events.
+- Discrete structure reconciles with continuity via perceptual scales.
+- Electron is wave-particle duality.
+- Atomic "empty space" filled with fields.
+- Model relates to atom via logical construction.
+- Orbits are probabilistic clouds, not classical paths.
+- Stability from quantum laws.
+- Atomic properties reduce to constituents'.
+- Nucleus is composite.
+- Physics and chemistry atoms align via quantum theory.
+
+### 3. Quantum Theory
+- Quantum mechanics describes reality probabilistically.
+- Superposition is genuine multiple states until measurement.
+- Wave function collapse is physical process.
+- Indeterminacy ontological, not epistemic.
+- Quantum probability differs from classical as intrinsic chance.
+- Non-locality implies action at distance, challenging causality.
+- Sufficient reason fails in quantum indeterminacy.
+- No complete deterministic description possible.
+- Observation collapses via interaction, not consciousness.
+- Reconcile with definite properties via logical constructions.
+
+### 4. Inductive Inference
+- Expectation justified probabilistically, not absolutely.
+- Induction is inference, not mere habit.
+- Justified non-circularly via regressive method.
+- Good inductions have large samples and variety.
+- Uniformity of nature assumed probabilistically.
+- Projectible properties are those in laws.
+- Induction relates to probability as degree of belief.
+- Induction yields reasonable belief, not certain knowledge.
+- No fixed number of instances required; depends on context.
+- Induction complements hypothetico-deductive method.
+
+### 5. Postulates of Scientific Inference
+- Assumptions like causality and uniformity necessary for science.
+- Postulates are a priori presuppositions.
+- Causal assumptions justified beyond observation by success.
+- Similar causes produce similar effects as inductive principle.
+- Natural kinds assumed for classification.
+- Structural continuity assumed in inference.
+- Postulates revisable if science advances.
+- Unobserved behave like observed by uniformity.
+- Minimum assumptions: causality, induction, persistence.
+- Science assumes persistent objects.
+
+### 6. Probability
+- Probability is subjective credence, degree of belief.
+- Relates to frequency in long runs.
+- Single events have probabilities as credences.
+- Indifference principle valid a priori for equiprobable cases.
+- Assign probabilities via evidence or indifference.
+- Objective chance exists in quantum events.
+- Probability relates to logical possibility.
+- Definable in terms of frequency or logic.
+- Past probabilities are retrospective credences.
+- Bayesian reasoning correct for evidence updating.
+
+### 7. Logical Positivism
+- Verification principle is unverifiable, thus problematic.
+- Meaning not fully reducible to verification; allows metaphysics.
+- Logical/mathematical truths are tautologies, verifiable analytically.
+- Metaphysical statements unverifiable but not meaningless.
+- Universal generalizations verifiable in principle.
+- Analytic/synthetic distinction exists but blurred.
+- Counterfactuals analyzable logically.
+- Ethics has cognitive content beyond emotion.
+- Science demarcated by empirical testability.
+- Unity of science methodological, not metaphysical.
+
+### 8. The Differential Calculus
+- Infinitesimals are useful fictions, rigorized by limits.
+- Limits provide foundation for intuitive calculus.
+- Instantaneous velocity is mathematical construct.
+- Continuity mathematical and physical differ; physical approximate.
+- Calculus discovered as logical tool for reality.
+- Discrete and continuous relate via limits.
+- Motion analyzable into states via calculus.
+- Rates at instants defined by limits over durations.
+- Limit relates to physical via approximation.
+- Calculus presupposes potential infinite.
+
+### 9. Surds (Square Circles, Married Bachelors)
+- Impossible objects have no being but are thinkable as descriptions.
+- We think about impossibles via contradictory descriptions.
+- Logical impossibility stricter than physical.
+- Contradictory descriptions meaningful but false.
+- No degrees of impossibility.
+- Conceivability not equivalent to possibility.
+- Meaningfulness of impossibilia via logical form.
+- Non-contradiction is logical and metaphysical principle.
+- Terms like "square circle" refer to nothing.
+- Cannot quantify over impossibles coherently.
+
+### 10. The Theory of Descriptions
+- Definite descriptions have quantificational logical form.
+- Sentences about nonexistents meaningful as false existence claims.
+- "The present King of France is bald" is false.
+- Grammatical form hides quantificational logical form.
+- Descriptions differ from names by being incomplete symbols.
+- Presupposition is part of assertion in descriptions.
+- In intensional contexts, descriptions scope wide or narrow.
+- Theory extends to indefinites as existentials.
+- Expressions are descriptions if contextual, names if direct.
+- Multiple descriptions analyzed compositionally.
+
+### 11. The Nature of Entailment
+- Entailment is strict implication, stronger than material.
+- Entailment between propositions.
+- Logical entailment from necessity; analytic from meanings.
+- Material implication paradoxes are counterintuitive but true.
+- Contradiction entails everything in classical logic.
+- Entailment relates to explanation via grounds.
+- All entailment necessary, no contingent.
+- Relevance required for genuine entailment.
+- In non-classical logics, entailment varies.
+- Entailment equivalent to deducibility in formal systems.
+
+### 12. The Relationship Between "Logic" and Philosophy
+- Logic is a tool for philosophy, not its essence.
+- Logical analysis dissolves some problems.
+- Formal logic regiments natural language.
+- Logical truths are tautologies, empty of content.
+- Logic reveals thought structure, not reality directly.
+- Philosophical knowledge not reducible to logic.
+- Philosophy continuous with science via method.
+- Logical analysis applies to all meaningful statements.
+- Adopting logic commits to minimal metaphysics.
+- Intuitions can be overridden by logical arguments.
+
+### 13. Formalism
+- Mathematics not reducible to uninterpreted symbols; needs logical interpretation.
+- Proofs are meaningful deductions, not mere marks.
+- Applicability from logical structure, not game.
+- Formal systems capture truth via logicism.
+- Consistency necessary but not sufficient.
+- Metamathematics interpreted logically.
+- Gödel shows limits of formalism.
+- Content beyond formal via application.
+- Symbolism distinct from notation by logical role.
+- Formalism cannot account for understanding.
+
+### 14. Intuitionism
+- Mathematical existence not dependent on constructibility; logic allows non-constructive proofs.
+- Law of excluded middle valid for infinite domains.
+- Constructions legitimate if logical.
+- Classical math justified, not inconsistent.
+- Truth independent of proof.
+- Intuitionism limits applied math unnecessarily.
+- Undecidable propositions have truth values.
+- Completed infinities legitimate.
+- Non-constructed objects exist logically.
+- Intuitionism not psychologistic; but overly restrictive.
+
+### 15. Logicism
+- All mathematical concepts definable logically.
+- Number is logical concept (class of classes).
+- Axioms like infinity are logical.
+- Infinity axiom logical truth.
+- Reducibility axiom logical for types.
+- Set theory part of logic.
+- No distinction if reduced.
+- Compatible with Gödel via incompleteness as limit.
+- Logical and mathematical knowledge both a priori.
+- Types relate to structures logically.
+
+### 16. Empiricism and Its Limits
+- All knowledge traces to sensory experience via sense data.
+- Logical/mathematical from acquaintance with universals.
+- General truths from induction on particulars.
+- Causation from habitual associations.
+- Theoretical entities real if inferred usefully.
+- Mind known through introspection as experience.
+- Empiricism principle known a posteriori.
+- A priori from logical universals, not pure empiricism.
+- Experience organized by innate categories? No, logical.
+- Limits: cannot reach ultimate reality fully.
+
+### 17. Rationalism and Its Limits
+- Reason yields knowledge independently in logic/math.
+- Self-evident truths are logical axioms.
+- Applicability from world's logical structure.
+- Rationalist metaphysics can be speculative if unchecked.
+- Logical necessity equals metaphysical.
+- Synthetic a priori possible via acquaintance.
+- Reason determines relations, not existence alone.
+- Insight from prejudice distinguished by evidence.
+- Competing systems adjudicated logically.
+- Reason evolved but trustworthy via success.
+
+### 18. Counterfactual Truth
+- Counterfactuals true if closest possible worlds make consequent true.
+- Describe real possibilities.
+- Relate to causal claims logically.
+- Evaluated similarly for past via laws.
+- Objective similarities between worlds.
+- With impossible antecedents, false or undefined.
+- Relate to natural laws as nomic.
+- Analyzable in non-counterfactual terms via worlds.
+- Fixed features by similarity metrics.
+- Counterfactual facts exist as modal truths.
+
+### 19. Modality
+- Necessity is logical, not separate metaphysical.
+- Possible worlds are logical constructs.
+- Actual world distinguished by our sense data.
+- Single notion of possibility: logical consistency.
+- Modal truths known through reason.
+- Essence is necessary properties.
+- Modal facts reduce to logical.
+- Contingent existence is possible but analyzed descriptively.
+- Modality and time relate via eternal truths.
+- Modal concepts definable logically without circularity.

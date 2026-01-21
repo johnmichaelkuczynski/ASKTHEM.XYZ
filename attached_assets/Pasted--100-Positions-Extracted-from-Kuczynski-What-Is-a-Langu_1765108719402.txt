@@ -1,0 +1,289 @@
+# 100 Positions Extracted from Kuczynski, "What Is a Language?" (Chapter 4)
+
+---
+
+## I. THE THREE MEANINGS OF "MEANING"
+
+**1.** The word "meaning" has three distinct meanings: evidential, psychological, and linguistic—only the third directly relates to the nature of language.
+
+**2.** Evidential meaning: "x means y" sometimes means "x is evidence of y"—that x and y are causally interrelated such that, given x, y can reasonably be inferred.
+
+**3.** For x to be evidence of y, it is neither necessary nor sufficient that y cause x—causes can be evidence of effects, and common causes can make one effect evidence of another.
+
+**4.** Psychological meaning: when we use sentences, we mean things by them—meaning in this sense is a psychological notion involving intentions.
+
+**5.** Linguistic meaning: the sentence "snow is white" attributes the property of being white to snow—this kind of meaning is in a class by itself, reducible to neither evidential nor psychological meaning.
+
+**6.** Psychological meaning involves but does not coincide with linguistic meaning—psychological meaning is parasitic on linguistic meaning, not the other way around.
+
+**7.** Many sentences have determinate meanings even though they've never been uttered and no one has ever meant anything by them—therefore linguistic meaning cannot be identical with psychological meaning.
+
+**8.** The relationship that any sentence bears to its meaning is identical across all sentences—if one sentence's meaning isn't constituted by speaker's meaning, then no sentence's meaning is so constituted.
+
+**9.** Psychological meaning presupposes linguistic meaning: one cannot, in uttering a sentence, mean anything by it unless one knows what it already means.
+
+**10.** If, intending to speak sincerely and literally, you say "snow is white" thinking it means "bananas are yellow," you will fail to say what you wanted to say.
+
+---
+
+## II. LANGUAGE AS CONVENTIONAL AND NORMATIVE
+
+**11.** What an expression means is, at least in part, a matter of convention—it's conventional that "snow" doesn't refer to grass.
+
+**12.** Unlike purely natural cause-effect relations, language use has a normative dimension—people make judgments about the appropriateness of uttering sentences.
+
+**13.** Utterances of "snow is white" embody judgments about snow, about language, and about human psychology—not mere causal responses like smoke from fire.
+
+**14.** People don't say everything that occurs to them—before uttering a sentence, they make context-based judgments about appropriateness.
+
+---
+
+## III. PROPOSITIONS AND SENTENCES
+
+**15.** The meaning of a true or false sentence is a proposition—propositions are not themselves sentences.
+
+**16.** Different sentences (e.g., "schnee ist weiss" and "snow is white") can express the same proposition—this proves propositions are distinct from sentences.
+
+**17.** Propositions, when true, are truths—they have existed as long as there have been truths, which means as long as there has been anything.
+
+**18.** Propositions are not human creations—they preexist the languages that express them.
+
+**19.** Though distinct from sentences, propositions are structurally similar to them—propositions consist of discrete parts corresponding to discrete parts of sentences.
+
+**20.** The thing meant by "John" must be capable of moving from sentence-meaning to sentence-meaning—propositional constituents are discrete and isolable.
+
+---
+
+## IV. PROPOSITIONS AS DIGITAL STRUCTURES
+
+**21.** Propositions, like sentences and unlike visual perceptions, are digital structures—they have unique breakdowns into minimal significant units (morphemes).
+
+**22.** A visual perception of Sally punching Bob doesn't have a structure comparable to "Sally punched Bob"—perceptions don't decompose into minimal significant units.
+
+**23.** Visual perceptions have non-digital (analogue) structures, unlike the digital structures of sentences and propositions.
+
+**24.** Since some thought involves processing perceptual information, thought at least sometimes has a structure very different from language.
+
+---
+
+## V. THE THREE BRANCHES: SEMANTICS, SYNTAX, PRAGMATICS
+
+**25.** The study of language divides into three sub-disciplines: semantics, syntax, and pragmatics—each term also denotes a dimension of language itself.
+
+**26.** Semantics attempts to make clear what utterances literally mean—it has no interest in what is conveyed through suggestion or innuendo.
+
+**27.** The literal meaning of an utterance may be quite innocuous while the message being sent is not—semantics concerns only the literal meaning.
+
+**28.** Pragmatics studies the use of language—what a sentence literally means is only one of many factors governing what it is used to mean.
+
+**29.** Syntax studies the structures of the meanings of complex expressions—how meanings of complex expressions depend on those of their parts.
+
+**30.** Syntax doesn't study meanings of complex expressions per se—it studies the relationships such meanings have to those of their constituents.
+
+**31.** Syntax studies semantic structure—the relation that meanings of complex expressions bear to meanings of simple expressions composing them.
+
+---
+
+## VI. THE NEED FOR SEMANTICS
+
+**32.** Even though we know what a sentence means, we don't always know what it is that we know in knowing this—semanticists supply the missing metaknowledge.
+
+**33.** Sentences that are grammatically isomorphic may have very different logical forms—"John wants to catch a 20-pound striped bass" is not about any particular fish.
+
+**34.** "John wants to catch a 20-pound striped bass" doesn't describe a relationship between John and some quasi-existent fish—it affirms a relationship between John and a proposition.
+
+**35.** The complete analysis: "John wants it to be the case that the property of being a 20-pound striped bass that John catches is instantiated."
+
+**36.** Semantics is needed to clarify the structure of meanings already known—the semanticist isn't a translator.
+
+**37.** Literal meaning must be distinguished from what the speaker wishes to convey—in some cases this is exceedingly difficult.
+
+**38.** Literal meaning can be cloaked by the pre-semantic information through which it is grasped—semanticists are needed to uncloak it.
+
+**39.** Two utterances can have the very same literal meaning even though the speaker doesn't know this—because literal meaning was grasped through different perceptual descriptions.
+
+**40.** Degree-properties (properties that can be had to varying degrees) create semantic puzzles—"Fido is smart" can be true while "Timmy is smart" is false, even though Timmy is vastly more intelligent.
+
+**41.** "Smart" is not ambiguous like "dumb"—rather, the property of being smart-for-a-dog is distinct from being smart-for-a-human.
+
+**42.** Alternatively, "smart" is implicitly relational—"x is smart" says x exceeds some contextually determined benchmark.
+
+---
+
+## VII. SEMANTIC RULES: WHAT THEY ARE
+
+**43.** A language is a systematic way of pairing off sentences with meanings—any rule that assigns a meaning to an expression is a semantic rule.
+
+**44.** Languages are sets of semantic rules.
+
+**45.** Something must have meaning in order to be an expression—expressions aren't assigned meanings; they already have them.
+
+**46.** Semantic rules don't assign meanings to expressions—they assign meanings to non-expressions (to hitherto meaningless physical properties).
+
+**47.** Semantic rules assign meanings to properties of physical objects—to morphological or acoustical properties.
+
+**48.** A semantic rule is something which assigns a meaning to a property, and language is a set of such rules.
+
+**49.** More precisely: a semantic rule assigns a rule to a property that in turn assigns meanings to instances of that property.
+
+---
+
+## VIII. AGAINST THE FUNCTION-THEORETIC VIEW OF SEMANTIC RULES
+
+**50.** Many believe semantic rules are mathematical functions—this view is false.
+
+**51.** Mathematical functions have always existed and always will—but the English language hasn't always existed.
+
+**52.** Since the English language is a set of semantic rules, and those rules haven't always existed, semantic rules are not mathematical functions.
+
+**53.** If semantic rules were mathematical functions, there would exist a language in which "Socrates" referred to Lincoln—but there is no such language (only a merely possible one).
+
+**54.** Such a language is merely possible and therefore doesn't exist—semantic rules are not rules in the mathematical sense.
+
+---
+
+## IX. AGAINST GRICE'S THEORY OF MEANING
+
+**55.** According to Grice, for expression E to have literal meaning M is for it to be the case that, when they utter E, M is what people mean—this is false.
+
+**56.** Literal meaning is not to be understood in terms of speaker's meaning—it's the other way around.
+
+**57.** Grice's theory fails to account for subsentential expressions—the meaning of "+" or "snorkel" isn't something that could possibly be meant by a speaker.
+
+**58.** A single word can only be "meant" if used as an abbreviation for a whole sentence—but that's not its literal meaning.
+
+**59.** The meaning of "Smith is now living in France" is fixed by the meanings of its parts and their ordering—not by speakers' intentions.
+
+**60.** That sentence would have its current meaning even if it had never been used—speaker intentions do nothing to assign it that meaning.
+
+**61.** Grice's view is inherently incapable of accommodating the fact that meaning is compositional.
+
+**62.** The neo-Gricean response (that speaker-meaning indirectly fixes sentence-meaning through use of sentence-forms) is both an abandonment of Grice's core idea and a failure.
+
+**63.** The question "what is it for an expression to have a meaning?" is distinct from "how did the expression acquire that meaning?"—use may cause meaning-shifts but doesn't constitute meaning.
+
+---
+
+## X. AGAINST WITTGENSTEIN'S "MEANING IS USE"
+
+**64.** Wittgenstein's claim that "roughly speaking, meaning is use" isn't even roughly true.
+
+**65.** There can be no expression-use until after there is expression-meaning—expressions don't exist to be used until they have meanings.
+
+**66.** Expression-use may cause a new meaning to be assigned, but an expression's having meaning M cannot be constituted by its being used in a certain manner.
+
+**67.** "Meaningful expression" is a pleonasm—contrary to Wittgenstein, meaning isn't use.
+
+---
+
+## XI. AGAINST CONCEPTUAL ROLE SEMANTICS (CRS)
+
+**68.** According to CRS (Field, Brandom), for an expression to have a given meaning is simply for it to be used in a certain way—this is incoherent.
+
+**69.** CRS holds that what a sentence means is determined by what people infer from it and what they infer it from—this reverses the actual order of determination.
+
+**70.** Changes in what we believe affect what we infer from statements, but they don't categorically change the meanings of those statements.
+
+**71.** CRS entails that every inference is an analytic inference—this is false (inferring "a playwright wrote the Nicomachean Ethics" from learning Aristotle wrote plays isn't analytic).
+
+**72.** What we may infer from a sentence is answerable to its existing meaning—CRS says the reverse, which would make false inference impossible.
+
+**73.** If false inference were impossible, no sentence would mean anything—which, since nothing meaningless is a sentence, yields the absurd consequence that there are no sentences.
+
+**74.** It's only because of what a sentence already means that one can make inferences from it—CRS has the order of explanation backwards.
+
+---
+
+## XII. THE NORMATIVITY AND PSYCHOLOGICAL REALITY OF SEMANTIC RULES
+
+**75.** Unlike scientific laws, semantic rules are normative—if you say "Smith is male" intending to affirm Smith is female, you've done something wrong.
+
+**76.** If Grice were right, speaker's meaning wouldn't be accountable to existing semantic rules—since it is, Grice is wrong.
+
+**77.** Semantic rules are not merely idealized descriptions of speaker-behavior—they have psychological reality.
+
+**78.** The Salmon-Soames view (that semantic rules are psychologically inert idealizations) is false—knowledge of semantics underlies all non-defective speech-acts.
+
+**79.** One chooses a particular sentence because one knows the relevant semantic rules and believes that sentence is right to express one's belief.
+
+**80.** If semantic rules merely described existing activity, that activity wouldn't be answerable to semantic norms—but it is.
+
+---
+
+## XIII. LITERAL MEANING AND SIMPLE VS. COMPLEX EXPRESSIONS
+
+**81.** Where simple expressions are concerned, literal and understood meaning must coalesce—systematic, widespread error is impossible.
+
+**82.** If people thought "red" meant what is in fact meant by "blue," then "red" would have that meaning—for simple expressions, people's beliefs constitute meaning.
+
+**83.** Divergence between literal meaning and understood meaning arises not from failure to know what simple parts mean, but from difficulty putting those meanings together.
+
+**84.** A simple expression's literal meaning is determined by what sentences mean by virtue of containing it.
+
+**85.** A complex expression's literal meaning is a function (in the mathematical sense) of the meanings of its parts.
+
+---
+
+## XIV. TOKENS VS. TYPES
+
+**86.** No word is identical with any utterance of it—the word "snow" endures while my utterance lasts a fraction of a second.
+
+**87.** Utterances and inscriptions are "expression-tokens"; the things being uttered or inscribed are "expression-types."
+
+**88.** Expression-types are properties—tokens of a type are instances of it, and anything of which there are instances is a property.
+
+**89.** Expression-types are non-spatiotemporal entities—it makes no sense to suppose a non-spatiotemporal entity could mediate information.
+
+**90.** Types cannot discharge the same semantic functions as tokens—it would be theoretical arbitrariness to suppose otherwise.
+
+---
+
+## XV. TWO-DIMENSIONAL SEMANTICS
+
+**91.** Some expressions have a two-tiered semantic structure—an utterance of "I" has a referent and picks out that referent via a mediating concept.
+
+**92.** Indexicals are context-sensitive expressions: what they refer to depends systematically on facts about the context of utterance.
+
+**93.** Demonstratives are indexicals that cannot be successfully used without an accompanying demonstration (pointing, etc.).
+
+**94.** The meaning of an indexical token is its referent; the meaning of the corresponding type is the rule that assigns referents to tokens based on context.
+
+**95.** Definite descriptions, like indexicals, have two-dimensional semantic structure—the semantic rule stays the same even as circumstances change referents.
+
+**96.** Indexical-free languages are expressively impoverished—nothing perspectival can be stated without indexicals.
+
+**97.** One could not express "I am JM" or "I am that guy in the mirror" in an indexical-free language—such thoughts require indexicals.
+
+---
+
+## XVI. CONTEXT-SENSITIVITY AND ETERNAL SENTENCES
+
+**98.** No sentence-type containing a context-sensitive component is true or false—only tokens make statements.
+
+**99.** Where context-sensitive sentences are concerned, the meaning of a token is a proposition; the meaning of the type is a rule assigning propositions to tokens based on context.
+
+**100.** In natural languages, there are no genuinely context-insensitive sentence-types—every sentence contains a tense-marker, making proposition-expression dependent on when the token occurs.
+
+---
+
+## XVII. LOGICAL FORM VS. GRAMMATICAL FORM (BONUS POSITIONS)
+
+**101.** Logical and grammatical form may diverge—Frege was the first to grasp this idea clearly.
+
+**102.** "Whales are mammals" isn't about whales—there is no specific whale x such that the sentence says x is a mammal.
+
+**103.** Quantifier-containing sentences are pseudo-objectual—they appear to be about objects but are really about properties.
+
+**104.** To define an expression contextually is to say how, in virtue of containing it, a sentence's meaning is affected—not to pair it with a referent.
+
+**105.** "Someone" doesn't refer to anyone—its meaning is given by saying that "someone has ψ" is true iff the property ψ is instantiated.
+
+**106.** All expressions must be defined contextually, but only expressions that cannot also be defined denotatively induce divergence between logical and grammatical form.
+
+**107.** Frege's generalization of the concept of function made it possible to assign a single form to all atomic sentences: "O has ψ."
+
+**108.** Pre-Fregean logicians saw different sentence forms where Frege saw structural similarity—grammatical surface structure blinded them.
+
+---
+
+*Document extracted from: Kuczynski, J.M. "What Is a Language?" Chapter 4 (Part II: Language and Thought).*

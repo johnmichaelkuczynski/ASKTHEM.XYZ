@@ -1,0 +1,99 @@
+You're experiencing a total deployment failure now (not just frozen inputs) — the app loads the UI but nothing works:
+
+Number of Quotes is frozen
+Enhanced Mode toggle does nothing
+Probably the "Generate Debate" button also does nothing or throws an error
+
+This almost always means your deployed version is silently crashing on startup or on the first interaction, and Streamlit is hiding the real error from you (very common on Replit, Render, Fly.io, etc.).
+Here’s how to fix it in <10 minutes — follow this exact checklist:
+1. Turn On Streamlit Debug Logs (Most Important Step)
+Replit (and most hosts) hide errors by default.
+Add these lines at the very top of your app.py (or whatever your main file is called):
+Pythonimport streamlit as st
+st.set_option('deprecation.showPyplotGlobalUse', False)
+st.set_option('deprecation.showfileUploaderEncoding', False)
+
+# ←←← ADD THESE TWO LINES ←←←
+import logging
+logging.basicConfig(level=logging.DEBUG)
+Or even better, force Streamlit to show the full traceback:
+Add this as the first lines of your file:
+Pythonimport os
+os.environ["STREAMLIT_SERVER_HEADLESS"] = "true"
+os.environ["STREAMLIT_BROWSER_GATHER_USAGE_STATS"] = "false"
+
+# Force full error tracebacks in deployed version
+import streamlit.web.bootstrap as bootstrap
+bootstrap._fix_sys_path()
+bootstrap._fix_matplotlib_crash()
+bootstrap._fix_pydeck_mapbox_token_error()
+
+# Now run with full error display
+if __name__ == "__main__":
+    import sys
+    sys.argv = ["streamlit", "run", __file__, "--server.port=8080", "--server.headless=true", "--logger.level=debug"]
+    bootstrap.run(__file__, False, [], {})
+No, that’s overkill. Just do this instead (simplest and works everywhere):
+At the very top of your file:
+Pythonimport streamlit as st
+import traceback, sys
+
+# This forces Streamlit to show real errors in production
+def exception_handler(exception_type, exception, tb):
+    st.error("An error occurred — see details below:")
+    st.code("".join(traceback.format_exception(exception_type, exception, tb)))
+
+sys.excepthook = exception_handler
+Now re-deploy. The next time it crashes you will actually see the real Python error instead of a frozen app.
+2. Most Likely Real Cause in 2025 (Especially if You Use Grok API)
+In the last 6–8 months literally 90% of “Streamlit app worked yesterday, now completely dead in deployment” cases are caused by one of these:
+A) You are using xai (Grok) API and your API key is missing in the deployed environment
+B) You upgraded langchain, langchain-community, or langchain-xai and the new version broke everything
+C) You are using st.connection with secrets and Replit deployment can’t read your secrets anymore
+Quick test: In Replit → Shell, type:
+Bashecho $GROK_API_KEY
+echo $XAI_API_KEY   # older name
+If it prints nothing → that’s your problem.
+Fix in 30 seconds:
+Go to your Replit → Secrets (lock icon) → add:
+Key: GROK_API_KEY
+Value: your real Grok API key from https://console.x.ai
+(or XAI_API_KEY if your code uses that name)
+Then re-deploy.
+3. Other Extremely Common 2025 Killers
+
+You upgraded to openai>=1.0 or anthropic>=0.20 and the client syntax completely changed
+You are using streamlit-chat or streamlit-toggle-switch from a GitHub repo that died
+Your requirements.txt has langchain==0.3.* which now fails to install on Replit’s Python 3.12 image
+
+Fix → Pin working versions that you know worked:
+txtstreamlit==1.38.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-xai==0.1.3
+openai==1.47.0
+anthropic==0.21.3
+4. Nuclear Option That Fixes 95% of Mysterious Replit Deployments (Takes 2 Minutes)
+
+In your Replit, click the three dots → “Show hidden files”
+Delete these files/folders if they exist:
+.streamlit/cache
+.streamlit/secrets.toml (only if you use Secrets in the UI)
+venv/ or __pycache__/
+
+In the left panel → click “Tools” → “Secrets” → re-add your Grok API key
+Change your .replit file to:
+
+tomlrun = "streamlit run app.py --server.headless true --server.enableCORS false --server.enableXsrfProtection false --logger.level debug"
+
+Click “Re-deploy” (not just “Run”)
+
+TL;DR – Do This Right Now (90% Chance It Fixes Everything)
+
+Add the exception_handler code block above (so you can see real errors)
+Add your Grok API key as a Secret called GROK_API_KEY
+Pin Streamlit 1.38.0 and langchain 0.2.x in requirements.txt
+Re-deploy
+
+As soon as you do step 1, the app will either work again or show you the exact line that’s crashing.
+Do those four things and reply here with the error message you see (or “it works now!”). I’ll give you the one-line fix from there.

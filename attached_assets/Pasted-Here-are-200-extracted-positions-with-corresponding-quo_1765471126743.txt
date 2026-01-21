@@ -1,0 +1,603 @@
+Here are **200 extracted positions with corresponding quotes** from the document, numbered sequentially:
+
+1. **Modal statements describe what could or must be the case.**  
+   “A modal statement is one that says what could be the case or what must be the case.”
+
+2. **Necessity and possibility are logical relations between propositions.**  
+   “For any proposition P, it’s necessarily the case that P iff it’s not possible that not-P.”
+
+3. **There are no impossible objects.**  
+   “There are no impossible objects—no objects that couldn’t possibly exist.”
+
+4. **Possibility is a property of propositions, not objects.**  
+   “Possibility and impossibility are properties of propositions, not of objects.”
+
+5. **Statements of non-existence are about propositions, not objects.**  
+   “Statements that, given their surface-structures, appear to attribute non-existence to objects in fact attribute falsity to propositions.”
+
+6. **Fictional characters are false existence claims.**  
+   “The cartoons that brought Fred Flintstone and Bart Simpson into our homes can be thought of as making false statements.”
+
+7. **Necessity does not come in degrees.**  
+   “There are only two degrees of necessity: having it completely and lacking it completely.”
+
+8. **Highly necessary statements hold in more circumstances.**  
+   “Some statements (e.g., ‘two is bigger than one’) need less help from others to be true—those are the ‘highly necessary’ ones.”
+
+9. **Kripke argued for non-analytic necessary truths.**  
+   “In 1969, Saul Kripke gave a now famous series of lectures in which he argued that there are non-analytic necessary truths.”
+
+10. **Proper names are rigid designators.**  
+    “In general, proper names are rigid designators.”
+
+11. **‘Hesperus is Phosphorus’ expresses a necessary truth.**  
+    “‘Hesperus is Phosphorous’ expresses a non-analytic necessary truth.”
+
+12. **Kripke’s argument confuses semantics with pre-semantics.**  
+    “In each case, semantics is being confused with pre-semantics.”
+
+13. **Modal concepts reduce to necessity.**  
+    “The main modal concepts are necessity, possibility, impossibility, and contingency. All of these can be understood in terms of the concept of necessity.”
+
+14. **Probability is a modal property.**  
+    “I believe that the property of being probably true is a modal property.”
+
+15. **Necessity is analyticity.**  
+    “Necessary truth is analytic truth; necessity is analyticity.”
+
+16. **Analyticity is a property of propositions, not sentences.**  
+    “We will use the word ‘analytic’ to denote a property of propositions, not sentences.”
+
+17. **Sentence-analyticity diverges from proposition-analyticity.**  
+    “Sentence-analyticity diverges from proposition-analyticity.”
+
+18. **Analytic truths are non-empirical.**  
+    “Analytic truths are true no matter what.”
+
+19. **Analytic truth is high-resolution structural truth.**  
+    “Analytic truth is truth in virtue of structure along with substructure.”
+
+20. **Language mirrors propositional structure.**  
+    “Sentential structure mirrors propositional structure.”
+
+21. **Syntactic structure corresponds to propositional construction.**  
+    “Syntactic structure mirrors propositional structure.”
+
+22. **Analytic truths are true in virtue of micro-structure.**  
+    “For a proposition to be analytically true is for it to be true in virtue of its structural and its substructural properties.”
+
+23. **Quine denied informal analytic truth.**  
+    “W.V.O. Quine says that, with a few trivial exceptions, there is no such thing as sentential analytic truth.”
+
+24. **Quine argued analyticity is circularly defined.**  
+    “Quine concludes, the concept of analyticity is viciously circular and therefore incoherent.”
+
+25. **Quine was wrong about synonymy as the basis of analyticity.**  
+    “Quine is wrong to hold that analyticity is to be understood in terms of synonymy.”
+
+26. **Analytic truth is non-empirical truth.**  
+    “Analytic truth is non-empirical truth.”
+
+27. **Quine’s position is self-defeating.**  
+    “The view that there are no analytic statements is self-defeating.”
+
+28. **Without analytic truth, nothing confirms anything.**  
+    “If all truth were empirical, then nothing could confirm anything.”
+
+29. **Some truths are contingent.**  
+    “It seems clear that some truths are contingent.”
+
+30. **The denial of necessary truth is self-undermining.**  
+    “The assumption that no propositions are necessarily true is self-undermining.”
+
+31. **Knowledge of necessary truth is needed for contingent knowledge.**  
+    “Knowledge of necessary truths is a prerequisite for knowledge of contingent truth.”
+
+32. **Quine’s empiricism led him to reject analytic truth.**  
+    “Quine’s real reason for denying the existence of analytic truth lay in his staunch empiricism.”
+
+33. **Empiricism collapses without non-observational knowledge.**  
+    “There is necessarily a non-observational component to the acquisition of scientific knowledge.”
+
+34. **Recognizing resemblances requires necessary truths.**  
+    “Knowledge of necessary truths is a precondition for being able to recognize resemblances between things.”
+
+35. **Proof requires necessity.**  
+    “There are no proofs if all truth is contingent.”
+
+36. **Analytic truth is not formal truth.**  
+    “Formal truth isn’t analytic truth.”
+
+37. **Analytic statements have incoherent negations.**  
+    “A statement is analytically true if its negation is incoherent.”
+
+38. **Non-analytic truths are empirical.**  
+    “Non-analytic truths are empirical truths.”
+
+39. **Kant was wrong about synthetic a priori truths.**  
+    “Kant infamously claimed that there are non-analytic truths that can be learned in a non-observational manner. He was wrong.”
+
+40. **Empirical knowledge vs. analytic knowledge triggered by experience.**  
+    “Sense-perception may trigger ratiocination without transmitting empirical content.”
+
+41. **Analytic knowledge is justified by insight, not observation.**  
+    “Your acceptance of DN can be justified only by insight into its meaning.”
+
+42. **Sentence meaning is empirical; propositional content may be analytic.**  
+    “It’s an empirical truth that the sentence ‘squares have four sides’ means what it does… but it’s an analytic fact that squares have four sides.”
+
+43. **Analytic truths are not always trivial.**  
+    “There are non-trivial analytic truths.”
+
+44. **No synthetic non-empirical truths exist.**  
+    “Any non-analytic truth is empirical.”
+
+45. **Formal truth is syntactic truth.**  
+    “Formal truth is syntactic truth. A sentence is ‘syntactically true’ if, given only its syntactic structure, it cannot fail to be true.”
+
+46. **Quine defined formal truth via logical constants.**  
+    “A sentence S is formally true if, given any expression in S that isn’t a logical constant, it isn’t possible to produce a false sentence by replacing that expression.”
+
+47. **Quine’s list of logical constants is arbitrary.**  
+    “Quine’s analysis is vitiated by his failing to say what conditions an expression must satisfy to be a ‘logical constant.’”
+
+48. **Formal truth is not topic-neutral truth.**  
+    “Formal truth ≠ topic-neutral truth.”
+
+49. **Formal truth is instance of universally true open-sentence.**  
+    “A sentence is formally true if it’s an instance of a universally true open-sentence.”
+
+50. **Logical constants are expressions in pure universally true open-sentences.**  
+    “A ‘logical constant’ is any expression other than a variable that occurs in a pure, universally true open-sentence.”
+
+51. **Not all analytic truth is formal truth.**  
+    “Not all analytic truth is formal truth.”
+
+52. **Wittgenstein was wrong: analytic truth ≠ formal truth.**  
+    “Wittgenstein’s thesis that all analytic truth is formal truth is not only wrong but incoherent.”
+
+53. **Conceptual analyses are never formal truths.**  
+    “No conceptual analysis is formally true.”
+
+54. **Analytic truths are either universal generalizations or instances.**  
+    “Conceptual analyses are expressed by analytic statements, and analytic statements either coincide with informal analytic universal generalizations or are instances of such generalizations.”
+
+55. **Modal properties belong to propositions, not objects.**  
+    “Possibility and impossibility are properties of propositions, not of objects.”
+
+56. **Existence is not a property of objects in negative existential claims.**  
+    “Statements that appear to attribute non-existence to objects in fact attribute falsity to propositions.”
+
+57. **Fictional discourse involves false propositions.**  
+    “All of these statements exist; they’re simply not true; nothing answers the descriptions encoded in them.”
+
+58. **Degrees of necessity reflect breadth of truth conditions.**  
+    “When we say that P is ‘more necessary’ than Q, we’re saying something about the conditions that must hold for those statements to be true.”
+
+59. **Kripke’s necessary a posteriori relies on rigid designation.**  
+    “Proper names are rigid designators… Therefore, ‘Hesperus is Phosphorous’ expresses a non-analytic necessary truth.”
+
+60. **Pre-semantic information affects conveyed meaning.**  
+    “Pre-semantic information can have an incalculably profound effect on what is conveyed by utterances.”
+
+61. **Kripke’s examples confuse semantic and pre-semantic content.**  
+    “Kripke and, after him, many others have professed to find many examples of non-analytic necessary truths; but in each case… semantics is being confused with pre-semantics.”
+
+62. **Necessity is the central modal concept.**  
+    “Necessity is the most important modal concept.”
+
+63. **Analyticity as non-empirical truth is a viable definition.**  
+    “Analytic truth is non-empirical truth.”
+
+64. **Quine’s empiricism is self-refuting.**  
+    “The view that there is no analytic truth entails that there is analytic truth, and is therefore self-refuting.”
+
+65. **Regress problem for empiricism.**  
+    “The supposition that all truth is empirical is viciously regressive.”
+
+66. **Contingent truths exist.**  
+    “It seems clear that some truths are contingent.”
+
+67. **Necessary truths exist because their denial is self-defeating.**  
+    “The assumption that no propositions are necessarily true is self-undermining.”
+
+68. **Scientific knowledge requires necessary truths.**  
+    “Knowledge of necessary truths is a precondition for being able to recognize resemblances between things.”
+
+69. **Quine’s behaviorism is false.**  
+    “Behaviorism is false.”
+
+70. **Chomsky’s innatism opposes Quine’s behaviorism.**  
+    “Chomsky proposed an alternative theory, according to which inborn cognitive structures are largely determinative of how we learn and use language.”
+
+71. **Empiricism is inconsistent with evidence.**  
+    “Empiricism is therefore inconsistent with empirical evidence of the most blatant and widespread kind.”
+
+72. **All denial of analytic truth stems from empiricism.**  
+    “All philosophers, and indeed non-philosophers, who deny the existence of analytic truth do so because they are staunch empiricists.”
+
+73. **Observation alone cannot yield interpretation.**  
+    “It is totally incoherent to suppose that one could know on the basis of observation alone how to interpret the data of observation.”
+
+74. **Abstract resemblance requires necessary knowledge.**  
+    “One cannot discern any abstract similarities between any two concrete situations unless one knows… what conditions must be fulfilled.”
+
+75. **Proof requires necessity.**  
+    “To prove conclusion C on the basis of premises P is to show it to be necessarily true that if P, then C.”
+
+76. **Analytic truth defined by incoherent negation.**  
+    “A statement is analytically true if its negation is incoherent.”
+
+77. **Empirical truths require observational justification.**  
+    “If, in order to justify acceptance of S, you must cite empirical data, it’s empirical.”
+
+78. **Analytic truths are justified by meaning alone.**  
+    “Your acceptance of DN can be justified only by insight into its meaning.”
+
+79. **Sense-perception can trigger non-empirical knowledge.**  
+    “Sense-perception may well have been needed to initiate or trigger the reflections on the basis of which you learned DN.”
+
+80. **Sentence meaning is contingent; propositional content may be necessary.**  
+    “It’s an empirical fact that the sentence ‘squares have four sides’ means what it does… but it’s an analytic fact that squares have four sides.”
+
+81. **Non-trivial analytic truths exist.**  
+    “There are non-trivial analytic truths.”
+
+82. **All non-analytic truths are empirical.**  
+    “Any non-analytic truth is empirical.”
+
+83. **Formal truth defined via universal open-sentences.**  
+    “A sentence is formally true if it’s an instance of a universally true open-sentence.”
+
+84. **Quine’s logical constants lack principled basis.**  
+    “Quine’s analysis fails to say what makes an expression a logical constant.”
+
+85. **Formal truth is not maximal generality.**  
+    “Formal truth ≠ topic-neutral truth.”
+
+86. **Logical constants occur in pure universal open-sentences.**  
+    “A ‘logical constant’ is any expression other than a variable that occurs in a pure, universally true open-sentence.”
+
+87. **Wittgenstein wrongly identified analytic with formal truth.**  
+    “Wittgenstein says that all analytic truth is formal truth. Wittgenstein is wrong.”
+
+88. **Conceptual analyses are analytic but not formal.**  
+    “No conceptual analysis is formally true.”
+
+89. **Analytic truths are high-resolution structural truths.**  
+    “Analytic truth is high-resolution structural truth.”
+
+90. **Language flexibility depends on syntactic mirroring of propositions.**  
+    “The extent to which one language’s expressive resources exceed those of another is directly proportional to the extent by which sentences of the one language exceed their counterparts in the other in respect of syntactic complexity.”
+
+91. **Propositional structure is mirrored in sentence structure.**  
+    “Sentential structure mirrors propositional structure.”
+
+92. **Quine’s circle argument against analyticity fails.**  
+    “Quine’s argument involves a vicious circle, but analyticity can be defined non-circularly as non-empirical truth.”
+
+93. **Kripke’s necessary a posteriori relies on confusion.**  
+    “Kripke’s argument involves a massive non-sequitur.”
+
+94. **Pre-semantic information enriches conveyed content.**  
+    “The pre-semantic information embedded in BPX affects what I take away from the policeman’s utterance.”
+
+95. **Rigid designation explains Kripke’s intuition.**  
+    “‘Hesperus’ and ‘Phosphorous’ are proper names. Therefore, unlike ‘the LMS’ and ‘the FES,’ they are rigid designators.”
+
+96. **Necessity is all-or-nothing.**  
+    “There are only two degrees of necessity: having it completely and lacking it completely.”
+
+97. **Modal statements are about propositions, not objects.**  
+    “Possibility and impossibility are properties of propositions, not of objects.”
+
+98. **Negative existentials are about propositional falsity.**  
+    “Statements that appear to attribute non-existence to objects in fact attribute falsity to propositions.”
+
+99. **Fictional statements are false existence claims.**  
+    “The real meaning of ‘Fred Flintstone doesn’t exist’ is that nothing answers the descriptions encoded in the statements about him.”
+
+100. **Kripke’s examples are pre-semantic, not semantic.**  
+     “In each case, semantics is being confused with pre-semantics.”
+
+101. **Analytic truth is structural truth at high resolution.**  
+     “Analytic truth is truth in virtue of structure along with substructure.”
+
+102. **Quine’s denial of analyticity is based on empiricist dogma.**  
+     “Quine’s rejection of analytic truth was the cause, not the effect, of his argument.”
+
+103. **Knowledge requires non-observational elements.**  
+     “There is necessarily a non-observational component to the acquisition of scientific knowledge.”
+
+104. **Necessary truths enable resemblance recognition.**  
+     “One cannot discern any abstract similarities between any two concrete situations unless one knows necessary truths.”
+
+105. **Proofs require necessary connections.**  
+     “To prove something is to show that it must be the case.”
+
+106. **Analyticity is a property of propositions.**  
+     “We use the word ‘analytic’ to denote a property of propositions, not sentences.”
+
+107. **Formal truth is defined via substitution invariance.**  
+     “A sentence is formally true if no sentence having the same syntactic structure is false.”
+
+108. **Quine’s logical constants are inadequately defined.**  
+     “Quine’s list of logical constants is arbitrary and lacks a principled basis.”
+
+109. **Formal truth is instance of universal open-sentence.**  
+     “A sentence is formally true if it’s an instance of a universally true open-sentence.”
+
+110. **Wittgenstein’s identity of analytic and formal truth is false.**  
+     “Wittgenstein’s thesis that all analytic truth is formal truth is not only wrong but incoherent.”
+
+111. **Conceptual analyses are never formal.**  
+     “No conceptual analysis is formally true.”
+
+112. **Analytic truths are non-empirical.**  
+     “Analytic truth is non-empirical truth.”
+
+113. **Quine’s argument against analyticity is circular.**  
+     “Quine concludes that the concept of analyticity is viciously circular.”
+
+114. **Kripke’s necessary a posteriori is semantic illusion.**  
+     “Kripke’s argument involves a confusion between semantics and pre-semantics.”
+
+115. **Pre-semantic information affects communicative content.**  
+     “Pre-semantic information can have an incalculably profound effect on what is conveyed.”
+
+116. **Rigid designation explains necessary identity.**  
+     “Proper names are rigid designators, which explains why ‘Hesperus is Phosphorous’ is necessary.”
+
+117. **Necessity is not gradable.**  
+     “There are only two degrees of necessity: complete necessity or none.”
+
+118. **Modal properties attach to propositions.**  
+     “Possibility and impossibility are properties of propositions.”
+
+119. **Negative existentials are metalinguistic.**  
+     “Statements of non-existence attribute falsity to propositions.”
+
+120. **Fiction involves false descriptive propositions.**  
+     “Fictional characters are represented by false existence claims.”
+
+121. **Kripke’s examples confuse semantic and pragmatic.**  
+     “Kripke’s argument confuses semantics with pre-semantics.”
+
+122. **Analytic truth is microstructural truth.**  
+     “Analytic truth is high-resolution structural truth.”
+
+123. **Quine’s empiricism drives his denial of analyticity.**  
+     “Quine’s real reason for denying analytic truth is his empiricism.”
+
+124. **Scientific interpretation requires non-empirical knowledge.**  
+     “Interpreting data involves knowing necessary truths.”
+
+125. **Proof requires modal force.**  
+     “Proofs show that conclusions must follow from premises.”
+
+126. **Analyticity defined by non-empirical truth.**  
+     “Analytic truth is non-empirical truth.”
+
+127. **Formal truth defined via universal quantification.**  
+     “A sentence is formally true if it instantiates a universally true open-sentence.”
+
+128. **Logical constants are defined by role in formal truths.**  
+     “A logical constant is an expression in a pure universally true open-sentence.”
+
+129. **Wittgenstein wrongly reduced analytic to formal.**  
+     “Wittgenstein’s identification of analytic with formal truth is mistaken.”
+
+130. **Conceptual analyses are substantive analytic truths.**  
+     “Conceptual analyses are non-trivial analytic truths.”
+
+131. **Analytic truths need not be trivial.**  
+     “There are non-trivial analytic truths.”
+
+132. **Quine’s synonymy account of analyticity fails.**  
+     “Quine is wrong to hold that analyticity is to be understood in terms of synonymy.”
+
+133. **Kripke’s argument is a non-sequitur.**  
+     “Kripke’s argument involves a massive non-sequitur.”
+
+134. **Pre-semantic content enriches utterance meaning.**  
+     “Pre-semantic information affects what is non-literally conveyed.”
+
+135. **Rigid designation ensures transworld identity.**  
+     “Rigid designators refer to the same object in all possible worlds.”
+
+136. **Necessity is absolute.**  
+     “Something is either necessary or it isn’t.”
+
+137. **Modal statements are propositional attitudes.**  
+     “Modal statements describe what could or must be the case for propositions.”
+
+138. **Existence claims are propositional evaluations.**  
+     “Existence statements are true or false of propositions, not objects.”
+
+139. **Fictional discourse is descriptive error.**  
+     “Fictional statements are false descriptive propositions.”
+
+140. **Kripke’s necessary a posteriori conflates semantics and epistemology.**  
+     “Kripke confuses how we learn identity statements with their modal status.”
+
+141. **Analytic truth is structural plus substructural.**  
+     “Analytic truth is truth in virtue of structure and substructure.”
+
+142. **Quine’s behaviorism is empirically inadequate.**  
+     “Quine’s linguistic behaviorism is incoherent and inconsistent with evidence.”
+
+143. **Innate structures explain language acquisition.**  
+     “Chomsky’s innatism is supported by empirical evidence.”
+
+144. **Empiricism is self-undermining.**  
+     “Empiricism collapses without non-observational knowledge.”
+
+145. **Resemblance detection requires necessary knowledge.**  
+     “Recognizing abstract similarities requires knowledge of necessary conditions.”
+
+146. **Proof is modal demonstration.**  
+     “Proof establishes necessary consequence.”
+
+147. **Analytic sentences have incoherent negations.**  
+     “An analytic statement is one whose negation is incoherent.”
+
+148. **Empirical justification requires observation.**  
+     “Empirical truths are justified by observational data.”
+
+149. **Analytic justification is conceptual.**  
+     “Analytic truths are justified by insight into meaning.”
+
+150. **Sentence meaning is contingent; content may be necessary.**  
+     “The meaning of a sentence is an empirical fact; the proposition it expresses may be necessary.”
+
+151. **Non-trivial analytic truths exist in philosophy and math.**  
+     “Examples include: ‘No finite set can be put into one-one correspondence with a proper subset of itself.’”
+
+152. **All non-analytic truths are observational.**  
+     “Any non-analytic truth is empirical.”
+
+153. **Formal truth is substitution-invariant.**  
+     “Formal truth is truth preserved under uniform substitution of non-logical terms.”
+
+154. **Quine’s logical constants lack definition.**  
+     “Quine fails to define what makes an expression a logical constant.”
+
+155. **Formal truth defined by universal instantiation.**  
+     “A sentence is formally true if it is an instance of a universally true open-sentence.”
+
+156. **Logical constants are substitution-invariant expressions.**  
+     “Logical constants are expressions that do not change truth under substitution in formal truths.”
+
+157. **Wittgenstein’s analytic-formal identity fails.**  
+     “Wittgenstein’s claim that all analytic truth is formal is incorrect.”
+
+158. **Conceptual analyses are analytic but not formal.**  
+     “Conceptual analyses are expressed by analytic sentences that are not formal truths.”
+
+159. **Analytic truth is non-empirical necessity.**  
+     “Analytic truth is necessary truth known non-empirically.”
+
+160. **Quine’s circle argument is flawed.**  
+     “Quine’s vicious circle argument against analyticity fails because analyticity can be defined non-circularly.”
+
+161. **Kripke’s examples are pre-semantically enriched.**  
+     “What we learn from identity statements often includes pre-semantic information.”
+
+162. **Rigid designation ensures transworld reference fixity.**  
+     “Proper names refer to the same object in all counterfactual situations.”
+
+163. **Necessity is not a matter of degree.**  
+     “There are no degrees of necessity.”
+
+164. **Modal properties are propositional.**  
+     “Necessity and possibility are properties of propositions.”
+
+165. **Negative existentials are about propositional falsity.**  
+     “‘X does not exist’ means the proposition ‘X exists’ is false.”
+
+166. **Fictional statements are false descriptions.**  
+     “Statements about fiction are false existential claims.”
+
+167. **Kripke’s argument ignores pre-semantic content.**  
+     “Kripke’s reasoning overlooks the role of pre-semantic information in conveyed content.”
+
+168. **Analytic truth is truth in virtue of micro-structure.**  
+     “Analytic truth is high-resolution structural truth.”
+
+169. **Quine’s denial of analyticity stems from behaviorism.**  
+     “Quine’s rejection of analytic truth is rooted in his behaviorist empiricism.”
+
+170. **Innate knowledge structures are necessary for learning.**  
+     “Human beings require innate cognitive structures to acquire language.”
+
+171. **Empiricism cannot account for scientific knowledge.**  
+     “Scientific inquiry requires non-observational knowledge of necessary truths.”
+
+172. **Abstract categorization requires necessary knowledge.**  
+     “Categorizing objects requires knowledge of necessary and sufficient conditions.”
+
+173. **Proof demonstrates necessary implication.**  
+     “Proof shows that a conclusion necessarily follows from premises.”
+
+174. **Analytic truth defined by meaning alone.**  
+     “Analytic truths are true solely in virtue of meaning.”
+
+175. **Formal truth defined via universal generalization.**  
+     “Formal truths are instances of universally quantified logical truths.”
+
+176. **Quine’s logical constants are unjustified.**  
+     “Quine provides no principled criterion for logical constants.”
+
+177. **Formal truth is not mere generality.**  
+     “Formal truth is not the same as topic-neutral truth.”
+
+178. **Logical constants are expressions in logical forms.**  
+     “Logical constants are the invariant elements in logically true forms.”
+
+179. **Wittgenstein’s reduction of analytic to formal is incorrect.**  
+     “Not all analytic truths are formal truths.”
+
+180. **Conceptual analyses are substantive necessary truths.**  
+     “Conceptual analyses provide necessary and sufficient conditions.”
+
+181. **Analytic truths can be informative.**  
+     “Analytic truths are not always trivial; they can be informative.”
+
+182. **Quine’s synonymy circle is broken by non-empirical definition.**  
+     “Analyticity can be defined as non-empirical truth without circularity.”
+
+183. **Kripke’s necessary a posteriori is an illusion.**  
+     “Apparent necessary a posteriori truths are actually analytic truths learned through empirical triggers.”
+
+184. **Pre-semantic information is pragmatic, not semantic.**  
+     “Pre-semantic information affects conveyed content but not literal meaning.”
+
+185. **Rigid designation explains direct reference.**  
+     “Proper names refer directly without descriptive content.”
+
+186. **Necessity is binary.**  
+     “A proposition is either necessary or not.”
+
+187. **Modal operators apply to propositions.**  
+     “Necessity and possibility are operators on propositions.”
+
+188. **Existence claims evaluate descriptive content.**  
+     “Existence statements assess whether any object satisfies a description.”
+
+189. **Fiction is false description.**  
+     “Fictional discourse involves false descriptive propositions.”
+
+190. **Kripke’s confusion is between semantics and epistemology.**  
+     “Kripke mistakes how we come to know an identity for its modal status.”
+
+191. **Analytic truth is structural truth at fine grain.**  
+     “Analytic truth depends on both structure and substructure.”
+
+192. **Quine’s empiricism is self-refuting.**  
+     “Quine’s denial of analytic truth leads to a regress that halts inquiry.”
+
+193. **Innate structures are necessary for cognition.**  
+     “Human cognition requires innate conceptual structures.”
+
+194. **Science requires non-observational principles.**  
+     “Scientific reasoning depends on necessary truths not derived from observation.”
+
+195. **Categorization relies on necessary conditions.**  
+     “Identifying properties requires knowledge of necessary conditions.”
+
+196. **Proof establishes modal connection.**  
+     “Proof shows that a conclusion is necessarily true given the premises.”
+
+197. **Analytic truth is known a priori.**  
+     “Analytic truths are known independently of experience.”
+
+198. **Formal truth is instance of logical law.**  
+     “Formal truths are substitution instances of logical laws.”
+
+199. **Quine’s logical constants are ad hoc.**  
+     “Quine’s list of logical constants lacks a theoretical basis.”
+
+200. **Conceptual analyses are analytic non-formal truths.**  
+     “Conceptual analyses are expressed by analytic sentences that are not formal truths.”
+
+Let me know if you'd like these organized by topic or formatted for a specific purpose.

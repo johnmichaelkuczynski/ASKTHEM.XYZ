@@ -1,0 +1,1593 @@
+5 KUCZYNSKI QUOTES XXX
+
+100 POSITIONS FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 2)
+by John-Michael Kuczynski
+============================================================================
+
+TWO TYPES OF EMPIRICISM
+-----------------------
+1. There are two very different kinds of empiricism: one holds that all knowledge is based on sense-perception; the other holds that all knowledge is based on experience.
+2. According to the first type, we take for granted that sense-perceptions are correct and know nothing not directly supported by them; Skinner was an empiricist of this sort.
+3. According to the second type, experience (as opposed to mere sense-perception) is our epistemic starting point.
+4. Type-2 empiricism generates the paradox that experiences are our epistemic starting point, yet it is not through observation that we know of these experiences.
+5. Type-2 empiricism seems to entail that we have non-observational, empirical knowledge—a contradiction in terms.
+
+INDUCTION AND SOLIPSISM
+-----------------------
+6. It would be a singularity of unprecedented proportions if, of the billions of people physiologically just like me, I was the only one whose physiology mediated mental activity.
+7. The counter-inductiveness inherent in positing such a singularity is compounded by the fact that other people's behavior is easily explained and predicted only if my situation isn't such a singularity.
+8. A given instance of some kind of metal won't have a certain coefficient of expansion unless all other such instances have the same coefficient—and the same holds for biological traits.
+
+EMPIRICISM AND PSYCHOLOGY
+-------------------------
+9. Empiricism is systemically incapable of saying anything about how linguistic and cognitive competence affect character-architecture.
+10. Empiricists cannot distinguish between urges and desires; between desires and intentions; or between intentions and values.
+11. Each such distinction is to be understood in structural, not phenomenological terms, and empiricists necessarily overvalue what is to be learned about mental states from their phenomenology.
+12. Because empiricists are forced to cram all of the mind's contents into consciousness, they have no choice but to see emotions and values as mere "sentiments."
+13. The sensibility embodied in empiricism is inimical to the creation and cultivation of viable psychological theories.
+14. For epistemologists, empiricism is a doctrine; for others, it's a mentality that damages research even when researchers don't know what empiricism formally entails.
+
+DESIRES, URGES, AND VALUES
+--------------------------
+15. Desires are judgments: they are judgments as to what will minimize distress or maximize pleasure.
+16. An urge is not a judgment; it is a psychological disturbance whose cause is disruption of metabolic equilibrium, precipitating action likely to restore that equilibrium.
+17. A value is a belief on a creature's part as to what, in general, it must do to consolidate or augment its agency.
+18. The first value is given by the proposition: x has value for y if y's agency depends on x.
+19. All acts—all intention-driven behaviors—are value-driven; sometimes those values make provisions for the welfare of others.
+20. Any agent necessarily believes (at some level) that his act will benefit him, but this does not mean all acts are selfish.
+21. Creatures that don't have values are, for that very reason, non-people.
+
+SELFHOOD AND AGENCY
+-------------------
+22. A self is a mind whose host-body exists to serve it; whereas the snake's mind exists to serve the snake's body, your body exists to serve your mind.
+23. You don't identify with your body: you can imagine waking up in someone else's body, but not in someone else's mind.
+24. Software is implemented by hardware, but it is only to the extent that hardware mediates activity of a certain kind that it can constitute a computer.
+25. Selves are minds that have values; a mind that simply facilitates the gratification of instincts has no values.
+26. A mind does have values if it sees the gratification of instincts, and maintenance of physical well-being, as mere means to its own welfare.
+
+PROPOSITIONAL ATTITUDES
+-----------------------
+27. x's fearing that y will win consists in the proposition "y will win" being presented to x as likely to be true and likely to have adverse consequences for x's existence.
+28. z's hoping that y will win consists in the proposition "y will win" being presented to z as having positive consequences, supposing it true, for z's existence.
+29. Different propositional attitudes towards a single proposition are acceptances of distinct propositions that have a common propositional part.
+
+OBSERVATION AND CONCEPTUAL KNOWLEDGE
+------------------------------------
+30. Observations are not homogenous dollops of phenomenology: they are conceptually articulated.
+31. Embodied in every observation is conceptual knowledge; this holds no less of the simplest sense-perceptions.
+32. Conceptual knowledge pervades perceptual knowledge, even knowledge that is as strictly based as possible on sense-perception.
+33. It is often a conceptual, non-empirical question how to characterize a given body of data in a strictly empirical fashion.
+34. For this reason, empiricism undermines itself.
+
+HUME ON FORCE-PERCEPTION
+------------------------
+35. Hume denied that we are perceptually aware of forces by decomposing apparent force-perception into four other awarenesses: intention, tactile perception, displeasure sensation, and motion perception.
+36. This Humean analysis is decidedly artificial and obviously post hoc.
+
+SELF-OBSERVATION PARADOX
+------------------------
+37. Self-observing involves being so mentally configured that one's mental states become objects of awareness.
+38. Facts about one's physical body aren't facts about one's self at all.
+39. Do you believe that 2 + 2 = 4? Yes. Did you have to self-observe to answer that question? No—yet that knowledge is empirical.
+
+PROPERTIES AND EXISTENCE
+------------------------
+40. If properties don't exist, no argument involving properties is valid—but arguments are composed of propositions, and propositions consist of properties.
+41. Properties cannot be identified with scattered objects or any spatiotemporal entities.
+42. Redness is a 3-place relation; roundness is also a 3-place relation (relative to an inertial framework and an object stipulated to be straight).
+43. Given any spatiotemporal object O, one can destroy or rearrange O without affecting the properties that O instantiates.
+44. It is self-defeating to deny the existence of properties, since to do so is to believe that the property of being non-spatiotemporal is not instantiated.
+45. Embedded within any given cognizance is a presupposition to the effect that certain properties exist.
+
+ANALYTIC TRUTH
+--------------
+46. Only trivial analytic truths hold in virtue of synonymy relations; non-trivial ones don't.
+47. An analytic truth is one that holds in virtue of facts about the structures of properties.
+48. "Analyticity" is non-circularly definable: an analytic truth holds entirely in virtue of the structures of the properties composing it.
+49. Quine's argument that there is no non-circular definition of "analytic" fails because it only considers trivial analytic truths.
+50. Quine would be begging the question if he denied the existence of properties, since in alleging all truths are empirical, he is denying non-spatiotemporal entities.
+
+LOGIC AND PROPOSITIONS
+----------------------
+51. A system of logic is the least inclusive set containing certain axioms and the consequences of those axioms.
+52. Formal truth is a relation between sentences and sets of axioms, not a property of sentences.
+53. Relative to one axiom-set, "if John knows that snow is white, John believes that snow is white" is formally true; relative to others, it isn't.
+54. Given any sentence S, there is some axiom-set relative to which S is formally true.
+55. Logic doesn't concern linguistic expressions; the Law of Non-Contradiction is clearly true, yet practically any natural language sentence contains context-sensitive components.
+56. Kurt Gödel cogently defended the position that logic concerns propositions, not expressions, in his 1953 paper "Is mathematics syntax of language?"
+
+CONVENTION AND MEANING
+----------------------
+57. It isn't a matter of convention whether the conventions we adopt are consistent with one another.
+58. It isn't a matter of convention what follows from the conventions we adopt.
+59. It is a mind-independent, non-empirical fact how conventions are to be applied to arguments and thus whether arguments are valid.
+60. Expression-types are instances of relations between conventions of a certain kind and meanings.
+
+SETS AND PROPERTIES
+-------------------
+61. No intension is identical with the corresponding extension; no property is identical with the corresponding set.
+62. Sets are properties: the set of apples is identical with the property of being the property of being an apple.
+63. x falls into a set S if, and only if, x is an instance of an instance of the property that constitutes S.
+
+MUSICAL AND ARTISTIC WORKS
+--------------------------
+64. Musical and artistic works are properties, not spatiotemporal entities.
+65. It makes sense to ask "how many times has that work been played?" (i.e., how many instances of that work are there), showing works are instantiable.
+
+PERCEPTION AND REPRESENTATION
+-----------------------------
+66. Representations have conditions of satisfaction; for a perception to be accurate, it must have conditions of satisfaction, not merely be caused by something.
+67. For a perception p to have conditions of satisfaction is for there to be some property P such that p is veridical iff P is instantiated.
+68. The existence of properties follows from the fact that there is anything that has any content, whether true or false.
+69. False beliefs have contents: if they didn't, they wouldn't be false—they'd be neither true nor false.
+70. Hallucinations have contents: if they didn't, they wouldn't be inaccurate—they'd be neither accurate nor inaccurate.
+
+CONTENT EXTERNALISM REFUTED
+---------------------------
+71. Content externalism holds that the content of perceptions and beliefs is determined by their provenance (causal history).
+72. If content is determined by provenance, then hallucinations would be devoid of content or have gaps where objects are "supposed to be."
+73. It cannot coherently be maintained that hallucinations are devoid of content or less content-rich than their veridical counterparts.
+74. A hallucination qualitatively identical to a perception has the same content; there are no gaps in its content (except such as are also present in the corresponding perception).
+75. For this reason, content externalism is simply false.
+
+PERCEPTUAL CONTENT IS GENERAL
+-----------------------------
+76. The content of any given cognizance is general.
+77. What you see is not that Tim is standing over there, but that an entity with certain features is standing over there; you then conclude it's Tim.
+78. A given perception's content, if propositionalized, is given by a proposition to the effect that there exists something x having properties P1...Pn.
+79. There is no particular thing that must have those properties if your perception is to be accurate.
+80. Given any cognizance, there is ultimately no one entity that must have the properties in question if that cognizance is to be accurate.
+
+EMPIRICISM AND SKEPTICISM
+-------------------------
+81. If all questions are to be decided on empirical grounds, then it is an open empirical question what degree of support any datum gives to any hypothesis—and so on ad infinitum.
+82. It cannot be known through our senses that our senses are correct.
+83. Strict empiricism leads either to skepticism (we cannot know whether our senses are trustworthy) or idealism (our senses are trustworthy because perceptions are their objects).
+84. No one would advocate either view if he had any way of avoiding doing so; the way to avoid it involves being a rationalist.
+
+KNOWING VS. BEING AWARE
+-----------------------
+85. There is a difference between knowing that R is round and being aware of R's roundness.
+86. In knowing that R is round, the object of awareness is a proposition (non-spatiotemporal); in being aware of R's roundness, the object is spatiotemporal.
+87. Only proposition-aware creatures can grasp incompatibilities between states of affairs.
+
+OBSERVATION REPORTS
+-------------------
+88. Very little of what we know, if stated exhaustively and perspicuously, would be given by simple "observation reports."
+89. In describing what you see as a red ball, you are implicitly judging how it would act if acted upon, what it will do when acted upon, and how other objects would behave near it.
+90. Telescoped into everyday "strictly observation-based" judgments are judgments as to what would happen, could happen, and will happen.
+
+WITTGENSTEIN'S PICTURE THEORY
+-----------------------------
+91. The Picture Theory holds that sentences are meaningful by depicting possible facts; there is no need for propositions to mediate between sentences and facts.
+92. The Picture Theory is unacceptable: if there are propositions, the meaningfulness of false sentences is easily explained.
+93. Wittgenstein must concede that a sentence's meaning is determined by its truth-conditions, not by the fact it depicts.
+94. Truth-conditions are propositions; in granting that sentences have truth-conditions, Wittgenstein concedes the existence of propositions.
+95. Given the existence of propositions, one can account for the meaningfulness of sentences without the Picture Theory.
+96. Many true statements affirm that what makes them true cannot be depicted; e.g., "some things cannot be depicted."
+
+FALSE THOUGHTS AND ERROR
+------------------------
+97. For there to be such a thing as error, there must be propositions that are presented to some creature as being instantiated that are not instantiated.
+98. It is an empirical fact that there exist things (thoughts, perceptions) that have contents.
+99. Given any thought T, there is some property P such that P's being instantiated or not is identical with T's being true or false—this is a non-empirical truth.
+100. Causal processes would mean nothing to us and bear evidence of nothing unless we had causal-process-independent knowledge of non-spatiotemporal entities.
+
+============================================================================
+SOURCE: Empiricism and the Foundations of Psychology
+AUTHOR: John-Michael Kuczynski
+PUBLISHER: John Benjamins Publishing Company
+SERIES: Advances in Consciousness Research, Volume 87
+
+100 POSITIONS FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 2)
+by John-Michael Kuczynski
+============================================================================
+
+TWO TYPES OF EMPIRICISM
+-----------------------
+1. There are two very different kinds of empiricism: one holds that all knowledge is based on sense-perception; the other holds that all knowledge is based on experience.
+2. According to the first type, we take for granted that sense-perceptions are correct and know nothing not directly supported by them; Skinner was an empiricist of this sort.
+3. According to the second type, experience (as opposed to mere sense-perception) is our epistemic starting point.
+4. Type-2 empiricism generates the paradox that experiences are our epistemic starting point, yet it is not through observation that we know of these experiences.
+5. Type-2 empiricism seems to entail that we have non-observational, empirical knowledge—a contradiction in terms.
+
+INDUCTION AND SOLIPSISM
+-----------------------
+6. It would be a singularity of unprecedented proportions if, of the billions of people physiologically just like me, I was the only one whose physiology mediated mental activity.
+7. The counter-inductiveness inherent in positing such a singularity is compounded by the fact that other people's behavior is easily explained and predicted only if my situation isn't such a singularity.
+8. A given instance of some kind of metal won't have a certain coefficient of expansion unless all other such instances have the same coefficient—and the same holds for biological traits.
+
+EMPIRICISM AND PSYCHOLOGY
+-------------------------
+9. Empiricism is systemically incapable of saying anything about how linguistic and cognitive competence affect character-architecture.
+10. Empiricists cannot distinguish between urges and desires; between desires and intentions; or between intentions and values.
+11. Each such distinction is to be understood in structural, not phenomenological terms, and empiricists necessarily overvalue what is to be learned about mental states from their phenomenology.
+12. Because empiricists are forced to cram all of the mind's contents into consciousness, they have no choice but to see emotions and values as mere "sentiments."
+13. The sensibility embodied in empiricism is inimical to the creation and cultivation of viable psychological theories.
+14. For epistemologists, empiricism is a doctrine; for others, it's a mentality that damages research even when researchers don't know what empiricism formally entails.
+
+DESIRES, URGES, AND VALUES
+--------------------------
+15. Desires are judgments: they are judgments as to what will minimize distress or maximize pleasure.
+16. An urge is not a judgment; it is a psychological disturbance whose cause is disruption of metabolic equilibrium, precipitating action likely to restore that equilibrium.
+17. A value is a belief on a creature's part as to what, in general, it must do to consolidate or augment its agency.
+18. The first value is given by the proposition: x has value for y if y's agency depends on x.
+19. All acts—all intention-driven behaviors—are value-driven; sometimes those values make provisions for the welfare of others.
+20. Any agent necessarily believes (at some level) that his act will benefit him, but this does not mean all acts are selfish.
+21. Creatures that don't have values are, for that very reason, non-people.
+
+SELFHOOD AND AGENCY
+-------------------
+22. A self is a mind whose host-body exists to serve it; whereas the snake's mind exists to serve the snake's body, your body exists to serve your mind.
+23. You don't identify with your body: you can imagine waking up in someone else's body, but not in someone else's mind.
+24. Software is implemented by hardware, but it is only to the extent that hardware mediates activity of a certain kind that it can constitute a computer.
+25. Selves are minds that have values; a mind that simply facilitates the gratification of instincts has no values.
+26. A mind does have values if it sees the gratification of instincts, and maintenance of physical well-being, as mere means to its own welfare.
+
+PROPOSITIONAL ATTITUDES
+-----------------------
+27. x's fearing that y will win consists in the proposition "y will win" being presented to x as likely to be true and likely to have adverse consequences for x's existence.
+28. z's hoping that y will win consists in the proposition "y will win" being presented to z as having positive consequences, supposing it true, for z's existence.
+29. Different propositional attitudes towards a single proposition are acceptances of distinct propositions that have a common propositional part.
+
+OBSERVATION AND CONCEPTUAL KNOWLEDGE
+------------------------------------
+30. Observations are not homogenous dollops of phenomenology: they are conceptually articulated.
+31. Embodied in every observation is conceptual knowledge; this holds no less of the simplest sense-perceptions.
+32. Conceptual knowledge pervades perceptual knowledge, even knowledge that is as strictly based as possible on sense-perception.
+33. It is often a conceptual, non-empirical question how to characterize a given body of data in a strictly empirical fashion.
+34. For this reason, empiricism undermines itself.
+
+HUME ON FORCE-PERCEPTION
+------------------------
+35. Hume denied that we are perceptually aware of forces by decomposing apparent force-perception into four other awarenesses: intention, tactile perception, displeasure sensation, and motion perception.
+36. This Humean analysis is decidedly artificial and obviously post hoc.
+
+SELF-OBSERVATION PARADOX
+------------------------
+37. Self-observing involves being so mentally configured that one's mental states become objects of awareness.
+38. Facts about one's physical body aren't facts about one's self at all.
+39. Do you believe that 2 + 2 = 4? Yes. Did you have to self-observe to answer that question? No—yet that knowledge is empirical.
+
+PROPERTIES AND EXISTENCE
+------------------------
+40. If properties don't exist, no argument involving properties is valid—but arguments are composed of propositions, and propositions consist of properties.
+41. Properties cannot be identified with scattered objects or any spatiotemporal entities.
+42. Redness is a 3-place relation; roundness is also a 3-place relation (relative to an inertial framework and an object stipulated to be straight).
+43. Given any spatiotemporal object O, one can destroy or rearrange O without affecting the properties that O instantiates.
+44. It is self-defeating to deny the existence of properties, since to do so is to believe that the property of being non-spatiotemporal is not instantiated.
+45. Embedded within any given cognizance is a presupposition to the effect that certain properties exist.
+
+ANALYTIC TRUTH
+--------------
+46. Only trivial analytic truths hold in virtue of synonymy relations; non-trivial ones don't.
+47. An analytic truth is one that holds in virtue of facts about the structures of properties.
+48. "Analyticity" is non-circularly definable: an analytic truth holds entirely in virtue of the structures of the properties composing it.
+49. Quine's argument that there is no non-circular definition of "analytic" fails because it only considers trivial analytic truths.
+50. Quine would be begging the question if he denied the existence of properties, since in alleging all truths are empirical, he is denying non-spatiotemporal entities.
+
+LOGIC AND PROPOSITIONS
+----------------------
+51. A system of logic is the least inclusive set containing certain axioms and the consequences of those axioms.
+52. Formal truth is a relation between sentences and sets of axioms, not a property of sentences.
+53. Relative to one axiom-set, "if John knows that snow is white, John believes that snow is white" is formally true; relative to others, it isn't.
+54. Given any sentence S, there is some axiom-set relative to which S is formally true.
+55. Logic doesn't concern linguistic expressions; the Law of Non-Contradiction is clearly true, yet practically any natural language sentence contains context-sensitive components.
+56. Kurt Gödel cogently defended the position that logic concerns propositions, not expressions, in his 1953 paper "Is mathematics syntax of language?"
+
+CONVENTION AND MEANING
+----------------------
+57. It isn't a matter of convention whether the conventions we adopt are consistent with one another.
+58. It isn't a matter of convention what follows from the conventions we adopt.
+59. It is a mind-independent, non-empirical fact how conventions are to be applied to arguments and thus whether arguments are valid.
+60. Expression-types are instances of relations between conventions of a certain kind and meanings.
+
+SETS AND PROPERTIES
+-------------------
+61. No intension is identical with the corresponding extension; no property is identical with the corresponding set.
+62. Sets are properties: the set of apples is identical with the property of being the property of being an apple.
+63. x falls into a set S if, and only if, x is an instance of an instance of the property that constitutes S.
+
+MUSICAL AND ARTISTIC WORKS
+--------------------------
+64. Musical and artistic works are properties, not spatiotemporal entities.
+65. It makes sense to ask "how many times has that work been played?" (i.e., how many instances of that work are there), showing works are instantiable.
+
+PERCEPTION AND REPRESENTATION
+-----------------------------
+66. Representations have conditions of satisfaction; for a perception to be accurate, it must have conditions of satisfaction, not merely be caused by something.
+67. For a perception p to have conditions of satisfaction is for there to be some property P such that p is veridical iff P is instantiated.
+68. The existence of properties follows from the fact that there is anything that has any content, whether true or false.
+69. False beliefs have contents: if they didn't, they wouldn't be false—they'd be neither true nor false.
+70. Hallucinations have contents: if they didn't, they wouldn't be inaccurate—they'd be neither accurate nor inaccurate.
+
+CONTENT EXTERNALISM REFUTED
+---------------------------
+71. Content externalism holds that the content of perceptions and beliefs is determined by their provenance (causal history).
+72. If content is determined by provenance, then hallucinations would be devoid of content or have gaps where objects are "supposed to be."
+73. It cannot coherently be maintained that hallucinations are devoid of content or less content-rich than their veridical counterparts.
+74. A hallucination qualitatively identical to a perception has the same content; there are no gaps in its content (except such as are also present in the corresponding perception).
+75. For this reason, content externalism is simply false.
+
+PERCEPTUAL CONTENT IS GENERAL
+-----------------------------
+76. The content of any given cognizance is general.
+77. What you see is not that Tim is standing over there, but that an entity with certain features is standing over there; you then conclude it's Tim.
+78. A given perception's content, if propositionalized, is given by a proposition to the effect that there exists something x having properties P1...Pn.
+79. There is no particular thing that must have those properties if your perception is to be accurate.
+80. Given any cognizance, there is ultimately no one entity that must have the properties in question if that cognizance is to be accurate.
+
+EMPIRICISM AND SKEPTICISM
+-------------------------
+81. If all questions are to be decided on empirical grounds, then it is an open empirical question what degree of support any datum gives to any hypothesis—and so on ad infinitum.
+82. It cannot be known through our senses that our senses are correct.
+83. Strict empiricism leads either to skepticism (we cannot know whether our senses are trustworthy) or idealism (our senses are trustworthy because perceptions are their objects).
+84. No one would advocate either view if he had any way of avoiding doing so; the way to avoid it involves being a rationalist.
+
+KNOWING VS. BEING AWARE
+-----------------------
+85. There is a difference between knowing that R is round and being aware of R's roundness.
+86. In knowing that R is round, the object of awareness is a proposition (non-spatiotemporal); in being aware of R's roundness, the object is spatiotemporal.
+87. Only proposition-aware creatures can grasp incompatibilities between states of affairs.
+
+OBSERVATION REPORTS
+-------------------
+88. Very little of what we know, if stated exhaustively and perspicuously, would be given by simple "observation reports."
+89. In describing what you see as a red ball, you are implicitly judging how it would act if acted upon, what it will do when acted upon, and how other objects would behave near it.
+90. Telescoped into everyday "strictly observation-based" judgments are judgments as to what would happen, could happen, and will happen.
+
+WITTGENSTEIN'S PICTURE THEORY
+-----------------------------
+91. The Picture Theory holds that sentences are meaningful by depicting possible facts; there is no need for propositions to mediate between sentences and facts.
+92. The Picture Theory is unacceptable: if there are propositions, the meaningfulness of false sentences is easily explained.
+93. Wittgenstein must concede that a sentence's meaning is determined by its truth-conditions, not by the fact it depicts.
+94. Truth-conditions are propositions; in granting that sentences have truth-conditions, Wittgenstein concedes the existence of propositions.
+95. Given the existence of propositions, one can account for the meaningfulness of sentences without the Picture Theory.
+96. Many true statements affirm that what makes them true cannot be depicted; e.g., "some things cannot be depicted."
+
+FALSE THOUGHTS AND ERROR
+------------------------
+97. For there to be such a thing as error, there must be propositions that are presented to some creature as being instantiated that are not instantiated.
+98. It is an empirical fact that there exist things (thoughts, perceptions) that have contents.
+99. Given any thought T, there is some property P such that P's being instantiated or not is identical with T's being true or false—this is a non-empirical truth.
+100. Causal processes would mean nothing to us and bear evidence of nothing unless we had causal-process-independent knowledge of non-spatiotemporal entities.
+
+============================================================================
+SOURCE: Empiricism and the Foundations of Psychology
+AUTHOR: John-Michael Kuczynski
+PUBLISHER: John Benjamins Publishing Company
+SERIES: Advances in Consciousness Research, Volume 87
+
+100 POSITIONS FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 3)
+by John-Michael Kuczynski
+============================================================================
+
+SENTENCE MEANING AND STRUCTURE
+------------------------------
+1. A sentence is meaningful if it attributes some property to some object—if, for some object x and some property phi, it says that x has phi.
+2. A sentence is meaningful if it says anything about anything.
+3. Expressions like "the absolute is one" contain undefined terms and therefore say nothing until those terms are assigned referents.
+4. The reason "x is tall" says nothing is that "x" is undefined—it hasn't been assigned a referent.
+5. Before a variable is assigned a referent, expressions containing it are neither confirmable nor tautologous.
+
+RUSSELL'S PARADOX AND MEANINGLESSNESS
+-------------------------------------
+6. Russell, Tarski, and other logicians held there are meaningless bona fide sentences, but they were quite wrong.
+7. The expressions they were thinking of are either false or they are sentence-schemata, not actual sentences.
+8. A sentence-schema is an expression just like a sentence except that one of the lexical items has been replaced with a variable.
+9. "The property of not being a member of itself" does not have a referent; it just appears to have a sense.
+10. The question "what property must a thing have to belong to K [the class of non-self-members]?" receives only circular answers.
+11. K₁ ("K is a member of itself") fails to encode a proposition because the occurrence of "itself" doesn't refer to anything.
+12. Russell's Paradox is not a counterexample to the Axiom of Comprehension because it doesn't express a proposition.
+
+ANTINOMIES AND SEMANTIC RULES
+-----------------------------
+13. There are two classes of antinomies: those that are meaningless (neither true nor false) and those that are false.
+14. Russell's Paradox is an instance of the meaningless class.
+15. Tokens of "this sentence is false" are neither true nor false—so they are not both true and false.
+16. The semantic rules of English do not permit the construction of sentences that violate the Law of Non-Contradiction.
+17. A sentence-token's proposition depends on what its parts refer to; if they refer to nothing, the token is neither true nor false.
+18. Many logicians wrongly argued that English was defective because they misunderstood self-referential sentences.
+
+MEANING VS. USE (AGAINST WITTGENSTEIN)
+--------------------------------------
+19. Meaning cannot be use: there are meaningful expressions that are never used literally and infinitely many that aren't used at all.
+20. Once you know what a given expression means, you won't acquire new knowledge about that meaning by acquiring additional knowledge of how that word is used.
+21. What a sentence conveys is the vector sum of its literal meaning and contextual facts.
+22. A sentence has a fixed, circumstance-invariant meaning, but the significance of that meaning is circumstance-dependent.
+23. For anyone to say anything, words must have meanings, and there must be true propositions saying what those meanings are—these are semantic rules.
+24. Noise-production that isn't governed by knowledge of semantic rules is not linguistic.
+25. Duly rule-governed usage of an expression is governed by, and therefore doesn't constitute, its meaning.
+
+CONCEPTS AND UNDERSTANDING
+--------------------------
+26. To understand the concept of number is not merely to know how "number" is used—one must grasp the concept to identify which word's usage to study.
+27. In deepening one's understanding of numbers (e.g., learning integers are second-order properties), one is not adding to semantic knowledge.
+28. Semantic analysis (what linguists do) must not be confused with conceptual analysis (what philosophers do) or objectual analysis (what chemists do).
+
+WORD-INDIVIDUATION
+------------------
+29. Two different sounds are tokens of the same word if: (i) they are produced by bona fide speakers, (ii) they sound similar enough to some paradigm, and (iii) they are instances of genuine speech.
+30. Part of what makes a token of "dog" be a token of that word is what it sounds like—but words are not individuated strictly by acoustical properties.
+31. Sentence-types are not individuated by the physical properties of their tokens; meaning plays an essential role.
+
+WITTGENSTEIN'S RULE-FOLLOWING ARGUMENT
+--------------------------------------
+32. Wittgenstein argues that merely grasping a rule F(x) explains nothing about a person's behavior or knowledge that F(13) = 169.
+33. Wittgenstein concludes that to know how to apply a rule, one must know other rules, leading to infinite regress.
+34. This argument fails because knowledge of how to apply a rule is built into knowledge of the rule itself.
+35. The distinction between competence and performance explains why someone can grasp F(x) = x² without immediately knowing the square of 1,198,976.
+36. Competence is ability; performance is the ability to deploy ability.
+37. If linguistic competence is to operate at full force, other abilities must be intact: memory, focus, patience, etc.
+38. There is no gulf between knowing a given principle and knowing how to apply it under given circumstances.
+
+THINKING IS NOT STRICTLY PSYCHOLOGICAL
+--------------------------------------
+39. Rule-following is not a strictly psychological phenomenon.
+40. Given only that we've attributed a grasp of F(x) = x² to some person, we've explained nothing about him psychologically.
+41. The difference between someone who understands why F(13) = 169 and someone who believes it for spurious reasons is not psychological.
+42. Conventional wisdom holds that thinking is a psychological process; this is not so—thinking is not a psychological process.
+
+CONSCIOUSNESS AND THOUGHT
+-------------------------
+43. Propositional attitudes are not constituents of consciousness.
+44. The deployment of a propositional attitude is not constitutive of consciousness.
+45. Consciousness is to thinking what a driver is to events under his car's hood: the driver can initiate, regulate, and end processes but has little knowledge of what happens inside.
+46. When working, I decide what to try to solve, whether a solution is good, and when to stop—but these decision points are singularities; mostly I am waiting.
+
+MENTAL IMAGERY AND THOUGHT
+--------------------------
+47. Contrary to Wittgenstein, mental imagery sometimes is thought-constitutive.
+48. Thought-constitutive mental images are segments of ratiocinations that for the most part do not consist of imagery.
+49. Phenomenologically consecutive images are likely to be ratiocinatively disjoint.
+50. If one considers images as installments in a thought-process (most of whose installments are not images), their occurrences make perfect sense.
+51. Wittgenstein tried to understand mental imagery in isolation of its ratiocinative context and thus had no choice but to see such images as cognitively empty.
+
+PRIVATE LANGUAGE ARGUMENT REFUTED
+---------------------------------
+52. Wittgenstein argues that private language is impossible because there's no one to penalize mistakes—but it isn't always other people who penalize misuse.
+53. The private linguist who misuses a word is responsible for a language-shift, not a meaningless utterance.
+54. Any language is only as useful to its speakers as their memories of its semantic rules are good.
+55. At the end of the day, even the English speaker has nothing but his memories to rely on regarding word meanings.
+56. The difference between private language and English is that in the latter there are multiple back-up copies of semantic rules—but this doesn't make one more of a language than the other.
+57. A manuscript of which there are many copies is not more of a manuscript than one of which there is only one.
+
+WITTGENSTEIN'S EMPIRICISM
+-------------------------
+58. Wittgenstein is a hard-core empiricist.
+59. Wittgenstein's refusal to grant the existence of non-spatiotemporal entities (propositions, concepts) stems from his empiricism.
+60. Empiricism, of the non-Berkeleyan sort, taken to its logical conclusion, reduces thought to bodily behaviors.
+61. Creatures in whom there are no "occult processes" are zombies, and zombies cannot be acculturated.
+62. There is no plausibility to the view that groups of appropriately interrelated zombies collectively think.
+
+QUINE AND PROPOSITIONAL ATTITUDES
+---------------------------------
+63. Some empiricists deny that there are propositional attitudes—they deny that anyone believes anything or regrets anything.
+64. Quine took the desperate measure of saying that no sentence is a translation of any sentence.
+65. Quine insists that when translating, one cannot rely on any beliefs based in one's knowledge of oneself.
+66. This is not the view of somebody who goes where the data takes him—it is a consequence of strict fidelity to empiricism.
+
+ARGUMENT FROM ANALOGY
+---------------------
+67. The traditional Argument from Analogy holds: I know my mental states correlate with my behavior; others' external behavior matches mine; therefore their internal states must also match.
+68. Wittgenstein rejects this, saying one cannot reasonably infer that others have mental states from knowledge of one's own.
+69. Wittgenstein's reasoning is spurious: we know from experience that sometimes one instance suffices for reliable generalizations.
+
+TYPES OF KNOWLEDGE
+------------------
+70. There is a difference between knowledge that is a constituent of consciousness and knowledge that is merely access-conscious.
+71. My knowledge that 10 + 11 = 21 is "conscious" in that it is a constituent of my mind and I can readily become conscious of it.
+72. Type-(iii) knowledge (empirical observation) must not be confused with type-(iv) knowledge (introspective).
+73. Hume conflated type-(iii) knowledge with type-(iv) knowledge when he searched for the self through introspection.
+74. Knowledge of one's conscious condition is empirical in that it is a conceptualization of experience, like a scientific theory—not a direct derivative of experience.
+
+ANALYTIC TRUTHS
+---------------
+75. Definitions are not analytic; "a yard is a distance of three feet" describes an empirical fact about linguistic usage.
+76. There are "deep analytic truths" such as: that orange isn't red; that nothing that is green is colorless; that anything moving is in motion.
+77. Some analytic truths are absolutely primitive; some are absolutely non-primitive.
+78. If it is only by grasping "orange = yellow + red" that one grasps "orange isn't red," then one does not genuinely grasp the latter.
+
+KANT'S SYNTHETIC A PRIORI (CRITIQUE)
+------------------------------------
+79. Kant argued that 7 + 5 = 12 is synthetic a priori because when thinking "7 + 5," one doesn't necessarily think "12."
+80. This argument conflates non-empirical knowledge with psychological (introspective) knowledge.
+81. Kant uses "transcendental" instead of "psychological" to obfuscate his error of making mathematics a branch of psychology.
+82. Geometrical propositions are non-empirical but also non-analytic, Kant claimed—but his reasoning confuses conceptual analysis with mental imagery.
+83. Mental imagery is a vehicle for geometrical thought, but it isn't by introspecting images that one knows geometrical truths.
+
+HUME ON THE SELF (CRITIQUE)
+---------------------------
+84. Hume claimed that when he introspects, he finds only sensations and images but never a self.
+85. This argument conflates type-(iii) knowledge with type-(iv) knowledge.
+86. Supposing Hume had a self, he couldn't know it through sense-perception—but that doesn't mean he must know it through inward "vision."
+87. Hume believes that 1 + 1 = 2 and knows he believes it—but it isn't by rummaging through mental imagery that he knows this.
+
+SUBPERSONAL MENTATION
+---------------------
+88. Animals must have concepts given they obviously have sense-perceptions—but it is their minds, not their selves, that grasp abstracta.
+89. Rover's brain mediates deeply unconscious ideation that is impersonal (unlike the Freudian unconscious).
+90. The Freudian unconscious is access-unconscious but often was or will be access-conscious; subpersonal ideation is intrinsically different.
+91. There is an obvious sense in which dogs are non-concipient, yet concipience is a sine qua non for percipience, and dogs are percipient.
+92. These facts can be reconciled only by distinguishing self from mind—the part one identifies with from the unconscious part one does not.
+93. Chomsky's position that there is subpersonal mentation is not merely a reasonable hypothesis but de rigueur relative to obvious facts.
+
+HUSSERL'S PHENOMENOLOGY (CRITIQUE)
+----------------------------------
+94. Husserl tried to purify introspection by "bracketing" all assumptions—but this involves deconceptualizing introspections, which is impossible.
+95. When I describe a perception, I do so by describing its object; I cannot suspend beliefs like "there is an external world."
+96. The justification for perception cannot come from perception and must come from non-empirical, analytic principles.
+97. If a perception is described without accepting non-empirical principles, all that's left is conceptually unarticulated phenomenology.
+98. Qua student of the mind, one cannot be a strict empiricist; qua student of the external world, one also cannot be a strict empiricist.
+
+EMPIRICISM'S LEGACY TO PSYCHOLOGY
+---------------------------------
+99. The mental, under empiricism, isn't a unified domain—it's a series of disjoint ex nihilo obtrusions into an otherwise integrated world.
+100. Science is not about "sticking to the facts"—it is about organizing facts and positing hidden structures to restore continuities that observation strips away.
+
+============================================================================
+SOURCE: Empiricism and the Foundations of Psychology
+AUTHOR: John-Michael Kuczynski
+PUBLISHER: John Benjamins Publishing Company
+SERIES: Advances in Consciousness Research, Volume 87
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY
+================================================================================
+
+SUBPERSONAL MENTATION AND CONSCIOUSNESS
+----------------------------------------
+1. Paraperception is sub-personal truth-awareness embodied in personal object-awareness.
+2. The delight one takes in listening to a Bach fugue embodies subpersonal awareness of truths about structural properties of sounds.
+3. Subpersonal awarenesses are expressed at the personal level in the form of phenomenological episodes.
+4. Subpersonal knowledge is never transferred from one mental stratum to another.
+5. Conscious knowledge of subpersonal processes (e.g., via Chomsky/Marr) is merely an analogue of the subpersonal knowledge described, not a bona fide duplicate.
+6. Conscious knowledge of subpersonal processes is schematic and theoretical, like our knowledge of electrons.
+7. The view that sub-personal processes are strictly physiological and embody no intelligence is indefensible.
+8. Understanding a novel sentence of one's native tongue instantaneously requires more than purely reflexive physiological processes.
+9. The English language is a collection of rules, and semantic rules are highly complex.
+10. People absorb and apply complex semantic rules without the slightest difficulty, despite being unable to consciously articulate them.
+11. Linguistic competence is naturally characterized as mastery of semantic rules that are not access-conscious.
+12. Subpersonal semantic rules are either access-unconscious in a deep sense or they don't exist—there is no viable purely physiological characterization.
+
+CONSCIOUSNESS AND PROPOSITIONAL ATTITUDES
+------------------------------------------
+13. Mentality and consciousness are not identical.
+14. Propositional attitudes cannot be constituents of consciousness; when "conscious," they are access-conscious.
+15. There is no a priori reason why anything that is access-conscious must be so.
+16. Any given consciousness must be distinct from its object—the two must not be numerically identical.
+17. Distinct objects are such that the existence of one is not logically dependent on the existence of the other.
+18. There is no a priori reason why propositional attitudes must be access-conscious.
+19. Consciousness can have trouble accessing a given propositional attitude, just as computers can have trouble accessing their own contents.
+20. It often takes considerable intellectual resources to be consciously aware of just what one believes.
+21. Even if beliefs are access-conscious (not repressed), one may lack the meta-cognitive wherewithal to conceptualize them properly.
+22. It's one thing to have first-order representations; it's quite another to correctly conceive of that cognitive wherewithal.
+23. Without meta-cognitive wherewithal, one cannot know what one's propositional attitudes are.
+
+CRITIQUE OF SEARLE'S VIEW (MENTALITY = CONSCIOUSNESS)
+------------------------------------------------------
+24. Searle's view (SV) that mentality is identical with consciousness is logically false.
+25. MC entails that whatever is part of your mind but not your consciousness exists only as a disposition to have conscious experiences.
+26. Any dispositions you have are mediated by physiological structures.
+27. Searle's dispositionalism about non-consciousness-constitutive mental entities follows from his acceptance that mentality equals consciousness.
+28. Dispositionalism doesn't model the data about beliefs and knowledge.
+29. If intentions existed only as dispositions, we couldn't explain why they are activated by relevant stimuli.
+30. Non-occurrent mental structures function as mental entities between bouts of generating consciousness-constitutive states.
+31. Searle commits the quantifier-shift fallacy: from "each act accords with some rule" it doesn't follow that "some one rule is accorded with by each act."
+32. Two speakers assigning the same meanings to infinitely many sentences cannot be explained as physiological coincidence.
+
+HUME'S ANALYSIS OF CAUSALITY
+----------------------------
+33. Hume holds that "x causes y" is true only if taken to say that a pair of spatiotemporally adjacent events instantiates a regularity.
+34. Hume denies that any event disposes another event to occur.
+35. Hume's analysis (HC) doesn't distinguish actual from epiphenomenal causality.
+36. HC falsely implies that night causes day (and vice versa) since they are regularly conjoined.
+37. Animal agitation preceding earthquakes doesn't cause earthquakes, even though the conjunction is regular—showing HC's inadequacy.
+38. Our intuitions about what causes what are not what they would be if Hume's analysis were correct.
+39. Any given case of pseudo-causation involves discontinuities not involved in genuine causation.
+40. Constant conjunctions tip us off to continuities (causal mechanisms), but the mechanism is the sine qua non of causality.
+41. Empiricist philosophers deny that anything makes anything happen because they are blind to anything not depicted or a depiction.
+42. We first know what causes what; only then do we look for regularities.
+
+CAUSALITY AND SPACE-TIME
+------------------------
+43. Hume assumes that precedence in time and adjacency in space can be understood in non-causal terms—this assumption is false.
+44. A given event's space-time location is constituted by its causal relations to other events.
+45. There is no non-relational way of understanding space-time position.
+46. The "Hume world" thought experiment fails because any instance of persistence or occupancy is an instance of causation.
+47. Spatiotemporal changes are causal changes.
+48. Notions such as displacement and occupancy are to be understood in causal terms.
+49. There can be no spatiotemporal changes without causal changes.
+50. What grounds saying an object has moved is a statement about what would-be occupants must do to occupy that place.
+
+HUME'S ERROR: FACTS VS. TRUTHS
+------------------------------
+51. Hume's analysis is false because it makes a false assumption: that changes consist of discrete events.
+52. The spatiotemporal world obviously undergoes change, but such events differ from those described by scientific or everyday statements.
+53. The world doesn't consist of truths; it consists of facts. Truths hold in virtue of facts but aren't identical with them.
+54. Events are nominalizations of truths, not constituents of the external world.
+55. A pig falling and splattering cannot be atomized into a sequence of discrete events.
+56. The redistributions of mass-energy that constitute change do not have a digital structure.
+57. The world has an analogue, not a digital structure.
+58. Observation represents mass-energy displacement as seamless, not as consisting of discrete parts.
+59. We know we are witnessing causation because we know we are witnessing continuity.
+60. Articulations in our beliefs about the world should not be identified with articulations in the world itself.
+
+TRANSCENDENTAL ARGUMENT FOR CAUSATION
+-------------------------------------
+61. A transcendental argument for P shows that unless P were true, it couldn't even be asked whether P were true.
+62. Genidentical thought-episodes (causally related mental phases) demonstrate that things make other things happen.
+63. For the mind to persist, its states at different times must be causally related.
+64. If state Bt isn't responsible for state Bt*, there's no ground for saying both constitute one persisting entity.
+65. Empiricism is incoherent: questions about interpreting observations must be settled before observational data can be logged.
+66. Empirical reportage necessarily embodies non-empirical, meta-observational assumptions.
+67. There is no such thing as a conceptually innocent observation-report.
+68. If observation-reports were purged of theoretical commitments, they would be stilted and useless.
+
+THE SELF AND PERSONAL IDENTITY
+------------------------------
+69. Hume's introspection-based argument that there is no self fails to distinguish the observer from what is observed.
+70. Hume found only perceptions when introspecting because he was looking at perceptions, not at himself looking.
+71. It isn't because two mental segments belong to the same mind that they constitute one thought process—it's the reverse.
+72. Because segments constitute one unbroken thought-process, they belong to the same mind.
+73. The self endures by virtue of cohesion-relations among the particulars it hosts.
+74. The self has cohesion-relations to thank for its existence, not vice versa.
+75. What unites pre-freeze and post-freeze brain states (in cryogenics) is persistence of a single structure mediating ideation.
+76. The self consists of awareness-mediating enduring structures underlying mental activity.
+
+SYSTEM ORGANIZATION AND MENTAL STRUCTURE
+----------------------------------------
+77. It is possible for all constituents of a system to fall within its scope (like citizens in a democracy).
+78. Systems can be organized horizontally (separation into strata) or vertically (structures coordinating strata).
+79. Even dictators need cooperation from those they govern, so they fall within the scope of their system.
+80. Mental constituents need not be renegade structures outside systemic pressures.
+
+DEDUCTIVE-NOMOLOGICAL (DN) MODEL CRITIQUE
+-----------------------------------------
+81. DN analysis of explanation: to explain event O is to identify laws such that O logically follows from those laws plus O's antecedents.
+82. DN fails because any event is a logical consequence of infinitely many universal generalizations, most of which are not explanatory.
+83. Non-nomic generalizations (like "every writing utensil on JM's desk is red") don't support counterfactuals and aren't explanatory.
+84. Natural laws support counterfactuals; non-nomic generalizations do not.
+85. We can distinguish natural laws from non-nomic generalizations only because we have prior knowledge of causes—making DN circular.
+86. Counterfactuals describe causal laws governing the world, not events in other realities.
+87. Showing something instantiates a regularity merely identifies a class of events we can't explain.
+88. Regularities are shadows cast by underlying causal mechanisms.
+89. Regularities tell us where to look for causes but are not themselves explanatory.
+
+PSYCHOLOGICAL EXPLANATION
+-------------------------
+90. Psychology explains by rationalizing, but this doesn't make it fundamentally different from physics.
+91. Both psychology and physics seek causal mechanisms; in psychology, these often take the form of rational motivations.
+92. Psychological explanations rarely satisfy DN because psychological sequences seldom instantiate exceptionless regularities.
+93. DN is incompatible with the datum that explanations citing motives have genuine explanatory value.
+94. The Menendez brothers' explanation (wanting inheritance, lacking moral scruples) has explanatory value despite not citing exceptionless laws.
+95. A person's being unscrupulous and about to be disinherited doesn't make it more likely than not that he'll kill his parents—yet this can still explain patricide.
+96. DN* (requiring only >50% probability) fails for the same reasons as DN.
+97. Many true explanations involve antecedents that make the explained event less than 50% likely.
+98. It is neither necessary nor helpful to cite uniformities when explaining actions via beliefs and desires.
+99. Knowing Bill fears Hell is a complete explanation for his church attendance; citing "all pious people go to Church" adds nothing.
+100. Piety might be a concomitant of the actual cause rather than the cause itself—regularities can mislead about causation.
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 5)
+===================================================================================
+
+MULTIPLE REALIZABILITY AND EXPLANATION
+---------------------------------------
+1. Two architecturally identical houses can fall for the same reason despite having completely different microphysical structures in their components.
+2. Mechanical (Newtonian, macro-level) laws can be the same in two cases even when implemented by completely different microconstituents.
+3. It is wrong to say that the laws compelling the collapse of two houses differed just because their microstructures differed—this would make the shared outcome a mere coincidence.
+4. The same laws can be involved in different cases while being implemented by different microphysical mechanisms.
+5. Most laws hold only probabilistically; two Newtonian-identical situations could have different outcomes due to quantum events.
+6. Newtonian laws don't provide 100% guarantees because quantum events can over-ramify.
+7. If we required causes to operate with 100% efficacy, we would make it impossible to produce meaningful explanatory generalizations.
+8. Structural (non-microphysical) defects can be genuine causes even though such defects don't always lead to the same outcomes.
+9. The a priori belief that effects couldn't have failed to occur given their causes must be jettisoned because it is inimical to explanation.
+
+PROBABILISTIC CAUSATION
+-----------------------
+10. Smoking causes cancer even though less than 30% of smokers get lung cancer.
+11. Principled regularities have all the explanatory virtues that laws are supposed to have and might as well be identified with laws.
+12. E1 can be the cause of E2 even though events relevantly like E1 are unlikely to bring about events relevantly like E2.
+13. Epistemically speaking, there is such a thing as probabilistic causation—whether there is ontologically is a separate question.
+14. The orthodoxy that ontologically there is probabilistic causation is distinct from the epistemic claim.
+15. Von Neumann's proof about hidden variables established only that quantum physics could not be made epistemically deterministic, leaving open whether it could be ontologically deterministic.
+
+FACTS, PROPOSITIONS, AND EXPLANATION
+-------------------------------------
+16. Scientific explanations justify events and must show those events to comply with natural laws.
+17. Justification is a relationship that holds between propositions, not between facts.
+18. Facts don't bear on other things in a logical or confirmational sense—they obviously do so causally.
+19. Propositions consist of concepts; facts consist of objects and instances of first-order concepts.
+20. A non-analytic proposition is a conceptualization or propositionalization of a given fact.
+21. A given fact admits of indefinitely many propositionalizations.
+22. The mass-energy displacements constitutive of walking across a room are necessary and sufficient for atomic, chemical, physiological, and psychological propositions.
+23. Two propositions can hold in virtue of the same fact yet have no explanatory bearing on each other.
+24. For each psychological truth, there may be a corresponding biochemical truth, but the latter isn't explanatorily relevant to the former.
+
+DATA-MODELING AND SCIENTIFIC DISCIPLINES
+-----------------------------------------
+25. Scientific disciplines' first objective must be to model data, since it is only through data that truths can be known.
+26. There must be a way of evaluating the fitness of a model without knowing whether it is true.
+27. To model propositions is to systematize them so that their bearing-relations on one another are identified and appropriately organized.
+28. Propositions about facts are exceedingly crude representations of those facts.
+29. Propositions consist of tendentious conceptualizations—inquiry-driven over-consideration of certain aspects and under-consideration of others.
+30. It is inherent in what propositions are that they leave out facts, including causally relevant ones.
+31. The generalizations constitutive of disciplines are constructed of concepts that by their very nature leave out causally relevant factors.
+
+CRITIQUE OF BEHAVIORISM
+-----------------------
+32. Behaviorism is false—surely nobody ever actually thought otherwise.
+33. Many scholars felt forced to advocate behaviorism despite personal reservations because they accepted that mental states qua private entities are not fit objects for science.
+34. Behaviorists accepted that all sciences are either identical with physics or watered-down versions of physics.
+35. Behaviorists accepted the Deductive-Nomological (DN) model as correct.
+36. The behaviorist's publicity-criterion ("don't believe if it can't be publicized") presupposes the existence of the mental it purports to deny.
+37. The behaviorist's maxim exists as a bulwark against insanity and fraud, thus presupposing mental states.
+38. To the extent mental entities exist, behaviorists hold they are identical with dispositions to engage in overt behaviors—this is false.
+39. Language dispositions according to behaviorism must be purely reflexive like knee jerks—this is untenable.
+40. Behaviorists must conclude language is acquired through operant conditioning—this is false.
+
+CHOMSKY'S CRITIQUE OF BEHAVIORISM
+---------------------------------
+41. If behaviorism were true, hearing "how are you doing?" would cause one to reflexively bark out "very well, thank you"—but this isn't so.
+42. We understand and produce expressions we've never or rarely heard, instantly and without hesitation.
+43. It isn't through operant conditioning that language is learned.
+44. Responses to linguistic stimuli embody cognitive mechanisms not acquired through experience.
+45. Pre-experiential cognitive mechanisms mediate principle-driven behavior that can't be understood in terms of perceptual experience specificities.
+46. "Pre-experiential" doesn't mean "inborn"—structures subserving cognitive functions could come into existence post-utero.
+47. The syntactic rule governing words like "since" is extremely intricate, yet a child needs to hear it only once or twice to use it correctly.
+48. There is no way to operantly condition a person to use complex syntactic words correctly.
+
+FUNCTIONALISM AND ITS PROBLEMS
+------------------------------
+49. How a person reacts to a stimulus is a function of both the stimulus nature and what is in that person's mind.
+50. Attempts to reduce mental states to overt behaviors end up reducing them to behaviors plus mental states—what was supposed to be reduced hasn't been.
+51. Functionalism is the doctrine that it is solely in virtue of what x's causes and effects are that x falls into mental type M.
+52. It was wrongly taken for granted that functionalism is not identical with behaviorism.
+53. Lewisian functionalism attempts to "Ramsify out" all mention of mental entities in describing non-mental causes and effects.
+54. There are infinitely many possible reasons why one might utter any given sentence.
+55. There is no finite list of stimuli that could lead one to utter any given sentence.
+56. The lists of possible causes and effects of mental states are not finite and must be identified intensionally.
+57. Intensional definitions of mental state causes/effects are loaded with the very mentalistic terms functionalism seeks to eliminate.
+58. The Ramsey-Lewis sentence is a surd—no such sentence exists because recursive definitions needed are loaded with mentalistic terms.
+59. If Lewisian functionalism is right, mental states do nothing—they are epiphenomenal.
+60. It isn't in virtue of being an intention to become a lawyer that x leads its host to take the LSAT; rather, doing so qualifies it as that intention.
+
+PSYCHOLOGY VS. PHYSICS: IRREDUCIBILITY
+--------------------------------------
+61. No body of psychological data coincides with any body of physical data.
+62. Physical scientists model the same truths in different ways, but psychological data doesn't even overlap with physical data.
+63. Epistemically speaking, facts modeled by psychology don't overlap with facts modeled by physics.
+64. It's the epistemic sense of "fact" that's operative since facts are science-relevant only to the extent they are knowable.
+65. Physics and physiology can be reconciled because both are theoretical superstructures converging on one set of facts.
+66. Psychology and physics don't converge on any one set of facts—what they're studying differs epistemically.
+67. Larry throwing furniture is a datum for physics, not psychology; for psychology, it's a significant truth contingent on psychological causes.
+68. If Larry were a zombie or robot, his furniture-throwing would cease to be of concern to psychology.
+69. Psychology is irreducible to physics both in the generic sense (as biology is) and in a special sense unique to psychology.
+70. The functionalist cannot coherently distinguish his position from behaviorism.
+
+EMPIRICISM AND ITS INCOHERENCE
+------------------------------
+71. It is a datum that there are psychological data—denying this is unscientific.
+72. A scientist's suspicion that there is no physics-friendly way to model psychological data is not a good reason to deny such data.
+73. The belief that physics is the only legitimate discipline is a priori and therefore non-empirical—ironically, this is an embodiment of empiricism.
+74. Knowledge of one's own mind is empirical but not in a way that validates empiricism.
+75. It's unempirical to turn a blind eye to psychological data, yet Dennett and Churchland do so to be true to empiricism.
+76. All data is as theory-heavy as psychological data; one couldn't describe perception without assuming many theories.
+77. If Dennett and Churchland are right about psychological data, they must also deny perceptual data are genuine data.
+78. Because they are empiricists, Dennett and Churchland cannot be coherent without being incoherent.
+79. Empiricism entails behaviorism; behaviorism is false; therefore empiricism is false.
+
+PERCEPTION AND INNATE KNOWLEDGE
+-------------------------------
+80. The behaviorist wrongly assumes that a being devoid of cognitive structure can have sense-perceptions.
+81. Photon-induced disturbances that elicit perceptions from you would elicit nothing from a rock.
+82. The class of stimuli that would elicit accurate perceptions is infinitely large and infinitely varied.
+83. There is no strictly physiological characterization of any mental property.
+84. There is no physiological characterization of the psychological differences between instances of different psychological properties.
+85. Mechanisms linking perceptual causes to effects must be understood in psychological terms.
+86. Perception leads to knowledge; perceptual mechanisms mediate ideation embodying sensitivity to relations of justification.
+87. The knowledge embodied in perceptual mechanisms cannot itself be acquired through sense-perception.
+88. Pre-experiential knowledge cannot result from operant conditioning.
+
+HEMPEL'S ANALYSIS OF REDUCTION
+------------------------------
+89. Hempel held that the question "can psychology be absorbed into physiology?" is strictly empirical—this is wrong.
+90. Hempel believed reducing D to D* means demonstrating any D-concept is co-extensive with some D*-concept.
+91. Co-extensiveness of concepts does not entail that one discipline can be absorbed into another.
+92. If there is any truth that D can say that D* cannot, D cannot be absorbed into D*.
+93. Science has one objective: to produce an accurate and complete description of reality.
+94. Hempel was wrong to hold that D can be absorbed into D* if any D-concept is co-extensive with some D*-concept.
+95. Hempel believed erroneously because empiricism made him so.
+
+MULTIPLE REALIZABILITY AND PHYSIOLOGICAL LAWS
+---------------------------------------------
+96. Physiological properties are multiply realizable—a given property phi is multiply realizable insofar as it is physiological.
+97. There cannot be physiological truths unless there are physiological laws.
+98. An organism is a structure consisting of reliably functioning biological parts—this requires laws.
+99. There is no conceivable universe in which physicalism (every physiological property is identical to some microphysical property) is true.
+100. The statue isn't identical with the clay of which it is composed—destroying the statue needn't destroy the clay.
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 6)
+===================================================================================
+
+MULTIPLE REALIZABILITY AND REDUCTION
+-------------------------------------
+1. A thing's being made of glass might disqualify it from being a liver in our universe, but this doesn't mean no creature could have a glass liver.
+2. Given only that certain microphysical properties rule out being a liver, it doesn't follow that some microphysical property is required for being a liver.
+3. There may be infinitely many distinct microstructures that a liver can have.
+4. No physiological property can be co-extensive with any microphysical property.
+5. A psi-instance x can be identical with something that constitutes a phi-instance y, but x itself cannot be identical with y itself.
+6. D can be reduced to D* if and only if there neither is nor can be any D-truth that isn't equivalent with some D*-truth.
+7. Philosophers have embraced absurd analyses (like Hempel's) because they were blind to the distinction between RF-meaning and MG-meaning.
+8. Coextensive properties are coextensive, but coextensive* properties (involving material constitution) aren't necessarily coextensive.
+9. Two microphysically identical situations cannot be macrophysically different—the macrophysical supervenes on the microphysical.
+10. If any macro-property being coextensive with a micro-property is nothing but an accident, it has no explanatory value.
+
+NOMIC STRUCTURE AND EXPLANATION
+-------------------------------
+11. The fact that in world W each physiological property is coextensive* with some microphysical property obscures W's nomic structure.
+12. In W, beings like us would be disposed to misidentify the laws of physiology in their universe.
+13. Even if it isn't an accident that the physiological tracks the microphysical, there's a sense in which it is accidental—and that's the sense relevant to reduction.
+14. If D is reducible to D*, it's not enough that D-phenomena can be correlated with D*-phenomena; every D-truth must be a logical consequence of some D*-truth.
+15. If there is even a single psychological truth not equivalent to any non-psychological truth, then psychology is irreducible to physiology.
+16. "Tree" is a natural-kind term—in virtue of being a tree, an object has causal properties it wouldn't otherwise have.
+17. It is because of its causal properties that T is a tree, not because of its effects on anyone's ideation.
+18. We can know that T is a tree only if its causal properties dispose people to have certain experiences.
+19. For non-psychological natural kinds, there can be only a purely circumstantial correlation between having a property and having certain experiences.
+
+MENTAL ENTITIES AND PHYSIOLOGY
+------------------------------
+20. Supposing x is both physiological and mental, it isn't in virtue of being content-bearing that x is physiological; it is in virtue of being content-bearing that x is mental.
+21. It would make no sense to say x's being a desire for world-peace made x a frontal lobe, or vice versa.
+22. These statements are analytically true, not empirical.
+23. Mental entities can be constituted by physiological entities without psychological properties being reducible to physiological ones.
+24. For any psychological property phi, x instantiates phi only if there is some physiological property psi such that m(x) instantiates psi.
+
+DISCIPLINE-SPECIFIC TRUTHS
+--------------------------
+25. In describing a proposition as D-specific, one distinguishes principles D merely employs from principles individuative of D.
+26. There are principles of logic all disciplines use that don't belong to any discipline.
+27. So far as a logical truth is put to physics-specific use, it assumes a physics-specific form, but that doesn't make it physics-specific.
+28. There are discipline-specific logical truths—formal logic isn't identical with logic-proper.
+29. Given x's position at t and density at t*, there's no sense in which the latter can be understood in terms of the former without general propositions.
+30. Explanation requires supplementing particular facts with general propositions concerning classes of events.
+
+SPACE, METRICS, AND EXPLANATION
+-------------------------------
+31. If x moves continuously from p to p*, x's occupying p* can be understood in terms of its occupying p.
+32. Continuous motion provides the paradigm for understanding how one state explains another.
+33. Secondary properties are properties of relations (observer and observed); primary properties are properties of objects.
+34. No property of secondary kind can generate a space* coincident with space* generated by primary properties.
+35. Given a fixed relation R, redness may be identified with micro-structure and explained in terms of an object's structure.
+36. A metric is a definition of congruence—a criterion for determining whether objects have a property to the same degree.
+37. We use optical metrics rather than cardiological metrics because the former avoid anomalies.
+38. A non-anomalous space* comprises only metric-consistent changes.
+39. If one event is disruptive, it leads to a proportionally counter-disruptive event—instances of uniformity are limiting cases.
+40. e causes e* if an otherwise ideal metric's invalidity is a logical consequence of e*'s failing to follow e.
+
+HUME'S ANALYSIS AND ITS CONSEQUENCES
+------------------------------------
+41. Hume's analysis entails that neither event in a causal instance can be understood in terms of the other—each is an accident relative to the other.
+42. In identifying causation with correlation, Hume claims that to explain an event is to show it is an accident.
+43. "To explain is to fail to explain"—this is the methodological significance of empiricism.
+44. Hempel's analysis of interdisciplinary reduction has the same consequence as Hume's analysis of causation.
+
+INDUCTION AND JUSTIFICATION
+---------------------------
+45. There are two kinds of induction: enumerative and explanatory.
+46. Hume's argument against induction doesn't distinguish which kind is being targeted.
+47. The Uniformity Principle (UP) bridges future to past and unknown to known, but Hume claims it cannot be justified non-circularly.
+48. Assuming the gambler's fallacy shows you can't predict fair coin outcomes from past outcomes—but weighted coins are different.
+49. If you see a coin land tails 10,000 times, you'd assume a mechanism disposing it to land tails, and prediction becomes justified.
+50. We are justified in positing mechanisms that will continue to operate to the extent the world is explicable.
+51. Saying one has no grounds for positing ongoing mechanisms amounts to denying that anomaly-elimination makes hypotheses preferable—an analytically false position.
+52. If there is analytic, non-empirical knowledge, we can justify faith in sense perceptions and future predictions.
+
+IDEALISM AND ITS REFUTATION
+---------------------------
+53. Idealism is the doctrine that objects are identical with one's perceptions of them.
+54. If idealism is correct, our "perceptions" have no objects and are just hallucinations.
+55. Berkeley and 20th century "neutral monists" held the difference between idealism and realism is one of language—this is false.
+56. There is no IL (idealist language) translation of statements involving transperceptual entities like rooms and walking.
+57. To describe perceptions of tables and rooms, one must assume such things really exist—thus assuming idealism is false.
+58. Idealism predates philosophy; many forms of psychosis involve idealism-like positions; all infants are idealists.
+59. Non-psychotic idealism operates within a fundamentally non-idealistic belief-system.
+60. "Neutral monism" claims mind and matter are built from perceptions—but perceptions are mental, so this is just Berkeleyan idealism.
+
+BERKELEY'S ARGUMENTS REFUTED
+----------------------------
+61. Berkeley's argument from perspectival variation fails because it only eliminates absolute properties, not comparative ones.
+62. Given perspectival variation, what remains are instances of comparative properties (relations), not absolute properties.
+63. Berkeley's "try to conceive an unconceived chicken" is syntactically ambiguous between conceiving a specific chicken and conceiving a proposition.
+64. One can accept "there are chickens you aren't thinking of" without thereby thinking of any specific chicken.
+65. One can consider true propositions about things (like primes greater than 8,887,777) without thinking of any specific such thing.
+
+PROPOSITIONAL ATTITUDES AND EMOTIONS
+------------------------------------
+66. All emotions are beliefs; all affects embody beliefs.
+67. Objectual attitudes (admiration, love, hate, envy) consist of propositional attitudes.
+68. One's admiration for someone is constituted by, not caused by, one's beliefs about that person.
+69. The relationship between beliefs about Smith and admiration for Smith is constitutive, not causal.
+70. It is not even theoretically possible to admire someone of whose lack of merit one is completely convinced.
+71. There are pure objectual awarenesses (perceptions), but no pure objectual attitudes.
+72. To have an attitude toward something is to have a belief about it.
+73. Lusting for someone does consist in having certain beliefs—this seems false only because we've internalized erroneous empiricist theories.
+
+THE STRUCTURE OF BELIEF
+-----------------------
+74. The term "propositional attitude" misleadingly suggests decomposition into awareness of a proposition plus acceptance—this is viciously circular.
+75. To say content is causal role is to say content isn't causally responsible—but content obviously is causally responsible.
+76. Functionalizing awareness of propositions strips that awareness of causal efficacy; functionalism is therefore false.
+77. Sense-perception is predicational—one can't just see the rock; one must see it as having some property.
+78. The spatiotemporal world consists of property-instances; there is nothing in which property-instances inhere.
+79. Nothing can be propertyless; a propertyless thing wouldn't have spatiotemporal location and thus wouldn't exist.
+80. Locke's substrates are surds; instances of things "inhering" in them are equally incoherent.
+81. For one to believe P is for P to be presented to one as true, as one sees a rock as gray.
+
+CHURCHLAND'S ELIMINATIVISM REFUTED
+----------------------------------
+82. Folk psychology is a belief system; its mere existence guarantees there are beliefs, so it verifies itself.
+83. Churchland's position is self-undermining: denying beliefs requires having beliefs.
+84. Churchland's witch-analogy fails because folk psychology concerns itself (beliefs about beliefs) while witch-theory doesn't concern itself.
+85. Folk psychology, being reflexive, cannot be a mere theoretical posit like witches.
+
+EGOCENTRIC VS. DISCURSIVE BELIEFS
+---------------------------------
+86. There are two kinds of beliefs: egocentric (relativized to self as origin) and discursive (no privileged position).
+87. One can have emotionally antiseptic knowledge that one's life has changed—this is discursive belief.
+88. Grasping a truth egocentrically ("it's cold where I am now") is identical with having an emotion.
+89. Egocentric beliefs almost certainly develop before discursive beliefs.
+90. Egocentric beliefs are more central to psychological architecture; discursive beliefs are easily modified.
+91. If Einstein came to believe everyone was trying to kill him, his character would change dramatically—unlike discursive belief changes.
+92. Propositional attitudes are not actionable except insofar as they give rise to phenomenological episodes.
+
+POSITIVE AND NEGATIVE EMOTIONS
+------------------------------
+93. It isn't in virtue of causing one to feel good or bad that an emotion is positive or negative.
+94. Positive emotions can cause distress (laughter can trigger asthma); negative emotions can cause relief.
+95. Anything can cause anything—the physiological concomitants of positive emotions could precipitate acute distress.
+96. Delight at being cured of an ailment consists in recognizing that one's life has thereby improved—a belief.
+
+OLFACTION AND PERCEPTION
+------------------------
+97. Whether a system mediates genuine olfaction depends on whether it has second-order responses of the right kind.
+98. A system doesn't mediate olfaction if it doesn't respond to its first-order responses in ways tracking olfaction-specific properties.
+99. Olfaction picks up on biology-relevant (survival- and health-relevant) properties: rottenness, wholesomeness, etc.
+100. To endow a system with olfaction, you must sensitize it to principles mediating between microphysical and olfactory properties.
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 7)
+===================================================================================
+
+DESIRES AS BELIEFS
+------------------
+1. A desire to eat cake is identical with a judgment that eating it would be pleasurable.
+2. One doesn't have a desire to alleviate an unpleasant state without a belief about what action will alleviate it.
+3. If one has a belief about how to achieve gratification, one has the corresponding desire.
+4. Desires don't cease to exist when they are outweighed by stronger desires.
+5. One can want to keep one's money while also intending to give it to a gunman—the intention isn't the same as wanting.
+6. The victim of armed robbery doesn't want to give up his money; he judges it necessary for survival.
+
+INTENTIONS VS. DESIRES
+----------------------
+7. Intentions are not desires—empiricists wrongly think otherwise.
+8. Davidson's view that one's intention is identical with one's strongest desire is false.
+9. Wanting to live doesn't mean wanting to do all things involved in staying alive.
+10. Someone may need amputation to live but doesn't want to lose their leg—they want to live.
+11. The intention to give money to a gunman is a judgment about being better off, not a desire.
+12. Many so-called higher-order desires (HODs) are really judgments, not desires.
+13. Refraining from insulting one's supervisor is judgment-driven, not desire-driven.
+14. The intention is a judgment concerning one's desires; it is not itself a desire.
+
+OBJECT-AWARENESS AND PROPOSITION-AWARENESS
+-------------------------------------------
+15. All truth-aware creatures are object-aware, but not all object-aware creatures are truth-aware.
+16. Merely object-aware creatures (MOCs) can be distinguished from proposition-aware creatures (PACs).
+17. For MOCs, survival is bodily survival; the same is initially true for neophyte PACs.
+18. With second-order desires comes a cleavage within the mind: conflict between what one wants and what one wants to want.
+19. With each installment of nth-order desires (n≥2), desires become less directly concerned with bodily survival.
+
+THE SUPERSTRUCTURE OF AGENCY
+----------------------------
+20. As psychological superstructure grows, bodily survival becomes more dependent on the superstructure's integrity.
+21. Higher organisms require more sophisticated cognitive machinery to carry out even simple operations.
+22. A reversal occurs: initially superstructure existed for the body; now the body exists for the superstructure.
+23. Initially higher-order desire gratification served first-order desires; now first-order desires serve higher-order ones.
+24. Bach's music appeals directly to rationality-based desires; Jagger's appeals directly to sexuality-based desires.
+25. Rationality is seen as intrinsically valuable because agency depends on rational operations.
+26. One's agency is identical with one's self; one acts (rather than reacts) only to the extent behavior is guided by superstructure-specific desires.
+
+VALUES AND AGENCY
+-----------------
+27. To value something is to see it as conducive to consolidating or enlarging one's agency.
+28. Reading Mill is valued over Harlequin romances because it hones the mind and fortifies agency.
+29. Even altruistic values serve the valuer's agency—Mother Teresa's values made altruism in her self-interest.
+30. Authentic moral reactions can be expressions of basal, value-free survival instincts.
+31. People's senses of right and wrong are evolutionarily important—without them, we'd be at each other's throats.
+32. Morality is weak relative to self-interest but strong in absolute terms, like gravity.
+
+HEDONISTIC VS. ACCOMPLISHMENT-BASED PLEASURE
+---------------------------------------------
+33. Hedonistic pleasure is value-free pleasure; accomplishment-based pleasure is not hedonistic.
+34. Solving a math problem is accomplishment-based pleasure; shooting heroin is hedonistic pleasure.
+35. The object of desire is gratification; the object of intention is not always gratification.
+36. A judgment to write a treatise isn't a desire—it's a judgment about living according to values.
+37. Such judgments become desire-like; skilled craftsmen look forward to their tasks with excitement.
+
+MIND, BODY, AND ATHLETIC ABILITY
+--------------------------------
+38. We see our minds as intrinsically good, not merely instrumentally valuable.
+39. Michael Jordan rightly sees athletic ability as a characteristic of his self, not just his body.
+40. If Jordan woke in another body, he'd be troubled only if it couldn't do what validated his self-concept.
+41. Athletic ability is cognitive, not somatic—being coordinated means one's mind governs the body intelligently.
+42. Many athletic characteristics (knowing when to pass) are comparable to strategic military decisions.
+43. Even speed is largely cognitive in nature.
+
+INTELLECTUALIZATION AND NEUROSIS
+--------------------------------
+44. We engage in actions believed to undermine agency only because rationalization makes us believe otherwise.
+45. Intellectualization is peculiar among neurotic defenses—those who engage in it come out ahead.
+46. Intellectualization blunts emotional acuity but more than compensates with theoretical acuity.
+47. Intellectualization inhibits rather than destroys emotional acuity—the blunting is easily reversed.
+48. The intellectual is often hyper-aware of others' feelings but regards them significant only when aligned with impersonal standards.
+49. Accusations that intellectuals are obtuse often project the accuser's own viciousness onto the intellectual.
+50. Some neurosis is an inevitable concomitant and necessary ingredient of extreme achievement.
+
+FIRST-ORDER AND HIGHER-ORDER DESIRES
+-------------------------------------
+51. Sometimes first-order desires must be given free reign; emotional non-paralytics inevitably seem wanton occasionally.
+52. A person who can indulge only first-order desires is degenerate; one who cannot indulge them is a robot.
+53. First-order desires typically cannot and should not be extinguished—they're indispensable to psychological vitality.
+54. When first-order desires are over-marginalized, the person regresses to sociopathy—they no longer have a soul.
+55. A person whose first-order desires are destroyed has been over-acculturated out of existence.
+
+BELIEFS VS. INSTINCTS
+---------------------
+56. A "belief" that persists regardless of experience is no belief at all—it's an instinct.
+57. Instincts are experience-insensitive; beliefs are experience-sensitive and displace one another.
+58. Even prejudiced people, given enough information, will modify beliefs; dogs at racetracks show compulsive, unmodifiable behavior.
+59. Dogs are trained, not taught; training bypasses intelligence and creates reflexes.
+60. Operant conditioning isn't teaching—one set of reflexes replaces another without judgment.
+61. Instincts themselves don't change; only whether they're operative changes.
+62. MOCs can be trained, not taught; teaching involves transmission of truths.
+
+IMPLICIT THOUGHT REJECTED
+-------------------------
+63. Authors who use "implicit thought" non-equivocally mean "non-thought."
+64. An "implicit thought" is one a creature didn't have but that would have justified its behavior.
+65. "Implicit thought" should be extruded from scientific discourse since it means nothing or "non-thought."
+
+DESIRE HIERARCHIES
+------------------
+66. A belief about how desires should be organized is itself a desire—a second-order desire.
+67. Each person's desire-hierarchy undergoes many permutations over time.
+68. People have third-order desires: desires about their desires about their first-order desires.
+69. Values are intentions become habitual; desires, once habitual, become values.
+
+SUICIDE AND AGENCY
+------------------
+70. People who unsuccessfully attempt suicide are typically in a very different psychological category from those who succeed.
+71. Genuine suicides may be compatible with the view that intentions are judgments about preserving agency.
+
+AESTHETIC AND MORAL NIHILISM
+----------------------------
+72. Aesthetic nihilism: no work of art is better than any other.
+73. Moral nihilism: no act is better or worse than any other.
+74. Musical nihilism equals musical relativism—if all noise is music, no music has value.
+75. One is an empiricist if one believes moral ideation is non-judicative sentiment; a rationalist otherwise.
+76. Setting aside psychopaths, people's responses show their real views are that some acts are wrong and some music good.
+
+HUME'S MORAL SENTIMENTALISM
+---------------------------
+77. Hume held that if moral statements express emotions, they express sentiments rather than beliefs.
+78. Hume assumed if a reaction is emotional, it fails to embody a belief—this is wrong.
+79. If empiricism is correct, emotions are non-cognitive; but empiricism is incorrect.
+80. Emotions, though beliefs, are not discursive beliefs—they are fundamentally egocentric.
+81. Moral sentiments always have indirect bearing on one's own welfare, even when about long-gone dictators.
+
+MORAL SUPERVENIENCE
+-------------------
+82. There are no moral differences without descriptive differences—the moral supervenes on the descriptive.
+83. Moral intuitions track descriptive truths; moral truths hold in virtue of the same facts as descriptive truths.
+84. Morally good acts invariably conduce to psychological, biological, or psychobiological welfare.
+85. One can derive "ought" from "is"—Moore and Hume were wrong to deny this.
+86. P entailing Q doesn't mean there's nothing in Q not in P; (2)-(5) are reconceptualizations of (1)'s content.
+
+EGOCENTRIC VS. DISCURSIVE KNOWLEDGE
+------------------------------------
+87. A truth can be located in an egocentric, self-specific map or in an objective, person-non-specific map.
+88. Knowing egocentrically that one's wife could kill one doesn't give rise to fear; it is fear.
+89. Action-dispositive "feelings" are beliefs that locate propositions in egocentric cognitive maps.
+90. The empiricist, abhorring unconscious structure, must say emotional phenomenology is just phenomenology—but this is implausible.
+91. Subtle situational changes produce equally subtle phenomenological changes in reactions.
+92. Intuitions track an unbounded class of facts; there must be principled connections between facts and intuitions.
+
+INTUITION AND SUCCESS
+---------------------
+93. Most of our knowledge is intuition-based; most judgments are justified by subsequent intellectual developments.
+94. Successful pianists, writers, and scientists learn to go with gut feelings; failures are hobbled by discursive judgments.
+95. A person's muse speaks through intuitions—gut feelings for which one cannot find rational basis at the time.
+96. "Writer's block" afflicts pedants who won't write without clearance from internal authorities.
+
+AESTHETIC REALISM
+-----------------
+97. Art cannot be observed; paint is seen but paintings aren't paint; noises are heard but music isn't noise.
+98. A hawk sees paint better than any person but will never see the painting in the paint.
+99. An artistically intelligent person with poor vision sees art better than an unintelligent person with good vision.
+100. Mozart and Bach were obviously better composers than many others—obvious to anyone with a musical bone in their body.
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 8)
+===================================================================================
+
+RATIONALITY VS. INTELLIGENCE
+-----------------------------
+1. Rationality is personal, as opposed to subpersonal, intelligence deployed in ways advantageous to oneself.
+2. Dogs' minds are replete with intelligence at the subpersonal level, but Rover per se is not very intelligent.
+3. Personal ideation can be intelligent but not rational (e.g., the mad scientist building a monster to win affection).
+4. Dogs aren't irrational—irrationality is corrupted rationality and thus a prerogative of rational beings.
+5. Dogs are sub-rational; their being sub-rational consists in their minds being incapable of personal thought, not thought tout court.
+
+PERSONAL AND SUBPERSONAL MENTATION
+-----------------------------------
+6. What transfers intelligence from subpersonal to personal mentation involves phenomenologization.
+7. The nucleus of the personal stratum is consciousness; the essence of consciousness is phenomenology.
+8. Even our own propositional attitudes are knowable only to the extent that they are phenomenologized.
+9. Repressed propositional attitudes are not intrinsically different from unrepressed ones—the difference is location in the mind.
+10. Consciousness qua consciousness is not intelligent; it mediates only picture-thought, the lowest form of thought.
+11. Picture-thought isn't thought at all—thoughts are judgments, and pictures aren't judgments.
+12. The subpersonal is inherently intelligent; whatever intelligence exists in the personal stratum is bequeathed by the subpersonal.
+13. By "musicalizing" subpersonal processes, we make them perceptible and endow consciousness with acuity it otherwise lacks.
+
+KNOWLEDGE AND SURVIVAL
+----------------------
+14. The delight we take in music is a form of the delight we take in acquiring knowledge.
+15. People are identical with their minds; one is only as big as one's mind.
+16. The delight in knowledge acquisition is a derivative of our survival-instinct, remodeled to fit rationality-mediated integrations.
+17. For creatures with selves, bodily well-being is but an instrument for the self's well-being.
+18. It is an intrinsic good to see and absorb hitherto unobservable thought-processes into one's agency.
+
+PERSONAL MENTATION AND RULES
+----------------------------
+19. Personal mentation becomes ratiocinative when it becomes rule-governed.
+20. Personal mentation comprises sensations and pictures, neither of which can mediate rational thought.
+21. Conscious, icon-mediated ideation truly duplicates subpersonal mentation only when it is rule-governed.
+22. When customs give way to meta-customs, customs convert into rules.
+23. Conscious ideation isn't hewed to subpersonal mentation until it is rule-governed.
+
+MIND VS. SELF
+-------------
+24. A clear distinction must be drawn between mind and self.
+25. Once that distinction is drawn, it becomes clear what makes human beings different from animals.
+26. It becomes clear how rationality differs from intelligence and how rationality equals agency.
+
+PSYCHOPATHOLOGY AND ARCHITECTURE
+---------------------------------
+27. Some psychopathologies target one's psychological architecture itself, unlike OCD or schizophrenia.
+28. The obsessive-compulsive's architecture is overly intact; its inelasticity manifests as obsessions and compulsions.
+29. The schizophrenic's mind is in disarray, but he is still the same person—after medication, he returns.
+30. Certain disorders involve dismantling the very structure of the psyche, not just disorganizing its contents.
+
+LANGUAGE AND RATIONALITY
+------------------------
+31. The claim that linguistic competence constitutes one's ability to grasp non-spatiotemporal entities is untenable.
+32. A language is a set of semantic rules assigning meanings to expressions.
+33. Semantic rules are propositions; to use "David Bowie" linguistically, one must grasp the proposition that it refers to David Bowie.
+34. Rationality is "emotionally integrated" intelligence about one's own welfare.
+35. Language-comprehension is mediated by subpersonal processes—understanding is automatic but thought-mediated.
+36. The relevant thought-processes were unconscious in the impersonal, Chomskyan sense, not the personal, Freudian sense.
+37. Linguistic competence isn't what constitutes rationality (contra Wittgenstein, Davidson, McDowell).
+
+LANGUAGE AS FACILITATOR
+-----------------------
+38. Linguistic competence enormously facilitates thought.
+39. Linguistic competence is a sine qua non for rationality except of the most rudimentary kind.
+40. Rationality precedes linguistic competence—there is pre-linguistic rationality.
+41. Rationality is personalized intelligence transferred from subpersonal to personal mentation.
+42. Consciousness, being phenomenology, represents through depictions: pictures broadly construed.
+
+THOUGHTS AND PICTURES
+---------------------
+43. It isn't by associating thoughts with pictures that we verbalize them; it's by turning thoughts into pictures of expressions.
+44. Languages enable expression because a function assigns distinct expressions to content-distinct thoughts.
+45. A function must assign structurally distinct expressions to structurally distinct thoughts.
+
+BELIEFS AND OBSERVABILITY
+-------------------------
+46. Beliefs per se are unobservable, but their symbolic expressions are observable.
+47. Once beliefs are observable via expressions, they become evaluable—they can be objects of awareness.
+48. Propositional attitudes become observable only because they become associated with expressions and mental icons.
+
+CUSTOMS VS. RULES
+-----------------
+49. Customs are not rules—a custom-breaker's peers may react, but their reaction is emotion-based and ad hoc.
+50. Rules are never implicit; they must be stated explicitly or be logical consequences of explicit rules.
+51. Acting contrary to customs isn't wrong in the same sense as violating rules—merely customary behavior isn't wrong.
+52. Deviations from customs become wrong when the customs themselves come to be regulated by customs.
+53. When meta-customs come into existence, first-order customs become rules and cease to be customs.
+
+PROTO-EXPRESSIONS AND LANGUAGE EMERGENCE
+-----------------------------------------
+54. Paradoxically, complex expressions and simple ones come into existence simultaneously.
+55. Proto-expressions become real expressions only when higher-order symbols come into existence.
+56. There are no genuine expressions until there are higher-order expressions.
+57. There are no atomic sentences until there are molecular sentences; no subsentential expressions until there are sentences.
+58. Languages can come into existence because "x is a proper part of y" has logical, not chronological meaning.
+59. Your lower intestine is a part of your metabolism functionally, not merely spatially.
+60. It is by virtue of causal relations, not location, that your heart is part of your body.
+
+SIMPLE EXPRESSIONS AND MISUNDERSTANDING
+---------------------------------------
+61. Simple expressions of a language cannot be universally misunderstood—when they are, language-shift occurs.
+62. Complex expressions can be misunderstood even when their simple constituents are understood.
+63. One could grasp the semantics of "function," "class," "number" without knowing complex theorems' meanings or truth-values.
+
+OBSERVABILITY AND PROPOSITIONAL ATTITUDES
+------------------------------------------
+64. What is observable is what can be represented phenomenologically and therefore iconically.
+65. Propositional attitudes are not to any degree constituted by phenomenology.
+66. Propositional attitudes have propositions as objects, and propositions cannot be depicted since they are non-spatiotemporal.
+
+NORMS AND VALUES
+----------------
+67. When personal thought becomes norm-driven, it becomes value-driven.
+68. To value something is to see it as norm-compliant—as an instance of how things should be.
+69. The ur-value underlying all values is that we should value the extension and consolidation of agency.
+70. Human beings have values—this distinguishes us from other sentient beings.
+71. The one thing with intrinsic moral value is consolidating and expanding one's own agency; socio-ethical goodness is instrumental.
+72. Nietzsche and Spinoza advocated ethical egoism; the author agrees with them.
+
+DESIRES AND RATIONALITY
+-----------------------
+73. First there are urges, replaced by first-order desires—this constitutes the advent of reason-driven behavior.
+74. First-order desires come to be replaced by higher-order desires until the mind becomes "top-heavy."
+75. Instinct-influenced, intention-driven behavior is judgment-driven, not urge-driven.
+76. Acts we describe as "reactive" or "instinctual" are really judgment-driven but with corrupted judgment.
+77. A dog's instinctive attack isn't irrational—only rational or rationality-capable creatures can be irrational.
+78. Dogs are not insane; insanity presupposes rationality.
+
+PSYCHOPATHOLOGY: OCD AND SCHIZOPHRENIA
+--------------------------------------
+79. Whether one becomes schizoaffective vs. OCD may depend on brain-structure, but that doesn't make the disorder purely organic.
+80. OCD is to be understood in psychodynamic terms; it has physiological underpinnings like any belief.
+81. Even if schizoaffective disorder has a purely organic basis, distinctively schizoaffective ideation must be understood psychodynamically.
+82. The schizophrenic's delusions turn painful realities into painful nightmares from which one wakes.
+83. Brain-damage leads to misguided ideation not understandable psychodynamically—it interrupts mental activity.
+84. In organic disorders, distinct mental faculties are under-interrelated; in psychosis, they are over-interrelated.
+85. The psychotic's erratic mentation results from mental processes interrupting and corrupting each other.
+86. The Alzheimer's patient's mentation results from processes petering out before converging.
+
+INTERNAL CONFLICT
+-----------------
+87. Internal conflict is essential to the human condition or virtually inevitable with a human psychological architecture.
+88. One can be conflicted by having two conflicting values or by having a value conflicting with a non-value desire.
+89. Type-(i) conflict leads to repression only if one turns a blind eye; otherwise it leads to garden-variety unhappiness.
+90. Freud said psychoanalytic therapy's purpose was to turn neurotic unhappiness into non-neurotic unhappiness.
+91. Type-(i) conflict can lead to growth—one may sacrifice a lesser value to develop a greater one.
+
+RATIONALIZATION
+---------------
+92. Rationalizing is not lying; lying misrepresents truth to others, rationalizing suppresses one's own knowledge.
+93. Rationalization involves lying to oneself and inventing a story to make the lie believable.
+94. "No fraud without a fairy tale"—this goes double for frauds perpetrated on oneself.
+95. The essence of rationalization is decontextualization—isolating information that would otherwise reveal unwanted truths.
+96. If the rationalizer doesn't view things narrowly, he'll be forced to draw unwelcome conclusions.
+
+NEUROSIS AND PSYCHOSIS
+----------------------
+97. Neurotic people see external reality as it is; it is their own feelings to which they are blind.
+98. Psychosis is a psychological illness whose symptoms can be understood in psychological terms.
+99. Organic disorders' psychological disruptions are not ameliorated by eliminating intrapsychic conflicts.
+100. In dreams, maturation-based inhibitions relax, liberating infantile mental contents from the unconscious.
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 9)
+===================================================================================
+
+DELUSIONS AND BELIEF
+--------------------
+1. To have a delusion isn't to have a wrong belief; it is to have a belief that is right in the wrong way.
+2. A delusion is to have a belief whose vehicle is some infantile, and therefore false, belief.
+3. Beliefs themselves, even delusive ones, don't consist of activity but of activity-mediating structures.
+4. Hallucinations, so far as rooted in delusions, are phenomenologicizations of beliefs, not themselves beliefs.
+5. Brown believing Mary is a witch is having the right belief (Mary is malicious) but in the wrong way.
+6. Even when symptomatic, the schizophrenic also has correct beliefs in the right, antiseptic, discursive way.
+
+REGRESSION AND PSYCHOSIS
+------------------------
+7. During psychotic episodes, one regresses to cognitive infantilism.
+8. Such regressions enable one to consciously believe what one really believes.
+9. Regressions enable beliefs in a form where, if taken literally, they are so brazenly wrong they threaten no one.
+10. Brown's delusions, though false by definition, are often obviously transformations of non-delusive beliefs.
+11. The madman's mind is infantile; the infant's mind paints in black and white, the adult's in pastels.
+12. The infant's monochromatic palette results partly from immaturity, partly from not being an arch-rationalizer.
+13. Maturation involves implementing repressions; regression involves their removal.
+14. To outgrow a belief or desire isn't to cease to have it; it is for it to cease to be operational.
+
+FOLK-PSYCHOLOGY AND PSYCHOPATHOLOGY
+------------------------------------
+15. Folk-psychology enables rationalization of conscious states to the extent one isn't afflicted by psychopathology.
+16. Folk-psychology refers to the totality of platitudes about the psyche accepted by the laity.
+17. The schizophrenic's conscious ideation includes things whose existence folk-psychology altogether denies.
+18. The position that delusions have a strictly somatic basis is equivalent to saying "that's just how things are."
+19. A person's delusions are obviously transformations of correct beliefs; the "crossed wires" view is a non-starter.
+
+PSYCHOSIS AND COMMINGLING
+-------------------------
+20. Someone dreaming isn't psychotic because the regression to psychological infancy is too clean.
+21. Infants aren't psychotic because infantile mentation isn't commingled with more evolved forms.
+22. In the psychotic, infantile and non-infantile thought commingle—that's what makes the condition morbid.
+23. Infantile thinking is wishful thinking—one sees things as one wants them to be, not as they are.
+24. Infantile thinking is incompatible with non-infantile thinking (seeing father as superhuman vs. human).
+25. The psychotic must repress non-infantile beliefs to validate wishful, psychotic thinking.
+
+PSYCHOLOGICAL STRUCTURE
+-----------------------
+26. People aren't disorganized heaps of thought; they are organized, non-heaps of thought.
+27. A person's thoughts are organized vertically (hierarchically) and horizontally (by topic/domain).
+28. One cannot be healthy if one does no exercise at all, and one cannot be healthy if one exercises 8 hours daily—similarly with psychopathology.
+29. A competent psychoanalyst must have experienced some psychopathology but not be a psychological wreck.
+
+MENTAL ILLNESS AND COMPETENCE
+-----------------------------
+30. To the extent a person is psychologically damaged, he isn't good at anything.
+31. If a mentally ill person is a good composer, it's because his psychopathologies haven't corrupted that ability.
+32. The experience of mental illness may open artistic and intellectual vistas otherwise closed.
+33. One cannot be mentally ill without being blind to some aspect of one's psychological condition.
+34. For the same reasons one must know one's own condition, one cannot know another's if blind to one's own.
+35. A neurotic has blinded himself to his own desires, which must be discharged as symptoms instead of actions.
+
+PSYCHOPATHS AND INTERNAL CONFLICT
+---------------------------------
+36. Psychopaths cannot be internally conflicted—they don't have values and therefore don't have conflicting values.
+37. The non-psychopath is capable of internal conflict and likely has mixed feelings about situations.
+38. The non-psychopath can question the legitimacy of institutional forces; the psychopath cannot grasp legitimacy.
+39. Lacking a distinctively human psychological architecture, the psychopath has no conception of forfeiting selfhood.
+
+REPRESSION AND ACTION
+---------------------
+40. Consciousness won't knowingly cooperate with a repressed emotion; the latter must cloak itself.
+41. A repressed emotion is like a non-Marxist government pretending to be Marxist to get Soviet money.
+42. When conscious intention is subordinate to unconscious intention, one executes the conscious intention poorly.
+43. Unless there's self-discovery, one must rationalize poor performance, altering beliefs, values, and intentions.
+44. A certain amount of repression is necessary, but it is by no means innocuous.
+
+UNCONSCIOUS DESIRES VS. INTENTIONS
+-----------------------------------
+45. Unconscious desires clearly exist; whether unconscious intentions exist is a separate question.
+46. Repressed antagonism is expressed through "failures"—forgetting milk, giving away gifts.
+47. If conscious of real feelings, one would discharge them through action (divorce); if repressed, through inaction.
+
+OPERATIVE VS. ACTUAL BELIEFS
+----------------------------
+48. One's operative belief-set can differ from one's actual belief-set.
+49. Even though operative beliefs determine behavior, emotions may be hewed to actual (non-operative) beliefs.
+50. It's not up to a person what he feels or believes, but it is up to him what he does with those feelings.
+51. Deoperationalizing one belief involves deoperationalizing entire networks of propositional attitudes.
+52. The subject's psyche must undergo many changes if deoperationalization of a belief is to hold.
+53. After a certain point, even if a belief is conscious, the subject won't identify with it—it becomes ego-dystonic.
+
+COMPULSIONS
+-----------
+54. A compulsion requires being ego-dystonic, opposed to some ego-syntonic belief, yet powerful enough to compel acquiescence.
+55. There are two kinds of compulsions: ego-id conflicts and intra-ego conflicts.
+56. Addiction-based compulsions result from ego-id conflicts; OCD-based compulsions from intra-ego conflicts.
+57. Involuntary behaviors differ from compulsive acts; compulsive acts differ from acts under duress.
+58. Mind-internal conflict differs from self-internal conflict.
+
+OCD: HEAD VS. HEART
+-------------------
+59. The addict's struggle is between egocentric and non-egocentric beliefs about self-interest.
+60. The OCD struggle is between two non-egocentric value-systems, each legitimate.
+61. OCD is a war between the head and the heart; the heart has right beliefs, the head wrong ones.
+62. The heart, doubting the head's legitimacy, takes every opportunity to stymie the head's intentions.
+63. The head becomes maniacally dedicated to its plans, unwilling to question any detail.
+64. OCD tends to afflict people who are both scrupulous and intellectual.
+65. Hyper-morality is a defense against criminal impulses; OCD is a bulwark against unconscious aggression.
+66. Because an overly punitive conscience is a sine qua non for OCD, sociopaths cannot have OCD.
+
+NEUROSIS VS. SYSTEMIC DISORDERS
+-------------------------------
+67. A neurosis is a healthy person's way of pathologizing; a precondition is a structurally intact mind.
+68. The neurotic mind is like a car with an improperly installed battery—tiny structural differences, vast functional differences.
+69. Vast gains in functionality can be achieved rapidly by those with minor structural problems.
+70. Neurosis is system-internal: it inhibits functioning but doesn't corrupt the metabolism itself.
+71. Even severe psychosis is system-internal and differs from sociopathy and psychopathy.
+72. Sociopathy and psychopathy are not disturbances of integrations but are themselves integrations.
+73. With sociopathy/psychopathy, the person has become the disease; the concept of recovery ceases to have meaning.
+
+ANXIETY AND SELF-REMODELING
+---------------------------
+74. The elimination of anxiety should not be an objective of psychotherapy.
+75. The ability to tolerate anxiety should be an objective.
+76. One can extirpate anxiety by improving one's life or by self-remodeling to blind oneself to the source.
+77. Self-remodeling to blind oneself is identical with sociopathogenesis.
+
+RATIONALIZATION: TWO SENSES
+---------------------------
+78. To "rationalize" data (scientific sense) is to provide a coherent model, positing unobservables to account for observables.
+79. To "rationalize" (pathological sense) is to model data intending to see things as one wants, not as they are.
+80. Relative to both senses, to rationalize is to model data.
+81. Not all attempts to bury truth are pathological—the mind has limited resources and must sequester some beliefs.
+82. Some repression is healthy information-management, not pathology.
+
+TELEOLOGY AND ORGANS
+--------------------
+83. A blind person's eyes are defective; eyes are supposed to see—this is a datum.
+84. What an organ is supposed to do isn't always determined by its owner's objectives.
+85. Even if one intends to blind oneself, one's eyes exist to give sight.
+86. "O is supposed to do X" means: if O does X, the universe is more intelligible.
+87. When we talk about what eyes "should" do, we're talking about the structural integrity of the universe.
+88. A world of sick creatures is more entropic than a world of healthy creatures.
+
+CAUSATION AND EMPIRICISM
+------------------------
+89. Hume and Peirce deny that anything makes anything happen, but this stems from the pinball-machine conception.
+90. Empiricism doesn't demand acceptance of no-cause view (NCV); it demands rejection—we feel forces constantly.
+91. NCV may be an attempt to negate the unpleasant fact that we're always under the dominion of forces.
+92. Outside physics, correlations don't correlate with laws; non-physicists who believe otherwise harm their disciplines.
+
+BELIEF-SYSTEM DESTABILIZATION
+-----------------------------
+93. Discovering parents are demeritorious destabilizes one's belief-system.
+94. Minor destabilizations are harmless and necessary for knowledge acquisition and personal growth.
+95. If excessively disrupted, one's belief-system may become insufficiently operative.
+96. Emotional damage may lead to crippling disruptions of belief-system and practical decision-making.
+
+RATIONALIZATION AND SOCIOPATHY
+------------------------------
+97. A rationalization may be counterproductive in one way but productive in another—guaranteeing survival but prohibiting growth.
+98. The boot-licker keeps his job but diminishes himself; he exchanges uncertainty of meaning for certainty of meaninglessness.
+99. A sociopathogenic rationalization is one that turns one into a sociopath by corrupting conscience and eroding values.
+100. Sociopathy is not a mild form of psychopathy; they are distinct disorders, though identical in certain respects.
+
+
+POSITIONS EXTRACTED FROM: EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY (Part 10)
+===================================================================================
+
+IDENTITY AND SELF-CHANGE
+-------------------------
+1. One can change oneself, but one cannot change one's self.
+2. Sally is committing psychological suicide by trying to change who she is, not how she is.
+3. One's identity is predetermined; experience doesn't determine who one is but how one is who one is.
+4. Studies of identical twins raised apart show they are identical in IQ, spirituality, and social traits.
+5. Changes to oneself, if they are not to render one's self defunct, must occur within limits set by inborn biological structure.
+6. Intelligence is applied in accordance with one's values to problems relating to preservation or augmentation of one's agency.
+
+SOCIOPATHIZATION
+----------------
+7. Only value-based psychological architectures can undergo sociopathization.
+8. To be a sociopath is to have a personality-structure that once embodied values but no longer does.
+9. Rationalizations are moralizations: attempts to make the immoral seem moral.
+10. Sociopathy-conducive rationalizations are dispositive of correct, even hyper-correct, conduct and speech.
+11. A genuinely moral person will inevitably say and do things others describe as immoral, though they're hyper-moral.
+12. Propriety and morality overlap, but the degree of overlap is not 100%.
+13. Sociopathogenesis is psychological suicide.
+14. At some level, sociopaths are aware of what they've lost and resent those who haven't lost it.
+15. Nobody wants others to have what they have given up; misery loves company.
+
+SOCIOPATHS VS. PSYCHOPATHS
+--------------------------
+16. Sociopaths make a show of being friendly but don't have friends, for they don't have values.
+17. A friend is somebody one values; sociopaths cannot have friends.
+18. To the extent sociopaths behave authentically, they are unremittingly undermining.
+19. The sociopath wants to believe himself legitimate; his descent was inaugurated by a master-rationalization.
+20. Since the sociopath's rationalization attempts to legitimate him, he is bound by some mimicry of morality.
+21. Psychopathy is neither initiated nor constituted by a master-rationalization.
+22. The psychopath doesn't care about being legitimate; he doesn't know what legitimacy is.
+23. The psychopath knows what behaviors are associated with "legitimate" and "good" but doesn't grasp the concepts.
+24. The psychopath isn't bound by any code of honor, not even the wooden formal sort binding the sociopath.
+
+PSYCHOPATHY: NATURE AND CHARACTERISTICS
+---------------------------------------
+25. To be a psychopath is to be a fraud—a nobody disguised as a somebody.
+26. The essence of psychopathy is phoniness, not criminality.
+27. Criminality is a frequent by-product of psychopathy, nothing more.
+28. A complete fraud can't be an agent, and vice versa.
+29. Psychopaths are evasive; when asked a question, they respond with lectures or dramatic performances.
+30. The psychopath thereby avoids answering while making onlookers think he knows the answer.
+31. The psychopath's sources of enjoyment are but a small subset of the non-psychopath's.
+32. The psychopath must cleave to what is perceptible; nothing else brings him enjoyment except discharging basal urges.
+
+SERIAL KILLERS
+--------------
+33. Only an infinitesimally small percentage of psychopaths are serial killers, but most serial killers are psychopaths.
+34. Some authors hold serial killers have an even more rudimentary psychological integration than psychopaths.
+35. Some serial killers (Bundy, Gacy) are psychopaths; others (Ridgeway) may be "just serial killers" without psychopathic traits.
+36. In some cases, serial murder expresses a unitary pathological deviation; in others, a confluence of forces.
+
+PSYCHOPATHIC SEXUALITY
+----------------------
+37. Psychopaths are notoriously good at seducing but derive little pleasure from intercourse per se.
+38. Psychopaths enjoy acts of deception leading to intercourse; some regard the sexual act as pure aggression.
+39. Rapists are categorically psychopaths, though not all psychopaths are rapists.
+40. Human beings are the only creatures with "off-season" sexual intercourse because we have values.
+41. We infuse carnal acts with values, making them enjoyable in ways impossible for value-free creatures.
+42. Psychopaths lack a well-defined sexual identity; they can have sex with anybody—male, female, young, old.
+43. For psychopaths, physical intimacy has none of the valuative concomitants it has in ordinary cases.
+44. The psychopath's sexual amorphousness is often mistaken for open-mindedness or spiritual gifts.
+
+NON-PSYCHOPATHIC SEXUALITY
+--------------------------
+45. For non-psychopaths, intercourse is fraught with emotion; aesthetic preferences connect to object-relations with valued people.
+46. Men are drawn to women for looks largely because they unconsciously associate desired character traits with those looks.
+47. If a woman lacks the psychological properties unconsciously sought, the man will likely lose interest despite physical resemblance.
+
+PSYCHOPATHIC INTELLIGENCE
+-------------------------
+48. Psychopaths can be found in almost every profession: physicians, law professors, engineers.
+49. In professions where fraud is possible, the psychopath's successes are likely to be fraudulent.
+50. Psychopaths can be genuinely brilliant, but their intelligence has a peculiar variety and design.
+51. The psychopath wants his talents capable of being put on display at a moment's notice.
+52. The psychopath's talents are like a cubist painting: everything pressed into two dimensions, all on the surface.
+53. The non-psychopath's talents are like a computer: visible operations hint at vastly more complex underlying operations.
+54. The psychopath-savant's expertise tends to contain strange, foundational gaps.
+55. The supposedly Herculean intellect of a psychopath lacks something integral to a genuinely Herculean intellect.
+
+PSYCHOPATHY AND SPECULATION
+---------------------------
+56. Psychopathy can facilitate legitimate intelligence development in one respect.
+57. The non-psychopath's conscience-based concessions to rigor make him timid and unwilling to speculate.
+58. The psychopath's lack of conscience allows bold speculation unimpeded by standards of evidence.
+
+PSYCHOPATHS VS. INFANTS
+-----------------------
+59. The psychopath is not just a giant infant; infants aren't psychopaths.
+60. A giant infant would be innocent; psychopaths are not innocent.
+61. The psychopath's cognitive development may be normal or hyper-normal except as stunted by lack of characterological development.
+62. Many a "child prodigy" turns out to be a psychopath, as is many an "adult savant."
+
+SOCIOPATHIC TREACHERY
+---------------------
+63. The sociopath drains truthfulness of value by being honest in furtherance of large-scale deceptions.
+64. By being moral in furtherance of large-scale injustices, the sociopath drains morality of meaning.
+65. The non-sociopathic liar-predator merely saves his own skin; the sociopath tries to undermine virtue itself.
+66. There is a gulf between official and actual morality, between official and actual truth.
+67. There are social incentives to endorse official morality and disincentives to endorse actual morality.
+68. Institutional truth and morality are obvious and unambiguous; authentic counterparts are subtle and equivocal.
+69. Given these facts, the sociopath can lie and predate while remaining on the right side of institutional truth.
+
+SOCIOPATHIC EPISTEMOLOGY
+------------------------
+70. The sociopath doesn't really believe or disbelieve anything.
+71. Sociopaths must believe that truth is malleable, that facts conform to wishes.
+72. Sociopaths must believe truth, morality, and merit are "relative" and a "matter of opinion."
+73. By countenancing belief-transcendent reality, one robs one's rationalizations of credibility.
+74. For the sociopath, there is no distinction between thought and rationalization.
+75. Only a person with values can maintain a sharp mental distinction between actual truth and its surrogates.
+
+SOCIOPATHIZATION PROCESS
+------------------------
+76. Sociopathization is immediately preceded by a brief but intense period of psychosis.
+77. This psychosis is preceded by years of pretending things were fine when they weren't.
+78. Sociopathy is never reversible; it is systemic psychosis, not system-internal psychosis.
+79. So far as the sociopath seems to be getting better, it's because he is getting worse.
+80. There is nothing one loses upon sociopathizing that one will ever regain except in degraded form.
+
+WRITING AND SOCIOPATHY
+----------------------
+81. The craft of writing seems exceptionally sociopathogenic.
+82. The rationalizations mediating sociopathization can be identical with the writer's work-product.
+83. Compositions cannot undermine one another; the composer qua composer cannot step on anyone's toes.
+84. One cannot be by lying that a composer popularizes his work, whereas a writer often popularizes through lying.
+
+CRIMINALS VS. PSYCHOPATHS
+-------------------------
+85. A criminal is someone whose psychological architecture is intact but whose object-relations to fellow citizens resemble a soldier's to enemy troops.
+86. Unlike sociopaths and psychopaths, criminals can and do have meaningful object-relations with others.
+87. The criminal really loves his wife; he has a best friend; he cares about his child's troubles.
+88. When transacting with marks, the criminal sees them as a soldier sees the enemy.
+89. The criminal can have meaningful object-relations; the psychopath cannot.
+90. The criminal must suspend his object-relations to ply his trade; the psychopath has none to suspend.
+91. The ability to have meaningful connection presupposes ability to have values.
+92. If the criminal can connect meaningfully with even one person, he has values and is thus an agent.
+
+EVIL VS. HATE
+-------------
+93. Evil must be distinguished from hate; everyone hates someone, but not everyone is evil.
+94. Evil is generalized, rigidified hate.
+95. Your hatred is person-specific (Jerry); Stalin's targeted humanity itself.
+96. Wickedness and criminality are not mutually exclusive; a given agent can be both.
+97. The "anti-social" group actually consists of five distinct groups: psychopaths, sociopaths, criminals, evil people, and haters.
+
+EMPIRICISM AND THE UNCONSCIOUS
+------------------------------
+98. There is no way to understand repression or rationalization in strictly empiricist terms.
+99. The hypothesis of unconscious mental activity is the ultimate deviation from empiricism's strictures.
+100. There is no way to explain conscious mental activity except on the assumption of unconscious mental activity.

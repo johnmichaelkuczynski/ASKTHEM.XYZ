@@ -1,0 +1,1705 @@
+# Extracted Arguments (130 total)
+
+## Introduction to Determinism and Indeterminism
+
+### Argument 1 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is law-governed.
+
+**→ Conclusion:** The degree to which the world is deterministic depends on the extent to which it is governed by laws of nature.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 9/10*
+
+---
+
+### Argument 2 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Supposing that the state of the universe at t determines the state of the universe at later time t*, that is because there are laws of nature L1 Ln such that, given the state of the universe at t, there is exactly one way the universe can be at t*.
+
+**→ Conclusion:** The deterministic nature of the universe from time t to t* relies on the existence of specific laws of nature that dictate a singular future state.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 9/10*
+
+---
+
+### Argument 3 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is law-governed.
+- Supposing that the state of the universe at t determines the state of the universe at later time t*, that is because there are laws of nature L1 Ln such that, given the state of the universe at t, there is exactly one way the universe can be at t*.
+
+**→ Conclusion:** Determinism in the world is contingent upon the presence of natural laws that uniquely determine future states from present states.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 9/10*
+
+---
+
+### Argument 4 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Determinism: The doctrine that how the world is at any point in time fixes how it will be at all later times.
+- Supposing that the state of the universe at t determines the state of the universe at later time t*, that is because there are laws of nature L1 Ln such that, given the state of the universe at t, there is exactly one way the universe can be at t*.
+
+**→ Conclusion:** Determinism relies on natural laws to ensure that a specific state at one time leads to a unique state at a future time.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 9/10*
+
+---
+
+### Argument 5 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Determinism: The doctrine that how the world is at any point in time fixes how it will be at all later times.
+
+**→ Conclusion:** Determinism holds that the state of the world at a given time completely determines its state at all future times.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 8/10*
+
+---
+
+### Argument 6 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Indeterminism: The doctrine that determinism is false.
+- Equivalently, the doctrine that there is some point in time t such that, for some later time t*, how the world is at t fails to determine how the world is, in every respect, at t*.
+
+**→ Conclusion:** Indeterminism asserts that there are moments where the state of the world does not fully determine future states in every respect.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 8/10*
+
+---
+
+### Argument 7 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then the future is ipso facto open, i.e. there are many ways it can be, and predictions cannot be made.
+
+**→ Conclusion:** Without laws linking the present to the future, the future remains open and unpredictable.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 8/10*
+
+---
+
+### Argument 8 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is law-governed.
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then the future is ipso facto open.
+
+**→ Conclusion:** The presence or absence of natural laws directly impacts whether the world operates deterministically or with an open future.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 8/10*
+
+---
+
+### Argument 9 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Determinism: The doctrine that how the world is at any point in time fixes how it will be at all later times.
+- The world is deterministic to the extent that it is law-governed.
+
+**→ Conclusion:** Determinism as a doctrine is tied to the governance of the world by natural laws.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 8/10*
+
+---
+
+### Argument 10 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is predictable, but it is not predictable to the extent that it is deterministic.
+
+**→ Conclusion:** While determinism correlates with predictability, the world is not as predictable as it is deterministic.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 7/10*
+
+---
+
+### Argument 11 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- Indeterminism: The doctrine that determinism is false.
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then the future is ipso facto open.
+
+**→ Conclusion:** Indeterminism implies that without deterministic laws, multiple future outcomes are possible.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 7/10*
+
+---
+
+### Argument 12 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then the future is ipso facto open.
+
+**→ Conclusion:** The absence of deterministic laws results in an open future with multiple possible states.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 7/10*
+
+---
+
+### Argument 13 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- Indeterminism: The doctrine that there is some point in time t such that, for some later time t*, how the world is at t fails to determine how the world is, in every respect, at t*.
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then the future is ipso facto open.
+
+**→ Conclusion:** Indeterminism suggests that without deterministic mechanisms, the future cannot be fully determined by the present state.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 7/10*
+
+---
+
+### Argument 14 (conditional)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is predictable, but it is not predictable to the extent that it is deterministic.
+- If there are no laws, and thus no deterministic mechanisms, that link the present to the future, then predictions cannot be made.
+
+**→ Conclusion:** Predictability is limited by the presence of deterministic laws, and without such laws, predictions are impossible.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 7/10*
+
+---
+
+### Argument 15 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- The world is deterministic to the extent that it is predictable, but it is not predictable to the extent that it is deterministic.
+
+**→ Conclusion:** There exists a discrepancy between the deterministic nature of the world and its predictability.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 6/10*
+
+---
+
+### Argument 16 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- Indeterminism: The doctrine that determinism is false.
+- The world is deterministic to the extent that it is predictable, but it is not predictable to the extent that it is deterministic.
+
+**→ Conclusion:** Indeterminism challenges the notion that predictability fully aligns with determinism.
+
+*Source: Introduction to Determinism and Indeterminism | Importance: 6/10*
+
+---
+
+## Interference Effects on Predictability
+
+### Argument 17 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- the world is deterministic, it doesn t follow that it is completely predictable
+- Setting aside human fallibility, there are a two reasons why determinism doesn t entail complete predictability
+
+**→ Conclusion:** determinism doesn t entail complete predictability
+
+*Source: Interference Effects on Predictability | Importance: 9/10*
+
+---
+
+### Argument 18 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Determinism implies that events are fixed by prior conditions and laws
+- Interference effects introduce disruptions that obscure the natural progression of events
+
+**→ Conclusion:** Even in a deterministic world, interference effects create barriers to predictability
+
+*Source: Interference Effects on Predictability | Importance: 9/10*
+
+---
+
+### Argument 19 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The first reason why determinism doesn't entail complete predictability: Interference effects
+- In order to learn about the world, one must interact with it
+
+**→ Conclusion:** Interference effects are a reason why determinism does not entail complete predictability
+
+*Source: Interference Effects on Predictability | Importance: 8/10*
+
+---
+
+### Argument 20 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- In order to learn about the world, one must interact with it
+- Interacting with the world disrupts the natural state of the entities being observed
+
+**→ Conclusion:** Learning about the world through interaction inherently interferes with the state of the world
+
+*Source: Interference Effects on Predictability | Importance: 8/10*
+
+---
+
+### Argument 21 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Interference effects limit what can be learned about the world at any given time
+- Even with precautions, some level of interference may still occur
+
+**→ Conclusion:** Complete predictability is hindered by interference effects, even with mitigation strategies
+
+*Source: Interference Effects on Predictability | Importance: 8/10*
+
+---
+
+### Argument 22 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- The need to interact with the world to gain knowledge introduces interference
+- This interference distorts the natural behavior or state of the observed entity
+
+**→ Conclusion:** The process of gaining knowledge through interaction inherently compromises the natural predictability of the system
+
+*Source: Interference Effects on Predictability | Importance: 8/10*
+
+---
+
+### Argument 23 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If I am to learn about another person s mental states, I must ask him questions
+- But if I am ask him questions, I will change his mental state
+
+**→ Conclusion:** Interacting with a person to learn about their mental states changes those mental states
+
+*Source: Interference Effects on Predictability | Importance: 7/10*
+
+---
+
+### Argument 24 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The fact that such precautions must be taken shows that, at any given time, what one can learn about the world is quite circumscribed
+
+**→ Conclusion:** The need for precautions in observation indicates that knowledge about the world is limited at any given time
+
+*Source: Interference Effects on Predictability | Importance: 7/10*
+
+---
+
+### Argument 25 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Interference effects arise from the necessity of interaction to gain knowledge
+- Interaction inherently alters the state of the observed entity
+
+**→ Conclusion:** Interference effects are an unavoidable consequence of the process of learning about the world
+
+*Source: Interference Effects on Predictability | Importance: 7/10*
+
+---
+
+### Argument 26 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Interference effects limit immediate knowledge of certain states or entities
+- These limitations affect the ability to predict future states based on current observations
+
+**→ Conclusion:** Interference effects contribute to unpredictability by restricting access to accurate current data
+
+*Source: Interference Effects on Predictability | Importance: 7/10*
+
+---
+
+### Argument 27 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If I ask a non-paranoid person are you paranoid?, he may well, for that very reason, become paranoid
+
+**→ Conclusion:** Asking a non-paranoid person if they are paranoid can induce paranoia in them
+
+*Source: Interference Effects on Predictability | Importance: 6/10*
+
+---
+
+### Argument 28 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If I want to learn about the bats that live in a certain cave, which is pitch black, I must enter the cave, which will disrupt the bats
+- I must use a light, which will further disrupt the bats
+
+**→ Conclusion:** Attempting to learn about bats in a cave disrupts their natural behavior
+
+*Source: Interference Effects on Predictability | Importance: 6/10*
+
+---
+
+### Argument 29 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- if it s impossible to know X at time t, it may be possible to learn about X at a later time with the right approach or precautions
+
+**→ Conclusion:** Knowledge limitations due to interference at a specific time do not necessarily persist over time
+
+*Source: Interference Effects on Predictability | Importance: 6/10*
+
+---
+
+### Argument 30 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Precautions can sometimes reduce interference in observation
+- However, such precautions are not always feasible or completely effective
+
+**→ Conclusion:** Mitigating interference through precautions does not fully eliminate the problem of predictability
+
+*Source: Interference Effects on Predictability | Importance: 6/10*
+
+---
+
+### Argument 31 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Observation often requires active intervention, such as entering a cave or asking questions
+- Such interventions inevitably alter the system being observed
+
+**→ Conclusion:** Active intervention in observation creates interference that impacts the accuracy of the data obtained
+
+*Source: Interference Effects on Predictability | Importance: 6/10*
+
+---
+
+### Argument 32 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- But aren t these problems capable of being sidestepped?
+- Suppose you know when the bats sleep, and you know the layout of the cave, and are thus able to walk around in it without making too much of a ruckus
+
+**→ Conclusion:** It may be possible to observe bats without significantly disrupting them if certain precautions are taken
+
+**Counterarguments addressed:**
+- Interference is inevitable in observation
+
+*Source: Interference Effects on Predictability | Importance: 5/10*
+
+---
+
+### Argument 33 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Suppose that I want to learn about a given person s feelings
+- If I establish an empathic rapport with him, so that he trusts me, I can ask him whether he s paranoid without inducing paranoia in him
+
+**→ Conclusion:** Establishing trust can allow one to ask about a person’s feelings without altering their mental state
+
+**Counterarguments addressed:**
+- Interference may still occur despite trust
+
+*Source: Interference Effects on Predictability | Importance: 5/10*
+
+---
+
+## Laplace's Thesis and Knowledge Limitations
+
+### Argument 34 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Laplace's thesis is that a creature of infinite intelligence could predict how things will be.
+- Prediction requires both intelligence and knowledge.
+
+**→ Conclusion:** A creature of infinite intelligence, as per Laplace's thesis, must possess both intelligence and complete knowledge to predict the future state of the universe.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 10/10*
+
+---
+
+### Argument 35 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The thesis that the universe is completely predictable requires that, for any time t, it is possible, at t, to predict how, for any later time t*, the universe will be at t*.
+- There is no conceivable being that can acquire complete knowledge of the state of the universe at any point in time.
+
+**→ Conclusion:** The thesis of complete predictability of the universe fails due to the impossibility of acquiring complete knowledge at any given time.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 10/10*
+
+---
+
+### Argument 36 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The thesis that the universe is completely predictable requires that, for any time t, it is possible, at t, to predict how, for any later time t*, the universe will be at t*.
+
+**→ Conclusion:** The universe's predictability hinges on the ability to predict future states from any given time.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 9/10*
+
+---
+
+### Argument 37 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- There is no conceivable being that can acquire complete knowledge of the state of the universe at any point in time.
+
+**→ Conclusion:** Even a creature of infinite intelligence cannot acquire complete knowledge of the universe's state.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 9/10*
+
+---
+
+### Argument 38 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- There is no conceivable being that can acquire complete knowledge of the state of the universe at any point in time.
+- Prediction requires both intelligence and knowledge.
+
+**→ Conclusion:** Laplace's thesis is undermined by the impossibility of acquiring complete knowledge, even for a being of infinite intelligence.
+
+**Counterarguments addressed:**
+- Laplace's thesis is that a creature of infinite intelligence could predict how things will be.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 9/10*
+
+---
+
+### Argument 39 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Light is composed of particles (photons) whose masses are comparable to those of the particles that the microphysicist aspires to learn about.
+- The effect of flooding the microphysical world with light is to change it utterly.
+
+**→ Conclusion:** Flooding the microphysical world with light alters it significantly due to the comparable masses of photons and target particles.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 8/10*
+
+---
+
+### Argument 40 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If there were causal processes that were sufficiently fine-grained that we could learn about some of the microstructures of which the causal processes at our disposal leave us ignorant, it would still be impossible to learn about the microworld.
+
+**→ Conclusion:** Even with fine-grained causal processes, learning about the microworld remains impossible.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 8/10*
+
+---
+
+### Argument 41 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- In order to learn about the subatomic world, one must irradiate it.
+- The effect of flooding the microphysical world with light is to change it utterly.
+
+**→ Conclusion:** Learning about the subatomic world inherently alters it, preventing complete or accurate knowledge.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 8/10*
+
+---
+
+### Argument 42 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If one is to have a sense-perception of a given thing, there must be an information-bearing causal process linking that thing to oneself.
+
+**→ Conclusion:** Sense-perception requires an information-bearing causal process to connect the perceiver to the perceived.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 43 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- In order to learn about the subatomic world, one must irradiate it, i.e. flood it with light or otherwise bombard it with radiation of some kind or another.
+
+**→ Conclusion:** Learning about the subatomic world requires irradiating it with light or other forms of radiation.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 44 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- Where rodents are concerned, fortunately, we do not, in our efforts to learn about them, have to flood them with radiation that damages them so.
+- But where microparticles are concerned, we are not so fortunate.
+
+**→ Conclusion:** Unlike with rodents, studying microparticles often requires damaging radiation, limiting the information we can obtain.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 45 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The very existence of such fine-grained processes would guarantee that.
+- For how would we learn about those processes? By hypothesis, the most fine-grained, least disruptive processes are beyond our current means.
+
+**→ Conclusion:** The existence of fine-grained processes ensures our inability to learn about them due to limitations in detecting or interacting with such processes.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 46 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- If one is to have a sense-perception of a given thing, there must be an information-bearing causal process linking that thing to oneself.
+- In order to learn about the subatomic world, one must irradiate it, which changes it utterly.
+
+**→ Conclusion:** Sense-perception and study of the subatomic world are limited by the necessity of causal processes that often disrupt the subject of study.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 47 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Where microparticles are concerned, we are not so fortunate.
+- We must use radiation that damages or alters them to study them.
+
+**→ Conclusion:** Studying microparticles is inherently limited by the damaging methods required to observe them.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 7/10*
+
+---
+
+### Argument 48 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- If you use a flame thrower to learn about a school of rodents, you will succeed up to a point: their charred remains will give you tell you a lot about them: but it won't tell you everything.
+
+**→ Conclusion:** Using destructive methods like a flame thrower to study rodents provides limited information due to the damage caused.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 6/10*
+
+---
+
+### Argument 49 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- If you use a flame thrower to learn about a school of rodents, you will succeed up to a point: their charred remains will give you tell you a lot about them: but it won't tell you everything.
+- Flooding the microphysical world with light is to change it utterly.
+
+**→ Conclusion:** Just as using a flame thrower on rodents provides incomplete information due to destruction, irradiating the microphysical world alters it and limits complete understanding.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 6/10*
+
+---
+
+### Argument 50 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- I can hear you talking because the movements of your vocal chords create airwaves in which the structures of those movements are encoded and which then induce structure-similar disturbances in my eardrums.
+
+**→ Conclusion:** Hearing is possible due to a causal process where vocal chord movements create airwaves that disturb eardrums in a structure-similar way.
+
+*Source: Laplace's Thesis and Knowledge Limitations | Importance: 5/10*
+
+---
+
+## The Existence of the Unknown
+
+### Argument 51 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- there is no conceivable being that could have complete knowledge of the microstructure of the world
+- Knowledge of the future = Knowledge of initial conditions + knowledge of laws + The knowledge yielded by making the inferences warranted by the first two kinds of knowledge
+
+**→ Conclusion:** complete knowledge of the future is impossible due to limitations in knowing initial conditions and microstructure
+
+*Source: The Existence of the Unknown | Importance: 10/10*
+
+---
+
+### Argument 52 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- there is no conceivable being that could have complete knowledge of the microstructure of the world
+- nothing could have complete knowledge of the conditions obtaining at t, for any time t
+- knowledge of the future is necessarily based on the knowledge of the present
+
+**→ Conclusion:** the inherent unknowability of the microstructure of the world implies an inherent unknowability of the future
+
+*Source: The Existence of the Unknown | Importance: 10/10*
+
+---
+
+### Argument 53 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- It being inherent in the nature of sensory knowledge that it involve a causal connection between subject and object
+- there would only be so much one could learn about R by using R
+
+**→ Conclusion:** there is no conceivable being that could have complete knowledge of the microstructure of the world
+
+*Source: The Existence of the Unknown | Importance: 9/10*
+
+---
+
+### Argument 54 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- there is no conceivable being that could have complete knowledge of the microstructure of the world
+
+**→ Conclusion:** nothing could have complete knowledge of the conditions obtaining at t, for any time t
+
+*Source: The Existence of the Unknown | Importance: 9/10*
+
+---
+
+### Argument 55 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- nothing could have complete knowledge of the conditions obtaining at t, for any time t
+- knowledge of the future is necessarily based on the knowledge of the present
+
+**→ Conclusion:** nothing could have complete knowledge of any later time t*
+
+*Source: The Existence of the Unknown | Importance: 9/10*
+
+---
+
+### Argument 56 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Why the existence of the unknown must be granted
+
+**→ Conclusion:** the existence of unknowable facts must be acknowledged due to inherent limitations in sensory knowledge
+
+*Source: The Existence of the Unknown | Importance: 9/10*
+
+---
+
+### Argument 57 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The reason I can see you without changing you is that, compared to you, photons are very small
+- photons are not small compared to photons
+
+**→ Conclusion:** observing something with entities of comparable size causes disruption and limits observation
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 58 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- whatever parts this hypothetical, super-fine-grained causal process consists of, those parts are not small compared to themselves
+
+**→ Conclusion:** there are inherent limits to what can be learned about the smallest parts of a causal process by using those same parts
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 59 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- supposing R to be the most undisruptive, fine-grained sort of causal process in existing
+- there would only be so much one could learn about R by using R
+
+**→ Conclusion:** even the most undisruptive causal process has limits to how much can be learned about it by using itself
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 60 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Knowledge of the future = Knowledge of initial conditions + knowledge of laws + The knowledge yielded by making the inferences warranted by the first two kinds of knowledge
+
+**→ Conclusion:** predicting the future requires complete knowledge of initial conditions and laws, which is unattainable
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 61 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- It being inherent in the nature of sensory knowledge that it involve a causal connection between subject and object
+- observing something with entities of comparable size causes disruption and limits observation
+
+**→ Conclusion:** sensory knowledge is limited by the causal disruptions inherent in the observation process
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 62 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- supposing R to be the most undisruptive, fine-grained sort of causal process in existing
+- there would only be so much one could learn about R by using R
+- It being inherent in the nature of sensory knowledge that it involve a causal connection between subject and object
+
+**→ Conclusion:** even the finest causal processes cannot yield complete knowledge due to inherent causal disruptions in observation
+
+*Source: The Existence of the Unknown | Importance: 8/10*
+
+---
+
+### Argument 63 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- processes at our disposal would be those very processes
+- if we would disrupt such processes if we tried to learn about them by using them
+
+**→ Conclusion:** there is a limitation in learning about processes by using the same processes due to disruption
+
+*Source: The Existence of the Unknown | Importance: 7/10*
+
+---
+
+### Argument 64 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- If, in order to see you, I had to flood you with objects that were as massive as you are, I couldn’t learn much about you
+
+**→ Conclusion:** using objects of comparable size or mass to observe something prevents detailed learning about that thing
+
+*Source: The Existence of the Unknown | Importance: 7/10*
+
+---
+
+### Argument 65 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- It being inherent in the nature of sensory knowledge that it involve a causal connection between subject and object
+
+**→ Conclusion:** sensory knowledge inherently requires a causal interaction that can disrupt the object of study
+
+*Source: The Existence of the Unknown | Importance: 7/10*
+
+---
+
+### Argument 66 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- processes at our disposal would be those very processes
+- if we would disrupt such processes if we tried to learn about them by using them
+- photons are not small compared to photons
+
+**→ Conclusion:** self-referential observation of processes inherently disrupts and limits the knowledge gained
+
+*Source: The Existence of the Unknown | Importance: 7/10*
+
+---
+
+### Argument 67 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The reason I can see you without changing you is that, compared to you, photons are very small
+- If, in order to see you, I had to flood you with objects that were as massive as you are, I couldn’t learn much about you
+
+**→ Conclusion:** the scale of observational tools relative to the observed object determines the degree of disruption and thus the quality of knowledge obtained
+
+*Source: The Existence of the Unknown | Importance: 7/10*
+
+---
+
+## Supervenience and Its Implications
+
+### Argument 68 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- No creature can possibly predict what it will come to know.
+- It follows that no creature can know exactly what it will do or, therefore, exactly how what it will do will affect the world.
+
+**→ Conclusion:** This is the second reason why determinism doesn't entail complete predictability: No way to predict how knowledge will grow.
+
+*Source: Supervenience and Its Implications | Importance: 10/10*
+
+---
+
+### Argument 69 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If x and y are identical in respect of their microphysical properties, then it is inconceivable that they should differ in respect of their biological properties.
+
+**→ Conclusion:** Wherefore, the biological supervenes on the microphysical.
+
+*Source: Supervenience and Its Implications | Importance: 10/10*
+
+---
+
+### Argument 70 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- One fact which falls within the scope of science is that, in order to learn about the world, we must interact with it.
+- Another such fact is that interactions have effects.
+- These two facts entail that what we can learn about the world at time t doesn’t correspond with perfect precision to the world at time t.
+
+**→ Conclusion:** Given that two facts that do fall within the scope of science entail that there are things about the world that cannot be known, it follows that, for science no less than for metaphysics, the world is to some extent unknowable.
+
+*Source: Supervenience and Its Implications | Importance: 9/10*
+
+---
+
+### Argument 71 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Therefore, it is possible to know now what you will know later.
+- Given that what you know affects what you do, and thus affects how the world is.
+
+**→ Conclusion:** It follows that no creature can know exactly what it will do or, therefore, exactly how what it will do will affect the world.
+
+*Source: Supervenience and Its Implications | Importance: 9/10*
+
+---
+
+### Argument 72 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If x and y are identical in respect of their microphysical properties, then it is inconceivable that they should differ in respect of their biological properties.
+- Wherefore, the biological supervenes on the microphysical.
+
+**→ Conclusion:** This implies that biological properties are determined by microphysical properties.
+
+*Source: Supervenience and Its Implications | Importance: 9/10*
+
+---
+
+### Argument 73 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- One fact which falls within the scope of science is that, in order to learn about the world, we must interact with it.
+- Another such fact is that interactions have effects.
+
+**→ Conclusion:** These two facts entail that what we can learn about the world at time t doesn’t correspond with perfect precision to the world at time t.
+
+*Source: Supervenience and Its Implications | Importance: 8/10*
+
+---
+
+### Argument 74 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- No creature can possibly predict what it will come to know.
+- Suppose you know now, at time t, that, during the next 20 years, you will learn truths t1 tn, and no other truths.
+- In that case you now know t1 tn and they therefore aren’t what you will learn in the next 20 years.
+- If we replace t1 tn with any other list of truths, the result is the same.
+
+**→ Conclusion:** Therefore, it is possible to know now what you will know later.
+
+*Source: Supervenience and Its Implications | Importance: 8/10*
+
+---
+
+### Argument 75 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- No creature can know exactly what it will do or, therefore, exactly how what it will do will affect the world.
+- This is tied to the inability to predict the growth of knowledge.
+
+**→ Conclusion:** This limitation reinforces the gap between determinism and predictability.
+
+*Source: Supervenience and Its Implications | Importance: 8/10*
+
+---
+
+### Argument 76 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- If x and y are identical in respect of their microphysical properties, then it is inconceivable that they should differ in respect of their biological properties.
+- Wherefore, the biological supervenes on the microphysical.
+
+**→ Conclusion:** This supervenience relationship suggests a hierarchical dependency in natural systems.
+
+*Source: Supervenience and Its Implications | Importance: 8/10*
+
+---
+
+### Argument 77 (reductio ad absurdum)
+**Author:** Kuczynski
+
+**Premises:**
+- Supposing that such and such facts are inherently unknowable, then why grant their existence?
+- By supposition, they might as well not exist, even if they do.
+
+**→ Conclusion:** So why not redefine the term the world in such a way that what falls within its scope includes only what can be known after the operations by which knowledge of it is obtained have been carried out?
+
+*Source: Supervenience and Its Implications | Importance: 7/10*
+
+---
+
+### Argument 78 (reductio ad absurdum)
+**Author:** Kuczynski
+
+**Premises:**
+- No creature can possibly predict what it will come to know.
+- Suppose you know now, at time t, that, during the next 20 years, you will learn truths t1 tn, and no other truths.
+- In that case you now know t1 tn and they therefore aren’t what you will learn in the next 20 years.
+
+**→ Conclusion:** If we replace t1 tn with any other list of truths, the result is the same.
+
+*Source: Supervenience and Its Implications | Importance: 7/10*
+
+---
+
+### Argument 79 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given that two facts that do fall within the scope of science entail that there are things about the world that cannot be known, it follows that, for science no less than for metaphysics, the world is to some extent unknowable.
+
+**→ Conclusion:** This aligns scientific and metaphysical perspectives on the limits of knowledge.
+
+*Source: Supervenience and Its Implications | Importance: 7/10*
+
+---
+
+### Argument 80 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- We can know that situations of a given kind obtain without there being any one such situation of whose existence we are aware.
+
+**→ Conclusion:** There has never been a single photon of which any person was aware; but we know that photons exist, since, if they didn't, the photoelectric effect could not be explained.
+
+*Source: Supervenience and Its Implications | Importance: 6/10*
+
+---
+
+### Argument 81 (reductio ad absurdum)
+**Author:** Kuczynski
+
+**Premises:**
+- Supposing that such and such facts are inherently unknowable, then why grant their existence?
+- By supposition, they might as well not exist, even if they do.
+- So why not redefine the term the world in such a way that what falls within its scope includes only what can be known after the operations by which knowledge of it is obtained have been carried out?
+
+**→ Conclusion:** This challenges the inclusion of unknowable facts in our understanding of the world.
+
+*Source: Supervenience and Its Implications | Importance: 6/10*
+
+---
+
+### Argument 82 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- There has never been a single photon of which any person was aware; but we know that photons exist, since, if they didn't, the photoelectric effect could not be explained.
+
+**→ Conclusion:** This supports the idea that we can know of the existence of entities without direct awareness of specific instances.
+
+*Source: Supervenience and Its Implications | Importance: 5/10*
+
+---
+
+### Argument 83 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- We can know that situations of a given kind obtain without there being any one such situation of whose existence we are aware.
+- There has never been a single photon of which any person was aware; but we know that photons exist, since, if they didn't, the photoelectric effect could not be explained.
+
+**→ Conclusion:** This illustrates that scientific knowledge can be based on indirect evidence rather than direct observation.
+
+*Source: Supervenience and Its Implications | Importance: 5/10*
+
+---
+
+## Bound by Physical Law
+
+### Argument 84 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- In general, one class of facts supervenes on another class of facts exactly if there can’t be a change in the former without there being a change in the latter but not vice versa.
+- Aesthetic properties supervene on physical properties.
+- Biological properties supervene on physical properties.
+- Psychological properties supervene on physiological properties.
+
+**→ Conclusion:** Higher-order concepts like aesthetics, biology, and psychology are bound by physical or physiological laws through supervenience.
+
+*Source: Bound by Physical Law | Importance: 10/10*
+
+---
+
+### Argument 85 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Aesthetic properties cannot be identified with physical (physics-related) properties.
+- Two objects that are physically different can be aesthetically identical.
+- Given only that x and y differ in their chemical composition, their masses, their degrees of conductivity, etc., it doesn’t follow that they differ in their aesthetic properties.
+
+**→ Conclusion:** The aesthetic is thus multiply realizable with respect to the physical.
+
+*Source: Bound by Physical Law | Importance: 9/10*
+
+---
+
+### Argument 86 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The aesthetic is multiply realizable with respect to the physical.
+- The biological is variable with respect to the physical.
+- Software is variable with respect to hardware.
+
+**→ Conclusion:** Higher-order systems often exhibit variability and multiple realizability with respect to their underlying physical or hardware foundations.
+
+*Source: Bound by Physical Law | Importance: 9/10*
+
+---
+
+### Argument 87 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Higher-order concepts like aesthetics, biology, and psychology supervene on physical or physiological properties.
+- These higher-order concepts are often multiply realizable or variable with respect to their underlying physical bases.
+
+**→ Conclusion:** Physical laws provide a foundation for higher-order concepts, but do not fully determine or explain their variability and multiple realizability in complex systems.
+
+*Source: Bound by Physical Law | Importance: 9/10*
+
+---
+
+### Argument 88 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- In general, one class of facts supervenes on another class of facts exactly if there can’t be a change in the former without there being a change in the latter but not vice versa.
+
+**→ Conclusion:** Supervenience is defined as a relationship where a change in a higher-order class of facts necessitates a change in a lower-order class, but not the reverse.
+
+*Source: Bound by Physical Law | Importance: 8/10*
+
+---
+
+### Argument 89 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The aesthetic is thus multiply realizable with respect to the physical.
+- The same is true, for the same reasons mutatis mutandis, of the biological.
+
+**→ Conclusion:** The biological is thus variable with respect to the physical.
+
+*Source: Bound by Physical Law | Importance: 8/10*
+
+---
+
+### Argument 90 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- It is said that the mental supervenes on the physiological: given two creatures that are physiologically identical, it is impossible that they should differ psychologically.
+
+**→ Conclusion:** Psychological properties supervene on physiological properties.
+
+*Source: Bound by Physical Law | Importance: 8/10*
+
+---
+
+### Argument 91 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Two objects that are physically different can be aesthetically identical.
+- A biological mechanism of a given kind can be implemented by entities that are physically very different from one another.
+- Software-identical systems may be hardware-distinct.
+
+**→ Conclusion:** Physical differences do not necessarily entail differences in higher-order properties like aesthetics, biology, or software.
+
+*Source: Bound by Physical Law | Importance: 8/10*
+
+---
+
+### Argument 92 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given two pieces of clay that are identical in respect of their strictly physical properties (e.g. their shapes, masses, etc.), it is inconceivable that they should differ in respect of their aesthetic properties.
+
+**→ Conclusion:** Aesthetic properties supervene on physical properties, such that identical physical properties imply identical aesthetic properties.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 93 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The biological is thus variable with respect to the physical.
+- A biological mechanism of a given kind can be implemented by entities that are physically very different from one another.
+
+**→ Conclusion:** Biological mechanisms are multiply realizable with respect to physical entities.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 94 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Software is variable with respect to hardware.
+- Software-identical systems may be hardware-distinct.
+
+**→ Conclusion:** Software realities supervene on hardware realities.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 95 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- It is said that the mental supervenes on the physiological: given two creatures that are physiologically identical, it is impossible that they should differ psychologically.
+- Supposing this true, the way in which it is true is very different from the way in which it’s true that biological supervenes on the physical.
+
+**→ Conclusion:** Psychological supervenience differs from biological supervenience in its nature or mechanism.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 96 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- It is incoherent to suppose that two entities that are microphysically identical should differ biologically.
+
+**→ Conclusion:** Biological properties necessarily supervene on microphysical properties without exception.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 97 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- It is not incoherent, though it is counternomic, to suppose that two physiologically identical creatures should differ in respect of their psychological properties.
+
+**→ Conclusion:** Psychological supervenience on physiological properties is not conceptually necessary in the same way as biological supervenience on microphysical properties.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 98 (comparative)
+**Author:** Kuczynski
+
+**Premises:**
+- It is incoherent to suppose that two entities that are microphysically identical should differ biologically.
+- It is not incoherent, though it is counternomic, to suppose that two physiologically identical creatures should differ in respect of their psychological properties.
+
+**→ Conclusion:** The strength or necessity of supervenience relationships varies between different domains, being stricter in biology-to-physical than in psychology-to-physiological.
+
+*Source: Bound by Physical Law | Importance: 7/10*
+
+---
+
+### Argument 99 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Hardware-identical systems cannot be software distinct.
+
+**→ Conclusion:** Identical hardware implies identical software realities.
+
+*Source: Bound by Physical Law | Importance: 6/10*
+
+---
+
+## Determinism in Software and Statistical Trends
+
+### Argument 100 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The laws of physics don’t say anything about computation, storage space, etc.
+- A physics-omniscient being does not have any computer-related knowledge.
+- There is no way to map software-truths onto hardware-truths.
+
+**→ Conclusion:** Software determinism cannot be reduced to or explained by physical laws.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 10/10*
+
+---
+
+### Argument 101 (critical)
+**Author:** Kuczynski
+
+**Premises:**
+- Many have thought that everything (everything spatiotemporal, that is) can be explained in terms of the laws of physics.
+- Spurious reasoning for a false conclusion.
+
+**→ Conclusion:** The belief that everything can be explained by physics is based on flawed reasoning.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 9/10*
+
+---
+
+### Argument 102 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Computers aren’t identical with heaps of atoms.
+- The laws of physics tell you how those atoms behave.
+- They don’t tell you anything about the computer.
+
+**→ Conclusion:** The laws of physics don’t say anything about computation, storage space, etc.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 9/10*
+
+---
+
+### Argument 103 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The laws of physics don’t say anything about computation, storage space, etc.
+- Those concepts (computation, etc.) don’t exist as far as those laws are concerned.
+
+**→ Conclusion:** A physics-omniscient being does not in virtue of that fact have any computer-specific concepts.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 9/10*
+
+---
+
+### Argument 104 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Two software-identical units may be physically very different.
+- So given only that x and y are software-identical, nothing can be said about their respective physical realizations.
+
+**→ Conclusion:** There is no way to map software-truths onto hardware-truths.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 9/10*
+
+---
+
+### Argument 105 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Two software-identical units may be physically very different.
+- Physics is blind to such similarities.
+- There is no way to map software-truths onto hardware-truths.
+
+**→ Conclusion:** Software properties and behaviors are independent of specific physical realizations.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 9/10*
+
+---
+
+### Argument 106 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Nothing can violate the laws of physics.
+- There are no mass-energy displacements that are not governed by the laws of physics.
+
+**→ Conclusion:** Many have thought that everything (everything spatiotemporal, that is) can be explained in terms of the laws of physics.
+
+**Counterarguments addressed:**
+- Spurious reasoning for a false conclusion.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 8/10*
+
+---
+
+### Argument 107 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- The statue is not identical with the clay of which it consists.
+- By parity of reasoning, computers aren’t identical with heaps of atoms.
+
+**→ Conclusion:** Computers aren’t identical with heaps of atoms.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 8/10*
+
+---
+
+### Argument 108 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- A physics-omniscient being does not in virtue of that fact have any computer-specific concepts.
+- Therefore does not have any computer-related knowledge.
+
+**→ Conclusion:** A physics-omniscient being does not have any computer-related knowledge.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 8/10*
+
+---
+
+### Argument 109 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Physics is blind to such similarities.
+- The similarities in question are to be understood in terms of concepts (e.g. computation, recursion, algorithm) for which the laws of physics make no provisions.
+
+**→ Conclusion:** The laws of physics make no provisions for concepts like computation, recursion, algorithm.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 8/10*
+
+---
+
+### Argument 110 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- The statue is not identical with the clay of which it consists.
+- They have different modal properties (one can destroy the statue without destroying the clay).
+- So the clay isn’t identical with the statue.
+
+**→ Conclusion:** Constitution isn’t identity.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 7/10*
+
+---
+
+### Argument 111 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Two software-identical units may be physically very different.
+- So given only that x and y are software-identical, nothing can be said about their respective physical realizations.
+
+**→ Conclusion:** Nothing can be said about their respective physical realizations.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 7/10*
+
+---
+
+### Argument 112 (critical)
+**Author:** Kuczynski
+
+**Premises:**
+- Can’t it be said that x and y will resemble each other in certain abstract, functional respects?
+- Yes, but physics is blind to such similarities.
+
+**→ Conclusion:** Physics is blind to such similarities.
+
+**Counterarguments addressed:**
+- Can’t it be said that x and y will resemble each other in certain abstract, functional respects?
+
+*Source: Determinism in Software and Statistical Trends | Importance: 7/10*
+
+---
+
+### Argument 113 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- Suppose that a given computer x has a deterministic program.
+- (x has a deterministic program = there exists a set S of inputs such that x, when not malfunctioning, assigns no more than one output to any given member of S.)
+
+**→ Conclusion:** A computer with a deterministic program assigns no more than one output to any given input when not malfunctioning.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 6/10*
+
+---
+
+### Argument 114 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Computers break down, and there is thus machine error.
+- A computer with a deterministic program assigns no more than one output to any given input when not malfunctioning.
+
+**→ Conclusion:** Machine error can cause a deterministic program to produce incorrect outputs.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 6/10*
+
+---
+
+### Argument 115 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- Computers break down, and there is thus machine error.
+- Should this happen to x—should x sometimes fail to say 4 when asked what is twice two?
+
+**→ Conclusion:** The conclusion to draw is that x isn’t functioning correctly.
+
+*Source: Determinism in Software and Statistical Trends | Importance: 5/10*
+
+---
+
+## Conclusion of Chapter 7
+
+### Argument 116 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- To the extent that x is a computer---to the extent that x is something that implements a program---x is a deterministic system.
+- It is only to the extent that x is failing to implement a program that x is indeterministic.
+
+**→ Conclusion:** It is only to the extent that x isn’t a computer that x is indeterministic.
+
+*Source: Conclusion of Chapter 7 | Importance: 9/10*
+
+---
+
+### Argument 117 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that biologically identical inputs may be followed by biologically distinct outputs.
+
+**→ Conclusion:** It doesn’t follow that the laws (if any there be) of biology are indeterministic or probabilistic.
+
+**Counterarguments addressed:**
+- The assumption that identical inputs leading to distinct outputs implies indeterministic laws.
+
+*Source: Conclusion of Chapter 7 | Importance: 9/10*
+
+---
+
+### Argument 118 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- To the extent that x is a computer---to the extent that x is something that implements a program---x is a deterministic system.
+
+**→ Conclusion:** A computer, by definition of implementing a program, is inherently a deterministic system.
+
+*Source: Conclusion of Chapter 7 | Importance: 8/10*
+
+---
+
+### Argument 119 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- It is only to the extent that x is failing to implement a program that x is indeterministic.
+
+**→ Conclusion:** Indeterminism in a system arises solely from its failure to implement a program.
+
+*Source: Conclusion of Chapter 7 | Importance: 8/10*
+
+---
+
+### Argument 120 (dilemma)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that biologically identical inputs may be followed by biologically distinct outputs.
+
+**→ Conclusion:** What follows is either that those laws are indeterministic or that organisms imperfectly operationalize their biological programs.
+
+*Source: Conclusion of Chapter 7 | Importance: 8/10*
+
+---
+
+### Argument 121 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that economically identical situations may lead to economically distinct situations.
+
+**→ Conclusion:** It doesn’t follow that the laws of economics are statistical.
+
+**Counterarguments addressed:**
+- The assumption that identical economic situations leading to distinct outcomes implies statistical laws.
+
+*Source: Conclusion of Chapter 7 | Importance: 8/10*
+
+---
+
+### Argument 122 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- It is only to the extent that x isn’t a computer that x is indeterministic.
+
+**→ Conclusion:** Systems that are not computers are the ones that exhibit indeterminism.
+
+*Source: Conclusion of Chapter 7 | Importance: 7/10*
+
+---
+
+### Argument 123 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that biologically identical inputs may be followed by biologically distinct outputs.
+- What follows is either that those laws are indeterministic or that organisms imperfectly operationalize their biological programs.
+
+**→ Conclusion:** Biological systems may exhibit variability due to imperfect implementation of biological programs rather than indeterministic laws.
+
+*Source: Conclusion of Chapter 7 | Importance: 7/10*
+
+---
+
+### Argument 124 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that economically identical situations may lead to economically distinct situations.
+- It doesn’t follow that the laws of economics are statistical.
+
+**→ Conclusion:** Variability in economic outcomes does not necessarily imply that economic laws are inherently statistical or probabilistic.
+
+*Source: Conclusion of Chapter 7 | Importance: 7/10*
+
+---
+
+### Argument 125 (analogical)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that biologically identical inputs may be followed by biologically distinct outputs.
+- Given only that economically identical situations may lead to economically distinct situations.
+
+**→ Conclusion:** Variability in higher-order systems like biology and economics does not necessarily imply indeterministic or statistical laws.
+
+*Source: Conclusion of Chapter 7 | Importance: 7/10*
+
+---
+
+### Argument 126 (causal)
+**Author:** Kuczynski
+
+**Premises:**
+- To the extent that x is a computer---to the extent that x is something that implements a program---x is a deterministic system.
+- It is only to the extent that x is failing to implement a program that x is indeterministic.
+
+**→ Conclusion:** Determinism in systems like computers is tied to successful program implementation.
+
+*Source: Conclusion of Chapter 7 | Importance: 6/10*
+
+---
+
+### Argument 127 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that biologically identical inputs may be followed by biologically distinct outputs.
+- It doesn’t follow that the laws (if any there be) of biology are indeterministic or probabilistic.
+
+**→ Conclusion:** Biological laws may still be deterministic despite observed variability in outputs.
+
+*Source: Conclusion of Chapter 7 | Importance: 6/10*
+
+---
+
+### Argument 128 (deductive)
+**Author:** Kuczynski
+
+**Premises:**
+- Given only that economically identical situations may lead to economically distinct situations.
+- It doesn’t follow that the laws of economics are statistical.
+
+**→ Conclusion:** Economic laws may be deterministic even if identical situations yield different outcomes.
+
+*Source: Conclusion of Chapter 7 | Importance: 6/10*
+
+---
+
+### Argument 129 (inductive)
+**Author:** Kuczynski
+
+**Premises:**
+- What follows is either that those laws are indeterministic or that organisms imperfectly operationalize their biological programs.
+
+**→ Conclusion:** Imperfect operationalization of biological programs is a plausible explanation for variability in biological outputs.
+
+*Source: Conclusion of Chapter 7 | Importance: 5/10*
+
+---
+
+### Argument 130 (definitional)
+**Author:** Kuczynski
+
+**Premises:**
+- To the extent that x is a computer---to the extent that x is something that implements a program---x is a deterministic system.
+
+**→ Conclusion:** The concept of implementation-determinism or program-determinism applies to systems like computers.
+
+*Source: Conclusion of Chapter 7 | Importance: 5/10*
+
+---
+

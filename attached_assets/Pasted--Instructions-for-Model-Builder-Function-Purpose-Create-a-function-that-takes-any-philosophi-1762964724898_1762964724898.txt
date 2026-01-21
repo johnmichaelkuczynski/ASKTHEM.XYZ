@@ -1,0 +1,130 @@
+# Instructions for Model Builder Function
+
+## Purpose
+Create a function that takes any philosophical theory and either validates it or finds an alternative interpretation (a "model") that makes it true by reinterpreting its primitives.
+
+## What "Model" Means
+A **model** is an assignment of new meanings to the theory's primitive terms (constants) that:
+1. Preserves the formal structure of the theory
+2. Makes the theory's claims come out true
+3. May completely change what the theory is ABOUT (significance is not preserved)
+
+Think of it like algebra: "x + y = z" has the same structure whether x=apples or x=electrons. We're finding what the variables must mean for the equations to work.
+
+## Three-Tier Response System
+
+### Tier 1: Literally True
+If the theory is correct as stated:
+- Confirm validity
+- Clearly identify the primitives/constants and their meanings
+- Format for clarity
+
+### Tier 2: True Under Reinterpretation
+If false literally but true under some model:
+- Identify the primitives that need reinterpretation
+- Provide new assignments for those primitives
+- Show how the formal structure is preserved
+- Demonstrate that reinterpreted claims are true
+
+### Tier 3: Closest Viable Model
+If incoherent even under reinterpretation:
+- Identify the nearest coherent theory
+- Explain minimal modifications needed
+- Provide model for the modified version
+
+## Pattern Recognition: Types of Reinterpretation
+
+### Domain Swap (Leibniz, Rawls pattern)
+- Original primitives refer to Domain A
+- Reinterpreted primitives refer to Domain B
+- Formal relations preserved across domains
+
+Example: Leibniz's Monadology
+- Original: "monad" = windowless substance
+- Model: "monad" = causal-informational structure
+- Structure preserved: no direct interaction → no token-level causation
+
+### Category Correction (James pattern)
+- Claims about Category A are actually claims about Category B
+- Identify the category error
+- Show how moving to correct category validates the theory
+
+Example: James's Pragmatism
+- Original: "truth is what works" (metaphysical claim)
+- Model: "knowledge is empowering" (epistemological claim)
+- Structure preserved: utility marks → but marks knowledge, not truth
+
+### Deflationary Reinterpretation (Berkeley, Plato patterns)
+- Mystical/inflated terms get mundane meanings
+- "Supersensible realm" → category distinction (not spatial)
+- "God" → independent reality
+- Structure preserved but mysticism eliminated
+
+Example: Berkeley's Idealism
+- Original: "God perceives objects to keep them existing"
+- Model: "Objects exist independently of finite perception"
+- Structure preserved: continuous existence explained
+
+### Level Shift (Marx pattern)
+- Social/external structure maps to psychological/internal structure
+- Preserve relational architecture across levels
+
+Example: Marx's Base-Superstructure
+- Original: economic base generates ideological superstructure
+- Model: id/ego generate superego
+- Structure preserved: material foundation determines normative overlay
+
+## Implementation Steps
+
+For each input theory:
+
+1. **Parse the theory:** Identify primitives, structure, key claims
+
+2. **Test literal truth:** Are the claims true as stated?
+
+3. **If false, identify type:**
+   - Needs domain swap?
+   - Category confusion?
+   - Mystification requiring deflation?
+   - Wrong level of analysis?
+
+4. **Generate model:** Assign new meanings to primitives
+
+5. **Verify preservation:** Show that formal structure is maintained
+
+6. **Validate truth:** Demonstrate that reinterpreted claims are true
+
+## Output Format
+
+**Theory:** [Original theory name]
+
+**Literal Status:** [True / False / Incoherent]
+
+**Model Type:** [Domain Swap / Category Correction / Deflationary / Level Shift / Hybrid]
+
+**Primitive Reinterpretations:**
+- [Original term] → [New meaning]
+- [Original term] → [New meaning]
+
+**Structure Preserved:**
+- [Key formal relationship from original] → [Same relationship in model]
+
+**Validation:**
+- [Original claim] reinterpreted as [New claim] = TRUE because [justification]
+
+**Summary:** [One-paragraph explanation of what the theory becomes under the model]
+
+## Key Examples for Training
+
+**Leibniz:** Monads → information structures; interaction → causal mediation
+**Rawls:** Justice → sustainable hierarchy; original position → coalition formation  
+**James:** Truth → knowledge; works → empowering (category correction)
+**Berkeley:** God → independent reality; perceive → exist-independently
+**Plato Forms:** Forms → satisfaction conditions; supersensible → non-spatial
+**Plato Recollection:** Knowledge → analytic knowledge; recollection → analytic reasoning
+**Hegel:** Thesis → model; antithesis → reality's resistance; synthesis → revision
+**Marx:** Base → id/ego; superstructure → superego; ideology → internalized norms
+
+## Critical Principle
+
+The goal is NOT exegesis (what did the philosopher mean?) but MODEL THEORY (what assignment of meanings makes the formal structure true?). We're doing mathematics with philosophy, not history of philosophy.

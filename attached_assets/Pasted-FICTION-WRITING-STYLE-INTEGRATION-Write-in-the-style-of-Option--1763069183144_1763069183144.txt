@@ -1,0 +1,173 @@
+FICTION WRITING STYLE INTEGRATION
+"Write in the style of..." Option
+
+═══════════════════════════════════════════════════════════════
+
+**NEW WORKFLOW ADDITION:**
+
+After template selection, user gets option:
+"Write this story in the style of:" [dropdown of 40+ authors from Ask a Philosopher]
+
+═══════════════════════════════════════════════════════════════
+
+**STYLE CHARACTERISTICS BY AUTHOR:**
+
+**PARTICULARLY SUITED FOR NIGHTMARE STORIES:**
+
+**Poe** - Paranoid first-person, building dread, obsessive detail, confession structure
+**Bierce** - Cynical, ironic, sudden violence, no sentimentality, dark humor
+**Kafka** - Matter-of-fact bureaucratic horror, understated, inexorable logic
+**Nietzsche** - Aphoristic, prophetic, contemptuous of mediocrity, master/slave dynamics
+**Schopenhauer** - Pessimistic, philosophical, suffering as fundamental, no redemption
+**Machiavelli** - Amoral political calculation, power dynamics, betrayal as rational
+**Marx** - Class conflict, dialectical structure, material conditions crushing individuals
+**Freud** - Unconscious drives, family dynamics, sexual/aggressive undercurrents, case history style
+**Jung** - Archetypal, mythic, shadow self, collective unconscious themes
+**Reich** - Sexual repression, authoritarian personality, social character structure
+**Bergson** - Time and consciousness, élan vital crushed by mechanism
+**Darwin** - Naturalistic, survival competition, adaptation failure, extinction
+
+**PARTICULARLY SUITED FOR THESIS-TO-WORLD:**
+
+**Galileo** - Scientific observation, experimental method, documenting what is
+**Newton** - Mathematical precision, laws governing phenomena, mechanical universe
+**Darwin** - Natural history, accumulated observations, species in environment
+**Hume** - Empirical observation, cause-and-effect, skeptical of hidden forces
+**Locke** - Reasoned argumentation, social contract observation, natural rights
+**Rousseau** - Social critique, corruption of natural state, general will
+**Marx** - Material conditions, class analysis, historical materialism
+**Veblen** - Economic observation, conspicuous consumption, institutional analysis
+**Keynes** - Economic dynamics, aggregate behavior, policy consequences
+**Von Mises** - Economic calculation, market dynamics, interventionism consequences
+**Le Bon** - Crowd psychology, mass behavior observation, collective dynamics
+**Gibbon** - Historical chronicle, rise and fall, institutional decay
+
+**DISTINCTIVE PHILOSOPHICAL VOICES:**
+
+**Plato** - Dialogue form, Socratic questioning, allegory, ideal forms vs shadows
+**Aristotle** - Systematic categorization, teleological, virtue/vice, golden mean
+**Kant** - Categorical imperatives, duty, moral law, transcendental structure
+**Leibniz** - Logical precision, best of all possible worlds, monadology
+**Berkeley** - Idealism, esse est percipi, no material substance
+**Hume** - Skeptical, empiricist, custom and habit, is/ought distinction
+**James** - Pragmatic, pluralistic, stream of consciousness, will to believe
+**Poincaré** - Mathematical intuition, conventionalism, scientific method
+**Maimonides** - Rabbinic logic, theological reasoning, guide for the perplexed
+**Luther** - Religious polemic, justification by faith, spiritual struggle
+**Voltaire** - Satirical, rationalist, attacking superstition, biting wit
+**Whewell** - Inductive reasoning, scientific method, consilience
+
+**POLITICAL/ECONOMIC THEORISTS:**
+
+**Machiavelli** - Realpolitik, power analysis, ends justify means
+**Marx** - Class struggle, dialectical materialism, historical necessity
+**Engels** - Working class conditions, social observation, revolutionary dynamics
+**Rousseau** - Social contract, general will, noble savage vs civilization
+**Keynes** - Macroeconomic dynamics, aggregate demand, policy analysis
+**Von Mises** - Economic calculation, praxeology, market process
+**Veblen** - Conspicuous consumption, leisure class, institutional economics
+
+**PSYCHOLOGICAL ANALYSTS:**
+
+**Freud** - Psychoanalytic, ego/id/superego, family dynamics, case history
+**Jung** - Archetypal, collective unconscious, individuation, symbolic
+**Adler** - Inferiority complex, will to power, social interest, lifestyle
+**Reich** - Character armor, sexual economy, mass psychology of fascism
+**Stekel** - Dream interpretation, compulsion and doubt, sexual symbolism
+
+**LITERARY/STYLISTIC:**
+
+**Poe** - Gothic, paranoid, building tension, unreliable narrator
+**Bierce** - Cynical, sardonic, sudden twists, no sentimentality
+**Jack London** - Naturalistic, survival struggle, man vs nature/society
+**Swett** (Marden) - Self-help moralism, success through character
+
+**JOHN-MICHAEL KUCZYNSKI:**
+- Analytical precision, anti-bureaucratic, pattern recognition over rules
+- Evolutionary psychology framework, recursion theory
+- Regress arguments, anti-appropriation polemic
+- Direct, uncompromising, philosophically rigorous
+- Would write nightmares about intellectual fraud, bureaucratic paralysis
+
+═══════════════════════════════════════════════════════════════
+
+**IMPLEMENTATION:**
+
+When user selects style, the system prompt adds:
+
+"Write this story in the voice and style of [AUTHOR]. Match their:
+- Sentence structure and rhythm
+- Characteristic vocabulary and concepts
+- Philosophical/analytical approach
+- Typical examples and analogies
+- Tone (cynical/optimistic/analytical/etc.)
+
+For [AUTHOR], this means:
+[Insert specific style guide for that author]"
+
+═══════════════════════════════════════════════════════════════
+
+**EXAMPLE STYLE GUIDES:**
+
+**If user selects "Poe":**
+- First-person paranoid narrator
+- Insistence on sanity while revealing madness
+- Building dread through accumulating detail
+- Obsessive enumeration
+- Italicized emphasis showing psychological strain
+- Confession structure
+- Sound/sensory motifs (heartbeat, bells, etc.)
+
+**If user selects "Marx":**
+- Material conditions determine consciousness
+- Class conflict as underlying dynamic
+- Dialectical structure (thesis → antithesis → synthesis)
+- Historical materialism framework
+- Bourgeoisie vs proletariat dynamics
+- Reification and alienation themes
+- Revolutionary potential vs false consciousness
+
+**If user selects "Bierce":**
+- Cynical, sardonic tone
+- Ironic distance from characters
+- Sudden violence, no warning
+- No sentimentality or moral lessons
+- Dark humor, gallows wit
+- Definitions embedded (Bierce's "Devil's Dictionary" style)
+- Concise, sharp prose
+
+**If user selects "Nietzsche":**
+- Aphoristic, epigrammatic style
+- Master/slave morality framework
+- Contempt for mediocrity and ressentiment
+- Prophetic, oracular tone
+- Zarathustra-style proclamations
+- Genealogical analysis (how values arose)
+- Will to power dynamics
+
+**If user selects "Freud":**
+- Case history format
+- Childhood origins of adult pathology
+- Sexual/aggressive drives underlying behavior
+- Ego/id/superego conflicts
+- Defense mechanisms (repression, projection, etc.)
+- Family dynamics (Oedipal, etc.)
+- Dreams and slips revealing unconscious
+
+═══════════════════════════════════════════════════════════════
+
+**UI IMPLEMENTATION:**
+
+After user inputs text and app selects template, show:
+
+"Optional: Write this story in the style of one of our philosophers/authors"
+
+[Dropdown menu of 40+ authors]
+
+[Default: "Standard narrative style"]
+
+[Generate Story button]
+
+═══════════════════════════════════════════════════════════════
+
+This creates the "tie-in" to Ask a Philosopher while giving users meaningful customization and making the fiction function feel integrated with the broader app ecosystem.

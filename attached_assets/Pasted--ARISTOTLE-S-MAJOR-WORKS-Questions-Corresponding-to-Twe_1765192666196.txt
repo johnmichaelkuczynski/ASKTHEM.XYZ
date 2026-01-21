@@ -1,0 +1,552 @@
+# ARISTOTLE'S MAJOR WORKS
+## Questions Corresponding to Twenty Key Positions from Each Work
+
+---
+
+## 1. Categories
+
+1. What is ontologically fundamental in Aristotle's metaphysics, and how do other things relate to it?
+2. What are secondary substances, and how do they relate to primary substances?
+3. How many categories does Aristotle recognize, and what are they?
+4. What is the difference between the "said of" relation and the "present in" relation?
+5. Does substance admit of contraries?
+6. Can substance admit of degrees—can one instance be more of a substance than another?
+7. How can substance receive contraries while remaining numerically one?
+8. What are the two types of quantity, and what examples does Aristotle give of each?
+9. Does quantity admit of contraries or degrees?
+10. How do the parts of different quantities differ with respect to position?
+11. How does Aristotle define relatives, and what examples does he give?
+12. What is meant by saying some relatives are "simultaneous by nature" with their correlatives?
+13. What are the four species of quality according to Aristotle?
+14. Does quality admit of contraries and degrees?
+15. In respect of what category are the similar and dissimilar predicated?
+16. What are the four types of opposition Aristotle distinguishes?
+17. How do contradictories differ from contraries with respect to intermediates and truth?
+18. How does privation differ from mere negation?
+19. What are the different senses of priority that Aristotle identifies?
+20. What are the species of change or motion according to the Categories?
+
+---
+
+## 2. On Interpretation (De Interpretatione)
+
+1. What is the relationship between words, mental affections, and things according to Aristotle?
+2. Are mental affections the same across all humans, and how do they differ from spoken words?
+3. Can nouns and verbs in isolation be true or false?
+4. What does a noun signify, and what distinguishes it from other linguistic units?
+5. What does a verb add beyond what a noun signifies?
+6. What is the status of indefinite nouns like "not-man" and indefinite verbs like "does-not-recover"?
+7. Which form of discourse admits truth or falsity, and which forms do not?
+8. What are the two basic types of statements?
+9. What distinguishes a simple statement from a composite statement?
+10. What is a contradictory pair, and what is its logical property?
+11. How do universal, particular, and indefinite statements differ in logical force?
+12. What is the difference between contradictory opposition and contrary opposition?
+13. Does the law of bivalence hold for singular statements about present or past facts?
+14. What problem do future contingent statements pose for the law of bivalence?
+15. What is the sea-battle argument, and what does it seem to imply?
+16. How does Aristotle address the problem of future contingents?
+17. What modal notions does Aristotle analyze, and to what do they attach?
+18. What logical equivalences hold among modal terms like "possible" and "necessary"?
+19. How does the square of opposition for modal statements differ from that for assertoric statements?
+20. What logical asymmetry exists between necessity and possibility?
+
+---
+
+## 3. Prior Analytics
+
+1. How does Aristotle define a syllogism?
+2. How many terms does every syllogism consist of, and what are they called?
+3. How many premises and conclusions does every syllogism have?
+4. What is the role of the middle term in a syllogism?
+5. How many syllogistic figures are there, and how are they distinguished?
+6. What characterizes the first figure, and why is it considered most perfect?
+7. What characterizes the second figure, and what kind of conclusions does it produce?
+8. What characterizes the third figure, and what kind of conclusions does it produce?
+9. What are the four propositional forms that premises and conclusions can take?
+10. How does Aristotle determine which combinations of premises yield valid conclusions?
+11. What are the first-figure moods, and why are they called perfect?
+12. How can imperfect syllogisms be perfected?
+13. What is conversion, and how do different proposition types convert?
+14. What is reductio ad impossibile, and how is it used in proving validity?
+15. What is ekthesis as a proof method?
+16. How does Aristotle prove that certain premise combinations yield no valid conclusion?
+17. What does modal syllogistic add to the basic theory?
+18. Can mixed modal syllogisms yield necessary conclusions?
+19. Is Aristotle's logic fundamentally term logic or propositional logic?
+20. What is the relationship between the syllogistic and scientific demonstration?
+
+---
+
+## 4. Posterior Analytics
+
+1. What is scientific knowledge (episteme), and what distinguishes it from other kinds of knowledge?
+2. What is the relation between teaching/learning and pre-existing knowledge?
+3. How is scientific knowledge acquired?
+4. What conditions must demonstrative premises satisfy?
+5. Why must demonstrative premises be necessary?
+6. What is the regress problem for demonstration, and what are the possible solutions?
+7. What is Aristotle's solution to the regress problem?
+8. How are first principles known if not by demonstration?
+9. What kinds of first principles does Aristotle recognize?
+10. Can one demonstrate across different genera of science?
+11. What do definitions state?
+12. How is a proper definition reached?
+13. What is the difference between knowing the "reasoned fact" and the "bare fact"?
+14. What role does the middle term play in demonstration?
+15. What types of cause can demonstrations exhibit?
+16. What is the difference between per se and accidental predication?
+17. What does scientific demonstration concern—the universal or the exceptional?
+18. What is the difference between nominal and real definitions?
+19. What must be established before an essence can be demonstrated?
+20. What is the overall structure of a demonstrative science?
+
+---
+
+## 5. Topics
+
+1. What is dialectical reasoning, and how does it differ from demonstration?
+2. What is dialectic useful for?
+3. What makes a proposition dialectical?
+4. What is a dialectical problem?
+5. What four predicables does every dialectical proposition and problem concern?
+6. What is a definition in the context of the predicables?
+7. What is a genus?
+8. What is a proprium (unique property)?
+9. What is an accident?
+10. What are topoi, and what must the dialectician do with them?
+11. How are topoi organized?
+12. What are some topoi for attacking or establishing definitions?
+13. What are some topoi concerning genus?
+14. What are some topoi concerning proprium?
+15. What are some topoi concerning accident?
+16. How do induction and syllogism differ in dialectic?
+17. What are the respective goals of questioner and answerer in dialectical exchange?
+18. Why must one distinguish multiple senses of a term before proceeding?
+19. What practical skills does dialectical practice require beyond knowing the topoi?
+20. What is the relationship between dialectic and first philosophy?
+
+---
+
+## 6. Sophistical Refutations
+
+1. What is the subject matter of the Sophistical Refutations?
+2. What is a genuine refutation (elenchus), and how do sophistical refutations differ?
+3. What is sophistry?
+4. How many types of fallacy are there, and into what classes are they divided?
+5. What are the six fallacies that depend on language?
+6. What are the seven fallacies independent of language?
+7. What is the fallacy of homonymy?
+8. What is the fallacy of amphiboly?
+9. What are the fallacies of combination and division?
+10. What is the fallacy of accent?
+11. What is the fallacy of form of expression?
+12. What is the fallacy of accident?
+13. What is the fallacy of secundum quid?
+14. What is ignoratio elenchi?
+15. What is begging the question (petitio principii)?
+16. What is the fallacy of the consequent?
+17. What is the fallacy of non-cause as cause?
+18. What is the fallacy of many questions?
+19. What constitutes a solution to a fallacy?
+20. Why is training in recognizing fallacies important for philosophy?
+
+---
+
+## 7. Physics
+
+1. What is nature (physis)?
+2. What does physics study?
+3. What causes must the physicist know?
+4. Is teleology essential to natural explanation?
+5. What is the status of chance and spontaneity in nature?
+6. What are the principles of natural things?
+7. What are matter and form, and how do they relate to actuality and potentiality?
+8. How does Aristotle define motion (kinesis)?
+9. What are the kinds of motion?
+10. What concepts does motion presuppose that must be analyzed?
+11. How does the infinite exist according to Aristotle?
+12. What is place (topos)?
+13. Does void (kenon) exist, and why or why not?
+14. What is time?
+15. What is the "now" and how does it relate to time?
+16. What characterizes continuity in magnitude, motion, and time?
+17. How does Aristotle resolve Zeno's paradoxes?
+18. What is required for every motion with respect to movers?
+19. Why must there be a first unmoved mover?
+20. What are the characteristics of the unmoved mover, and how does it cause motion?
+
+---
+
+## 8. On the Heavens (De Caelo)
+
+1. What is the nature of the cosmos as a whole?
+2. What are the two distinct regions of the cosmos?
+3. What are the heavenly bodies composed of?
+4. What is the natural motion of aether?
+5. Why is circular motion prior to and more perfect than rectilinear motion?
+6. Are the heavens subject to generation, corruption, or other forms of change?
+7. What is the nature of the stars and planets?
+8. Are the celestial spheres animate?
+9. What evidence shows that the earth is spherical?
+10. Is the earth in motion or at rest, and where is it located?
+11. Why does the earth rest at the center?
+12. Can there be multiple worlds?
+13. What exists outside the cosmos?
+14. What are the natural motions of the four terrestrial elements?
+15. What are heaviness and lightness?
+16. What is natural place, and how does it relate to elemental motion?
+17. Can the terrestrial elements transform into one another?
+18. How does the size of the earth compare to the celestial spheres?
+19. What is Aristotle's view of atomism and the void?
+20. What does the order of celestial motion reveal about the cosmos?
+
+---
+
+## 9. On Generation and Corruption
+
+1. What is generation (genesis) and corruption (phthora)?
+2. How do generation and corruption differ from alteration?
+3. What is Aristotle's response to the Eleatic denial of generation?
+4. What is Aristotle's critique of the atomist account of generation?
+5. What underlies all generation and corruption?
+6. What is prime matter?
+7. What is the relationship between generation and corruption?
+8. What are the four elements, and what is their status?
+9. How are the elements defined?
+10. How does elemental transformation occur?
+11. Which elemental transformations are easier and why?
+12. What is mixture (mixis), and how does it differ from juxtaposition?
+13. In true mixture, what happens to the ingredients?
+14. What are the prerequisites for generation and mixture?
+15. What is required for acting and being acted upon?
+16. What must agent and patient have in common and how must they differ?
+17. What characterizes combination in genuine mixture?
+18. What is the ultimate efficient cause of terrestrial generation and corruption?
+19. Is generation and corruption eternal in the sublunary realm?
+20. How does celestial motion relate to the eternity of generation?
+
+---
+
+## 10. Meteorology
+
+1. What does meteorology study?
+2. What are the two exhalations that cause meteorological phenomena?
+3. What phenomena is the dry exhalation responsible for?
+4. What phenomena is the moist exhalation responsible for?
+5. What fills the region below the moon?
+6. Are comets and the Milky Way celestial or atmospheric phenomena?
+7. What are shooting stars and meteors?
+8. What is the primary efficient cause of meteorological phenomena?
+9. What are winds?
+10. What causes thunder and lightning?
+11. Why is lightning perceived before thunder?
+12. How does rain form?
+13. What are snow, frost, and hail?
+14. What is the origin of rivers and springs?
+15. Why is the sea salty?
+16. Why does the sea's level remain constant?
+17. What causes earthquakes?
+18. What is Aristotle's view on geological change over time?
+19. What are rainbows, halos, and mock suns?
+20. What does Aristotle say about the rainbow's colors and shape?
+
+---
+
+## 11. On the Soul (De Anima)
+
+1. What is soul (psyche)?
+2. What is the relationship between soul and body?
+3. Is asking whether soul and body are one a meaningful question?
+4. Can soul exist apart from body?
+5. What are the grades of soul, and what kinds of beings have them?
+6. What is the nutritive soul responsible for?
+7. What capacities does the sensitive soul add?
+8. What is perception?
+9. What is the proper object of each sense?
+10. What are common sensibles and incidental sensibles?
+11. What is the common sense (koine aisthesis)?
+12. What is imagination (phantasia)?
+13. What capacity does the rational soul add?
+14. How does thinking differ from perceiving?
+15. What is the relationship between the intellect and intelligibles?
+16. What is the distinction between agent intellect and patient intellect?
+17. What are the characteristics of the agent intellect?
+18. What is the relationship between the thinking intellect and its object?
+19. What is the source of animal locomotion?
+20. How should the soul ultimately be defined?
+
+---
+
+## 12. Parva Naturalia
+
+1. What does the Parva Naturalia treat?
+2. What is the status of sensible qualities according to Sense and Sensibilia?
+3. What is color, and what does its perception require?
+4. Are the basic colors finite or infinite?
+5. What is memory?
+6. To what part of the soul does memory belong?
+7. What is memory essentially of?
+8. How does recollection (anamnesis) differ from memory?
+9. How does recollection proceed?
+10. What is sleep?
+11. What causes sleep?
+12. What is the purpose of sleep?
+13. What are dreams?
+14. Are dreams divine prophecies?
+15. How might some dreams coincidentally match future events?
+16. What is Aristotle's view on divination in sleep?
+17. What correlates with longevity?
+18. What does life depend on, and what causes death?
+19. What is the function of respiration?
+20. What do all these phenomena reveal about soul and body?
+
+---
+
+## 13. History of Animals (Historia Animalium)
+
+1. What is the purpose of the History of Animals?
+2. In what respects do animals differ?
+3. What are the two types of parts, and how do they differ?
+4. What is the difference between identical and analogous parts?
+5. How are animals classified by mode of reproduction?
+6. How are animals classified by habitat?
+7. How are animals classified by diet?
+8. How are animals classified by social organization?
+9. What are blooded animals (enaima)?
+10. What are bloodless animals (anaima)?
+11. What is the basis for Aristotle's anatomical descriptions?
+12. What serves as the standard of comparison in animal anatomy?
+13. Do animals exhibit characteristic behaviors and temperaments?
+14. What aspects of reproductive behavior does Aristotle record?
+15. How does Aristotle study animal development?
+16. Does sexual differentiation exist in all animals?
+17. Can some animals arise by spontaneous generation?
+18. Do animals exhibit practical intelligence?
+19. What sources does Aristotle draw on for his observations?
+20. What is the relationship between the History and other biological works?
+
+---
+
+## 14. Parts of Animals (De Partibus Animalium)
+
+1. What is the purpose of Parts of Animals?
+2. What kind of causation is primary in biological explanation?
+3. Should the biologist focus more on form or matter?
+4. What kind of necessity operates in biology?
+5. Should one disdain the study of lowly creatures?
+6. What are the two purposes for which parts exist?
+7. What are uniform parts composed of, and what do they serve as?
+8. What are non-uniform parts composed of, and what do they do?
+9. What is blood, and what is its role?
+10. What is the status of the heart in Aristotle's physiology?
+11. What is the function of the brain according to Aristotle?
+12. What is the function of the lungs?
+13. How does blood and heat correlate with animal characteristics?
+14. Which parts are found universally, and which vary across species?
+15. How does nature provide defensive and offensive parts?
+16. What principle governs nature's allocation of material to different parts?
+17. How do the right and left sides of the body differ?
+18. Why are humans the most upright of animals?
+19. Why do humans have hands?
+20. What methodological priority does Aristotle insist on in biology?
+
+---
+
+## 15. Generation of Animals (De Generatione Animalium)
+
+1. What does Generation of Animals explain?
+2. How do male and female contributions to reproduction differ?
+3. What does the male contribute through semen?
+4. Does semen become part of the embryo?
+5. What carries the formative power of semen?
+6. What does the female provide as matter for reproduction?
+7. What happens in conception?
+8. How does spontaneous generation occur?
+9. What forms first in the embryo?
+10. Does development proceed by epigenesis or preformation?
+11. In what order does the embryo acquire souls?
+12. How does the rational soul enter the embryo?
+13. How is heredity explained?
+14. What determines the sex of offspring?
+15. In what sense are females "deformed males"?
+16. What causes monstrosities (terata)?
+17. Why are hybrids typically sterile?
+18. Why do different animals have different gestation periods?
+19. What causes twins and multiple births?
+20. What is the ultimate purpose of generation?
+
+---
+
+## 16. Metaphysics
+
+1. What does the science of metaphysics study?
+2. What else does this science study besides being qua being?
+3. What is the primary sense of being?
+4. To what does the question "what is being?" reduce?
+5. What characterizes substance as the subject of predication?
+6. What are the candidates for substance, and which has the best claim?
+7. What is form, and what does it answer?
+8. What is matter?
+9. What does definition express?
+10. Are universals substances?
+11. What is Aristotle's critique of Platonic Forms?
+12. What is the priority of actuality over potentiality?
+13. What is the prime mover?
+14. How does the prime mover cause motion?
+15. How many unmoved movers are there?
+16. Why is theology first philosophy?
+17. What is the principle of non-contradiction?
+18. Can the principle of non-contradiction be demonstrated?
+19. What is the relationship between unity and being?
+20. What is metaphysics as wisdom?
+
+---
+
+## 17. Nicomachean Ethics
+
+1. What do all actions and pursuits aim at?
+2. What is the highest human good?
+3. What is eudaimonia not, and what is it?
+4. What is the function (ergon) of a human being?
+5. What is virtue (arete)?
+6. How is moral virtue related to excess and deficiency?
+7. Is the mean the same for everyone?
+8. What is required for an action to be virtuous?
+9. Are we responsible for our characters?
+10. What is practical wisdom (phronesis)?
+11. What moral virtues does Aristotle identify?
+12. What is justice?
+13. Is akrasia (weakness of will) possible?
+14. What is the relationship between pleasure and virtuous activity?
+15. Why is friendship essential to the good life?
+16. What are the three kinds of friendship?
+17. Does the happy person need external goods?
+18. What is the highest human activity?
+19. Which life is happiest?
+20. What is the relationship between ethics and political science?
+
+---
+
+## 18. Eudemian Ethics
+
+1. What is the status of the Eudemian Ethics relative to the Nicomachean?
+2. What is the highest good in the Eudemian Ethics?
+3. What must be specified about eudaimonia?
+4. What role does the noble (to kalon) play in the Eudemian Ethics?
+5. What is the doctrine of the mean?
+6. What are the three lives traditionally proposed as best?
+7. What are the three kinds of goods?
+8. How does good fortune differ from happiness?
+9. Are some people naturally fortunate?
+10. What does deliberation concern?
+11. What is prohairesis (choice)?
+12. How are the particular virtues analyzed?
+13. What books are shared between the Eudemian and Nicomachean Ethics?
+14. What is justice in the Eudemian Ethics?
+15. How is friendship analyzed?
+16. Who is the standard of right action?
+17. What is kalokagathia (nobility-and-goodness)?
+18. What characterizes the kalokagathic person?
+19. How does the Eudemian Ethics conclude?
+20. What is best and what is bad according to the concluding theological framing?
+
+---
+
+## 19. Magna Moralia
+
+1. What is the authorship status of the Magna Moralia?
+2. What is ethics a part of?
+3. What is the good?
+4. What is the highest human good?
+5. What parts does the soul have, and what virtues pertain to each?
+6. What is virtue in relation to excess and deficiency?
+7. How is the mean determined?
+8. How does moral virtue arise?
+9. What makes an action voluntary?
+10. What is choice (prohairesis)?
+11. What particular virtues are analyzed?
+12. How is justice analyzed?
+13. Does natural justice exist?
+14. What is practical wisdom (phronesis)?
+15. What is akrasia (incontinence)?
+16. What is the relationship between pleasure and the good?
+17. Why is friendship necessary for happiness?
+18. What is self-love rightly understood?
+19. Does the happy person need external goods?
+20. What is the ultimate standard of virtuous choice?
+
+---
+
+## 20. Politics
+
+1. What does it mean that man is by nature a political animal?
+2. In what sense is the polis prior to the individual?
+3. How does the polis arise?
+4. What relations does the household include?
+5. What is Aristotle's view on natural slavery?
+6. What is the purpose of the polis?
+7. How is citizenship defined?
+8. How are constitutions classified?
+9. What are the correct constitutions?
+10. What are the deviant constitutions?
+11. What is polity (politeia)?
+12. Why is the middle class important for political stability?
+13. What causes faction (stasis)?
+14. What causes revolution?
+15. What would the best constitution absolutely require?
+16. What determines the best practicable constitution?
+17. What is the statesman's most important task?
+18. Should education be public or private?
+19. What should the curriculum include?
+20. What does the polis ultimately exist for?
+
+---
+
+## 21. Rhetoric
+
+1. What is the relationship between rhetoric and dialectic?
+2. What is rhetoric?
+3. Why is rhetoric useful?
+4. Why must the rhetorician be able to argue both sides?
+5. What are the three modes of persuasion (pisteis)?
+6. How does ethos persuade?
+7. How does pathos persuade?
+8. How does logos persuade?
+9. What is an enthymeme?
+10. What is the example (paradeigma)?
+11. What are the three species of rhetoric?
+12. What is deliberative rhetoric?
+13. What is forensic rhetoric?
+14. What is epideictic rhetoric?
+15. What are topics (topoi) in rhetoric?
+16. What does Book II of the Rhetoric analyze regarding emotions?
+17. What does Book II treat regarding character types?
+18. Why does style (lexis) matter?
+19. What is the most important stylistic device?
+20. What are the parts of a speech?
+
+---
+
+## 22. Poetics
+
+1. What is poetry?
+2. How do the species of poetry differ?
+3. Why is mimesis natural to humans?
+4. What is tragedy?
+5. What are the six elements of tragedy?
+6. Why is plot the soul of tragedy?
+7. What makes a plot whole and complete?
+8. What is proper magnitude in a plot?
+9. Is unity of plot the same as unity of hero?
+10. Why is poetry more philosophical than history?
+11. What makes the best plots?
+12. Why is the complex plot superior to the simple plot?
+13. What is the ideal tragic hero?
+14. Should the change be from good fortune to bad, or bad to good?
+15. What arouses pity and fear?
+16. What is catharsis?
+17. What qualities must character (ethos) have?
+18. How should the denouement arise?
+19. How does epic differ from tragedy?
+20. Is tragedy or epic superior?

@@ -1,0 +1,246 @@
+**1. Relativity Theory**
+
+- Space and time are not independent realities but form a unified four-dimensional manifold; the separation into space and time is relative to the observer and lacks absolute significance.
+- Simultaneity is not an objective relation between distant events; it is defined relative to a coordinate system, and no physical fact determines absolute simultaneity.
+- The "block universe" interpretation is correct: all events—past, present, and future—are equally real; temporal passage is a feature of consciousness, not of physical reality.
+- Geometry is an empirical science, not a priori; the geometry of physical space is determined by measurement and is Riemannian rather than Euclidean.
+- General relativity eliminates gravitational force in favor of the curvature of space-time; gravity is not a force acting at a distance but a manifestation of geometry.
+- The equivalence of mass and energy reveals that matter is not a substance but a form of energy; what we call "matter" is a convenient way of speaking about certain energy configurations.
+- Causation survives relativity but must be reinterpreted; causal relations hold between events in the light-cone structure, preserving the impossibility of backward causation.
+- The speed of light functions as a limiting velocity built into the structure of space-time; it is not an empirical generalization but a structural feature of the manifold.
+- Relativity supports a relational rather than absolute theory of motion; there is no absolute space serving as a reference frame for motion.
+- The philosophical significance of relativity is the elimination of superfluous metaphysical entities—absolute space, absolute time, ether—in favor of structural relations among events.
+
+**2. Structure of the Atom**
+
+- Subatomic particles are not miniature billiard balls but logical constructions out of events; what we call an "electron" is a series of causally connected occurrences.
+- The discreteness of atomic structure does not conflict with macroscopic continuity; continuity at one level can emerge from discreteness at another through statistical aggregation.
+- An electron is best understood as a series of events having certain structural properties; it is not a persistent substance but a logical fiction convenient for physics.
+- "Empty space" within the atom is not genuinely empty; it is a region where certain types of events do not occur, but the field permeates all space.
+- The mathematical model of the atom represents structure, not intrinsic qualities; physics tells us about relations, not about the intrinsic nature of what is related.
+- Electron "orbits" are not spatial trajectories but probability distributions; the classical picture of an electron circling a nucleus is fundamentally misleading.
+- Atomic stability is explained by quantum constraints, not by mechanical equilibrium; the persistence of atomic structure depends on the quantization of energy levels.
+- The properties of atoms are not simply additive combinations of constituent properties; wholes can have properties not predictable from parts considered in isolation.
+- The nucleus is a composite entity with internal structure, but it functions as a unit in most chemical and physical contexts.
+- The atom of physics is more fundamental than the atom of chemistry; chemical properties are derivative from physical structure and quantum mechanical behavior.
+
+**3. Quantum Theory**
+
+- Quantum mechanics provides knowledge of structure and probability, not knowledge of intrinsic qualities or determinate states prior to measurement.
+- Superposition should be interpreted epistemically; we cannot say a particle is simultaneously in multiple states, only that we cannot assign it a definite state.
+- The collapse of the wave function is better understood as a change in our knowledge than as a physical process; it reflects the acquisition of information through measurement.
+- Quantum indeterminacy may be ontological, but we cannot definitively settle whether it reflects genuine indeterminism or merely the limits of possible knowledge.
+- Quantum probability is sui generis; it is not reducible to classical ignorance but represents something new about the relationship between knowledge and reality.
+- Non-locality challenges classical intuitions but does not permit superluminal signaling; the correlations are real but do not violate relativistic constraints on causation.
+- The principle of sufficient reason must be modified or abandoned in light of quantum mechanics; not every event has a determining cause.
+- Completeness in physics may be unattainable; there may be no complete description of a physical system that determines all measurement outcomes.
+- Observation plays an essential role in quantum mechanics, but this need not imply that consciousness is a physical agent; measurement involves physical interaction, not mental acts.
+- Quantum mechanics forces us to abandon the assumption that physical objects have all their properties definitely at all times; this is a revision to common sense, not a refutation of realism.
+
+**4. Inductive Inference**
+
+- Induction cannot be justified by deductive logic; no formal argument can demonstrate that the future will resemble the past without assuming what is to be proved.
+- Induction is not merely psychological habit (pace Hume); it is a rational procedure, but its rationality rests on postulates that cannot themselves be inductively or deductively established.
+- The justification of induction, if there is one, must rest on synthetic a priori principles or on postulates accepted for their fruitfulness in generating knowledge.
+- Good inductive arguments are distinguished by variety of instances, absence of counterexamples, and conformity to structural principles about natural kinds and causal regularities.
+- The uniformity of nature is not an empirical discovery but a presupposition of empirical inquiry; without it, learning from experience would be impossible.
+- Projectible properties are those that correspond to genuine natural kinds; "grue"-type predicates fail because they do not carve nature at its joints.
+- Induction is intimately connected with probability; an inductive conclusion is not certain but is rendered probable by the evidence.
+- Induction can yield rational belief and even knowledge in a fallibilist sense, though not certainty; most of our knowledge rests on inductive foundations.
+- There is no fixed number of instances that validates induction; the strength of inductive inference depends on the variety and relevance of evidence, not mere quantity.
+- Induction is not eliminable; hypothetico-deductive method presupposes induction in accepting that successful predictions confirm theories.
+
+**5. Postulates of Scientific Inference**
+
+- Scientific inference requires postulates that are neither self-evident nor empirically provable; they are presupposed by the practice of science and justified by their fruits.
+- The postulates include: quasi-permanence (things persist with gradual change), separable causal lines (causal processes can be traced independently), spatio-temporal continuity (causes and effects are contiguous), structural constancy, and analogy (similar structures have similar causal properties).
+- These postulates are not a priori in the Kantian sense but are conditions for the possibility of the kind of knowledge science provides.
+- The causal principle—that similar causes produce similar effects—is a postulate, not an empirical generalization; it underlies the possibility of generalization from experience.
+- Natural kinds are presupposed by scientific inference; we assume that nature divides into classes whose members share causally relevant properties.
+- Structural continuity—the assumption that structure is preserved across time and through causal processes—is essential for inference from percepts to physical objects.
+- The postulates are revisable in the sense that we might find we need different postulates, but science cannot proceed without some such presuppositions.
+- The principle that unobserved entities behave like observed ones is a form of the analogy postulate; it justifies inference from samples to populations.
+- The minimum set of postulates is difficult to specify precisely, but they must collectively enable inductive generalization, causal inference, and the postulation of unobserved entities.
+- The assumption of persistent objects is itself a postulate; what we call a "thing" is a series of events grouped together by causal continuity.
+
+**6. Probability**
+
+- Probability has both objective and subjective aspects; there are objective frequencies and propensities, but probability also measures rational credence given evidence.
+- The frequency theory captures part of what we mean by probability: the probability of an event type is the limit of its relative frequency in a long series of trials.
+- Single-case probabilities are problematic for frequency theory; we can meaningfully assign probabilities to individual events by treating them as members of reference classes.
+- The principle of indifference—assigning equal probabilities to alternatives when we have no reason to favor one over another—is useful but must be applied cautiously to avoid paradoxes.
+- In the absence of evidence, we may assign probabilities based on structural considerations or the principle of indifference, but such assignments are tentative and revisable.
+- Objective chance may exist in quantum mechanics; if so, not all probability is epistemic, and some events are genuinely indeterministic.
+- Probability and possibility are distinct; probability measures degrees of rational expectation, while possibility concerns what could be the case.
+- Probability cannot be defined without some circularity or primitive notion; attempts to reduce probability to frequency or logical relations face significant difficulties.
+- Probability statements about the past are meaningful; they express what it was rational to expect given the evidence available at the time.
+- Bayesian reasoning is a rational method for updating probabilities in light of evidence, though the assignment of prior probabilities remains problematic.
+
+**7. Logical Positivism**
+
+- The verification principle faces serious difficulties: it is not itself empirically verifiable, and it excludes statements we have good reason to consider meaningful.
+- Meaning cannot be exhaustively analyzed in terms of verification conditions; theoretical terms in science have meaning even when not directly verifiable.
+- Logical and mathematical truths are analytic and a priori; they do not describe the world but are true in virtue of the meanings of their terms.
+- Metaphysical statements are not necessarily meaningless; some metaphysical claims are false and therefore meaningful, while others may be genuinely undecidable.
+- Universal generalizations have meaning even though they cannot be conclusively verified; they can be confirmed by evidence and falsified by counterexamples.
+- The analytic/synthetic distinction is defensible but not as sharp as the positivists supposed; there is a continuum from purely logical truths to purely empirical claims.
+- Counterfactuals and dispositional statements are meaningful and reducible to statements about regularities and structures, though the analysis is complex.
+- Ethics cannot be reduced to mere emotion; there are rational considerations in ethics, even if moral judgments are not empirically verifiable in the same way as scientific claims.
+- The demarcation between science and non-science is not sharp; science is distinguished by method and degree of confirmation, not by a clear boundary.
+- The unity of science is a methodological ideal; all sciences share logical structure and empirical method, but reduction to physics is not always possible or illuminating.
+
+**8. The Differential Calculus**
+
+- Infinitesimals, as conceived by Leibniz, are logically suspect; the calculus is rigorously grounded in the concept of limit, which involves only finite quantities.
+- Limits provide the rigorous foundation: a derivative is the limit of difference quotients, and an integral is the limit of sums, with no need for actually infinitesimal quantities.
+- Instantaneous velocity is a mathematical construct defined as a limit; it is not a velocity possessed at an instant but a limit of average velocities over shrinking intervals.
+- Mathematical continuity is precisely defined in terms of limits and epsilon-delta conditions; physical continuity is an empirical question about whether nature admits discontinuities.
+- The calculus is both a discovery about the structure of the continuum and an invention providing tools for physics; the question of discovery versus invention is less important than the question of utility and correctness.
+- The continuous and the discrete are both mathematically legitimate; the real numbers provide a model of continuity, while the integers model discreteness.
+- Motion can be analyzed into a series of positions at times; the appearance of an irreducible dynamic element is an illusion, as Zeno's paradoxes show once properly resolved.
+- Rates of change at an instant are defined through limits and do not require actual change at the instant; the limit captures what happens arbitrarily close to the instant.
+- The mathematical concept of limit is idealized; physical measurement always involves finite precision, but the idealization is justified by its theoretical success.
+- The calculus presupposes only the potential infinite—the unbounded continuation of a process—not the actual infinite, though Cantor showed the actual infinite is also coherent.
+
+**9. Surds (Square Circles, Married Bachelors)**
+
+- Impossible objects have no being whatsoever; there is no realm of subsistence for self-contradictory entities. The round square does not subsist; it simply is not.
+- We can think about what cannot exist by entertaining propositional contents; to think of a round square is to entertain the proposition "x is round and x is square" without asserting it or referring to an object.
+- Logical impossibility is absolute impossibility; what violates the laws of logic cannot exist in any possible world or under any conceivable circumstances.
+- Self-contradictory descriptions are meaningful in the sense that we understand what they deny; "round square" is meaningful because we understand roundness and squareness and their incompatibility.
+- There are no degrees of impossibility; all contradictions are equally impossible, though some may involve more obvious contradictions than others.
+- Conceivability is a fallible guide to possibility; we may think we conceive something that is actually impossible, or fail to conceive something that is possible.
+- Statements about impossibilia are meaningful and false; "the round square is round" is false because there is no round square, not meaningless.
+- The law of non-contradiction is a fundamental logical truth; it is not a mere psychological habit or a metaphysical postulate but a condition of intelligible discourse.
+- Terms like "square circle" do not refer; they are definite descriptions that fail to be satisfied by any object whatsoever.
+- We cannot coherently quantify over impossible objects; to say "there exists a round square" is simply false, not true in some impossible-object domain.
+
+**10. The Theory of Descriptions**
+
+- Definite descriptions are not names but quantified expressions; "the F" means "there is exactly one F, and it..."
+- Sentences about nonexistent objects are meaningful and false, not meaningless; "the present King of France is bald" is false because there is no present King of France.
+- "The present King of France is bald" is false, not truth-valueless; it asserts the existence of a unique King of France, and that assertion is false.
+- Grammatical form systematically misleads us about logical form; the surface subject-predicate structure conceals underlying quantificational complexity.
+- Definite descriptions differ fundamentally from proper names; genuine names refer directly, while descriptions work through satisfaction of a predicate.
+- Presupposition can be analyzed in terms of assertion; what appears to be presupposed is part of what is asserted, and so a failed presupposition yields falsehood.
+- In intensional contexts, descriptions exhibit scope ambiguities; "George IV wished to know whether Scott was the author of Waverley" can be read with the description inside or outside the scope of "wished."
+- Indefinite descriptions ("a man") are existential quantifiers without the uniqueness condition; "a man came" means "there exists at least one man who came."
+- An expression is a genuine name if it refers directly without descriptive content; most apparent names in ordinary language are disguised descriptions.
+- Sentences with multiple descriptions require careful attention to scope; "the father of the author of Waverley" involves nested descriptions each requiring existential-uniqueness analysis.
+
+**11. The Nature of Entailment**
+
+- Entailment is a relation between propositions such that it is impossible for the premises to be true and the conclusion false; it is stricter than material implication.
+- Material implication is truth-functional and weaker than entailment; "p materially implies q" means merely "not (p and not-q)," which holds whenever q is true or p is false.
+- Logical entailment holds in virtue of logical form alone; analytic entailment may depend on the meanings of non-logical terms.
+- The paradoxes of material implication (a false proposition implies anything, a necessary truth is implied by anything) are not paradoxes of entailment proper; entailment requires a stronger connection.
+- A contradiction entails everything in classical logic (ex falso quodlibet); this is a feature of the logic, though relevance logicians dispute whether it captures genuine entailment.
+- Entailment is connected to explanation but distinct from it; A may entail B without explaining B (e.g., a conjunction entails its conjuncts but does not explain them).
+- Entailment is necessary; if A entails B, then in all possible circumstances where A holds, B holds.
+- Relevance may be desirable for a notion of entailment closer to ordinary reasoning, but classical entailment does not require it.
+- Non-classical logics may define entailment differently, but they depart from the standard logical framework that underlies mathematics and science.
+- Entailment is a semantic relation (about truth preservation across possibilities); deducibility is a syntactic relation (about derivation in a formal system). In a complete logic, they coincide.
+
+**12. The Relationship Between "Logic" and Philosophy**
+
+- Logic is the essence of philosophy; philosophical problems, properly analyzed, are problems of logic or dissolve under logical scrutiny.
+- Many traditional philosophical problems arise from linguistic confusion; logical analysis can expose pseudo-problems that arise from misunderstanding the logical form of statements.
+- Formal logic is a tool for clarifying natural language, but natural language is often logically misleading; the task of philosophy is to replace vague ordinary language with precise logical notation.
+- Logical truths are substantive in that they are necessarily true and govern all possible thought; they are not empty because they exclude contradictory states of affairs.
+- Logic reveals the structure of thought and, to the extent that thought can represent reality, the structure of possible reality; but logic alone does not tell us what actually exists.
+- Philosophy has a distinctive method: logical analysis, which distinguishes it from empirical science while remaining complementary to science.
+- The scope of logical analysis is broad; virtually all meaningful statements can be clarified through logical paraphrase, though some may resist complete analysis.
+- A logic carries ontological commitments; adopting a logic with certain quantifiers and predicates commits one to certain kinds of entities.
+- Philosophical intuitions must yield to logical argument when they conflict; an intuition that leads to contradiction must be abandoned.
+- Philosophy, properly conceived, is continuous with science; it differs in generality and in attention to logical structure but not in fundamental method.
+
+**13. Formalism**
+
+- Mathematics cannot be reduced to the mere manipulation of uninterpreted symbols; mathematical propositions have content and are about something, even if that something is abstract.
+- A mathematical proof is not a sequence of marks but a demonstration that certain propositions follow from others; the marks represent meaningful assertions.
+- The applicability of mathematics to reality is inexplicable if mathematics is merely a game; the fact that mathematical structures correspond to physical structures shows mathematics has content.
+- Formal systems are important for rigor, but mathematical truth is not constituted by formal derivability; Gödel showed that truth outruns provability in any consistent system.
+- Consistency is necessary but not sufficient for mathematical legitimacy; a consistent system of arbitrary axioms does not constitute mathematics unless it captures mathematical truths.
+- Metamathematics is itself interpreted mathematics; we reason mathematically about formal systems, presupposing the mathematics we use in that reasoning.
+- Gödel's incompleteness theorems refute strong formalism; no consistent formal system can capture all arithmetic truths, showing mathematics is not reducible to formalism.
+- Mathematical content exceeds what is captured in formal systems; we understand what the formal systems are about, and this understanding is irreducibly semantic.
+- Mathematical symbolism is not mere notation but expresses definite logical content; the symbols abbreviate complex logical claims.
+- Formalism cannot account for mathematical understanding; a machine can manipulate symbols without understanding, but mathematicians grasp meanings.
+
+**14. Intuitionism**
+
+- Mathematical existence should not be tied exclusively to constructibility; the classical notion of existence, independent of our ability to construct, is legitimate and coherent.
+- The law of excluded middle is valid for well-defined propositions, including those about infinite domains; denying it for mathematical statements impoverishes mathematics unnecessarily.
+- A mathematical construction is a procedure for establishing a truth; but there may be truths that we cannot establish, and they are truths nonetheless.
+- Classical mathematics is not inconsistent; intuitionism restricts mathematics based on epistemological scruples that are not mandated by logic itself.
+- Mathematical truth is distinct from mathematical proof; a proposition may be true even if we have no way of proving it.
+- Intuitionism creates difficulties for applied mathematics; much of physics relies on classical analysis, which intuitionists reject.
+- For undecidable propositions, there is a fact of the matter; Goldbach's conjecture is either true or false, even if we never determine which.
+- Completed infinities are legitimate mathematical objects; the set of natural numbers exists as a completed totality, not merely as an indefinitely extensible sequence.
+- Mathematical objects that cannot be constructed may still exist; existence in mathematics is not dependent on human cognitive capacities.
+- The intuitionistic conception is not psychologistic in the crude sense, but it does tie mathematics too closely to human epistemic limitations.
+
+**15. Logicism**
+
+- All mathematical concepts can be defined in purely logical terms; number, successor, addition, and all of arithmetic can be constructed from logical notions.
+- The concept of number is definable logically; a number is the class of all classes equinumerous to a given class (or, in type theory, a more refined version of this).
+- The axioms required to derive mathematics from logic are: axioms of logic, the axiom of infinity, and the axiom of reducibility (or some substitute); whether these are "logical" is debatable.
+- The axiom of infinity—that there exist infinitely many individuals—is not a logical truth in the traditional sense; it is a postulate required for mathematics but goes beyond pure logic.
+- The axiom of reducibility was introduced to overcome difficulties in type theory; it is controversial whether it is a logical axiom or a mathematical one.
+- Set theory can be considered part of logic if logic is understood broadly to include the theory of classes; the boundary between logic and mathematics is not sharp.
+- The distinction between logic and mathematics becomes blurred under logicism; mathematics is logic, so there is no deep distinction, only a division of labor.
+- Gödel's theorems show that arithmetic truth cannot be completely captured in any formal system, but this does not refute logicism; it shows that logic itself is inexhaustible.
+- Logical and mathematical knowledge feel different because mathematical proofs are complex and not immediately obvious; but this is a psychological difference, not a difference in kind.
+- Logical types are necessary to avoid paradoxes; the ramified theory of types provides a hierarchy that prevents self-referential definitions.
+
+**16. Empiricism and Its Limits**
+
+- All substantive knowledge of the world derives ultimately from sensory experience; but logic and mathematics are a priori and do not depend on experience for their justification.
+- Logical and mathematical truths are analytic, true in virtue of meaning; they do not describe the world and hence do not conflict with empiricism properly understood.
+- General truths are known through induction from particular experiences, but induction presupposes principles (postulates of scientific inference) that are not themselves empirical.
+- The concept of causation is derived from experience of regular succession, but the causal principle—that similar causes produce similar effects—is a postulate, not an empirical observation.
+- Theoretical entities in science are logical constructions out of sense-data or events; they are not directly observed but are inferred as explanatory posits.
+- Knowledge of our own minds comes through introspection, which is a form of experience, but introspection is fallible and does not give us complete or incorrigible knowledge.
+- The principle that all synthetic knowledge comes from experience is itself not empirical but a philosophical postulate; it is justified by its role in a coherent theory of knowledge.
+- A priori knowledge of logic and mathematics is compatible with empiricism because such knowledge does not tell us what exists but only what follows from what.
+- Experience provides the content of our knowledge, but the categories and forms we use to organize experience have a contribution from the mind, though not in the strong Kantian sense.
+- Experience has limits: it cannot tell us about the intrinsic nature of physical reality, only about structure and relations; the qualitative character of matter remains unknown.
+
+**17. Rationalism and Its Limits**
+
+- Reason alone, independent of experience, yields knowledge of logic and mathematics but not knowledge of what exists in the world.
+- Self-evident truths exist in logic and mathematics; some propositions are known to be true by anyone who understands them.
+- The applicability of reason to the world is a fortunate fact; we cannot explain a priori why logical and mathematical structures are exemplified in nature.
+- Rationalist metaphysics, when it claims to deduce the nature of reality from pure reason, oversteps; Hegel's dialectic, Spinoza's geometric method, and similar systems are unwarranted.
+- Logical necessity is absolute and applies to all possible worlds; metaphysical necessity, if distinct, would require additional justification that reason alone cannot provide.
+- Synthetic a priori knowledge, if it exists, must be limited to formal principles; there is no synthetic a priori knowledge of particular features of the world.
+- Reason can determine relations of ideas but not matters of existence; existence claims are always ultimately empirical.
+- The distinction between genuine rational insight and prejudice lies in logical demonstrability; what can be proved from self-evident premises is rational, what cannot is suspect.
+- Competing rationalist systems cannot all be correct; when they conflict, we must look for errors in reasoning or hidden empirical assumptions.
+- Reason is a product of evolution, which raises questions about its reliability, but this does not undermine logic; even the skeptical argument relies on reason.
+
+**18. Counterfactual Truth**
+
+- Counterfactual conditionals are made true by the causal structure of the world; they are reducible to statements about laws of nature and initial conditions.
+- Counterfactuals describe what would happen given the laws of nature; they are not merely expressions of our interests but objective claims about causal regularities.
+- Counterfactuals are intimately related to causal claims; "if A had happened, B would have happened" holds when A-type events cause B-type events.
+- Counterfactuals about the distant past are evaluated by considering what the laws of nature would produce given the counterfactual antecedent.
+- The similarity relations relevant to counterfactuals are determined by the laws of nature and the causal structure they impose, not by arbitrary judgments.
+- Counterfactuals with impossible antecedents (counterpossibles) are vacuously true or lack truth value; if the antecedent is impossible, we cannot meaningfully ask what would follow.
+- Counterfactuals are closely tied to laws; a generalization supports counterfactuals if and only if it is a genuine law rather than an accidental regularity.
+- Counterfactual truth can be analyzed in terms of non-counterfactual truth about laws and conditions; no irreducibly modal facts are required.
+- What is held fixed in evaluating counterfactuals is determined by the causal independence of factors; we hold fixed what is causally independent of the antecedent.
+- Counterfactual assertions express objective claims about causal structure; they are not merely pragmatic or context-dependent stipulations.
+
+**19. Modality**
+
+- Necessity is logical necessity; a proposition is necessary if its denial is self-contradictory. There is no metaphysical necessity distinct from logical necessity.
+- Possible worlds are useful heuristics for thinking about modality, but they are not concrete realities; talk of possible worlds is reducible to talk about consistent sets of propositions.
+- The actual world is distinguished as the world that obtains, the one whose propositions are true; other possible worlds are unrealized consistent descriptions.
+- There is one fundamental notion of possibility: logical possibility (consistency with the laws of logic). Physical possibility is relative to laws of nature and is not a distinct modal notion.
+- Modal truths are known through logic; what is necessary is what logic requires, and what is possible is what logic permits.
+- Essence, if it means anything, is nominal essence—what follows from our definitions; real essences in the Aristotelian sense are rejected.
+- Modal facts are reducible to logical facts; there are no irreducibly modal features of the world beyond logical structure.
+- Contingent existence is existence that is not logically necessary; most things that exist do not exist by logical necessity, as their non-existence implies no contradiction.
+- Modality is not fundamentally temporal; possibility does not mean "could be at some time" but "involves no contradiction."
+- Modal concepts can be defined in terms of consistency and logical implication; possibility is consistency, necessity is implication from logical truths.

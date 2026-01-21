@@ -1,0 +1,2339 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/11/2025, 3:59:32 AM
+Source Length: 28382 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+No quotes extracted
+
+--- ANNOTATED CITATIONS ---
+No annotated quotes
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+
+
+[Chunk 4]
+
+
+[Chunk 5]
+undefined
+
+[Chunk 6]
+undefined
+
+[Chunk 7]
+undefined
+
+[Chunk 8]
+
+
+[Chunk 9]
+undefined
+
+[Chunk 10]
+undefined
+
+[Chunk 11]
+
+
+[Chunk 12]
+
+
+[Chunk 13]
+
+
+[Chunk 14]
+
+
+[Chunk 15]
+
+
+[Chunk 16]
+
+
+[Chunk 17]
+
+
+[Chunk 18]
+undefined
+
+[Chunk 19]
+undefined
+
+[Chunk 20]
+
+
+[Chunk 21]
+
+
+[Chunk 22]
+
+
+[Chunk 23]
+
+
+[Chunk 24]
+
+
+[Chunk 25]
+
+
+[Chunk 26]
+
+
+[Chunk 27]
+
+
+[Chunk 28]
+
+
+[Chunk 29]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+undefined
+
+═══ CHUNK 6 ═══
+undefined
+
+═══ CHUNK 7 ═══
+undefined
+
+═══ CHUNK 8 ═══
+
+
+═══ CHUNK 9 ═══
+undefined
+
+═══ CHUNK 10 ═══
+undefined
+
+═══ CHUNK 11 ═══
+
+
+═══ CHUNK 12 ═══
+
+
+═══ CHUNK 13 ═══
+
+
+═══ CHUNK 14 ═══
+
+
+═══ CHUNK 15 ═══
+
+
+═══ CHUNK 16 ═══
+
+
+═══ CHUNK 17 ═══
+
+
+═══ CHUNK 18 ═══
+undefined
+
+═══ CHUNK 19 ═══
+undefined
+
+═══ CHUNK 20 ═══
+
+
+═══ CHUNK 21 ═══
+
+
+═══ CHUNK 22 ═══
+
+
+═══ CHUNK 23 ═══
+
+
+═══ CHUNK 24 ═══
+
+
+═══ CHUNK 25 ═══
+
+
+═══ CHUNK 26 ═══
+
+
+═══ CHUNK 27 ═══
+
+
+═══ CHUNK 28 ═══
+
+
+═══ CHUNK 29 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 15 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 16 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 17 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 18 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 19 ANALYSIS
+═══════════════════════════════════════
+
+undefined
+
+═══════════════════════════════════════
+           CHUNK 20 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 21 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 22 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 23 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 24 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 25 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 26 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 27 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 28 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 29 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: Events cause other events to occur
+   EVIDENCE: "Events cause other events to occur."
+
+2. VIEW: Some philosophers have denied the existence of causation
+   EVIDENCE: "Astonishingly, some philosophers have denied the existence of causation."
+
+3. VIEW: Many philosophers are empiricists
+   EVIDENCE: "Because many philosophers are empiricists"
+
+4. VIEW: Empiricism holds that all knowledge is strictly observation based
+   EVIDENCE: "According to empiricism, all knowledge is strictly observation based."
+
+5. VIEW: Empiricists believe we cannot see or otherwise observe causal ties
+   EVIDENCE: "According to many empiricists, we cannot see or otherwise observe causal ties."
+
+6. VIEW: We don't observe causal connections
+   EVIDENCE: "Since we don't observe causal connections, we don't have good reason to believe them to exist."
+
+7. VIEW: The argument against causal ties involves a major non-sequitur
+   EVIDENCE: "But this argument involves a major non-sequitur."
+
+8. VIEW: We don't observe electrons or quarks, but we have good reason to believe them to exist
+   EVIDENCE: "We don't observe electrons or quarks, but we have good reason to believe them to exist."
+
+9. VIEW: Causal ties, if they exist, are occupants of space-time
+   EVIDENCE: "Causal ties, if they exist, are occupants of space-time, like rocks and vases and chairs"
+
+10. VIEW: The argument against causal ties is a strictly logical one
+   EVIDENCE: "But notice that the second argument, unlike the first, isn't an empirical argument at all. It's a strictly logical one."
+
+11. VIEW: The concept of persistence is a causal notion
+   EVIDENCE: "The concept of persistence is itself a causal notion"
+
+12. VIEW: We observe causal sequences whenever we observe anything
+   EVIDENCE: "Thus, we observe causal sequences whenever we observe anything."
+
+13. VIEW: The contention that we don't see or otherwise observe causal ties is of doubtful accuracy and questionable coherence
+   EVIDENCE: "Although it has been enormously influential, it's of doubtful accuracy, it's of questionable coherence, as we've just seen."
+
+14. VIEW: The notion of spatial occupancy is a causal notion
+   EVIDENCE: "For example, the very notion of spatial occupancy is a causal notion"
+
+15. VIEW: Malleability and conductivity are causal properties
+   EVIDENCE: "Malleability and conductivity are causal properties."
+
+16. VIEW: To describe an object as made of steel is to say it will react to situations in certain ways
+   EVIDENCE: "Thus, to describe a given object as being of made of steel is to say that, other things being equal, it will react to situations in ways in which it wouldn't otherwise react."
+
+17. VIEW: Anything that says anything about anything in the spatiotemporal world has causal content
+   EVIDENCE: "For that reason, anything that says anything about anything in the spatiotemporal world has causal content."
+
+18. VIEW: Only events can be causes, not objects
+   EVIDENCE: "First of all, it is only events that can be causes. Objects are not causes."
+
+19. VIEW: The rock did not cause the window to break, but an event involving the rock did
+   EVIDENCE: "The rock didn't cause the window to break. What did so was some event involving the rock"
+
+20. VIEW: Non-causes may have causal properties
+   EVIDENCE: "Non-causes may have causal properties."
+
+21. VIEW: The rock has causal properties despite not being a cause
+   EVIDENCE: "The rock isn't a cause, as we discussed, but it has causal properties."
+
+22. VIEW: Not every property of a rock is a cause
+   EVIDENCE: "Not every property of the rock is a cause."
+
+23. VIEW: The rock's having a property of being or not being identical with a number doesn't cause anything to occur
+   EVIDENCE: "The rock is such that it either is or is not identical with the number. But the rock's having that property doesn't cause anything to occur."
+
+24. VIEW: Conditions are relatively persistent states
+   EVIDENCE: "A condition is a relatively persistent state (e.g., the room's having a certain temperature)."
+
+25. VIEW: An event is a change in conditions
+   EVIDENCE: "An event is a change in conditions."
+
+26. VIEW: Conditions can be causes
+   EVIDENCE: "But conditions themselves seem to be causes."
+
+27. VIEW: An event is a change, whereas a condition is the absence of change
+   EVIDENCE: "An event is, by definition, a change, whereas a condition is, it would seem, the absence of change."
+
+28. VIEW: Conditions are non-events and can be causes
+   EVIDENCE: "So if conditions are non-events and are also causes, then, contrary to what we earlier said, it isn't events alone that are causes."
+
+29. VIEW: Conditions consist of events
+   EVIDENCE: "This argument overlooks the fact that conditions consist of events."
+
+30. VIEW: The water's having a given temperature consists of its particles having certain kinetic properties
+   EVIDENCE: "The water's having a given temperature consists in its containing particles that have certain kinetic properties."
+
+31. VIEW: There is no heat where there are no events
+   EVIDENCE: "There is no heat where there are no events."
+
+32. VIEW: A person's being healthy consists of metabolic events
+   EVIDENCE: "A person's being healthy (i.e., being in a condition of health) consists in that person's body doing what it should."
+
+33. VIEW: There is no life and no health where there are no metabolic events
+   EVIDENCE: "There is no life, and therefore no health, where there are no metabolic events."
+
+34. VIEW: Changes may be internal to conditions of changelessness
+   EVIDENCE: "And although events do necessarily constitute changes, those changes may be, and often are, internal to conditions of changelessness."
+
+35. VIEW: For the water's temperature to remain at 101° for 5 minutes is for the changes undergone by its constituent molecules to remain within certain limits
+   EVIDENCE: "For the water's temperature to remain at 101° for 5 minutes is for the changes undergone by its constituent molecules to remain within certain limits; it is for their mean kinetic energy to stay within certain bounds."
+
+36. VIEW: For the water's temperature to change is for their behavior to exceed those limits
+   EVIDENCE: "For the water's temperature to change is for their behavior to exceed those limits."
+
+37. VIEW: When the water's temperature increases, the way its constituent molecules move about changes
+   EVIDENCE: "When the water's temperature increases, the way its constituent molecules move about changes."
+
+38. VIEW: When the water's temperature stays the same, the molecules still undergo change but within certain limits
+   EVIDENCE: "When the water's temperature stays the same, they still move about-they still undergo change-but the way they do so doesn't undergo change: those changes fall within certain limits."
+
+39. VIEW: Nothing non-spatiotemporal can be a cause
+   EVIDENCE: "Nothing non-spatiotemporal can be a cause."
+
+40. VIEW: There are causes only where there are changes, and changes happen in time
+   EVIDENCE: "There are causes only where there are changes, and changes happen in time."
+
+41. VIEW: Universals, if they exist, are causally impotent
+   EVIDENCE: "So universals, if they exist, are causally impotent."
+
+42. VIEW: Many have concluded that universals cannot be known and therefore their existence cannot be granted
+   EVIDENCE: "Many have concluded that, for this reason, they cannot be known and, therefore, that there is no legitimate reason to grant their existence."
+
+43. VIEW: There must be some kind of a causal connection between two things if one is to know of the other
+   EVIDENCE: "The idea is that there must be some kind of a causal connection between two things if one of them is to know of the other."
+
+44. VIEW: For me to see the rock, it is necessary that light rays bouncing off it affect certain sensory surfaces of mine
+   EVIDENCE: "For me to see the rock, it is necessary that light rays bouncing off it affecting certain sensory surfaces of mine."
+
+45. VIEW: For me to know of Socrates' existence, I must be on the receiving end of testimony, which is always some causal process
+   EVIDENCE: "For me to know of Socrates' existence, I must be on the receiving end of testimony, the vehicle for which is always some causal process (noises, light rays bouncing off of ink marks), that can be traced back to some state of affairs involving Socrates."
+
+46. VIEW: There is never awareness where there isn't a causal nexus
+   EVIDENCE: "One obvious way to generalize this line of reasoning is to say that there is never awareness where there isn't a causal nexus."
+
+47. VIEW: A causal connection between two things by itself does not mediate one's having an awareness of the other
+   EVIDENCE: "For reasons given in Chapters 8 and 9, this conception of conception is erroneous; under no circumstances does a causal connection between two things by itself mediate the one's having an awareness of the other."
+
+48. VIEW: There is always a non-causal component to awareness, even to sense-perception
+   EVIDENCE: "There is always a non-causal component to awareness, even to sense-perception, which, of all the many forms of awareness, is the one in which a causal connection between subject and object is most obvious."
+
+49. VIEW: We do have good reasons to countenance the existence of universals, and no good reasons not to
+   EVIDENCE: "Further, for reasons given in Chapter 2, we do have good reasons to countenance the existence of universals, and no good reasons not to."
+
+50. VIEW: Smith might not have crashed even if he'd been drunker than he actually was, had he been driving a car with new tires on an open country road
+   EVIDENCE: "Had he been driving a car with new tires on an open country road, instead of a car with bald tires on a busy city street, Smith might not have crashed even if he'd been drunker than he actually was."
+
+51. VIEW: It wasn't Smith's drunkenness or any other one thing that caused the crash, but a confluence of circumstances
+   EVIDENCE: "So it wasn't Smith's drunkenness or any other one thing that caused the crash, and was instead a confluence of circumstances."
+
+52. VIEW: In some contexts, the relevant partial cause might well be Smith's drunkenness
+   EVIDENCE: "In some contexts-for example, those of a legal or ethical or psychological nature-the relevant partial cause might well be Smith's drunkenness; and that seems to be what we mean when we say that it was the cause."
+
+53. VIEW: The complete cause of anything is very hard to identify
+   EVIDENCE: "The complete cause of anything is very hard to identify."
+
+54. VIEW: It is a matter of philosophical and scientific debate whether anything other than the entire state of the universe just prior to t can be the complete cause of E
+   EVIDENCE: "It is a matter of philosophical and scientific debate whether, given an event E happening at t, anything other than the entire state of the universe just prior to t can be the complete cause of E."
+
+55. VIEW: Smith's being drunk wasn't necessary for his crashing
+   EVIDENCE: "This is false. Smith's being drunk wasn't necessary for his crashing."
+
+56. VIEW: Smith could have crashed if he had been sober but driving too fast on an icy road
+   EVIDENCE: "If he had been sober, but had been driving too fast on an icy road, he might well have crashed."
+
+57. VIEW: Smith's being drunk was a necessary condition for his crashing under the circumstances
+   EVIDENCE: "But his being drunk was a necessary condition for his crashing under the circumstances."
+
+58. VIEW: Smith's being drunk was a necessary condition for his crashing
+   EVIDENCE: "Smith's being drunk was, we may suppose, a necessary condition for his crashing."
+
+59. VIEW: A sufficient condition for Smith crashing the car was fulfilled
+   EVIDENCE: "given that Smith did crash the car, it follows trivially that a sufficient condition for his doing so was fulfilled."
+
+60. VIEW: The sufficient condition for Smith crashing was not necessary
+   EVIDENCE: "whatever that sufficient condition was, it wasn't necessary."
+
+61. VIEW: Smith might have crashed even if he was sober and driving a high-performance vehicle in daylight
+   EVIDENCE: "Smith might have crashed even while, stone cold sober, he'd been driving a high-performance vehicle in broad daylight."
+
+62. VIEW: Aristotle distinguished between four kinds of causality
+   EVIDENCE: "Aristotle (384-322 B.C.) distinguished between four different kinds of causality: efficient, final, material, and formal."
+
+63. VIEW: x is the efficient cause of y if x makes y happen
+   EVIDENCE: "x is the efficient cause of y if x makes y happen."
+
+64. VIEW: x is the final cause of y if y is an action and x is the creature's objective in performing y
+   EVIDENCE: "x is the final cause of y if y is an action on the part of some creature and x is that creature's objective in performing y."
+
+65. VIEW: x is the material cause of y if x is the material that y is made of
+   EVIDENCE: "x is the material cause of y if x is the material that y is made of."
+
+66. VIEW: x is the formal cause of y if x is y's form
+   EVIDENCE: "x is the formal cause of y if x is y's form."
+
+67. VIEW: Properties essential to a thing constitute its essence
+   EVIDENCE: "Those properties that are essential to a given thing jointly constitute its essence;"
+
+68. VIEW: A property is essential to a thing if it cannot lose that property without ceasing to exist
+   EVIDENCE: "a property is essential to a given thing if that thing could not lose that property without for that very reason ceasing to exist."
+
+69. VIEW: The dependence-relation between essences and things is logical or constitutive, not causal
+   EVIDENCE: "The italicized phrase is intended to indicate that the dependence-relation in question is not of a causal nature, and is instead of a logical or constitutive nature."
+
+70. VIEW: Aristotle's belief in essences is incoherent
+   EVIDENCE: "Aristotle's belief that things have essences is an incoherent one,"
+
+71. VIEW: The incoherence of essences pervades Aristotle's conception of causality
+   EVIDENCE: "it's a special case of an incoherence that pervades Aristotle's conception of causality."
+
+72. VIEW: A triangle-shaped object's existence doesn't depend on having three sides
+   EVIDENCE: "But a given triangle-shaped object's continued existence needn't depend on its continuing to have three sides."
+
+73. VIEW: A puddle's existence doesn't depend on consisting of H2O molecules
+   EVIDENCE: "But a given puddle's continuing to exist needn't depend on its consisting of such molecules."
+
+74. VIEW: Dependence-relations hold between events or statements, not objects
+   EVIDENCE: "Contrary to what Aristotle thought, dependence-relations don't hold between objects. They hold between events or between statements, depending on whether they're of a causal or a logical nature."
+
+75. VIEW: Treating children with kindness is essential to their becoming sane adults
+   EVIDENCE: "To say that treating children with kindness is essential to their becoming sane adults is to say that treating a child unkindly prevents them from becoming sane adults."
+
+76. VIEW: The concept of formal causes is incoherent
+   EVIDENCE: "Thus, the concept of a formal cause is an incoherent one."
+
+77. VIEW: The concept of material causes is incoherent
+   EVIDENCE: "So, for the same reason, is the concept of a material cause."
+
+78. VIEW: The concept of efficient causality is coherent
+   EVIDENCE: "The concept of efficient causality clearly is a coherent one."
+
+79. VIEW: There is such a thing as efficient causality
+   EVIDENCE: "There is such a thing as efficient causality."
+
+80. VIEW: Efficient causality is the most fundamental form of causality
+   EVIDENCE: "But it's the most fundamental one."
+
+81. VIEW: Final causes, as goals per se, are not causes
+   EVIDENCE: "If, as Aristotle seems to think, final causes are goals per se, he's wrong to describe them as causes."
+
+82. VIEW: Goals per se do nothing
+   EVIDENCE: "Goals per se do nothing."
+
+83. VIEW: Goals are abstract objects and do no causal work
+   EVIDENCE: "Goals are abstract objects and therefore do no causal work."
+
+84. VIEW: A person's having a goal does causal work
+   EVIDENCE: "What does do causal work is a given person's having a given goal."
+
+85. VIEW: My having the goal to get in shape causes me to jog
+   EVIDENCE: "My having the goal that (*) I, JMK, get in shape obviously does causal work; it causes me to jog around the block for hours on end."
+
+86. VIEW: Goals per se are propositions and not causes
+   EVIDENCE: "In general, goals per se, being propositions, aren't causes at all."
+
+87. VIEW: A person's having a goal is an efficient cause
+   EVIDENCE: "But my having a goal is a garden-variety efficient cause."
+
+88. VIEW: Without the expression 'by virtue of', it would be very hard to say anything meaningful about causal or non-causal explanation
+   EVIDENCE: "Without this expression, or some equivalent, it would be very hard to say anything meaningful about causal explanation-or about non-causal explanation, for that matter."
+
+89. VIEW: The meaning of 'by virtue of' can be understood in terms of two parallel points
+   EVIDENCE: "The meaning of this term is to be understood in terms of two parallel points, namely: (i) it is states of affairs (or events), not objects, that have effects; and (ii) it is propositions, not objects, that stand in dependence-relations."
+
+90. VIEW: States of affairs, not objects, have effects
+   EVIDENCE: "(i) it is states of affairs (or events), not objects, that have effects;"
+
+91. VIEW: Propositions, not objects, stand in dependence-relations
+   EVIDENCE: "(ii) it is propositions, not objects, that stand in dependence-relations."
+
+92. VIEW: Dependence-relations hold between propositions, not objects
+   EVIDENCE: "(iii) dependence-relations hold between propositions, as opposed to objects."
+
+93. VIEW: Smith never loses an argument despite being intellectually mediocre
+   EVIDENCE: "Despite being intellectually mediocre, Smith never loses an argument."
+
+94. VIEW: Smith wins arguments by bullying his opponent into submission
+   EVIDENCE: "He wins arguments, not by addressing points with counterpoints, but by bullying his opponent into submission."
+
+95. VIEW: Smith won an argument with Jones, who is intellectually superior
+   EVIDENCE: "In this way, Smith recently won an argument with Jones, who is Smith's superior intellectually."
+
+96. VIEW: Smith won his argument with Jones by virtue of bullying, not by making good points
+   EVIDENCE: "(A) even though Smith won his argument with Jones, he did so not by virtue of making good points, but by virtue of bullying Jones."
+
+97. VIEW: The cause of Smith's winning was his being a bully, not his being smart
+   EVIDENCE: "What (A) means is that the cause of Smith's winning was his being a bully, and not his being smart."
+
+98. VIEW: Smith could have won by virtue of both being a bully and making good points
+   EVIDENCE: "Importantly, Smith could have won both by virtue of being a bully and by virtue of winning good points."
+
+99. VIEW: Smith's bullyism and making good points could have been co-factors in winning
+   EVIDENCE: "In other words, his bullyism and his making good points could have been co-factors."
+
+100. VIEW: The proposition that x is a triangle entails and is entailed by the proposition about its sides
+   EVIDENCE: "What (B) means is: (C) The proposition that x is a triangle entails, and is entailed by, the proposition that x has three co-planar sides, each of them straight, such that any two of them intersect and such that not all of three of them intersect."
+
+101. VIEW: Nothing could be triangular without being green, and vice versa, due to physical law
+   EVIDENCE: "Suppose that, for reasons of physical law, nothing could be triangular without being green, and nothing could be green without being triangular."
+
+102. VIEW: The fact in virtue of which x is green is spatially and causally indistinguishable from the fact in virtue of which x is triangular
+   EVIDENCE: "In that case, given some green/triangular object x, the fact in virtue of which x is green-in other words, the distribution of mass-energy in virtue of which x was green-would be spatially and causally indistinguishable from the fact in virtue of which x was triangular."
+
+103. VIEW: x is green in virtue of its reflective properties, not its being a closed three-sided figure
+   EVIDENCE: "Nonetheless, it wouldn't be in virtue of its being a closed three-sided (etc.) figure that x was green-it would be in virtue of its having certain reflective properties."
+
+104. VIEW: x is triangular in virtue of its being a three-sided, straight-edged figure, not its reflective properties
+   EVIDENCE: "And it wouldn't be in virtue of its having those reflective properties that x was triangular-it would be in virtue of its being a three-sided, straight-edged (etc.) figure."
+
+105. VIEW: The meaning of (B) is (C)
+   EVIDENCE: "This shows that the meaning of (B) is (C)."
+
+106. VIEW: (A) does not express an entailment but a dependence-relation between statements
+   EVIDENCE: "(A) doesn't express an entailment. But it does express a dependence-relation holding between statements."
+
+107. VIEW: The truth of Smith winning the argument depends on the truth of Smith bullying his opponent
+   EVIDENCE: "The truth of Smith won the argument is, in this context, dependent on the truth of Smith bullied his opponent."
+
+108. VIEW: Dependence-relations hold between propositions, not things
+   EVIDENCE: "and we may therefore condense (i) and (ii) into (iii) Dependence-relations hold between propositions, as opposed to things."
+
+109. VIEW: Functionalism has no plausibility for sensations or anything with phenomenal content
+   EVIDENCE: "Functionalism has no plausibility when it comes to sensations or, more generally, anything that has phenomenal content."
+
+110. VIEW: Functionalism, when restricted to dispositional mental entities, may initially sound plausible
+   EVIDENCE: "Thus restricted, functionalism may initially sound plausible."
+
+111. VIEW: Functionalism has some grisly problems
+   EVIDENCE: "But it has some grisly problems that a story will help to expose."
+
+112. VIEW: Smith was trying to make you drink arsenic
+   EVIDENCE: "your belief that Smith was trying to make you drink arsenic"
+
+113. VIEW: Drinking arsenic would lead to adverse consequences
+   EVIDENCE: "your belief that, were Smith to succeed in making you drink arsenic, you'd suffer some adverse consequence"
+
+114. VIEW: The individual did not want to die
+   EVIDENCE: "your wish to not die"
+
+115. VIEW: Propositional attitudes determine behavior
+   EVIDENCE: "other propositional attitudes of yours were determinative of your behavior"
+
+116. VIEW: The part of the brain that mediates propositional attitudes is not the sole cause of behavior
+   EVIDENCE: "it isn't just x that makes you squirm and fight, and so on"
+
+117. VIEW: Functionalism cannot accommodate the fact that mental states cause behavior
+   EVIDENCE: "But functionalism cannot accommodate this obvious fact"
+
+118. VIEW: According to functionalism, causal relations fix the content of mental states
+   EVIDENCE: "According to functionalism, it is in virtue of what x causes and what causes it that x is a belief that Jones is about to do that"
+
+119. VIEW: Functionalism implies that mental states have no causal powers
+   EVIDENCE: "if functionalism is correct, then the mental does nothing; it has no causal powers at all"
+
+120. VIEW: Functionalism is consistent with the idea that brain-states have causal powers
+   EVIDENCE: "functionalism is consistent with, and in fact depends on, the presumption that the brain-states that mediate mental states have causal powers"
+
+121. VIEW: Functionalism denies the existence of minds
+   EVIDENCE: "functionalism denies the very existence of minds"
+
+122. VIEW: Content-externalism posits that two identical people can have thoughts with different contents due to different causal histories
+   EVIDENCE: "two people, Smith and Twin-Smith, who are exactly the same, leaving aside the remote causes of their current conditions, can have thoughts with different contents"
+
+123. VIEW: Content-externalism is incoherent
+   EVIDENCE: "This view is incoherent"
+
+124. VIEW: If Smith and Twin-Smith switched places, they would not behave or think differently
+   EVIDENCE: "If Smith and Twin-Smith were to switch places, but everything else were held constant, neither would behave or think differently from how he would otherwise do so"
+
+125. VIEW: Differences in mental content between Smith and Twin-Smith are not due to differences in their distal causes
+   EVIDENCE: "Any differences between Smith's and Twin-Smith's thoughts have some basis other than the differences in their distal causes"
+
+126. VIEW: Content-externalism fails to appreciate the concept of 'in virtue of'
+   EVIDENCE: "Content-externalism embodies a failure to appreciate the concept meant by the phrase 'in virtue of'"
+
+127. VIEW: Mental content is causally important and non-existent if content-externalism is correct
+   EVIDENCE: "mental content is causally important, and therefore non-existent, to the extent content-externalism is the right theory about it"
+
+128. VIEW: Tyler Burge's revision of causality to accommodate content-externalism is ad hoc and unnecessary
+   EVIDENCE: "This position borders on incoherence. It's brazenly ad hoc. And it's unnecessary, since the data is easily modeled without it"
+
+129. VIEW: We know of many cases of one event causing another
+   EVIDENCE: "We obviously know of many cases of one event's causing another."
+
+130. VIEW: In each case of one event causing another, the one event is not the efficient cause of the other
+   EVIDENCE: "We are inclined to think that, in each such case, the one event is the efficient cause of the other. Working jointly, Frank Jackson (1943-) and Philip Pettit (1945-) have shown this to be false."
+
+131. VIEW: In almost any known instance of one event causing another, the one event is the program-cause of the other
+   EVIDENCE: "Given almost any known instance of one event's causing another to occur, the one event is the program-cause, not the efficient cause, of the other."
+
+132. VIEW: The flame caused the kettle to heat up
+   EVIDENCE: "We're inclined to think that F caused the kettle to heat up."
+
+133. VIEW: Only a tiny part of the flame's surface was in contact with the kettle
+   EVIDENCE: "But only a tiny part of F's surface was in contact with the underside of the kettle."
+
+134. VIEW: The effect on the kettle would have been the same had the events at the contact points been present
+   EVIDENCE: "Had the events at those contact points been present, the effect on the kettle would have been the same."
+
+135. VIEW: High inflation led to crime, which, coupled with xenophobia, gave the government an incentive to go to war
+   EVIDENCE: "high-inflation led to crime, which, coupled with xenophobia on the part of the populace, gave the government a powerful incentive to scapegoat a foreign nation and go to war with them."
+
+136. VIEW: Causes are more specific than general statements suggest
+   EVIDENCE: "But causes are much more specific than (ii) suggests."
+
+137. VIEW: Crime and xenophobia do not cause things directly
+   EVIDENCE: "Crime doesn't do anything, and neither does xenophobia."
+
+138. VIEW: The impact of the rock on the window caused the window to shatter
+   EVIDENCE: "The impact of the rock on the window caused the window to shatter."
+
+139. VIEW: Only a small part of the rock's surface came into contact with the window
+   EVIDENCE: "Only a small part of the surface of the rock came into contact with the window."
+
+140. VIEW: The effect on the window would have been the same had the events at the contact points happened
+   EVIDENCE: "Had the events at those contact points happened, the effect on the window would have been the same, even if no rock had struck the window."
+
+141. VIEW: Causal statements like (i)-(iii) convey valuable information
+   EVIDENCE: "But statements like (i)-(iii) obviously convey valuable information."
+
+142. VIEW: The form of causality in (i)-(iii) is program-causality
+   EVIDENCE: "The form of causality mentioned in (i)-(iii) is program-causality."
+
+143. VIEW: x is a program-cause of y if x consists of events directly responsible for y
+   EVIDENCE: "x is a program-cause of y if x consists of events that, in their turn, are directly responsible for y."
+
+144. VIEW: A country's being poor consists of various specific states of affairs
+   EVIDENCE: "A country's being poor consists of various specific states of affairs."
+
+145. VIEW: Specific situations that constitute widespread poverty directly cause crimes
+   EVIDENCE: "The specific situations that constitute a condition of wide-spread poverty will directly cause crimes."
+
+146. VIEW: F heats up the pan through events constitutive of F
+   EVIDENCE: "F heats up the pan in the sense that among the events constitutive of F are those that heat up the pan."
+
+147. VIEW: The impact of the rock shattered the window through events constitutive of the impact
+   EVIDENCE: "and it is in the same sense mutatis mutandis that the impact of the rock shattered the window."
+
+148. VIEW: Jackson and Pettit have successfully validated ordinarily causal statements
+   EVIDENCE: "Thus, Jackson and Pettit have successfully validated ordinarily causal statements."
+
+149. VIEW: High-resolution causal information is not always better than low-resolution causal information
+   EVIDENCE: "One would think that high-resolution causal information is better than low-resolution causal information. But this isn't always so."
+
+150. VIEW: Arson on Smith's part caused the house to burn down
+   EVIDENCE: "Arson on Smith's part was the cause. He threw several Molotov cocktails at the house and up in flames it went."
+
+151. VIEW: The micro-story does not give information about Smith's character
+   EVIDENCE: "MS will be worthless in terms of giving us information about Smith's character."
+
+152. VIEW: Macro-stories expose regularities and structures omitted by the micro-story
+   EVIDENCE: "They expose regularities, structures, and counterfactual truths omitted by the micro-story."
+
+153. VIEW: Biology isn't just bad physics, and psychology isn't just bad physiology
+   EVIDENCE: "This shows that biology isn't just bad physics, that psychology isn't just bad physiology."
+
+154. VIEW: Different disciplines deal with different program-causes
+   EVIDENCE: "it shows that different disciplines are dealing with different program-causes."
+
+155. VIEW: Predictions are almost always made on the basis of knowledge of program-causes
+   EVIDENCE: "Predictions are almost always made on the basis of a knowledge of program-causes."
+
+156. VIEW: To predict what's going to happen, one must know of structures that yield certain outputs given certain inputs
+   EVIDENCE: "To predict what's going to happen, one must know of structures that can be depended on to yield certain outputs, given certain inputs."
+
+157. VIEW: Sub-structural facts tend to be small
+   EVIDENCE: "First, sub-structural facts tend to be small-literally small."
+
+158. VIEW: The process of learning about sub-structural facts tends to disrupt them in prediction-foiling ways
+   EVIDENCE: "And when they can be known, the process of learning about them tends to disrupt them in prediction-foiling ways."
+
+159. VIEW: Structures comprise back-up mechanisms that ensure a certain outcome
+   EVIDENCE: "Also, structures comprise back-up mechanisms that ensure a certain outcome even if, because of some hidden variable, some rogue, structure-unfriendly event makes it through the gauntlet."
+
+160. VIEW: Structures incorporate a certain amount of causal redundancy
+   EVIDENCE: "It's of the essence of structures that a certan amount of causal redundancy be incorporated into them."
+
+161. VIEW: Where there isn't causal redundancy, predictions are easily foiled
+   EVIDENCE: "Where there isn't such redundancy, predictions are easily foiled, since there is nothing to absorb the ripple-effects created by some rogue occurrence."
+
+162. VIEW: Knowledge of explanations is dependent on structures and program-causes
+   EVIDENCE: "Given the dependence of predictive knowledge on structures and, therefore, on program-causes, it follows that knowledge of explanations is comparably dependent."
+
+163. VIEW: Explanation is reverse-prediction
+   EVIDENCE: "explanation is reverse-prediction."
+
+164. VIEW: One predicts X when one identifies current conditions that make X's occurrence likely
+   EVIDENCE: "One predicts X when one identifies current conditions that, given known mechanisms, make X's occurrence likely."
+
+165. VIEW: One explains X when one identifies past conditions that resulted in X's occurrence
+   EVIDENCE: "One explains X when one identifies past conditions that, given known mechanisms, resulted in X's occurrence."
+
+166. VIEW: The concept of a program-cause is central to the concepts of prediction and explanation
+   EVIDENCE: "The concept of a program-cause, which was, so far as I know, first clearly analyzed by Pettit and Jackson, is therefore central to the concepts of prediction and explanation"
+
+167. VIEW: The concept of a program-cause is central to the theory of knowledge
+   EVIDENCE: "The concept of a program-cause...is...central...to the theory of knowledge."
+
+168. VIEW: Hume's first analysis of causality is that causality equals regularity
+   EVIDENCE: "5.0 Hume's first analysis of causality: causality = regularity"
+
+169. VIEW: According to Hume, nothing makes anything happen
+   EVIDENCE: "According to David Hume, nothing makes anything happen."
+
+170. VIEW: Hume believes there are no forces or structures underlying events
+   EVIDENCE: "There are no forces or structures underlying the various events that occur."
+
+171. VIEW: Hume accepts a very strict form of empiricism
+   EVIDENCE: "Because he accepts a very strict form of empiricism"
+
+172. VIEW: Empiricism is the doctrine that what is known is either directly observed or inferred from direct observation
+   EVIDENCE: "this being the doctrine that what is known is either (i) directly observed to be the case or (ii) is inferred from what is directly observed in accordance with inference-rules of whose legitimacy direct observation has apprised one."
+
+173. VIEW: Hume believes we do not observe connections between events
+   EVIDENCE: "Do we observe connections between events, Hume asks? No-we only observe the events."
+
+174. VIEW: Hume's conditions for empirical grounds of causation include that E1 immediately preceded E2
+   EVIDENCE: "E1 immediately preceded E2"
+
+175. VIEW: Hume's conditions for empirical grounds of causation include that E1 and E2 are adjacent
+   EVIDENCE: "E1 and E2 are adjacent"
+
+176. VIEW: Hume's conditions for empirical grounds of causation include that any event similar to E1 immediately precedes and is adjacent with some event similar to E2
+   EVIDENCE: "any event similar to E1 immediately precedes, and is adjacent with, some event similar to E3."
+
+177. VIEW: If there were a spatial or temporal gap between two events, we'd be unjustified in believing the first to be a direct cause of the second
+   EVIDENCE: "If there were a spatial or temporal gap between the two events, we'd be unjustified in believing the first to be a direct cause of the second."
+
+178. VIEW: If events similar to E1 weren't typically adjacent with, and immediately followed by, events similar to E2, we'd have no reason to think that E1's occurring had anything to do with E2's occurring
+   EVIDENCE: "If events similar to E1 weren't typically adjacent with, and immediately followed by, events similar to E2, we'd have no reason to think that E1's occurring had anything to do with E2's occurring."
+
+179. VIEW: Hume proposes that E1 causes E2 to occur if E1 immediately precedes and is adjacent with E2, and any event similar to E1 immediately precedes and is adjacent with some event similar to E2
+   EVIDENCE: "(HC1) E1 causes E2 to occur if E1 immediately precedes and is adjacent with E2, and any event similar to E1 immediately precedes and is adjacent with some event similar to E2."
+
+180. VIEW: Hume's analysis of causation doesn't distinguish between actual causation and pseudo-causation
+   EVIDENCE: "5.1 Problem #1 with Hume's analysis: It doesn't distinguish between actual causation and pseudo-causation"
+
+181. VIEW: Hume's analysis is untenable
+   EVIDENCE: "This analysis is untenable."
+
+182. VIEW: Fido's antics did not cause the earthquake
+   EVIDENCE: "Given that Fido's antics obviously didn't cause the earthquake"
+
+183. VIEW: Hume's analysis is wrong because it cannot distinguish epiphenomenal causation from actual causation
+   EVIDENCE: "Hume's analysis cannot distinguish epiphenomenal causation from actual causation."
+
+184. VIEW: Hume's analysis entails that events can't be space-time neighbors without one of them causing the other to occur
+   EVIDENCE: "5.2 Problem #2: Hume's analysis entails that events can't be space-time neighbors without one of them causing the other to occur"
+
+185. VIEW: It's easy to find categories K1 and K2 such that E1 and E2 belong to K1 and K2, respectively, and such that any instance of K1 immediately precedes, and is adjacent with, some instance of K2
+   EVIDENCE: "it's easy to find categories K1 and K2 such that E1 and E2 belong to K1 and K2, respectively, and such that any instance of K1 immediately precedes, and is adjacent with, some instance of K2."
+
+186. VIEW: Hume's analysis has the false consequence that the hug caused the heart attack
+   EVIDENCE: "So Hume's analysis has the false consequence that the hug caused the heart attack."
+
+187. VIEW: Not all spatiotemporally adjacent events are related as cause and effect
+   EVIDENCE: "Since not all such pairs of events are related as cause and effect, Hume's analysis is false."
+
+188. VIEW: The categories in question must be relevant ones
+   EVIDENCE: "The categories in question must be relevant ones."
+
+189. VIEW: Hume's analysis must be modified to include relevant similarity
+   EVIDENCE: "Instead of: (HC1) E1 causes E2 to occur if E1 immediately precedes and is adjacent with E2, and any event similar to E1 immediately precedes and is adjacent with some event similar to E2, Hume should have said: (HCI#) E1 causes E2 to occur if E1 immediately precedes and is adjacent with E2, and any event relevantly similar to E1 immediately precedes and is adjacent with some event relevantly similar to E2."
+
+190. VIEW: The proposal to modify Hume's analysis to include relevant similarity doesn't work
+   EVIDENCE: "This proposal doesn't work."
+
+191. VIEW: Hume's analysis is powerless to tell us whether one event caused another given any two spatiotemporally adjacent events
+   EVIDENCE: "Hume's analysis is powerless to tell us whether the one caused the other"
+
+192. VIEW: Hume's analysis is viciously circular
+   EVIDENCE: "Hume's analysis is viciously circular."
+
+193. VIEW: Hume analyzes the concept of causality in terms of the concepts of space and time
+   EVIDENCE: "Hume analyzes the concept of causality in terms of the concepts of space and time."
+
+194. VIEW: The concepts of space and time are to be understood in terms of the concept of causality
+   EVIDENCE: "the concepts of space and time are to be understood in terms of the concept of causality"
+
+195. VIEW: Hume's analysis is viciously circular because it analyzes causality in terms of itself
+   EVIDENCE: "Hume's analysis is viciously circular for this reason."
+
+196. VIEW: Order in time is to be understood in causal terms
+   EVIDENCE: "Order in time is thus to be understood in causal terms."
+
+197. VIEW: Order in space is to be understood in causal terms
+   EVIDENCE: "So is order in space."
+
+198. VIEW: Events happen in different places if something can affect the one that cannot affect the other
+   EVIDENCE: "Events happen in different places if, and only if, something can affect the one that cannot affect the other."
+
+199. VIEW: If x and y are in coincident places, nothing can affect the one without affecting the other
+   EVIDENCE: "If x and y are in coincident places, nothing can affect the one without affecting the other."
+
+200. VIEW: If x and y are not in coincident places, something can affect the one without affecting the other
+   EVIDENCE: "If x and y are not in coincident places, something can affect the one without affecting the other."
+
+201. VIEW: x and y are in different places exactly if something affecting the one may fail to affect the other
+   EVIDENCE: "Thus, x and y are in different places exactly if something affecting the one may fail to affect the other."
+
+202. VIEW: Saying that x and y occupy distinct but adjacent places or the same place is making a causal statement
+   EVIDENCE: "Thus, if one says that x and y occupy distinct but adjacent places, or that they occupy some one place, one is ipso facto making a causal statement."
+
+203. VIEW: Hume's analysis of causality is circular because it analyzes causality in terms of spatiotemporal adjacency
+   EVIDENCE: "Thus, Hume's analysis of causality is circular, given that it analyzes ‹x causes y to occur› in terms of ‹x is spatiotemporally adjacent with y.›"
+
+204. VIEW: It is meaningless to say that object x moved but that its causal liaisons to other objects didn't change
+   EVIDENCE: "It would be meaningless to say that object x moved but that its causal liaisons to other object didn't change for that very reason."
+
+205. VIEW: If I approach you, my causal relations to you change, and so do your causal relations to me
+   EVIDENCE: "If I approach you, my causal relations to you change, and so do your causal relations to me."
+
+206. VIEW: The concept of spatial occupancy is a causal concept
+   EVIDENCE: "Also, the concept of spatial occupancy is a causal concept."
+
+207. VIEW: To occupy a place is to make it harder for other things to enter that place
+   EVIDENCE: "To occupy a place is to make it harder, other things equal, than it would otherwise be for other things to enter that place."
+
+208. VIEW: Hume analyzes causality in terms of the concept of spatial occupancy
+   EVIDENCE: "Hume analyzes causality in terms of the concept of spatial occupancy."
+
+209. VIEW: E1 causes E2 only if they occupy adjacent or coincident spaces
+   EVIDENCE: "E1 causes E2 only if they occupy adjacent, or coincident, spaces."
+
+210. VIEW: Hume's analysis analyzes causality in terms of itself and therefore doesn't analyze it at all
+   EVIDENCE: "But since E1's (or E2's) occupancy of a place is itself to be understood in causal terms, Hume's analysis analyzes causality in terms of itself and therefore doesn't analyze it at all."
+
+211. VIEW: Being adjacent with y is a relation that holds directly between x and y
+   EVIDENCE: "being adjacent with y is a relation that holds directly between x and y"
+
+212. VIEW: To say that some position bears a certain relation to another position is to say that some event bears a certain relation to some other event
+   EVIDENCE: "to say that some position bears a certain relation to another position is to say that some event bears a certain relation to some other event"
+
+213. VIEW: The fact described by IP consists in x's occupying some position that bears a certain relation to a position occupied by y
+   EVIDENCE: "the fact described by IP consists in x's occupying some position that bears a certain relation to a position that is, in turn, occupied by y"
+
+214. VIEW: It is only because the positions they occupy are adjacent that x and y are adjacent
+   EVIDENCE: "it is only because the positions they occupy are adjacent that x and y are adjacent"
+
+215. VIEW: The second view presupposes that there are event-independent, and thus absolute, spatiotemporal positions
+   EVIDENCE: "the second view presupposes that there are event-independent, and thus absolute, spatiotemporal positions"
+
+216. VIEW: Hume's analysis presupposes the correctness of the second view
+   EVIDENCE: "Since Hume's analysis presupposes the correctness of the second view"
+
+217. VIEW: Hume's analysis is refuted by the very empirical and philosophical arguments that show the concept of absolute position to be an untenable one
+   EVIDENCE: "Hume's analysis is refuted by the very empirical and philosophical arguments that show the concept of absolute position to be an untenable one"
+
+218. VIEW: Hume says that we don't observe forces
+   EVIDENCE: "Hume says that we don't observe forces"
+
+219. VIEW: When you are trying to lift a heavy suitcase or trying to arm wrestle a much stronger person, you are observationally aware of a force
+   EVIDENCE: "When you are trying to lift a heavy suitcase or trying to arm wrestle a much stronger person, you are, so it would seem, observationally aware of a force"
+
+220. VIEW: Hume says that what you are aware of is a mere sequence of events
+   EVIDENCE: "he says that what you are aware of is a mere sequence of events"
+
+221. VIEW: You don't perceive any force in all this
+   EVIDENCE: "But, Hume says, you don't perceive any force in all this"
+
+222. VIEW: It's a datum that you feel your arm being forced to move in a way you don't want it to be
+   EVIDENCE: "It's a datum that you feel your arm being forced to move in a way you don't want it to be"
+
+223. VIEW: This feeling might be an hallucination
+   EVIDENCE: "Maybe it's an hallucination, like one's visual perception of a pink elephant"
+
+224. VIEW: If you left out the part about how you felt as though your arm was being moved the wrong way, you'd be seriously underdescribing your experience
+   EVIDENCE: "If, in describing your arm-wrestling experience, you left out the part about how you felt as though your arm was being moved the wrong way, you'd be seriously underdescribing your experience"
+
+225. VIEW: If the observational evidence is taken at face value, there are forces
+   EVIDENCE: "if the observational evidence is taken at face value, there are forces"
+
+226. VIEW: Hume's denial of causality cannot be based on strictly empirical grounds
+   EVIDENCE: "Hume's denial of causality cannot, if legitimate, be based on strictly empirical grounds"
+
+227. VIEW: Hume's empirical argument against causation is only as good as some other, purely a priori argument
+   EVIDENCE: "And this means that his empirical argument against causation is only as good as some other, purely a priori argument"
+
+228. VIEW: The very concept of a force is an incoherent one
+   EVIDENCE: "The very concept of a force is an incoherent one"
+
+229. VIEW: Forces would be no more capable than vases and rocks of constituting the 'cement' of the universe
+   EVIDENCE: "They would thus be no more capable than vases and rocks and so forth of constituting the 'cement' of the universe"
+
+230. VIEW: The idea of a force that wasn't that sort of cement is a contradiction in terms
+   EVIDENCE: "The idea of a force that wasn't that sort of cement-that didn't glue events together-is a contradiction in terms"
+
+231. VIEW: Hume's argument about the incoherence of the concept of force is no good
+   EVIDENCE: "Therefore, this argument of Hume's is no good"
+
+232. VIEW: Hume's analysis of causality is no good
+   EVIDENCE: "Therefore Hume's analysis of causality is no good"
+
+233. VIEW: Hume gives two analyses of causation
+   EVIDENCE: "Hume gives two analyses of causation"
+
+234. VIEW: According to the counterfactual analysis of causality, for E1 to cause E2 to occur is for it to be the case that E2 wouldn't have occurred unless E1 had occurred
+   EVIDENCE: "According to the second, for E1 to cause E2 to occur is for it to be the case that E2 wouldn't have occurred unless E1 had occurred"
+
+235. VIEW: The motivation for the counterfactual analysis of causality is clear
+   EVIDENCE: "The motivation for CF is clear"
+
+236. VIEW: The counterfactual analysis of causality must be distinguished from the related, but weaker claim
+   EVIDENCE: "CF must be distinguished from the related, but weaker claim that"
+
+237. VIEW: CF and CF* are extensionally equivalent
+   EVIDENCE: "CF and CF*, though different statements, are extensionally equivalent"
+
+238. VIEW: If CF is to be correct, it must be extensionally correct
+   EVIDENCE: "If CF is to be correct, it must be extensionally correct"
+
+239. VIEW: The one is extensionally correct iff the other is as well
+   EVIDENCE: "the one is extensionally correct iff the other is as well"
+
+240. VIEW: It may well be true that Jones wouldn't have died if he hadn't drunk poison
+   EVIDENCE: "It may well be true that: (SB) Jones wouldn't have died if he hadn't drunk poison"
+
+241. VIEW: Smith dies in our world because he drank poison
+   EVIDENCE: "In our world, the cause is present."
+
+242. VIEW: Smith does not die in world W because he did not drink poison
+   EVIDENCE: "In W, it isn't."
+
+243. VIEW: WB's truth is understood in terms of the fact that Smith's drinking poison killed him in our world
+   EVIDENCE: "WB's truth is to be understood in terms of the fact that, in our world, Smith's drinking the poison is what killed him."
+
+244. VIEW: SB does not constitute an analysis of the statement 'Jones died because he drank the poison'
+   EVIDENCE: "So SB no more constitutes an analysis of the statement 'Jones died because he drank the poison' than 'Smith believes that 3 + 3 = 6' constitutes an analysis of any fact about arithmetic."
+
+245. VIEW: Smith's belief that 3 + 3 = 6 is understood in terms of the truth of that statement
+   EVIDENCE: "And just as Smith's believing that 3 + 3 = 6 is to be understood in terms of the truth of that statement, so WB is to be understood in terms of the truth of SB and thus in terms of the fact that Smith's drinking poison is what killed him."
+
+246. VIEW: The statement 'E2 wouldn't have occurred where E1 did not' is understood in terms of E1 causing E2
+   EVIDENCE: "In general, 'E2 wouldn't have occurred where E1 did not,' when true, is to be understood in terms of the fact that E1's occurring is what caused E2."
+
+247. VIEW: CF is not an analysis of the concept of causality
+   EVIDENCE: "So even if CF is extensionally correct, it's no analysis of the concept of causality."
+
+248. VIEW: The concept of counterfactual truth may be explained in terms of causality
+   EVIDENCE: "CF assumes that the concept of counterfactual truth is not itself to be explained in terms of the concept of causality. But that may well be false."
+
+249. VIEW: SB is equivalent or nearly so with 'Falling off the building caused an otherwise unthreatened Smith to die'
+   EVIDENCE: "The statement: (SB) If Smith hadn't fallen off the building, he wouldn't have died seems to be equivalent, or nearly so, with: (SB*) Falling off the building caused an otherwise unthreatened Smith to die."
+
+250. VIEW: Not all counterfactuals register causal facts
+   EVIDENCE: "Not all counterfactuals register causal facts."
+
+251. VIEW: SH is analytically true while SB is non-analytically true
+   EVIDENCE: "Notice that SH is analytically true, whereas SB is non-analytically true."
+
+252. VIEW: Counterfactuals are disguised causal or logical assertions
+   EVIDENCE: "It thus seems to me that counterfactuals are just disguised causal or logical assertions and that, consequently, alternative worlds have no place in any decent analysis of them."
+
+253. VIEW: CF is guilty of vicious circularity
+   EVIDENCE: "In any case, these cases provide us with evidence that counterfactual truth is itself to be understood in terms of causality and, therefore, that CF is guilty of vicious circularity."
+
+254. VIEW: CF assumes no causal redundancy in the world
+   EVIDENCE: "CF assumes that that there's no causal redundancy in the world-that, were a given mechanism to fail, nothing would step into the breech."
+
+255. VIEW: The statement 'the cause of Smith's death was electrocution' is not equivalent to 'if Smith hadn't been electrocuted, he would not have died'
+   EVIDENCE: "Thus, the statement 'the cause of Smith's death was electrocution' isn't equivalent with 'if Smith hadn't been electrocuted, he would not have died.'"
+
+256. VIEW: CF has trouble dealing with cases of causal redundancy
+   EVIDENCE: "And this seems to show that CF is wrong."
+
+257. VIEW: Smith died in a very specific way
+   EVIDENCE: "Smith didn't just die; he died in a very specific way."
+
+258. VIEW: Smith wouldn't have died in the same way if he had been shot instead of electrocuted
+   EVIDENCE: "And he wouldn't have died that way if, instead of being electrocuted, he'd been shot."
+
+259. VIEW: Counterexamples to CF appear when events are seriously underdescribed
+   EVIDENCE: "This suggests that it's only when events are seriously underdescribed that there appear to be counterexamples to CF."
+
+260. VIEW: The doorbell example shows that CF doesn't always work
+   EVIDENCE: "But this maneuver doesn't always work."
+
+261. VIEW: Lewis considers other worlds as real space-time manifolds
+   EVIDENCE: "Lewis sees this and, for this very reason, he holds that the worlds in question are real worlds-space-time manifolds populated by events and objects."
+
+262. VIEW: Lewis is a realist about other worlds
+   EVIDENCE: "Lewis is thus a realist about other worlds."
+
+263. VIEW: The standard objection to Lewis' analysis is the uncertainty about the existence of other worlds
+   EVIDENCE: "We don't know if there are other worlds."
+
+264. VIEW: Even if other worlds exist, we don't know anything about them
+   EVIDENCE: "What we do know is that, even if there are other worlds, we don't know anything about them."
+
+265. VIEW: Nothing happening in other worlds justifies our beliefs or provides the basis for our counterfactual knowledge
+   EVIDENCE: "So nothing happening in these other worlds, if they even exist, justifies these beliefs or, therefore, provides the basis for our counterfactual knowledge."
+
+266. VIEW: Counterfactuals, when true, hold in virtue of states of affairs in alternative worlds
+   EVIDENCE: "But let's start out by granting Lewis' assumption that counterfactuals, when true, hold in virtue of states of affairs that obtain in veritable alternative worlds."
+
+267. VIEW: If Smith had not shot Jones, Jones would be alive
+   EVIDENCE: "If Smith had not shot Jones, Jones would be alive."
+
+268. VIEW: According to LA, in a world where Smith doesn't shoot Jones, Jones is alive
+   EVIDENCE: "in W*, Jones is alive."
+
+269. VIEW: Smith's shooting Jones has a cause
+   EVIDENCE: "That event has a cause."
+
+270. VIEW: Smith's intention to kill Jones is part of the cause of the shooting
+   EVIDENCE: "Presumably E has as at least one of its ingredients Smith's intention to kill Jones."
+
+271. VIEW: The cause of Smith's shooting Jones cannot occur in W*
+   EVIDENCE: "But whatever E is, it can't occur in W*, at least not in its entirety."
+
+272. VIEW: In W*, Smith's hand seizes up before he pulls the trigger
+   EVIDENCE: "in W* Smith's hand seizes up just before he pulls the trigger; the gun drops; Jones gets away."
+
+273. VIEW: The event that causes Smith's hand to seize up in W* also has a cause
+   EVIDENCE: "E* didn't just come out of nowhere; it itself had a cause."
+
+274. VIEW: A long chain of events in W* does not occur in W
+   EVIDENCE: "So, in W*, we have a long chain of events (E*1....E*n) not a single one of which occurs in W."
+
+275. VIEW: Two worlds cannot differ with respect to a single event without differing in all causal antecedents
+   EVIDENCE: "Two worlds cannot differ with respect to a single event unless they differ with respect to all of the causal antecedents of those events."
+
+276. VIEW: Differences between worlds can go back to the beginning of time
+   EVIDENCE: "given that those go back to the beginning of time, that means that they'll differ a lot"
+
+277. VIEW: Some events in our world may be completely uncaused
+   EVIDENCE: "It may be that some events are completely and entirely uncaused."
+
+278. VIEW: Smith's shooting Jones is not an uncaused event
+   EVIDENCE: "Smith's shooting Jones (in W) is an extremely complex event, involving innumerably causally cohesive parts and having deep roots in the past."
+
+279. VIEW: A logical analysis of counterfactuals cannot assume empirical facts not in evidence
+   EVIDENCE: "A logical analysis of LASK can't assume the results of empirical facts not in evidence"
+
+280. VIEW: If Smith's hand seizes up in W*, there will be at least one other world where it doesn't or something else leads to Jones being killed
+   EVIDENCE: "If, in W*, Smith's hand just seizes up, then there will be at least one other world-call it W#-such that W# is just like W* except that, in W#, Smith's hand didn't seize up or, if it did, something else happened that led to Jones being killed."
+
+281. VIEW: LASK will be false if there's a world where Jones dies despite the conditions
+   EVIDENCE: "In which case, LASK will be false. For, contrary to what LASK says, there would be a world satisfying the relevant conditions in which Jones dies."
+
+282. VIEW: It's not a good idea to posit causal slack in worlds used to validate counterfactuals
+   EVIDENCE: "It's not a good idea, in general, to posit causal slack in the worlds we want to validate our counterfactuals, since that same policy makes those very worlds unreliable in the way of validating our counterfactuals."
+
+283. VIEW: Lewis' way of dealing with the problem involves a miracle in W*
+   EVIDENCE: "Lewis' own way of dealing with the problem is different from those just considered. In his view, some miracle happens in W* that prevents E from occurring there."
+
+284. VIEW: If a world validates LASK, there is a miracle in it
+   EVIDENCE: "Lewis is saying that, if a world validates LASK, there is some miracle in it (at a certain time, in a certain place)."
+
+285. VIEW: W* validates MLASK if it validates LASK
+   EVIDENCE: "So W*, by virtue of being able to validate LASK, also validates the following counterfactual: (MLASK) If Smith had not shot Jones, then a miracle would have happened."
+
+286. VIEW: W* is a world where Smith doesn't shoot Jones but is otherwise like our world
+   EVIDENCE: "W* is, by hypothesis, a world where Smith doesn't shoot Jones but is otherwise maximally like our world."
+
+287. VIEW: MLASK isn't a true counterfactual
+   EVIDENCE: "But MLASK isn't a true counterfactual."
+
+288. VIEW: If a miracle is needed to validate MLASK, it's needed for any counterfactual
+   EVIDENCE: "And, of course, if a miracle is needed to validate MLASK, then a miracle will be needed to validate any counterfactual."
+
+289. VIEW: Smith's shooting Jones involves trillions of mass-energy displacements
+   EVIDENCE: "Also, Smith's (actually) shooting Jones is an enormously complex event, involving trillions upon trillions of mass-energy displacements."
+
+290. VIEW: In W*, trillions of miracles are needed to prevent those events
+   EVIDENCE: "In W*, those events can't happen. Which means that, in W*, it isn't just one miracle that has to happen: it's trillions upon trillions of them."
+
+291. VIEW: W*'s relevance is questionable due to the need for trillions of miracles
+   EVIDENCE: "Which, in its turn, makes W*'s relevance in this context extremely questionable."
+
+292. VIEW: To validate LASK, W* must be doctored
+   EVIDENCE: "We're finding that, in order to get W* to validate LASK, we have to doctor it-to mutilate it."
+
+293. VIEW: The need to tamper with W* to validate LASK proves LA is wrong
+   EVIDENCE: "But the very fact that we have to tamper with it-that we must employ such artifices to find a world that, in keeping with LA, can validate LASK-practically proves that LA is wrong."
+
+294. VIEW: A theory supported only by doctored data is bad
+   EVIDENCE: "A theory that only doctored data supports is a bad theory, and Lewis' analysis of counterfactuals is untenable or, at the absolute least, grossly undersupported."
+
+295. VIEW: Counterfactuals are identical with causal statements
+   EVIDENCE: "If we're right, counterfactuals are identical with causal statements."
+
+296. VIEW: According to Hume, nothing makes anything happen
+   EVIDENCE: "According to David Hume, nothing makes anything happen."
+
+297. VIEW: It's hard to see how anything could cause anything if Hume is right
+   EVIDENCE: "If Hume is right, it's hard to see how anything could, in any real sense, cause anything to happen."
+
+298. VIEW: Lewis accepts Hume's analysis
+   EVIDENCE: "David Lewis accepts Hume's analysis."
+
+299. VIEW: Lewis and Hume are hardcore empiricists and reject the idea of forces
+   EVIDENCE: "This is because, like Hume, Lewis is a hardcore empiricist and, for the same reasons as Hume, rejects the idea that there are forces."
+
+300. VIEW: Lewis thinks denying causality goes too far
+   EVIDENCE: "But Lewis rightly thinks that denying the existence of causality is going too far."
+
+301. VIEW: Lewis believes that a realistic attitude towards other worlds can reconcile causality with Humeanism
+   EVIDENCE: "He sees that, given a realistic attitude towards other worlds along with an acceptance of the counterfactual analysis of causality, the presumption that events cause other events to occur can be reconciled with Humeanism."
+
+302. VIEW: We can't sense-perceive what is going on in other worlds
+   EVIDENCE: "We obviously can't see or otherwise sense-perceive what is going on in other worlds; nor can we can sense-perceive evidence of what is going on in such worlds."
+
+303. VIEW: Our knowledge of counterfactual truths is not based on other worlds
+   EVIDENCE: "Any knowledge that we have of what is going on in them is parasitic on our knowledge of counterfactual truths."
+
+304. VIEW: Our knowledge of counterfactuals is based on facts in our world
+   EVIDENCE: "This shows that we know (i) to be true because we know of some fact in our world that coincides with the fact registered by (i)."
+
+305. VIEW: Other worlds have nothing to do with counterfactual truth
+   EVIDENCE: "Which, in its turn, shows that other worlds have nothing to do with counterfactual truth."
+
+306. VIEW: LA is false because other worlds don't contribute to counterfactual truth
+   EVIDENCE: "Which shows that LA is false."
+
+307. VIEW: Statements about the past confirm statements about the future
+   EVIDENCE: "In keeping with common sense, I believe that statements about the past confirm statements about the future and, more generally, that statements about the known confirm statements about the unknown."
+
+308. VIEW: It is hard to reconcile the belief in confirmation with Humeanism
+   EVIDENCE: "It is hard to reconcile this belief with Humeanism."
+
+309. VIEW: Lewis is the only Humean who has come close to reconciling Humeanism with confirmation
+   EVIDENCE: "David Lewis is the only Humean who has even come close to succeeding in showing Humeanism to be compatible with the presumption that statements about the known can confirm statements about the known."
+
+310. VIEW: At time t, there are 10 balls in the urn, 9 white and 1 black
+   EVIDENCE: "Let's suppose that: (BU) At time t, there are 10 balls in the urn. Nine are white. The other one is black."
+
+311. VIEW: There are 10 balls in the urn.
+   EVIDENCE: "in the urn besides these 10 balls."
+
+312. VIEW: BU isn't analytic.
+   EVIDENCE: "Even though BU isn't analytic"
+
+313. VIEW: The statements composing BU are not analytic.
+   EVIDENCE: "and neither are the statements composing it"
+
+314. VIEW: Given BU, it is analytic that BB holds.
+   EVIDENCE: "it seems obvious that, given BU, it is analytic that BB holds."
+
+315. VIEW: BB isn't analytic.
+   EVIDENCE: "But it isn't analytic; it isn't even true."
+
+316. VIEW: Given only BU, you are no more entitled to think that you'll withdraw a white ball than you are entitled to think that you'll withdraw a black ball or a green ball or an iguana.
+   EVIDENCE: "Given only BU, you are no more entitled to think that you'll withdraw a white ball than you are entitled to think that you'll withdraw a black ball or a green ball or an iguana."
+
+317. VIEW: BB is analytic given BU and some reasonable assumptions.
+   EVIDENCE: "It may be that, given BU along with some reasonable assumptions (e.g., that it isn't a law of physics that white objects cannot be displaced or that, at time t, all white balls in urns turn into black balls or green balls or iguanas), BB is analytic."
+
+318. VIEW: If any one of the parenthetical assumptions is false, you have no chance, given BU, of pulling a white ball out of the urn.
+   EVIDENCE: "But if any one of the parenthetical assumptions is false, you have no chance, given BU, of pulling a white ball out of the urn."
+
+319. VIEW: The parenthetical assumptions, though perhaps obvious, aren't analytic.
+   EVIDENCE: "Since these assumptions, though perhaps obvious, aren't analytic"
+
+320. VIEW: BB doesn't analytically follow from BU.
+   EVIDENCE: "BB doesn't analytically follow from BU."
+
+321. VIEW: WB comes out true only if the word 'selected' is taken in a totally atemporal sense.
+   EVIDENCE: "It is only if that word is taken in some totally atemporal sense that WB comes out true."
+
+322. VIEW: When taken atemporally, WB says only that nine out of 10 balls in the urn are white if nine out of them are white.
+   EVIDENCE: "But, thus taken, WB says only that nine out of 10 balls in the urn are white if nine out of them are white."
+
+323. VIEW: The statement about selecting an orange from a barrel with 10 apples and 3 oranges is false.
+   EVIDENCE: "The statement: (*) given that, at time t, there are 10 apples in the barrel and only three oranges (and no other objects), your chances at time t* of selecting an orange are 3 in 13 is false."
+
+324. VIEW: (*1) is true only if it coincides with the trivial claim about the ratio of oranges to non-oranges.
+   EVIDENCE: "More precisely, (*1) is true only if it coincides with the trivial claim that, if 3 out of the 13 objects in the barrel is an orange, the ratio at that time of oranges to non-oranges is 3 to 13."
+
+325. VIEW: Even a Humean can grant the truth of trivial probability statements.
+   EVIDENCE: "Of course, even a Humean can grant the truth of trivial probability statements, such as (*)."
+
+326. VIEW: If non-trivial probability statements could be identified with trivial ones, the Humean would be able to accommodate the presumption that non-trivial probability statements are correct.
+   EVIDENCE: "So if, by some remote chance, it could be shown that non-trivial probability statements (e.g., given that, in the past, all metal has expanded when heated, it will probably continue to do so) could be identified with trivial ones, the Humean would be able to accommodate the presumption, so crucial to thought and scientific explanation, that non-trivial probability statements are correct."
+
+327. VIEW: Probability judgments are rational within a Humean framework when they redescribe statistics
+   EVIDENCE: "Probability judgments are rational when they merely redescribe statistics"
+
+328. VIEW: Probability judgments are irrational within a Humean framework when they involve extrapolations
+   EVIDENCE: "Probability judgments are irrational, given a Humean framework, when they involve extrapolations."
+
+329. VIEW: Lewis' metaphysical apparatus allows him to sidestep the problem of irrational probability judgments
+   EVIDENCE: "Lewis' metaphysical apparatus gives him a way of sidestepping this problem."
+
+330. VIEW: It is reasonable to judge that a window will shatter upon impact based on past occurrences
+   EVIDENCE: "it's reasonable to judge that, the next time such a rock strikes such a window, the window will shatter."
+
+331. VIEW: The non-Lewisian Humean cannot validate presumptions about future events based on past occurrences
+   EVIDENCE: "The non-Lewisian Humean is stuck; he has no way to validate this presumption."
+
+332. VIEW: The Lewisian Humean can validate presumptions about future events by redescribing what is already there
+   EVIDENCE: "For the Lewisian Humean, such judgments merely redescribe what is already there."
+
+333. VIEW: Judgments about future events in the Lewisian framework are based on the number of worlds where events occur
+   EVIDENCE: "To say that next time such a collision occurs the window is likely to break is to say that there are more worlds where it does break than where it doesn't."
+
+334. VIEW: Judgments about the probability of drawing a specific card from a deck are trivial
+   EVIDENCE: "If it's given that exactly one of the cards in the deck is a King of Spades, it follows trivially that, given an arbitrary card, it has a 1 in 52 chance of being a King of Spades."
+
+335. VIEW: Judgments about future window collisions are as trivial as card probability judgments
+   EVIDENCE: "Our judgments about what will happen to windows in future collisions are equally trivial."
+
+336. VIEW: Lewis' analysis (LA) is clever but false
+   EVIDENCE: "LA is obviously a clever analysis. But it's false, and it's clear why."
+
+337. VIEW: Knowledge of what happens in other worlds after time t is at least as uncertain as knowledge of our own world's future
+   EVIDENCE: "Any knowledge we have of what happens in other worlds after t will be at least as uncertain as our knowledge of what happens in our own world after t."
+
+338. VIEW: Knowledge of other worlds is based on knowledge of our own world
+   EVIDENCE: "any knowledge that we have of what happens after t in other worlds will be based on our knowledge, so far as we have any, of what happens after t in our world."
+
+339. VIEW: LA assumes knowledge of our own world's future, which is question-begging
+   EVIDENCE: "So LA goes through only if it's assumed, question-beggingly, that we know what will happen in our own world's future."
+
+340. VIEW: Hume's principle (HA) states that past events cannot predict future events without question-begging assumptions
+   EVIDENCE: "Given only that such and such has happened, it can't be assumed that such and such will continue to happen-unless it's assumed, question-beggingly, that what has happened will continue to happen."
+
+341. VIEW: The unknown cannot be assumed to resemble the known without question-begging
+   EVIDENCE: "Given only that such and such is true of the known, it can't be assumed that it also holds of the unknown-unless it's assumed, question-beggingly, that the unknown resembles the known."
+
+342. VIEW: Knowledge of other worlds cannot be assumed to apply to our world without question-begging
+   EVIDENCE: "Given only that, in other worlds, such and such happens after time t, it can't be assumed that such and such happens after t in this world-unless it's assumed, question-beggingly, that what holds in circumstances already known to us also holds in circumstances not yet known to us."
+
+343. VIEW: LA assumes that inductive inference works, which is question-begging
+   EVIDENCE: "So LA goes through only if it's assumed, question-beggingly, that inductive inference works."
+
+344. VIEW: LA assimilates non-innocuous probability judgments into the category of trivial, innocuous judgments
+   EVIDENCE: "The beauty of LA is that it assimilates apparently non-innocuous probability judgments into the class of trivially true, totally innocuous probability judgments, such as WB."
+
+345. VIEW: The probability that future unsupported objects will fall is categorized similarly to trivial probability judgments
+   EVIDENCE: "LA shows that: (UB) the probability that future unsupported objects will fall is extremely high, given that all such objects (apart from helium balloons, etc.) have fallen so far, which is non-trivial and (in this context) objectionable, is in the same category as WB, which is trivial and unobjectionable."
+
+346. VIEW: Buying a lottery ticket may be in one's interest despite the high chance of losing
+   EVIDENCE: "it may have been in your interest to buy it, even after you take into account that the chances of your losing is 999,999 in 1,000,000."
+
+347. VIEW: A decision to buy a lottery ticket cannot be rational if one knows the ticket will lose
+   EVIDENCE: "But this decision couldn't possibly have been rational if you knew that your ticket would lose."
+
+348. VIEW: There is no knowledge without certainty
+   EVIDENCE: "In general, there's no knowledge where there isn't certainty."
+
+349. VIEW: If there is any chance that P isn't the case, then you don't know P
+   EVIDENCE: "If, given the information at your disposal, there is any chance, no matter how small, that P isn't the case, then you don't know P."
+
+350. VIEW: The probability that future unsupported objects will fall is extremely high
+   EVIDENCE: "(UB) the probability that future unsupported objects will fall is extremely high, given that such objects have fallen so far."
+
+351. VIEW: There is a chance that unsupported objects will no longer fall
+   EVIDENCE: "Is there any chance that, all of a sudden, unsupported objects will no longer fall? Yes."
+
+352. VIEW: The merely probable is not known
+   EVIDENCE: "The merely probable is ipso facto not known."
+
+353. VIEW: To know something is 99.9999% likely is to not know it
+   EVIDENCE: "To know it to be 99.9999% likely that unsupported objects will continue to fall is to not know that they'll fall."
+
+354. VIEW: UB does not make a statistical point
+   EVIDENCE: "UB doesn't make a statistical point."
+
+355. VIEW: UB compares the relative merits of two hypotheses about unsupported objects
+   EVIDENCE: "UB makes a point about the relative merits of two competing hypotheses, these being: (H1) unsupported objects will continue to fall and (H2) unsupported objects will not continue to fall."
+
+356. VIEW: UB is true if H1 undermines the integrity of our belief system less than H2
+   EVIDENCE: "UB is true if, given the data that we have, H1' s being true would undermine the integrity of our belief system to a lesser degree than H2' s being true."
+
+357. VIEW: There is an extremely low probability that walking on stilts while wearing a beanie with a propeller is a foolproof cure for cancer
+   EVIDENCE: "(SB) there is only an extremely low probability that walking on stilts for an hour while wearing a beanie with a propeller on it is a foolproof cure for cancer."
+
+358. VIEW: SB does not make a statistical claim about cancer cure rates
+   EVIDENCE: "Does SB say that better than nine cases of cancer out of 10 aren't cured in this way? No. It doesn't make any sort of statistical claim."
+
+359. VIEW: SB is a claim about explanatory integrity
+   EVIDENCE: "SB is a claim, not about statistics, but about explanatory integrity."
+
+360. VIEW: More damage would be done to our belief system if cancer can be cured by walking on stilts and wearing a beanie
+   EVIDENCE: "It says that more damage will be done to our belief system if it turns out that cancer can be cured in that way than if it turns out that it cannot."
+
+361. VIEW: Our medical beliefs are rooted in general assumptions about the causal structure of the world
+   EVIDENCE: "Our medical beliefs are rooted in general assumptions about the causal structure of the world."
+
+362. VIEW: A coin moving in a specific manner does not deserve scientific scrutiny
+   EVIDENCE: "But even though nothing apart from that coin has ever moved in manner M, that coin's doing so isn't a matter that deserves the slightest scientific scrutiny."
+
+363. VIEW: A coin moving in a specific manner is consistent with everything we know about the world
+   EVIDENCE: "Its moving in that way is consistent with everything we know about the world, and there is therefore nothing to be explained."
+
+364. VIEW: Smith having telekinetic powers is improbable in the explanatory sense
+   EVIDENCE: "But there is something to be explained if Smith turns out to have telekinetic powers, since his having such powers is improbable in the explanatory sense."
+
+365. VIEW: Every event is improbable in the statistical sense
+   EVIDENCE: "It's irrelevant that it is also improbable in the statistical sense. Every event is improbable in the statistical sense."
+
+366. VIEW: Winning the lottery is improbable in the statistical sense but not in the explanatory sense
+   EVIDENCE: "My winning the lottery is improbable in the statistical sense, but not in the explanatory sense."
+
+367. VIEW: Before the lottery winner is announced, we can't say that we know it won't win
+   EVIDENCE: "And that's why, before the winner is announced, we can't say that we know it won't win: my winning is consistent with everything we know about the world."
+
+368. VIEW: Sprouting wings in the next 5 minutes is improbable in the explanatory sense
+   EVIDENCE: "My sprouting wings in the next 5 minutes is improbable in the explanatory sense."
+
+369. VIEW: We can say that we know sprouting wings won't happen because it's inconsistent with what we know about the world
+   EVIDENCE: "And that's why we can say that we know it won't happen. It's inconsistent with everything (or much, at any rate) that we know about the world."
+
+370. VIEW: Something is grue if it is green before Jan. 1, 2010, or blue thereafter
+   EVIDENCE: "Something is grue if it is green before Jan. 1, 2010, or blue thereafter."
+
+371. VIEW: All emeralds have been grue prior to 2010
+   EVIDENCE: "In that case, all emeralds have been grue prior to 2010."
+
+372. VIEW: All emeralds examined before 2010 are grue
+   EVIDENCE: "So the fact that all emeralds examined before 2010 are green means that all emeralds examined before 2010 are grue."
+
+373. VIEW: We are inductively warranted in believing that all emeralds examined after 2010 are green
+   EVIDENCE: "We are assuming for argument's sake that, given the fact that all emeralds examined before 2010 were green, we are inductively warranted in believing that all emeralds examined after 2010 are green."
+
+374. VIEW: We are inductively warranted in believing that all emeralds examined after 2010 are grue
+   EVIDENCE: "By that logic, it follows that, given the fact that all emeralds examined before 2010 were grue, we are inductively warranted in believing that all emeralds examined after 2010 are grue."
+
+375. VIEW: Anything examined after 2010 that is grue is blue, not green
+   EVIDENCE: "But anything examined after 2010 that is grue is blue, not green."
+
+376. VIEW: The degree to which a fact is statistically improbable depends on how it is described
+   EVIDENCE: "The degree to which a given fact is statistically improbable depends on how it is described."
+
+377. VIEW: Statistical improbability is innocuous
+   EVIDENCE: "But that's no cause for alarm. Statistical improbability is innocuous."
+
+378. VIEW: It's explanatory improbability that you have to worry about
+   EVIDENCE: "It's explanatory improbability that you have to worry about."
+
+379. VIEW: The supposition that objects don't change color is deeply embedded in scientific theory and commonsense
+   EVIDENCE: "The supposition that objects don't change color (except under conditions that emeralds don't satisfy, at least not in virtue of making it to 2010) is deeply embedded in scientific theory and also in the commonsense underpinning of scientific theory."
+
+380. VIEW: If the supposition that objects don't change color is wrong, then science and human knowledge are in serious trouble
+   EVIDENCE: "If it's wrong, then science is in serious trouble, and so is human knowledge in general."
+
+381. VIEW: Emeralds do change color at the beginning of 2010 but only relative to one set of color-terms
+   EVIDENCE: "(Or, to be more precise, emeralds do change color at the beginning of 2010-but only relative to what one set of color-terms, these being green, red, etc."
+
+382. VIEW: Emeralds stay the same color relative to different color terms-grue, bleen, etc.
+   EVIDENCE: "But emeralds stay the same color relative to different color terms-grue, bleen, etc.)"
+
+383. VIEW: Pictures of green emeralds taken before 2010 show them not to have the same color as blue things after 2010
+   EVIDENCE: "Pictures of green emeralds (taken before 2010) show them not to have the same color as blue things after 2010."
+
+384. VIEW: Grueness and greenness are different properties
+   EVIDENCE: "Grueness and greenness are different properties."
+
+385. VIEW: Grueness isn't a color at all-it's a color-related property
+   EVIDENCE: "But they're not different colors. Grueness isn't a color at all-it's a color-related property."
+
+386. VIEW: An object that was square before 2010 and becomes a triangle has obviously changed shape
+   EVIDENCE: "If, for some reason, some object that was square before 2010 suddenly becomes a triangle, it's obviously changed shape."
+
+387. VIEW: Hempel's theory is the clearest, purest expression of the Humean conviction that all probability is statistical probability
+   EVIDENCE: "Hempel's theory is important because it is the clearest, purest expression of the Humean conviction that all probability is statistical probability"
+
+388. VIEW: All theories of explanation can be understood in terms of Hempel's theory
+   EVIDENCE: "and also because of the consequent fact that, given the enormously powerful hold of Humean ideas on methodological thought, all theories of explanation can be understood in terms of Hempel's theory-either as versions of it or as reactions to it."
+
+389. VIEW: To explain an event E is to show that its occurrence is a logical consequence of known natural laws and conditions
+   EVIDENCE: "(DN) To explain an event E is to show that its occurrence is a logical consequence of the statement formed by conjoining statements describing known natural laws with statements describing the conditions under which E occurred."
+
+390. VIEW: Dropping an otherwise unsupported object must result in it falling, given the laws of physics
+   EVIDENCE: "I drop an otherwise unsupported object. The laws of physics being what they are, the object must fall, given the circumstances."
+
+391. VIEW: Hempel does not define a law as a true universal generalization
+   EVIDENCE: "As we'll see in a moment, this is not the answer that Hempel gives."
+
+392. VIEW: The statement 'Everything is such that it's either yellow or it isn't a pencil on JMK's desk' does not express a natural law
+   EVIDENCE: "(YP) everything is such that it's either yellow or it isn't a pencil on JMK's desk doesn't express a natural law."
+
+393. VIEW: A statement must support counterfactuals to express a natural law
+   EVIDENCE: "Hempel is surely right that a statement must support counterfactuals if it is to express a natural law."
+
+394. VIEW: The statement 'metal expands when heated' expresses a law of nature
+   EVIDENCE: "The statement: (ME) metal expands when heated expresses a law of nature because a piece of metal that isn't being heated would expand if it were heated."
+
+395. VIEW: The statement 'Everything is such that it's either yellow or it isn't a pencil on JMK's desk' does not support counterfactuals
+   EVIDENCE: "Nothing comparable holds of YP. Given an arbitrary pencil, YP doesn't entail that it would be yellow if it were on my desk."
+
+396. VIEW: Laws are expressed by universal generalizations that support counterfactuals
+   EVIDENCE: "In general, says Hempel, laws are expressed by universal generalizations that support counterfactuals."
+
+397. VIEW: DN collapses if laws are understood as counterfactual-supporting universal generalizations
+   EVIDENCE: "But DN collapses if laws are understood in this way."
+
+398. VIEW: Counterfactuals are thinly veiled causal statements
+   EVIDENCE: "Remember what we said earlier about counterfactuals: they are thinly veiled causal statements."
+
+399. VIEW: Causal claims are explanations
+   EVIDENCE: "Causal claims are themselves explanations."
+
+400. VIEW: Counterfactuals are identical with causal claims
+   EVIDENCE: "Counterfactuals, as we know, are identical with causal claims."
+
+401. VIEW: Counterfactual claims are warranted only where explanations are already available
+   EVIDENCE: "It is only where explanations are already available that counterfactual claims are warranted."
+
+402. VIEW: Understanding the concept of law in terms of counterfactual truth leads to circularity in DN
+   EVIDENCE: "Thus, if laws are understood in this way, DN is analyzing the concept of explanation in terms of itself."
+
+403. VIEW: Hume denied the existence of causal ties
+   EVIDENCE: "He denied the existence of causal ties; so he couldn't take laws to be descriptions of such ties."
+
+404. VIEW: Hume considered laws to be mere concomitances
+   EVIDENCE: "Hume tried to show that laws are mere concomitances."
+
+405. VIEW: The advocate of DN must take laws to be mere concomitances to avoid circularity
+   EVIDENCE: "If his position is to be free of such circularity, the advocate of DN must take laws to be mere concomitances."
+
+406. VIEW: Laws are regularities for the advocate of DN
+   EVIDENCE: "In general, for the advocate of DN, laws are regularities-nothing more."
+
+407. VIEW: Any true universal generalization expresses a law if laws are identified with regularities
+   EVIDENCE: "But in that case, any true universal generalization expresses a law."
+
+408. VIEW: The statement 'Everything is such that it's either yellow or it isn't a pencil on JMK's desk' does not express a law even if it describes a regularity
+   EVIDENCE: "But it doesn't express a law."
+
+409. VIEW: DN ends up having the same problems as Hume's analysis of causation
+   EVIDENCE: "then DN ends up having the same problems as Hume's analysis of causation."
+
+410. VIEW: People often know what caused what, even though they couldn't identify the relevant generalizations
+   EVIDENCE: "People often know what caused what, even though they couldn't for the life of them identify the relevant generalizations."
+
+411. VIEW: To identify the relevant generalization, one must know what caused what
+   EVIDENCE: "in order to identify the relevant generalization, one must know what caused and what"
+
+412. VIEW: Smith's search for covering laws will be futile if he falsely believes in telekinetic powers
+   EVIDENCE: "If Smith falsely believes that Brown used his telekinetic powers to blow up the car, Smith's search for covering laws will be futile."
+
+413. VIEW: Smith can only begin to search for the relevant law if he has a correct explanation
+   EVIDENCE: "It is only if Smith does have a correct explanation, if only an extremely low-resolution one, that he can even begin to search in a meaningful way for the relevant law."
+
+414. VIEW: Laws are hyper-explanations
+   EVIDENCE: "Laws are hyper-explanations."
+
+415. VIEW: Laws are explanations of the explanations
+   EVIDENCE: "They are explanations of the explanations."
+
+416. VIEW: Everyday explanations are anomic
+   EVIDENCE: "The explanations that we come up with in everyday life are anomic"
+
+417. VIEW: Laws explain anomic explanations
+   EVIDENCE: "The laws explain these explanations."
+
+418. VIEW: Hume and Hempel believe that the event is to be explained in terms of the law
+   EVIDENCE: "Hume and Hempel believe that the event is to be explained in terms of the law"
+
+419. VIEW: Hume and Hempel believe that laws are logically prior to events
+   EVIDENCE: "they believe that laws are logically prior to events."
+
+420. VIEW: Events are to be understood in terms of the laws according to Hume and Hempel
+   EVIDENCE: "The events are to be understood in terms of the laws."
+
+421. VIEW: It's the other way around; people already have explanations of the phenomena
+   EVIDENCE: "It's the other way around. People already have explanations-albeit low-level, low-resolution ones-of the phenomena"
+
+422. VIEW: Hypotheses concerning laws are distillations of existing, low-level explanations
+   EVIDENCE: "Hypotheses concerning laws are distillations of existing, low-level explanations."
+
+423. VIEW: DN is viciously circular and is therefore a failure
+   EVIDENCE: "In conclusion, DN is viciously circular and is therefore a failure."
+
+424. VIEW: One principle always underlies the search for answers: causal anomalies must be minimized
+   EVIDENCE: "(MC) causal anomalies must be minimized."
+
+425. VIEW: Everything will be explained when it is known what caused any given state of affairs
+   EVIDENCE: "Everything will be explained when and only when it is known, for any given state of affairs, what caused that state of affairs to obtain."
+
+426. VIEW: If you know all the causes, you know all the explanations
+   EVIDENCE: "If you know all the causes, you know all the explanations."
+
+427. VIEW: Knowledge of the how is knowledge of the what
+   EVIDENCE: "knowledge of the how is knowledge of the what."
+
+428. VIEW: How-knowledge is high-resolution what-knowledge
+   EVIDENCE: "How-knowledge is high-resolution what-knowledge."
+
+429. VIEW: Not knowing the 'how' consists in not knowing the specific mechanisms involved
+   EVIDENCE: "Your not knowing the 'how' consists in your not knowing the specific mechanisms involved"
+
+430. VIEW: The elimination of causal anomalies consists in the elimination of discontinuities
+   EVIDENCE: "(ED) the elimination of causal anomalies consists in the elimination of discontinuities."
+
+431. VIEW: It is natural to suppose that the ball rolled from one end of the tunnel to the other
+   EVIDENCE: "it is natural to suppose that (H1) the ball you saw entering the tunnel rolled from one end of it to the other and then exited it."
+
+432. VIEW: H1 is almost certainly correct, other things being equal
+   EVIDENCE: "But other things being equal, H1 is almost certainly correct."
+
+433. VIEW: H1 is a very reasonable hypothesis even if it isn't correct
+   EVIDENCE: "And even if it isn't correct, it's obviously a very reasonable hypothesis."
+
+434. VIEW: H1 eliminates the discontinuities in the events observed
+   EVIDENCE: "The reason is that it eliminates the discontinuities in the events that you observed by supplementing them with events that you did not observe."
+
+435. VIEW: If H1 is correct, none of the apparent discontinuities is an actual discontinuity
+   EVIDENCE: "But if H1 is correct, none of these apparent discontinuities is an actual discontinuity."
+
+436. VIEW: To the extent that H1 is correct, reality is continuous
+   EVIDENCE: "At least part of what makes H1 a good hypothesis is that, to the extent that it's correct, reality is continuous."
+
+437. VIEW: To explain is to eliminate discontinuities
+   EVIDENCE: "This suggests that to explain is to eliminate discontinuities."
+
+438. VIEW: Explanation is discontinuity-elimination
+   EVIDENCE: "Explanation is discontinuity-elimination."
+
+439. VIEW: H2 eliminates each of the discontinuities eliminated by H1
+   EVIDENCE: "H2 eliminates each of the discontinuities eliminated by H1."
+
+440. VIEW: H2 is rubbish
+   EVIDENCE: "But whereas H1 is a good hypothesis, H2 is rubbish."
+
+441. VIEW: To explain is not to eliminate discontinuities
+   EVIDENCE: "So you're wrong: to explain is not to eliminate discontinuities."
+
+442. VIEW: OH is misguided
+   EVIDENCE: "OH is misguided."
+
+443. VIEW: H2 replaces observed discontinuities with unobserved discontinuities
+   EVIDENCE: "Thus, merely H2 replaces observed discontinuities unobserved discontinuities."
+
+444. VIEW: H1 doesn't posit any of the discontinuities posited by H2
+   EVIDENCE: "H1 doesn't posit any of the discontinuities posited by H2."
+
+445. VIEW: There are many discontinuities that H1 eliminates that H2 fails to eliminate
+   EVIDENCE: "So contrary to what OH says, there are many discontinuities that H1 eliminates that H2 fails to eliminate."
+
+446. VIEW: There are discontinuities that H2 creates that H1 does not create
+   EVIDENCE: "Moreover, there discontinuities that H2 creates that H1 does not create."
+
+447. VIEW: Explanation is discontinuity-elimination
+   EVIDENCE: "These facts are not only consistent with, but strongly support, our thesis that explanation is discontinuity-elimination."
+
+448. VIEW: Clearly erroneous hypotheses can do just as good a job as correct ones of eliminating discontinuities
+   EVIDENCE: "(OH*) Clearly erroneous hypotheses can do just as good a job as correct ones of eliminating discontinuities."
+
+449. VIEW: H3 does as good a job of eliminating discontinuities as H1
+   EVIDENCE: "Even though it's obviously unacceptable, H3 does as good a job of eliminating discontinuities as H1."
+
+450. VIEW: Discontinuity-elimination cannot be the essence of explanation
+   EVIDENCE: "Thus, contrary to what you are saying, discontinuity-elimination cannot be the essence of explanation."
+
+451. VIEW: H3 does not do as good a job as H1 of eliminating discontinuities
+   EVIDENCE: "Contrary to what OH* alleges, H3 does not do as good a job as H1 of eliminating discontinuities."
+
+452. VIEW: H3 creates theoretical discontinuities that H1 does not create
+   EVIDENCE: "First of all, even though it seems, at least initially, to do as good a job as H1 of eliminating spatiotemporal discontinuities, H3 creates a number of theoretical discontinuities that H1 does not create."
+
+453. VIEW: There is no independent evidence that balls turn into iguanas or vice versa
+   EVIDENCE: "There is no independent evidence that balls turn into iguanas or vice versa."
+
+454. VIEW: The laws of nature had to undergo an abrupt and unprecedented change for H3 to be possible
+   EVIDENCE: "If (i) is the case, the laws of nature, and therefore the very structure of reality, had to undergo an abrupt and unprecedented change in order for the changes described by H3 to be possible."
+
+455. VIEW: H3 fails to eliminate discontinuities in a particularly egregious way
+   EVIDENCE: "(And given the reasonable, though debatable (not to mention vague), supposition that the laws of nature are veritable spatiotemporal structures, it follows that H3 fails to eliminate discontinuities in a particularly egregious way.)"
+
+456. VIEW: There is little conformity between the data of observation and the structure of reality if H3 is correct
+   EVIDENCE: "If (ii) is the case, there is so little conformity between the data of observation and the structure of reality that we have no good reason to expect any of our observation-based beliefs, including our belief in (ii) itself, to be correct."
+
+457. VIEW: H2 creates similar theoretical discontinuities as H3
+   EVIDENCE: "Given obvious extensions of these points, it's clear that H2 creates similar theoretical discontinuities."
+
+458. VIEW: H1 doesn't create any of the theoretical or spatiotemporal discontinuities that H2 or H3 creates
+   EVIDENCE: "But H1 doesn't have any of these problems. It doesn't create any of the theoretical (or spatiotemporal) discontinuities that either H2 or H3 creates, and it eliminates each of the discontinuities eliminated by either."
+
+459. VIEW: Discontinuity-elimination is the essence of explanation
+   EVIDENCE: "All of which suggests that, just as we proposed, discontinuity-elimination is the essence of explanation."
+
+460. VIEW: At time t, it was probable that Socrates had four kidneys
+   EVIDENCE: "Given the data available to the researcher at t, it was probable that Socrates had four kidneys."
+
+461. VIEW: S1 was not false even though S2 is true
+   EVIDENCE: "Given that S2 is true, does it follow that S1 was false? No."
+
+462. VIEW: S1 describes a relationship between data and hypothesis
+   EVIDENCE: "Like all probability statements, S1 describes a relationship (one of bearing) that holds between some body of data and some hypothesis."
+
+463. VIEW: S1 does not describe some state of affairs
+   EVIDENCE: "S1 does not describe some state of affairs."
+
+464. VIEW: Probability is a property of statements, not of states of affairs
+   EVIDENCE: "Probability is a property of statements, not of states of affairs."
+
+465. VIEW: Probability is a property of statements that describe bearing-relations
+   EVIDENCE: "It's a property of statements to the effect that a certain hypothesis is given a certain amount of support by a certain body of data. So it's a property of statements that describe bearing-relations."
+
+466. VIEW: True probability statements correctly describe bearing-relations
+   EVIDENCE: "True probability statements correctly describe such relations; false ones incorrectly describe them."
+
+467. VIEW: PS1 is correct
+   EVIDENCE: "PS1 is correct."
+
+468. VIEW: PS1 is correct because it's more reasonable to believe Smith is in France than not
+   EVIDENCE: "It's correct because, given the data available to Brown, it's far more reasonable to believe that Brown is in France than it is to believe that he isn't."
+
+469. VIEW: PS1 is correct even if Brown is in Spain
+   EVIDENCE: "And PS1 is correct even if, at the time, Brown is Spain."
+
+470. VIEW: What matters for PS1 is the available data, not Brown's actual location
+   EVIDENCE: "It doesn't matter whether Brown is in France or not. What matters is that, given the available data, it's more reasonable to believe that he is than it is to believe that he isn't."
+
+471. VIEW: PS1 says that, given certain data, it's probable that Smith is in France
+   EVIDENCE: "PS1 says that, given such and such data, it's probable that Smith is in France."
+
+472. VIEW: There is such an expression as 'data' from a logical standpoint
+   EVIDENCE: "From a logical standpoint, there is such an expression (unless PS1 is completely meaningless)."
+
+473. VIEW: Probability is inherently relational
+   EVIDENCE: "In general, probability is inherently relational."
+
+474. VIEW: A complete description of the universe would not contain probability statements
+   EVIDENCE: "A complete description of the universe would contain no probability statements."
+
+475. VIEW: In a complete description of the universe, any non-probability statement would be either true or false
+   EVIDENCE: "Given any statement S (that isn't a probability statement), such a description would contain either S or not-S."
+
+476. VIEW: An omniscient being could never describe a proposition as probable but not certain
+   EVIDENCE: "Somebody who knew everything could never correctly describe a proposition as probable but not certain."
+
+477. VIEW: Probability is a mind-independent logical relationship among statements
+   EVIDENCE: "Probability is a mind-independent logical relationship holding among statements."
+
+478. VIEW: The degree to which data confirms a statement is independent of anyone's opinion
+   EVIDENCE: "The degree to which a given body of data D confirms a given statement S has nothing to do with anyone's opinion about anything: D confirms S to that degree whether or not anyone knows it-whether or not anyone exists."
+
+479. VIEW: Probability statements are useful only to the ignorant
+   EVIDENCE: "Probability statements are useful only to the ignorant."
+
+480. VIEW: Probability statements are true regardless of people's ignorance
+   EVIDENCE: "But that doesn't mean it's only insofar as people are ignorant that they're true."
+
+481. VIEW: Probability statements are useful because they describe relations between known and unknown data
+   EVIDENCE: "They're useful to the ignorant because, when correct, they describe relations that actually hold between what (little) they know and what they'd like to know."
+
+482. VIEW: It can be more reasonable to believe P than not-P given certain data, without P being worthy of belief
+   EVIDENCE: "The data one has may make P more worthy of belief than not-P without making P worthy of belief."
+
+483. VIEW: It is more reasonable to believe that Sally is in Washington than not, given the available data
+   EVIDENCE: "Given the data available to me, it's more reasonable to believe that my friend Sally is in Washington than it is to believe that she isn't."
+
+484. VIEW: It would be irrational to believe Sally is in Washington given the marginally higher likelihood
+   EVIDENCE: "But since, given that data, it's only marginally more likely than not that she's in Washington, it would be irrational of me to believe that she he is."
+
+485. VIEW: There is such a thing as non-epistemic probability
+   EVIDENCE: "According to some, probability is sometimes a property of events, as opposed to statements."
+
+486. VIEW: Electron e's jump to a higher orbit at time t is an example of intrinsic probability
+   EVIDENCE: "At time t, electron e jumps to a higher orbit. Though the laws of nature didn't require it to jump, or not to jump, at that time, they did dispose it to jump."
+
+487. VIEW: Intrinsic probability is a case of probability not related to evidence
+   EVIDENCE: "Here, it is said, we are dealing with a case of intrinsic, as opposed to evidential, probability."
+
+488. VIEW: One cannot predict with certainty the jump of electron e at time t even with complete knowledge except the jump itself
+   EVIDENCE: "Supposing that one knew everything there was to know other than the fact that e jumped orbit at t, one could not on that basis predict with any certainty that e would jump at that time."
+
+489. VIEW: Probability, if it exists, is not evidential probability
+   EVIDENCE: "probability, if it exists, is not evidential probability."
+
+490. VIEW: Intrinsic probability is not identical with statistical probability
+   EVIDENCE: "intrinsic probability is not, contrary to what some might hold, identical with statistical probability"
+
+491. VIEW: Explanatory probability is not statistical probability
+   EVIDENCE: "explanatory (evidential) probability is not statistical probability."
+
+492. VIEW: A hypothesis is to be preferred to its negation if it creates more causal anomalousness by rejecting it than by accepting it
+   EVIDENCE: "a hypothesis is to be preferred to its negation if and only if more causal anomalousness is created by rejecting it than by accepting it."
+
+493. VIEW: The degree to which a hypothesis is preferred to its negation is proportional to its ability to minimize causal anomalousness
+   EVIDENCE: "The degree to which a hypothesis is to be preferred to its negation is directly proportional to the degree to which it does a better job than the other of minimizing the net amount of causal anomalousness in the world."
+
+494. VIEW: Probability is not a statistical notion
+   EVIDENCE: "Probability is not a statistical notion."
+
+495. VIEW: The statistical meaning of probability is not relevant to explanations
+   EVIDENCE: "But this isn't the sort of probability that is relevant to explanations."
+
+496. VIEW: Saying 'Smith no show' is not a statistical statement
+   EVIDENCE: "When you say...you are not making a statistical statement"
+
+497. VIEW: Statements affirming the probability of hypotheses seldom appear capable of statistical interpretations
+   EVIDENCE: "Statements affirming the probability of hypotheses seldom even appear capable of statistical interpretations."
+
+498. VIEW: One can know the likelihood of an event without statistical data
+   EVIDENCE: "You can know that x is likely to do y in circumstances z without ever having seen x, or anything much like it, do y, or anything much like, in circumstances z, or anything much like them."
+
+499. VIEW: We have a good idea of the consequences of detonating a hydrogen bomb over the South Pole
+   EVIDENCE: "we have a pretty good idea of what at least some of the consequences of detonating a hydrogen bomb over the South Pole would be"
+
+500. VIEW: The statistical conception of explanation has problems when interpreted narrowly
+   EVIDENCE: "it's only if it's interpreted in an absurdly narrow way that that the statistical conception of explanation has any of these problems."
+
+501. VIEW: Detonating a hydrogen bomb over the South Pole would not be unprecedented
+   EVIDENCE: "If a hydrogen bomb were detonated over the South Pole, it would by no means be unprecedented."
+
+502. VIEW: One can justify accepting 'Smith no show' without knowing Smith's past behavior
+   EVIDENCE: "If one is to be justified in accepting SNS, one doesn't need to know that Smith ever failed to show up to anything"
+
+503. VIEW: We can distinguish relevant from irrelevant forms of similarity without context-specific research
+   EVIDENCE: "despite our not having first conducted context-specific research, we can distinguish the relevant from the irrelevant forms of similarity."
+
+504. VIEW: The color of a bomb is irrelevant to its consequences when detonated over the South Pole
+   EVIDENCE: "it doesn't matter whether that bomb is green as opposed to red"
+
+505. VIEW: The type of bomb (nuclear vs. non-nuclear) is relevant to its consequences when detonated over the South Pole
+   EVIDENCE: "it does matter whether it's a nuclear as opposed to a non-nuclear bomb."
+
+506. VIEW: Statistical evidence alone cannot make it obvious that a red hydrogen bomb is more similar to a green hydrogen bomb than to a red non-nuclear bomb
+   EVIDENCE: "But this wouldn't be obvious at all if our evidence for it were strictly statistical."
+
+507. VIEW: Anything can confirm anything to any degree with trivial qualifications
+   EVIDENCE: "with a few trivial qualifications, anything can confirm anything to any degree."
+
+508. VIEW: Nelson Goodman's argument shows that anything can confirm anything to any degree
+   EVIDENCE: "This is what Nelson Goodman's argument shows."
+
+509. VIEW: The fact that all emeralds have been green can confirm that future emeralds will be blue
+   EVIDENCE: "the fact that, thus far, all emeralds have been green confirms that, after this point, they'll all be blue."
+
+510. VIEW: The fact that all brontosauruses were herbivorous confirms that a speed collision won't damage your car
+   EVIDENCE: "the fact that all brontosauruses were herbivorous confirms that a speed collision won't damage your car"
+
+511. VIEW: We don't base our driving habits on our beliefs about the dietary habits of dinosaurs
+   EVIDENCE: "that's why we don't base our driving habits on our beliefs about the dietary habits of dinosaurs"
+
+512. VIEW: We know what to infer and what not to infer only insofar as we know what kinds of similarity count
+   EVIDENCE: "We know what to infer and what not to infer only insofar as we know what kinds of similarity count"
+
+513. VIEW: A precondition for making the right inferences is knowing what the relevant kinds of similarity are
+   EVIDENCE: "A precondition for making the right inferences is knowing what the relevant kinds of similarity are"
+
+514. VIEW: Judgments as to what the relevant forms of similarity are could not have a strictly statistical basis
+   EVIDENCE: "Thus, there's no way that judgments as to what the relevant forms of similarity are could have a strictly statistical basis"
+
+515. VIEW: Judgments as to what the relevant forms of similarity are can have a partly statistical basis
+   EVIDENCE: "That said, they obviously can and do have a partly statistical basis"
+
+516. VIEW: The concept of probability is to be understood in terms of the concept of explanatory integrity
+   EVIDENCE: "The concept of probability is to be understood in terms of the concept of explanatory integrity"
+
+517. VIEW: The concept of explanatory integrity is to be understood in terms of the concept of causal integrity
+   EVIDENCE: "The concept of explanatory integrity is to be understood in terms of the concept of causal integrity"
+
+518. VIEW: The concept of causal integrity is to be understood in terms of the concept of continuity of change
+   EVIDENCE: "The concept of causal integrity is to be understood in terms of the concept of continuity of change"
+
+519. VIEW: Not all change is change of position
+   EVIDENCE: "But not all change is change of position"
+
+520. VIEW: Changes in temperature, color, shape, or structure are not changes in position
+   EVIDENCE: "Changes in temperature aren't changes in position. Nor are changes in color, shape, or structure."
+
+521. VIEW: Some forms of change are to be understood in terms of the concept of change of position
+   EVIDENCE: "at least some of these forms of change are to be understood in terms of the concept of change of position"
+
+522. VIEW: Higher-order changes are not spatiotemporal changes
+   EVIDENCE: "higher-order changes aren't spatiotemporal changes at all"
+
+523. VIEW: A second-order change is a change in a spatiotemporal change but not itself a spatiotemporal change
+   EVIDENCE: "A second-order change is a change in a spatiotemporal change; it is not itself a spatiotemporal change"
+
+524. VIEW: Clearly erroneous hypotheses did a much worse job than meritorious counterparts of dealing with higher-order continuities
+   EVIDENCE: "the clearly wrong hypotheses did a much worse job than their meritorious counterparts of dealing with higher-order continuities"
+
+525. VIEW: The continuities in question were ones that we already knew to be explanatorily important
+   EVIDENCE: "And the continuities in question were ones that we already knew to be explanatorily important"
+
+526. VIEW: Humeans are categorically incapable of producing viable theories of confirmation
+   EVIDENCE: "Because they don't grant the existence of causality, except of a degraded and useless kind, Humeans are categorically incapable of producing viable theories of confirmation"
+
+527. VIEW: Humean theories of confirmation always have paradoxical consequences
+   EVIDENCE: "One sign of this is that Humean theories of confirmation always have paradoxical consequences"
+
+528. VIEW: MH can be taken to express a principled relationship
+   EVIDENCE: "or to express a principled relationship"
+
+529. VIEW: An accidental generalization affirms a purely de facto concomitance of properties
+   EVIDENCE: "Taken in the first way, it does nothing more than affirm a purely de facto concomitance of two properties"
+
+530. VIEW: A principled relationship suggests all heated metal expands due to a nomic basis
+   EVIDENCE: "Taken in the second way, MH seems to say that all heated metal expands, the reason being that a thing's being heated metal provides some kind of nomic basis for its expanding"
+
+531. VIEW: The focus of the section is on the extensional reading of MH
+   EVIDENCE: "In this section, we will focus on the first, strictly extensional, reading"
+
+532. VIEW: The next section will focus on the nomically committed reading of MH
+   EVIDENCE: "In the next, we will focus on the second, nomically committed reading"
+
+533. VIEW: MHA is a paraphrase of MH as a purely de facto generalization
+   EVIDENCE: "Let us paraphrase MH, when it is taken as a purely de facto generalization, as follows: (MHA) For any x, if x is made of metal and is being heated, then, by happenstance, x is expanding"
+
+534. VIEW: Hempel's paradox does not arise when MH is taken as MHA
+   EVIDENCE: "If we take MH in this way-if we take it to mean the same thing as MHA-does Hempel's paradox arise? No."
+
+535. VIEW: There is no reason to infer psi from phi if there is no nomic connection
+   EVIDENCE: "If I know that there is no causal or, more generally, nomic connection between x's being a phi, on the one hand, and x's being a psi, on the other, then I have no reason to infer, from x's being a phi, that x is also a psi"
+
+536. VIEW: The concomitance of black balls from an urn is mere coincidence without a nomic basis
+   EVIDENCE: "Even if, thus far, every ball withdrawn from the urn has been black, unless I have reason to believe that this concomitance has some basis in natural law or in some causal mechanism...I must ipso facto regard it as nothing but coincidence"
+
+537. VIEW: The generalization that all balls in the urn are black fails to receive positive confirmation from its instances if it is mere coincidence
+   EVIDENCE: "Thus, supposing that, in fact, this concomitance is mere coincidence, the generalization all the balls in the urn are black fails to receive any positive confirmation from its instances"
+
+538. VIEW: The statement that all non-black things are not balls in the urn fails to receive support from its instances without nomic force
+   EVIDENCE: "For the same reason mutatis mutandis, the statement all non-black things are not balls in the urn, unless read as having nomic force, fails to receive support from its instances"
+
+539. VIEW: HM, if read as affirming a de facto concomitance, doesn't receive support from its instances
+   EVIDENCE: "And, of course, it also follows that HM, if read as doing nothing more than affirming a de facto concomitance, doesn't receive support from its instances"
+
+540. VIEW: HMA does not receive support from the fact that non-expanding Tupperware isn't made of heated metal
+   EVIDENCE: "Thus (HMA) For any x, if x isn't expanding, then, by happenstance, x isn't made of metal that is being heated, doesn't receive support from the fact that the non-expanding Tupperware in my freezer isn't made of metal that is being heated"
+
+541. VIEW: De facto generalizations don't receive support from their instances
+   EVIDENCE: "So, if MH and HM are read as having no nomic content-if they are read as doing nothing but expressing de facto concomitances-then, once it is seen that de facto generalizations don't receive support from their instances"
+
+542. VIEW: The non-expanding Tupperware in the freezer does not support HM or MH if they are read as de facto generalizations
+   EVIDENCE: "HM doesn't even appear to receive support from the fact the non-expanding Tupperware in my freezer isn't made of heated metal, and MH doesn't even appear to receive support from the fact that the metal pan I put in the oven is expanding"
+
+543. VIEW: The fact about the Tupperware does not confirm HM more than MH
+   EVIDENCE: "A fortiori the former fact doesn't even appear to confirm HM more than it does MH"
+
+544. VIEW: The fact about the metal pan does not confirm MH more than HM
+   EVIDENCE: "and the latter fact doesn't even appear to confirm MH more than it does HM"
+
+545. VIEW: Hempel's paradox depends on the confirmational non-equivalence of HM and MH
+   EVIDENCE: "For that paradox depends precisely on its being the case that, despite the (alleged) fact that HM and MH are logically equivalent, they are not, or at least appear not to be, confirmationally equivalent"
+
+546. VIEW: HM and MH appear confirmationally non-equivalent only if instances confirm one but not the other
+   EVIDENCE: "And they appear to be confirmationally non-equivalent only in so far as (e.g.) the existence of a heated, expanding metal objects confirms MH but not HM, and only in so far as (e.g.) the existence of non-expanding, non-heated, non-metal objects confirms HM but not MH"
+
+547. VIEW: De facto generalizations not receiving support from instances means nothing gives more support to MH than HM or vice versa
+   EVIDENCE: "But once it is made clear that de facto generalizations don't receive support from their instances, it follows that, if MH and HM are read as free of nomic content, nothing even appears to give more support to the one than to the other"
+
+548. VIEW: Hempel's paradox fails to arise if MH and HM are read as free of nomic content
+   EVIDENCE: "And the paradox fails to arise"
+
+549. VIEW: For Hempel's paradox to arise, at least one of MH and HM must be taken as more than a de facto concomitance
+   EVIDENCE: "So, if Hempel's paradox is to arise, at least one of MH and NH must be taken as doing more than affirming a de facto concomitance"
+
+550. VIEW: MH, when taken as more than a de facto concomitance, suggests a nomic or causal basis for expansion
+   EVIDENCE: "And it seems that, thus taken, MH is to the effect that all heated metal expands for the reason that a thing's being metal that is being heated provides some kind of nomic or causal basis for its expanding"
+
+551. VIEW: MHN is a paraphrase of MH as expressing a nomic or causal basis
+   EVIDENCE: "Let us paraphrase MH, when it is taken in this way, as follows: (MHN) For any x, if x is made of metal and is being heated, then, as a matter of principle, x is expanding"
+
+552. VIEW: HM has no nomic content and is equivalent to HMA
+   EVIDENCE: "We can take HM as having no nomic content-as taking it to have the same import HMA."
+
+553. VIEW: HM can have nomic content
+   EVIDENCE: "Or we can take it to have nomic content."
+
+554. VIEW: MH and NH are not equivalent if NH affirms only a de facto concomitance
+   EVIDENCE: "if NH is taken to affirm nothing but a de facto concomitance, the two will, quite trivially, not be equivalent."
+
+555. VIEW: MHN is committed to a nomic basis for expansion
+   EVIDENCE: "The first is committed to its being the case that inter alia a thing's being made of heated metal provides some kind of nomic basis for-or, in any case, is nomically or causally connected in some way with-that thing's expanding."
+
+556. VIEW: HMA is not committed to any nomic connection
+   EVIDENCE: "The second isn't committed to there being any kind of nomic, or otherwise not purely extensional, connection between the property of non-expanding and the property of being made of heated metal."
+
+557. VIEW: MHN requires certain nomic connections to be true
+   EVIDENCE: "MHN is true only if certain nomic connections hold;"
+
+558. VIEW: HMA can be true without nomic connections
+   EVIDENCE: "HMA can be true in the absence of those connections."
+
+559. VIEW: There is no equivalence between MHN and HMA
+   EVIDENCE: "So there is no equivalence, or even the appearance of equivalence for that matter."
+
+560. VIEW: Hempel's paradox does not arise if HM has no nomic content
+   EVIDENCE: "We've just seen that, if we take MH to have nomic force (which we must-see above-if Hempel's paradox is to arise), Hempel's paradox doesn't arise if we don't take HM to have nomic content."
+
+561. VIEW: HM must have nomic content for Hempel's paradox to arise
+   EVIDENCE: "So if that paradox is to arise, then we must take HM to have nomic content."
+
+562. VIEW: HMN states a nomic basis for not being heated metal
+   EVIDENCE: "HMN says that a thing's not being an expander provides some kind of (partial) nomic basis for its not being heated metal."
+
+563. VIEW: HMN is the natural way to interpret HM if it does more than affirm a de facto concomitance
+   EVIDENCE: "HMN would be the right way-or, in any case, the (or, at least, a) natural way-to take HM if the latter were taken to do more than affirm a de facto concomitance between two properties."
+
+564. VIEW: Warning about arsenic implies a nomic connection
+   EVIDENCE: "What you are saying is that a person x's drinking large quantities of arsenic at a given time leads to, or in any case provides some kind of nomic foundation for, x's dying soon thereafter, that being why there is a concomitance between the property of being a person who drinks arsenic, on the one hand, and the property of being dead soon thereafter, on the other."
+
+565. VIEW: HMN embodies the reading of HM with nomic force
+   EVIDENCE: "And that is precisely the reading of HM that is embodied in HMN."
+
+566. VIEW: HMN is not equivalent to MHN
+   EVIDENCE: "HMN is clearly not equivalent with MHN."
+
+567. VIEW: MHC being true is sufficient for MHN
+   EVIDENCE: "That would certainly be sufficient for the truth of MHN."
+
+568. VIEW: HMC being true is sufficient for HMN
+   EVIDENCE: "Of course, MHC, if true, would be sufficient for the truth of HMN."
+
+569. VIEW: MHC is not equivalent to HMC
+   EVIDENCE: "But MHC is not equivalent with HMC."
+
+570. VIEW: A law about arsenic causing death does not entail the reverse
+   EVIDENCE: "This very reasonable and (if refurbished a bit) approximately correct statement obviously doesn't entail, and therefore isn't equivalent with, the false and practically incoherent statement that x's not being dead t* causes x to be a human who doesn't drink arsenic at earlier time t."
+
+571. VIEW: MHN holds in our world
+   EVIDENCE: "whereas MHN, or something similar to it, does hold in our world"
+
+572. VIEW: HMN does not hold in our world
+   EVIDENCE: "the same doesn't go for HMN or anything at all like it"
+
+573. VIEW: MH must be read as having nomic content for Hempel's paradox to arise
+   EVIDENCE: "MH must be read as having some kind of nomic content if Hempel's paradox is to arise"
+
+574. VIEW: MH read as having nomic force means MHN
+   EVIDENCE: "if MH read as having nomic force, its meaning is given by MHN"
+
+575. VIEW: HM read as having nomic force means HMN
+   EVIDENCE: "we made the same assumption mutatis mutandis about HM"
+
+576. VIEW: There is no argumentative basis for the assertion about MH and HM
+   EVIDENCE: "we have provided no argumentative basis for this assertion"
+
+577. VIEW: The grounds for the assertion about MH and HM are purely intuitive
+   EVIDENCE: "our grounds for it being purely intuitive"
+
+578. VIEW: There is another possible nomic reading of MH called MHW
+   EVIDENCE: "there is another possible nomic reading of MH: (MHW)"
+
+579. VIEW: MHN and MHW are different
+   EVIDENCE: "How is MHN different from MHW?"
+
+580. VIEW: MHN states that x's being heated metal provides a nomic basis for x's expanding
+   EVIDENCE: "MHN says pretty much the same thing as: (*) for all x, if x is heated metal, then x is expanding, and this is because x's being heated metal provides a nomic basis for x's expanding"
+
+581. VIEW: MHW states that either x's being heated metal or x's expanding provides a nomic basis for the other
+   EVIDENCE: "MHW says that: (^) for all x, if x is heated metal, then x is expanding, and this is because either x's being heated metal provides a nomic basis for x's expanding or x's expanding provides a nomic basis for x's being heated metal"
+
+582. VIEW: (*) and (^) are demonstrably different and non-equivalent statements
+   EVIDENCE: "(*) and (^) are demonstrably different, and non-equivalent, statements"
+
+583. VIEW: There is a nomic connection between consuming arsenic and dying
+   EVIDENCE: "there's a nomic connection between consuming arsenic and dying"
+
+584. VIEW: Having a heart attack does not provide a nomic basis for being obese
+   EVIDENCE: "my having a heart attack doesn't provide a nomic basis for my being obese"
+
+585. VIEW: In possible world W, all things made of heated metal expand
+   EVIDENCE: "in possible world W, all things made of heated metal expand"
+
+586. VIEW: In W, x's expanding causes it to turn into heated metal
+   EVIDENCE: "in W, x's being something that is expanding causes x to turn into something that is metal whose temperature is continuously rising and whose volume is constantly increasing"
+
+587. VIEW: In W, all things made of heated metal were previously expanding
+   EVIDENCE: "in W, all things made of heated metal got that way by, at some point in their histories, being things that were expanding"
+
+588. VIEW: MHW would be correct in W
+   EVIDENCE: "In that case, MHW would be correct in W"
+
+589. VIEW: In W, a thing's being heated metal does not provide a nomic basis for its expanding
+   EVIDENCE: "it would not, at least not on that account, be correct to say that, in W, a thing's being made of heated metal provides a nomic basis for its expanding"
+
+590. VIEW: In W, things expand before they become heated metal
+   EVIDENCE: "In W, things expand before they become expanding heated metal"
+
+591. VIEW: In W, a thing's being heated metal cannot cause it to expand
+   EVIDENCE: "So, in W, a thing's being heated metal obviously cannot cause it to expand"
+
+592. VIEW: In W, a thing's expanding is more basic than its being heated metal
+   EVIDENCE: "In W, a thing's expanding is causally and explanatorily more basic than its being heated metal"
+
+593. VIEW: MHW is not logically equivalent with HMA
+   EVIDENCE: "MHW obviously isn't logically equivalent with HMA"
+
+594. VIEW: MHW alleges the existence of certain nomic dependencies
+   EVIDENCE: "the former does, whereas the latter does not, allege the existence of certain nomic dependencies"
+
+595. VIEW: MHW is not equivalent with HMW
+   EVIDENCE: "MHW isn't equivalent with: (HMW)"
+
+596. VIEW: A nomic connection between having phi and psi does not imply a nomic connection between not having psi and not having phi
+   EVIDENCE: "Given only that there is a nomic connection between a thing's having phi and its having psi, it doesn't follow that there is a nomic connection between a thing's not having psi and its not having phi"
+
+597. VIEW: There is a causal and nomic connection between falling off a tall building and being dead later
+   EVIDENCE: "There is a causal, and therefore a nomic, connection between Smith's falling off of tall building X at t, on the one hand, and his being dead at later time t*, on the"
+
+598. VIEW: Smith's falling off of X is an event
+   EVIDENCE: "Smith's falling off of X is an event."
+
+599. VIEW: Smith's falling off of X causes other events
+   EVIDENCE: "It is something that makes things happen (e.g., various bones of Smith's being shattered);"
+
+600. VIEW: Smith's falling off of X can be used to explain other events
+   EVIDENCE: "and, what is probably a more general notion, it is something in terms of which things can be explained."
+
+601. VIEW: Brown's not falling off X at t does not cause Brown to be alive at t*
+   EVIDENCE: "Obviously Brown's not falling off X at t doesn't cause Brown to be alive at t*."
+
+602. VIEW: Brown's being alive at t* cannot be explained in terms of Brown's not falling off of X
+   EVIDENCE: "More generally, Brown's being alive at t* is not, except perhaps in some extremely derivative sense, to be explained in terms of Brown's not falling off of X."
+
+603. VIEW: Brown's not falling off of X is not an event
+   EVIDENCE: "Whereas Smith's falling off of X is an event, Brown's not falling off of X is not an event,"
+
+604. VIEW: Brown's not falling off of X is not constituted by events
+   EVIDENCE: "and it doesn't consist of events."
+
+605. VIEW: A chair consists of events
+   EVIDENCE: "A chair consists of events (various miniscule displacements of mass-energy),"
+
+606. VIEW: A corporation consists of events
+   EVIDENCE: "and does a corporation (various actions on the part of sentient beings);"
+
+607. VIEW: Brown's not falling off X isn't identical with an event
+   EVIDENCE: "But Brown's not falling off X isn't identical with an event"
+
+608. VIEW: Brown's not falling off X isn't constituted by events
+   EVIDENCE: "and isn't constituted by events."
+
+609. VIEW: The fact of Smith falling off X exists
+   EVIDENCE: "no less than the (positive) fact of Smith's falling off of X."
+
+610. VIEW: Brown's not falling off of X isn't identical with, or constituted by, events
+   EVIDENCE: "But that doesn't undermine our point that Brown's not falling off of X isn't identical with, or constituted by, events."
+
+611. VIEW: Nomic relations hold only among occupants of the space-time manifold
+   EVIDENCE: "it is pretty clear they hold only among occupants of the space-time manifold."
+
+612. VIEW: Nomic relations hold among events
+   EVIDENCE: "They clearly hold among events (my pounding the table causes it to break)."
+
+613. VIEW: Nomic relations might hold among conditions
+   EVIDENCE: "Maybe, for example, they hold among conditions."
+
+614. VIEW: Nomic relations might hold among objects
+   EVIDENCE: "And maybe they hold among objects."
+
+615. VIEW: Nothing non-spatiotemporal stands in nomic relations
+   EVIDENCE: "it is clear that nothing non-spatiotemporal stands in them."
+
+616. VIEW: The existence of a black raven is claimed.
+   EVIDENCE: "the existence of a black raven."
+
+617. VIEW: The existence of pink pianos is claimed.
+   EVIDENCE: "the existence of pink pianos."
+
+618. VIEW: The statement 'All ravens are black' is considered.
+   EVIDENCE: "(1) 'All ravens are black.'"
+
+619. VIEW: Hempel believes that intuitions about the support provided by pink pianos are misleading.
+   EVIDENCE: "But, says Hempel, these intuitions are misleading."
+
+620. VIEW: Under ordinary circumstances, knowing something is a piano implies it isn't a raven.
+   EVIDENCE: "Under ordinary circumstances, if we know that something is a piano, we almost certainly already know that it isn't a raven."
+
+621. VIEW: Discovering that an object is a piano and thus a non-raven increases confidence in 'All ravens are black'.
+   EVIDENCE: "when you discover that x is a piano, and thus a non-raven, you (but not Smith) will breathe a sigh of relief; and your confidence in (1) will surge"
+
+622. VIEW: Discovering that an object is black and a raven increases confidence in 'All non-black things are non-ravens'.
+   EVIDENCE: "When you discover that y is black, you will breathe a sigh of relief; and your confidence in (2) will surge"
+
+623. VIEW: Hempel believes the confirmational disparities between the two statements are illusory.
+   EVIDENCE: "Thus, to Hempel, the confirmational disparities between (1) and (2) are illusory."
+
+624. VIEW: Hempel's solution is considered better than Quine's but still inadequate.
+   EVIDENCE: "Hempel's solution is better than Quine's, but it's still no good."
+
+625. VIEW: There is no nomic or causal relationship between a thing being a raven and its being black.
+   EVIDENCE: "if it's known that there is no nomic or causal relationship between a thing's being a raven, on the one hand, and its being black, on the other"
+
+626. VIEW: Seeing a million black ravens does not guarantee the next raven will be black without a causal connection.
+   EVIDENCE: "Maybe you've seen a million ravens, all of them black. It's doesn't matter. Unless you have reason to believe that a thing's being a raven is connected somehow to its being black"
+
+627. VIEW: Confidence in 'All ravens are black' is derivative of confidence in a causal connection between ravenhood and blackness.
+   EVIDENCE: "your confidence in (1) is derivative of your confidence in: (1*) a thing's being a raven provides a basis of some kind for its being black."
+
+628. VIEW: The statements (1*) and (2*) are not equivalent.
+   EVIDENCE: "(1*) isn't equivalent with (2*)."
+
+629. VIEW: A black raven can only support 'All ravens are black' if there is a causal or nomic connection between ravenhood and blackness.
+   EVIDENCE: "If the existence of a black is raven is to provide any legitimate support for (1), there must be a causal or nomic connection between ravenhood and blackness."
+
+630. VIEW: Hempel's solution is considered spurious.
+   EVIDENCE: "First, Hempel's solution is spurious"
+
+631. VIEW: The statement 'All ravens are black' must be read as having nomic force.
+   EVIDENCE: "(1) must be read as having nomic force."
+
+632. VIEW: When read as affirming de facto concomitances, the statements (MH) and (HM) are confirmationally identical.
+   EVIDENCE: "If read as doing nothing more than affirming de facto concomitances: (MH) if x is made of heated metal, x expands and (HM) if x isn't expanding, x isn't made of heated metal don't receive support-and, to anyone who isn't guilty of the gambler's fallacy, don't even appear to receive support-from their instances and are therefore vacuously confirmationally identical."
+
+633. VIEW: When read as alleging nomic connections, the statements (MH) and (HM) are not logically equivalent.
+   EVIDENCE: "If they are read as doing more than affirming de facto concomitances, they must be read as alleging, or at least being committed to there being, some kind of nomic connection between the properties in question. But, no matter what nomic readings we give these sentences, they don't even appear logically equivalent."
+
+634. VIEW: Accidental generalizations do not receive support from their instances.
+   EVIDENCE: "once it is realized that accidental generalizations don't receive support from their instances"
+
+635. VIEW: The author believes that getting drunk after more than five beers is as predictable as turning into a soap-bubble.
+   EVIDENCE: "past, I've gotten drunk whenever I've had more than five beers, it's no less reasonable of me to infer that, the next time I drink that much, I'll turn into a soap-bubble than it is to infer that I'll get drunk."
+
+636. VIEW: Hume's argument concerning induction would invalidate the given argument about knowledge and belief.
+   EVIDENCE: "If Hume's argument concerning induction goes through, then the following argument fails to go through (assuming that the premises are correct):"
+
+637. VIEW: The statement 'If George W. Bush had legalized cocaine, crime would have gone down in the U.S. during the Bush administration' is a counterfactual statement.
+   EVIDENCE: "If George W. Bush had legalized cocaine, crime would have gone down in the U.S. during the Bush administration."
+
+638. VIEW: According to the counterfactual analysis of causation, if the button hadn't been pushed, the doorbell wouldn't have rung.
+   EVIDENCE: "In that case, if the cause of the doorbell's ringing is the button's being pushed, then the doorbell wouldn't have rung if the button hadn't been pushed."
+
+639. VIEW: David Hume wrote the passage AC.
+   EVIDENCE: "David Hume"
+
+640. VIEW: If AC is right, then causal connections are not to be known empirically but through logical analysis.
+   EVIDENCE: "If AC is right, then causal connections are not to be known empirically, and must instead be known in same way we know (e.g.) that circles are figures of uniform curvature-that is, strictly through logical analysis."
+
+641. VIEW: If AC is right, we can't see or otherwise sense-perceive causal connections.
+   EVIDENCE: "If AC is right, then we can't see, or otherwise sense-perceive, causal connections."
+
+642. VIEW: The only way to know that E1 caused E2 is to know of some general regularity of which the sequence of events consisting of E1 and E2 is an instance.
+   EVIDENCE: "The only way to know that E1 caused E2 is to know of some general regularity of which the sequence of events consisting of E1 and E2 is an instance."
+
+643. VIEW: AC embodies a decidedly empiricist understanding of what causal relations are.
+   EVIDENCE: "AC embodies a decidedly empiricist understanding of what causal relations are."
+
+644. VIEW: According to Hume, given only the observational data available, it is not clear that the collision caused B to move.
+   EVIDENCE: "According to Hume, given only the observational data available to you, it is clear that the collision is what caused B to move."
+
+645. VIEW: Given only the observational data available, it is not necessarily the case that the collision clearly caused B to move.
+   EVIDENCE: "Setting aside what Hume does or does not believe, it really is the case that, given only the observational data available to you, the collision is clearly what caused B to move."
+
+646. VIEW: According to Hume, if the collision caused B to move, it is only because the sequence of events is an instance of a general regularity.
+   EVIDENCE: "According to Hume, if the collision is in fact what caused B to move, it is only because the sequence of events described in BB is an instance of a general regularity."
+
+647. VIEW: According to Hume, E1 cannot be the direct cause of E2 if they are not spatiotemporally adjacent.
+   EVIDENCE: "According to Hume, E1 can be the direct cause of E2 even if they are not spatiotemporally adjacent."
+
+648. VIEW: According to Hume, for E1 to be the direct cause of E2, it is necessary but not sufficient that E1 and E2 be contiguous, E1 immediately precede E2, and events similar to E1 always precede events similar to E2.
+   EVIDENCE: "According to Hume, for E1 to be the direct cause of E2, it is necessary but not sufficient that the following conditions obtain: (i) E1 and E2 be contiguous; (ii) E111 immediately precede E2; (iii) events similar to E1 always"
+
+649. VIEW: Causation is typically a relation between events, but can also be a relation between things and events.
+   EVIDENCE: "Causation is typically, but not always, a relation between events. Sometimes it is a relation between things and events."
+
+650. VIEW: The two analyses of causality described by Hume are not equivalent.
+   EVIDENCE: "These two analyses of causality (the ones described in questions 7 and 8) are two different ways of saying the same thing."
+
+651. VIEW: There is a problem with Hume's analysis of causality due to causal redundancy.
+   EVIDENCE: "One problem, or at least apparent problem, with the analysis of causality described in question 7 is that, because there is a certain amount of causal redundancy in the world, there are cases where a given event would have occurred even if the event that in fact caused it had not happened."
+
+652. VIEW: It is uncertain whether Smith's action of pushing the elevator button caused the elevator to come.
+   EVIDENCE: "neither Smith, nor any of the people waiting for the elevator, can see whether or not it was Smith's pushing the button that the caused the elevator to come. That may have been the cause. But it may not have been. Maybe, by coincidence, the elevator was going to that floor anyway."
+
+653. VIEW: Empiricists are less likely to accept the existence of non-spatiotemporal entities compared to rationalists.
+   EVIDENCE: "Empiricists are less likely to grant the existence of non-spatiotemporal entities than rationalists."
+
+654. VIEW: We do not perceive things that do not happen.
+   EVIDENCE: "We don't see (or hear or touch, etc.) things that don't actually happen."
+
+655. VIEW: Counterfactuals discuss events that do not occur.
+   EVIDENCE: "since counterfactuals talk about things that don't happen"
+
+656. VIEW: Knowledge of counterfactual truths cannot be empirically recognized.
+   EVIDENCE: "it cannot be through sight, hearing, etc., that we know that they're true. Therefore, if we know any counterfactual truths, it isn't in a way that empiricism can recognize."
+
+657. VIEW: Hume's use of counterfactual analysis in causality contradicts his empiricist principles.
+   EVIDENCE: "If that argument goes through, then Hume, who was a hardcore empiricist, wasn't being true to his empiricism when he put forth the counterfactual analysis of causality."
+
+658. VIEW: Events similar to E2 must be contiguous with and immediately precede other events.
+   EVIDENCE: "be contiguous with, and immediately precede, events similar to E2."
+
+659. VIEW: Hume's analyses of causality are distinct and not merely different expressions of the same concept.
+   EVIDENCE: "These two analyses of causality (the ones described in questions 7 and 8) are two different ways of saying the same thing."

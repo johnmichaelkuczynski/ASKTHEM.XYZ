@@ -1,0 +1,1028 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/4/2025, 3:12:14 PM
+Source Length: 13073 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+
+
+--- ANNOTATED CITATIONS ---
+
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+
+
+[Chunk 7]
+
+
+[Chunk 8]
+
+
+[Chunk 9]
+
+
+[Chunk 10]
+
+
+[Chunk 11]
+
+
+[Chunk 12]
+
+
+[Chunk 13]
+
+
+[Chunk 14]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+═══ CHUNK 6 ═══
+
+
+═══ CHUNK 7 ═══
+
+
+═══ CHUNK 8 ═══
+
+
+═══ CHUNK 9 ═══
+
+
+═══ CHUNK 10 ═══
+
+
+═══ CHUNK 11 ═══
+
+
+═══ CHUNK 12 ═══
+
+
+═══ CHUNK 13 ═══
+
+
+═══ CHUNK 14 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+
+
+--- MAJOR VIEWS ---
+1. VIEW: Payment of bonuses significantly improves productivity.
+   EVIDENCE: "Yes, enormously, without any doubt."
+
+2. VIEW: Bonuses are particularly effective for work involving creativity or insight.
+   EVIDENCE: "But once they get used to it and no longer feel the stick of urgency, they need the carrot of bonuses keep on plugging away, especially if the work involves creativity or insight."
+
+3. VIEW: Bonuses are less effective for low-level workers.
+   EVIDENCE: "If you are dealing with low level workers-boozers who are putting rocks in a bag-then not so much, since they are more interested in how little they can do and get by than they are in moving forward."
+
+4. VIEW: Talent should be rewarded with bonuses.
+   EVIDENCE: "But with talent-gotta reward it."
+
+5. VIEW: Any consistent set of sentences can be extended to a maximal consistent set.
+   EVIDENCE: "Let S be a consistent statement set, and let s1 be an arbitrary statement not in S. If s1 is consistent with S, then the union of S and s1 is consistent; otherwise, the union of S and not s1 is consistent."
+
+6. VIEW: A client who does not give credit where credit is due is a warning sign of trouble.
+   EVIDENCE: "They don't give credit where credit is due, and they look for ways to get out of paying you what your owed, including threatening, undermining, and lying about the quantity and quality of what you have done."
+
+7. VIEW: The line between good clients and dirty clients is clear.
+   EVIDENCE: "The line good between clients and dirty clients is utterly sharp."
+
+8. VIEW: Good clients may be annoying or bad people in some contexts but are honest and pay.
+   EVIDENCE: "There are good clients who are annoying and may even be bad people in some contexts, but they pay and they are honest about what you have done for them."
+
+9. VIEW: Dirty clients lie about the work done and show their true colors quickly.
+   EVIDENCE: "The dirty clients lie about what you done-and they show their true colors pretty much right away (after one or two meetings, sometimes one or two minutes)."
+
+10. VIEW: Social media influencers bring value to society by facilitating the flow of information.
+   EVIDENCE: "Social media facilitates the flow of information, and social media influencers can help people benefit from that increased flow."
+
+11. VIEW: Starting a startup straight out of college is advisable if you have a legitimate business idea.
+   EVIDENCE: "If you have a legitimate business idea, then you have more answers than just about anyone you come across, and you should go for it."
+
+12. VIEW: Caution should be applied to the execution of a business plan, not to the decision to start a business.
+   EVIDENCE: "Yes, be cautious. But be cautious about how you execute your business plan, not about whether to do so."
+
+13. VIEW: It is impossible for others to predict the success of your business idea.
+   EVIDENCE: "Also, there is no way for some other person to know whether your business will take off."
+
+14. VIEW: Considered on paper, Facebook was not a good idea, but it succeeded.
+   EVIDENCE: "Considered on paper, is Facebook a good idea? Probably not, but it worked, and that's the end of it."
+
+15. VIEW: People are likely to discourage good business ideas and encourage bad ones.
+   EVIDENCE: "Also, if you ask other people if your idea is good, they are likely to say 'no' if it is good and 'yes' if it is bad, because they are stuck at miserable jobs and want you to be stuck with them."
+
+16. VIEW: Dr. K is interested in reviewing business ideas for free.
+   EVIDENCE: "Finally, if you have an idea, run it by me. No charge. I would be interested."
+
+17. VIEW: Several scientific paradoxes have been proven logical over time.
+   EVIDENCE: "1. Framework invariance of speed of light 2. Non-additivity of length and mass 3. Existence of unconscious 4. Absence of deterministic model of quantum phenomena 5. Species level fitness often opposite of individual level fitness"
+
+18. VIEW: The profession of procuring, when conducted properly, minimizes the spread of disease and provides healthy outlets.
+   EVIDENCE: "those professions, when conducted properly, minimize the spread of disease and provide healthy outlets for energies that are otherwise expressed neurotically."
+
+19. VIEW: It is acceptable for a man to hit a woman in self-defense.
+   EVIDENCE: "Absolutely. 100%. No qualifications."
+
+20. VIEW: Mathematical logic is perceived as sterile and its teachers as being in the weeds.
+   EVIDENCE: "Mathematical logic is a bit sterile, and that's probably what you're picking up on. Plus, the people who teach it are kind of in the weeds, in terms of ability-level and vision."
+
+21. VIEW: Studying linguistics, specifically phonology and syntax, was a waste of time.
+   EVIDENCE: "I studied linguistics for a while�phonology, syntax, and other aspects of modern �scientific� linguistics. That was the most horrid waste of time imaginable."
+
+22. VIEW: Macroeconomics is a form of social psychology when it relates to commercial behavior.
+   EVIDENCE: "Macroeconomics is social psychology, in so far as the latter relates to commercial behavior."
+
+23. VIEW: The discipline of social psychology does not focus much on economic exchanges, but this is irrelevant.
+   EVIDENCE: "It may be that the discipline referred to as �social psychology� doesn�t talk much about economic exchanges, but that is irrelevant."
+
+24. VIEW: Economics is effective at defining and empirically testing psychological and epistemological concepts.
+   EVIDENCE: "Economics is good at providing operational definitions of for a number of psychological and epistemological concepts and at putting contentions involving those concepts to well-defined empirical tests."
+
+25. VIEW: Randomness is not more important than effort and talent in life.
+   EVIDENCE: "Absolutely not. It is is very hard to keep someone down if he has talent and character. And it is very hard to prop someone up if he has neither."
+
+26. VIEW: Standardized tests are efficient and useful for assessing basic knowledge and cognitive fitness in populations.
+   EVIDENCE: "Standardized tests are extraordinarily efficient and are indicated in contexts where only very approximate knowledge is necessary or where knowledge about whole populations (e.g. people who may have been exposed to toxins leading to psychological impairments) are necessary."
+
+27. VIEW: Standardized tests have limited use for individuals due to variability in performance.
+   EVIDENCE: "With individuals, they are of limited use, since people can dramatically over-or under-perform, depending on a variety of contextual factors."
+
+28. VIEW: Standardized tests are less subjective and resource-intensive than other educational and diagnostic methods.
+   EVIDENCE: "But as a way of testing for basic knowledge of basic cognitive fitness, they are much less subjective and resource-intensive than the ad hoc methods currently used in most educational and even diagnostic contexts."
+
+29. VIEW: Bad thoughts about Allah are due to a desire for freedom from religious tyranny.
+   EVIDENCE: "You think bad thoughts about Allah because you want to be free and somebody is using religious tyranny to constrain you."
+
+30. VIEW: Accepting the desire for freedom will make intrusive thoughts about Allah disappear.
+   EVIDENCE: "Accept that, and your intrusive thoughts about Allah will vanish."
+
+31. VIEW: All people understand mathematics, and what is referred to as 'mathematical talent' is the ability to apply it outside of automatic contexts.
+   EVIDENCE: "I think that all people do understand it. What we refer to as �mathematical talent� is about being able to operationalize mathematical intelligence outside of those contexts in which it is automatically operational."
+
+32. VIEW: The fascination with mathematics stems from its externalization of hidden aspects of oneself.
+   EVIDENCE: "And the fascination that all people have for mathematics is the fascination that all people have for externalizations of hidden aspects of themselves themselves."
+
+33. VIEW: School does not provide the necessary tools for adulthood, including technical skills, economic understanding, and character development.
+   EVIDENCE: "No it doesn�t. It doesn�t give us the requisite technical skills. Nor does it give us the requisite understanding of the economy or of its psychological underpinnings. Nor does it encourage the development of the character traits needed to not be a victim once released into the world."
+
+34. VIEW: Viewing certain websites is not illegal unless a transaction is made, though weblogs could theoretically be used as evidence in serious crimes.
+   EVIDENCE: "you have to make a purchase or otherwise engage the website in a transactional manner. otherwise no. theoretically, if you are involved in a serious crime, they could use your weblogs as evidence against you."
+
+35. VIEW: Using a VPN is recommended when browsing questionable websites to protect one's identity.
+   EVIDENCE: "in any case, when browsing questionable sites, use a vpn."
+
+36. VIEW: It is not necessary to study the same subject in a PhD thesis as in a master's thesis.
+   EVIDENCE: "absolutely not. my master�s thesis was on definite descriptions, and my doctoral thesis was on legal positivism."
+
+37. VIEW: The tendency for doctoral theses to continue master's theses is due to limitations of individuals and institutions.
+   EVIDENCE: "obviously there is a tendency for doctoral theses to be continuations of master�s theses, but usually has to do with the limitations of the individuals and institutions involved, granting that said parties will try to rationalize it with the usual puffery about the demands of scholarship."
+
+38. VIEW: It is morally wrong but not illegal to financially destroy someone simply because of a past marriage.
+   EVIDENCE: "Being able to destroy somebody financially simply because you were married to them."
+
+39. VIEW: Thoughts about hurting a loved one in OCD are the mind's way of expressing a need for sexual activity.
+   EVIDENCE: "You want to �hurt your cat��-your mind�s way of telling you that you need to �pound some p*ssy.�� Not hard to decrypt. I suspect that your cat-torture obtrusive thoughts will go away soon after you read this."
+
+40. VIEW: Men and women find it hard to be friends because they seek different things from each other, primarily sex and love in different orders.
+   EVIDENCE: "Because men don�t want friendship from women, and women don�t want friendship from men. Men want sex and love (in that order) from women, and women want love and sex (in that order) from men."
+
+41. VIEW: OCD can reappear at any time in life but is unlikely to develop after adolescence.
+   EVIDENCE: "It can certainly recrudesce at any juncture in life. But it is not likely to come into existence after adolescence."
+
+42. VIEW: Rigidities that mimic OCD but are not OCD are more likely to develop later in life.
+   EVIDENCE: "What is more likely is the development of rigidities that mimic OCD but are not OCD."
+
+43. VIEW: The purpose of a doctoral dissertation is to demonstrate the ability to engage existing work authoritatively and originally.
+   EVIDENCE: "The purpose of a dissertation is to show that the dissertation-writer can engage existing work in an authoritative and at least relatively original way."
+
+44. VIEW: There is a significant difference between those who have completed dissertations and those who have not.
+   EVIDENCE: "Granting that not all passing dissertations live up to this description, there is, in my judgement, an important line that separates those who have completed dissertations from those who haven�t."
+
+45. VIEW: Identity is fluid in how it is lived out, but the true self remains constant.
+   EVIDENCE: "What is fluid is how your live out your true self, not what your true self is."
+
+46. VIEW: Some aspects of a person's psyche cannot be changed without causing harm.
+   EVIDENCE: "some aspects of a person's psyche cannot be contravened without damaging that person"
+
+47. VIEW: People who rationalize selling out are being weak and rigid, not flexible and fluid.
+   EVIDENCE: "A lot of people rationalize selling out by telling themselves that they are being flexible and 'fluid', but they are actually being weak and rigid"
+
+48. VIEW: A genuinely adaptive person can survive without compromising their personality.
+   EVIDENCE: "a genuinely adaptive person finds a way to survive without gutting his personality in the process"
+
+49. VIEW: The first job to be replaced by robots happened a long time ago.
+   EVIDENCE: "The first job-happened a long time ago"
+
+50. VIEW: Teachers will be the next major job to be replaced by robots.
+   EVIDENCE: "The next big one-teachers"
+
+51. VIEW: Most of the work done by teachers is best automated.
+   EVIDENCE: "Most of that is best automated"
+
+52. VIEW: Philosophers have abandoned logical atomism for two reasons.
+   EVIDENCE: "Why have philosophers abandoned logical atomism? Two reasons."
+
+53. VIEW: Physical simplicity does not equate to conceptual simplicity.
+   EVIDENCE: "Physical simplicity doesn't equate to conceptual simplicity"
+
+54. VIEW: The complexity of a statement depends on the dialectical context.
+   EVIDENCE: "Whether a given statement is to be regarded as complex, and how exactly it is to be regarded as complex, depends on the dialectical context"
+
+55. VIEW: Even if there are minimal units of physical composition, the truths describing them are not necessarily simple.
+   EVIDENCE: "Given only that these entities are physically simple (or at least relatively so), it doesn't follow that the truths that describe them, and in terms of which we are to understand them, are correspondingly simple"
+
+56. VIEW: Minimal units of physical composition are known in a theory-mediated way, making the truths about them complex.
+   EVIDENCE: "If anything, the opposite holds: because these entities are known in a such a theory-mediated way, those truths are exceptionally complex"
+
+57. VIEW: Minimal units of physical composition are not building blocks in a logical sense.
+   EVIDENCE: "So even if there are 'atoms' (minimal building blocks) of nature, they are not building blocks in a logical sense"
+
+58. VIEW: Minimal units of physical composition are at the opposite extreme of the epistemological pyramid.
+   EVIDENCE: "on the contrary, they are, in that respect, at the opposite extreme of the epistemological pyramid"
+
+59. VIEW: The statement '1+1=2' can function as an axiom or as the result of a long chain of reasoning.
+   EVIDENCE: "Consider the statement '1+1=2.' That statement could function as an axiom (an accepted truth that neither requires nor admits of justification) or (as is the case in set theory), it could function as the end-result of a long chain of reasoning"
+
+60. VIEW: Any given truth is entailed by and entails infinitely many other truths.
+   EVIDENCE: "Any given truth is entailed by infinitely many others and itself entails infinitely many truths"
+
+61. VIEW: There are no ultimate, foundational truths.
+   EVIDENCE: "there are no 'ultimate', foundational truths"
+
+62. VIEW: There are no non-composite truths from which other truths can be constructed or derived.
+   EVIDENCE: "Consequently, there are, in this sense, no 'atoms' of nature-no non-composite truths out of which other truths can be constructed or from which they can be derived"
+
+63. VIEW: Atoms, as required by logical atomism, do not exist.
+   EVIDENCE: "Atoms, in the sense in which the philosophy of logical atomism requires them to exist, don't"
+
+64. VIEW: Men sometimes mature emotionally by forfeiting their own welfare for their significant other's whims.
+   EVIDENCE: "If by 'mature', you mean forfeit their own welfare for the petty whims of their 'significant' other, then, sadly, the answer is sometimes 'yes.'"
+
+65. VIEW: Men sometimes mature emotionally by learning how their welfare is tied to others, including their significant other.
+   EVIDENCE: "If by 'mature', you mean 'learn how their own welfare is tied to that of other people, including, in some cases, that of their significant other', then, not so sadly, the answer, once again, is 'yes.'"
+
+66. VIEW: Men sometimes do not mature emotionally according to the above definitions.
+   EVIDENCE: "If, by 'mature', you have either of the above two meanings in mind, then, even less sadly, the answer is sometimes 'no.'"
+
+67. VIEW: To find someone's weaknesses, know what they are and what they want to be.
+   EVIDENCE: "Know what they are and what they want to be"
+
+68. VIEW: If someone falls short of what they want to be, that is their weakness.
+   EVIDENCE: "If they fall short, that is their weakness"
+
+69. VIEW: If someone does not fall short of what they want to be, they have no weaknesses.
+   EVIDENCE: "If they don't, they have no weaknesses"
+
+70. VIEW: If women could design a perfect woman for men, she would be like an actual woman during the first 18 months of the relationship.
+   EVIDENCE: "Like an actual woman during the first 18 months of the relationship"
+
+71. VIEW: If A belongs to set A and set B, it does not imply that A is a subset of B.
+   EVIDENCE: "No, at least not in general"
+
+72. VIEW: A member of a set is not a subset of that set.
+   EVIDENCE: "You are a member of the set of people, but you are not a set or therefore a subset"
+
+73. VIEW: It is possible to construct a set to which both x and {x} belong.
+   EVIDENCE: "Obviously one can construct a set to which both x and {x} belong, e.g. the set that contains {1, 2, 3, and { 2, 3}, this being the four-membered set {1, 2, 3, {2, 3}}"
+
+74. VIEW: A Master's degree in Economics is a waste of time.
+   EVIDENCE: "The formal study of economics at any level is the very definition of a waste of time"
+
+75. VIEW: Being conversant with key economic ideas is important in many contexts.
+   EVIDENCE: "There have been some brilliant minds in the field of economics, and being conversant with some of the key ideas is deeply important in many contexts, both practical and theoretical"
+
+76. VIEW: The author finds the works of Smith and Marshall to be enormously illuminating.
+   EVIDENCE: "enormously illuminating, especially Smith and Marshall."
+
+77. VIEW: The author runs a tutoring business for college and graduate students.
+   EVIDENCE: "I run a tutoring business for people in college and graduate school"
+
+78. VIEW: Around 50% of the author's clients need help with finance and economics.
+   EVIDENCE: "around 50% need help with finance and economics."
+
+79. VIEW: The author has to work through many problem sets related to economics.
+   EVIDENCE: "So I had to grind through millions of problem sets about demand curves and Cournot equilibrium and Keynsian range of the aggregate supply curve, etc."
+
+80. VIEW: The author is currently working on a problem set while a client is on a break.
+   EVIDENCE: "In fact, I�m doing this right now. (Client on bathroom break and therefore away from Skype.)"
+
+81. VIEW: The author finds the economic problem sets to be not illuminating.
+   EVIDENCE: "The take-home: not illuminating."
+
+82. VIEW: The author believes that economic problem sets are disconnected from economic reality.
+   EVIDENCE: "These people�these econ undergrads and grad students�-spend their time staring into the abyss of hybrid logic puzzles that have nothing to do with economic reality"
+
+83. VIEW: The author believes that economic problem sets are not good intellectual exercises.
+   EVIDENCE: "but are also too impure to even be good intellectual exercises."
+
+84. VIEW: The author profits from tutoring students in economics.
+   EVIDENCE: "Works for me, though, since I pay people to babysit these tragedy-cases and keep a cut."
+
+85. VIEW: The author would not recommend studying economics in depth.
+   EVIDENCE: "But in terms of doing it �well, been there, wouldn�t recommend it for anyone."
+
+86. VIEW: The author believes that old economists like Hume, Smith, and Marshall are very good.
+   EVIDENCE: "Last point: If you read the really old economists, Hume, Smith, Marshall��they�re pretty darn good."
+
+87. VIEW: Old economists were specific and did not frequently put forth models.
+   EVIDENCE: "But they are also very specific, as in, they aren�t really putting forth models, except occasionally and with heavy reservations."
+
+88. VIEW: The discipline of economics lost touch with reality when it tried to model itself on physics.
+   EVIDENCE: "But at some point, something horrible happened to the discipline; they tried to model it on physics or some such, and it lost all contact with anything real."
+
+89. VIEW: Current economic ideas seem to be produced by malfunctioning cyborgs.
+   EVIDENCE: "So now all you get are get screw-up ideas seem to have written by malfunctioning cyborg."
+
+90. VIEW: An economics degree does not impress people anymore.
+   EVIDENCE: "But anyway�-an economist degree doesn�t impress anybody. Not anymore."
+
+91. VIEW: An economics degree may have been impressive in 1980.
+   EVIDENCE: "Maybe in 1980, but not now."
+
+92. VIEW: The limit of (1/n) as n goes to infinity is zero, but (1/n) is not equal to zero when n goes to infinity.
+   EVIDENCE: "The limit of (1/n), as n goes to infinity is zero, but (1/n) is not equal to zero when n goes to infinity"
+
+93. VIEW: The fallacy in the limit of (1/n) is equating real numbers with cardinal numbers.
+   EVIDENCE: "the fallacy is equating reals with cardinals."
+
+94. VIEW: Descartes believed that ideas, when considered solely in themselves, cannot be false.
+   EVIDENCE: "Descartes once said, "Now as far as ideas are concerned, provided they are considered solely in themselves and I do not refer them to anything else, they cannot strictly speaking be false.""
+
+95. VIEW: Truth is a relationship between an idea and an external referent.
+   EVIDENCE: "Truth is a relationship between idea and external referent."
+
+96. VIEW: For any possible universe U, there is some distance D such that nothing in U can move at all without covering a distance of at least D.
+   EVIDENCE: "For any possible universe U, there is some distance D such that nothing in U can move at all without covering a distance of at least D."
+
+97. VIEW: Zeno has established that if any given motion presupposes another motion, then nothing can even begin to leave the place that it is occupying at a given time.
+   EVIDENCE: "Zeno has established that if any given motion presupposes another motion, then nothing can even begin to leave the place that it is occupying at a given time."
+
+98. VIEW: The assertion that (i) must be rejected.
+   EVIDENCE: "Therefore, (i) must be rejected."
+
+99. VIEW: It is not possible for there to no minimum, short of nullity, to the amount by which a given object moves.
+   EVIDENCE: "Assuming that (i) is false, it is not possible for there to no minimum, short of nullity, to the amount by which a given object moves."
+
+100. VIEW: In any world where motion is possible, there is some finite distance such that anything that moves in that world moves by at least that distance.
+   EVIDENCE: "Therefore, in any world where motion is possible, there is some finite distance such that anything that moves in that world moves by at least that distance."
+
+101. VIEW: If Mills is right, then any given universe U consists of discrete cells such that, for any occupant x of U, x moves by vanishing from one cell and then appearing in another.
+   EVIDENCE: "If Mills is right, then any given universe U consists of discrete cells such that, for any occupant x of U, x moves by vanishing from one cell and then appearing in another."
+
+102. VIEW: x cannot move from one cell to the next, since there would in that case not be a minimum distance that x had to travel in order to travel at all.
+   EVIDENCE: "x cannot move from one cell to the next, since there would in that case not be a minimum distance that x had to travel in order to travel at all."
+
+103. VIEW: A consequence of Mills' position is that nothing moves.
+   EVIDENCE: "A consequence of Mills' position is that nothing moves."
+
+104. VIEW: The assertion that (i) x spontaneously appears in one cell and spontaneously reappears in an adjacent cell is equivalent with the assertion that (ii) x spontaneously ceases to exist and an x-like object that is not identical with x spontaneously appears in a cell adjacent to that occupied by x.
+   EVIDENCE: "The assertion that (i) x spontaneously appears in one cell and spontaneously reappears in an adjacent cell is equivalent with the assertion that (ii) x spontaneously ceases to exist and an x-like object that is not identical with x spontaneously appears in a cell adjacent to that occupied by x."
+
+105. VIEW: If you are obliterated and some person who is exactly like you appears a moment later right next to where you were standing, that person isn't you.
+   EVIDENCE: "If you are obliterated and some person who is exactly like you appears a moment later right next to where you were standing, that person isn't you."
+
+106. VIEW: Given that you2 came into existence spontaneously, there are no lines of transmission linking him to the past and thus no lines of transmission linking you2 to you.
+   EVIDENCE: "Given that you2 came into existence spontaneously, there are no lines of transmission linking him to the past and thus no lines of transmission linking you2 to you."
+
+107. VIEW: Therefore, you2 is not you; and youn (n>2) isn't identical with either you or with youi (1=i<n).
+   EVIDENCE: "Therefore, you2 is not you; and youn (n>2) isn't identical with either you or with youi (1=i<n)."
+
+108. VIEW: If n is a sufficiently high number and there is a sufficiently small delay between youi's disappearance and youi+1's appearance, it will certainly appear that you had moved from one place to another.
+   EVIDENCE: "If n is a sufficiently high number and there is a sufficiently small delay between youi's disappearance and youi+1's appearance, it will certainly appear that you had moved from one place to another."
+
+109. VIEW: But that is obviously irrelevant.
+   EVIDENCE: "But that is obviously irrelevant."
+
+110. VIEW: In a Mills-universe, nothing has a past and, therefore, nothing has a future.
+   EVIDENCE: "In a Mills-universe, nothing has a past and, therefore, nothing has a future."
+
+111. VIEW: Position is relative position.
+   EVIDENCE: "just as position is relative position"
+
+112. VIEW: Distance is relative distance.
+   EVIDENCE: "so distance is relative distance"
+
+113. VIEW: The distance between two objects can be compared with the distance between another pair of objects.
+   EVIDENCE: "the distance between x1 and x2 can be compared with the distance between x1 and x3"
+
+114. VIEW: Without a fourth object, it cannot be determined by how much one distance exceeds another.
+   EVIDENCE: "But unless there is a fourth object x4, it cannot be said by how much the one distance exceeds the other"
+
+115. VIEW: The more objects in a universe, the more distances a given distance can be compared with.
+   EVIDENCE: "The more objects there are in a given universe, the greater the number of distances with which a given distance can be compared"
+
+116. VIEW: The precision of describing a distance increases with the number of objects in the universe.
+   EVIDENCE: "The more such distances, the higher degree of precision with which a given distance can be meaningfully described"
+
+117. VIEW: Changes in an object's position are capable of being small to the extent that the number of objects in the universe is large.
+   EVIDENCE: "changes in xi's position are capable of being small to the extent that n is large"
+
+118. VIEW: The number of objects in the universe sets the metric for measuring changes.
+   EVIDENCE: "It is the value of n that sets the metric"
+
+119. VIEW: Motion of an object is really a change undergone by all objects in the universe collectively.
+   EVIDENCE: "What we think of as a case of motion on the part of a given object xi is really a change undergone by x1�xn collectively"
+
+120. VIEW: System-internal changes are systemic changes.
+   EVIDENCE: "Seemingly system-internal changes are systemic changes"
+
+121. VIEW: To say that motion is continuous is to make a correct but trivial point about the changes capable of being undergone by a universe.
+   EVIDENCE: "Therefore, to say that motion is continuous is to make the correct, if trivial, point that the class of changes capable of being undergone by a universe whose sole occupants are x1�xn is, for any number m, a proper subset of the class of changes capable of being undergone by an otherwise identical universe whose occupants are x1�xn�xn+m"
+
+122. VIEW: Given any displacement, no matter how small, a more populated and heterogeneous universe could allow for an even smaller displacement.
+   EVIDENCE: "Given any displacement d, no matter how small, if the universe were better populated and otherwise more heterogeneous than it currently is but all other factors, in including the laws of nature, were held constant, it would be possible for there to be an even more smaller displacement d*"
+
+123. VIEW: Describing an object's movement in inches is an abbreviated way of describing a collective change in the universe.
+   EVIDENCE: "Given that xi moved .n inches is really an abbreviated way of describing a change collectively undergone by all of the universe's occupants"
+
+124. VIEW: No matter how well populated and heterogeneous the universe is, it can always be more so.
+   EVIDENCE: "No matter how well populated and otherwise heterogeneous the universe is, the universe is capable of being even more populous and otherwise heterogeneous"
+
+125. VIEW: The class of possible states of the universe is a proper subset of the class of possible states of a more heterogeneous universe.
+   EVIDENCE: "the class of possible states of the universe is a proper subset of the class of possible states of a more heterogeneous but otherwise identical universe"
+
+126. VIEW: Any given motion consists of other, smaller motions, and there is no minimal unit of distance.
+   EVIDENCE: "Any given motion consists of other, smaller motions; there is no minimal unit of distance"
+
+127. VIEW: The statement about motion and smaller motions has nothing to do with the structure of motion but relates to the possible states of the universe.
+   EVIDENCE: "Given (2), it follows that (a) has nothing to do with the structure of motion, its real meaning being given by (b)"
+
+128. VIEW: The class of possible states of the current universe is a proper subset of the class of possible states of a more heterogeneous universe.
+   EVIDENCE: "If K is the class of possible states of the universe as it currently is and K* is the class of possible states of an otherwise identical universe that is more heterogeneous than others, K is a proper subset of K*"
+
+129. VIEW: There is nothing paradoxical about the statement that the class of possible states of the current universe is a proper subset of a more heterogeneous universe.
+   EVIDENCE: "There is nothing paradoxical about (b). It is a truism, in fact."
+
+130. VIEW: There is no analogue of Zeno's paradox that holds in connection with the statement about the possible states of the universe.
+   EVIDENCE: "And there is no analogue of Zeno's paradox that holds in connection with (b)"
+
+131. VIEW: Recent work on the mind-body problem and ethics is considered to be of low quality and not worth reading.
+   EVIDENCE: "Go ahead and read some recent �work� on the mind-body problem, or (God forbid) on �ethics�, and you will truly understand the concept of nothingness."
+
+132. VIEW: Academic papers are boring and bad, leading to their lack of readership.
+   EVIDENCE: "And nobody reads them because they�re boring, and they�re boring because they�re bad, because academia, with some minor qualifications (that don�t apply to you have if you have to ask) is not where the action is now."
+
+133. VIEW: Academic papers are primarily for show and do not contain substantial content.
+   EVIDENCE: "Those papers are for show only. They look nice�as in the covers and typography and lay-out all look nice. But there�s not very much there."
+
+134. VIEW: The author's past journal articles contained succinct resolutions to technical questions.
+   EVIDENCE: "Back in the day, when I was in that rat-race, I published some journal articles that actually contained succinct resolutions of technical questions for which other scholars were supposedly looking for answers."
+
+135. VIEW: Responses to the author's journal articles were either political or used as props for other professors' ideas.
+   EVIDENCE: "And on the rare occasions that were any responses, they were either slimy and political or were just as props for some other professor who wanted support for his own ideas."
+
+136. VIEW: Copies of prestigious journals, including electronic copies, cannot be given away and often result in spam complaints.
+   EVIDENCE: "Setting aside medical journals and few other journals of that ilk, they literally cannot give away copies of the most �prestigious� journals. They cannot even give away e-copies. They get spam complaints."
+
+137. VIEW: The readership of journals like Mind, Philosophical Review, and the Journal of Philosophy is non-existent.
+   EVIDENCE: "Mind, Philosophical Review, the Journal of Philosophy�-it turns out that, when readership-levels are independently assessed, their readerships are quite literally non-existent."
+
+138. VIEW: Academic journals 100 years ago served a useful function, unlike today.
+   EVIDENCE: "100 years ago, academic journals served a function. Crelle�s Journal, the Monatshrifte in which Einstein and Godel published their results�yes, these were nice sources of information."
+
+139. VIEW: Current academic journals are about maintaining in-house titles and are irrelevant.
+   EVIDENCE: "But academic journals now are about circling the wagons and bestowing in-house titles on other members of a dying and now totally irrelevant club."
+
+140. VIEW: Academic journals are not for general consumption, but nobody reads them.
+   EVIDENCE: "The obvious response to all this is that academic journals are not for general consumption. This seems reasonable enough�but when I say nobody reads them, I mean nobody."
+
+141. VIEW: Real thinkers avoid academic journals and seek ideas elsewhere.
+   EVIDENCE: "Real thinkers don�t go there for ideas; they flee from the journals, as from wild bees."
+
+142. VIEW: The author stopped publishing in academic journals and with academic publishers because they are no longer effective for disseminating ideas.
+   EVIDENCE: "I stopped publishing in the journals, and even stopped publishing with academic publishers, because that is no longer how ideas are disseminated."
+
+143. VIEW: Academic journals do not engage with anything and are purely token.
+   EVIDENCE: "They are at this point purely token, and they don�t engage anything."
+
+144. VIEW: The idea that academic journals service small but important niches is false.
+   EVIDENCE: "The idea that they service small but important niches is an invidious lie."
+
+145. VIEW: Academic papers are markers in bureaucratic games and hinder the distribution of thought.
+   EVIDENCE: "These papers are just markers in slimy bureaucracy-internal games; and because people think otherwise, the pathetically slow distribution mechanisms to which they belong get to keep on jamming up thought."
+
+146. VIEW: The notion that academic papers collectively contribute to a rich discourse is false.
+   EVIDENCE: "Finally, there is old saw that these various papers are like atoms jostling against one another�what a given one does tends to be negligible, but, so it is alleged, they collectively constitute a rich discourse out of which great things sometimes come. Totally false."
+
+147. VIEW: Nothing innovative is published in academic journals.
+   EVIDENCE: "Nothing is innovated in the journal-space. Nothing gets published if it has so much as a shred of merit."
+
+148. VIEW: Academic journals are not responsible for intellectual ferment.
+   EVIDENCE: "The journals are about as responsible for intellectual ferment as real estate agents are for building houses."
+
+149. VIEW: There is another way of making the determination of real numbers beyond recursion.
+   EVIDENCE: "it doesn�t mean that there isn�t some other way of making this determination."
+
+150. VIEW: The class of real numbers is incomplete.
+   EVIDENCE: "The class of real numbers is incomplete, since, as Cantor proved, you can always construct a real number that is not in a given recursively defined number-set."
+
+151. VIEW: Real numbers can be recognized without applying recursions.
+   EVIDENCE: "But we can recognize real numbers when we come across them �we just don�t do so by applying recursions."
+
+152. VIEW: Recognition of real numbers is not done mechanically.
+   EVIDENCE: "In other words, we don�t do so mechanically."
+
+153. VIEW: The class of arithmetical truths is non-recursive.
+   EVIDENCE: "The class of arithmetical truths is non-recursive, since, as Godel proved, we can always construct an arithmetical truth that does not belong to a given recursively defined class of such truths."
+
+154. VIEW: Arithmetical truths can be recognized without applying recursions.
+   EVIDENCE: "We are able to recognize such a truth for what it is�but we don�t do so by applying recursions."
+
+155. VIEW: Recognition of arithmetical truths is not done mechanically.
+   EVIDENCE: "In other words, we don�t do so mechanically."
+
+156. VIEW: It is difficult for young teens to get jobs.
+   EVIDENCE: "Originally Answered: Why is it so difficult for young teens to get jobs anymore?"
+
+157. VIEW: Most existing jobs are not necessary.
+   EVIDENCE: "The answer is that most of the jobs that still exist are not necessary."
+
+158. VIEW: Jobs are ways of cashing in on wealth-transfer schemes.
+   EVIDENCE: "They�re just ways of cashing in on wealth-transfer schemes, since the real work is increasingly done by a few entrepreneurs and a lot of robots."
+
+159. VIEW: Teens do not have the paper credentials needed for these jobs.
+   EVIDENCE: "And since teens don�t have the paper credentials needed to cash in on these arrangements, they don�t."
+
+160. VIEW: Employers justify denying employment to teens by claiming they fear lawsuits.
+   EVIDENCE: "Employers will justify denying employment to teens on the grounds they �fear lawsuits.��"
+
+161. VIEW: The claim that employers fear lawsuits is a lie.
+   EVIDENCE: "This is a lie. Nobody sues a business for employing teens."
+
+162. VIEW: Teens are often very good workers.
+   EVIDENCE: "And teens are often very good workers, because they have energy and hope."
+
+163. VIEW: The real reason for denying employment to teens is to be eligible for government and union money.
+   EVIDENCE: "It�s not about lawsuits; it�s about wanting to be eligible for government money and union-money and all that other graft, which goes out the window when independent labor is hired."
+
+164. VIEW: Most jobs are legalized extortion.
+   EVIDENCE: "Setting aside a few genius entrepreneurs and a slightly larger number of very hard working borderline genius ones, most jobs are legalized extortion."
+
+165. VIEW: Lawyers do not contribute significantly to their profession.
+   EVIDENCE: "Lawyers don�t do squat; but if you don�t go through them, the judge will throw the book at you."
+
+166. VIEW: The average attorney has less grasp of legal nuances than a paint-huffing wino.
+   EVIDENCE: "The paint-huffing wino camped on your front-door steps has a better grasp of legal nuances than your average attorney, as you�ll find out when you have your �day in court.��"
+
+167. VIEW: People would pay not to use salesmen, educators, police officers, and intake coordinators if given a choice.
+   EVIDENCE: "Salesmen, �educators�, police officers, �intake coordinators��-people would pay not to use them if given a choice."
+
+168. VIEW: Jobs are heavily insulated by regulations and initiation rites, which teens are on the wrong side of.
+   EVIDENCE: "And since jobs are now mainly about belonging to crypto-welfare clubs, they are therefore heavily insulated by regulations and other initiation-rites, all of which teens are on the wrong side of."
+
+169. VIEW: There are two classes of disputes: emotional and cognitive.
+   EVIDENCE: "There are two classes of such disputes: (i) Those that are emotional in nature, though they are presented as being about objective moral verities. And (ii) Those that are rooted in fundamentally different cognitive architectures."
+
+170. VIEW: Disputes about affirmative action between the left wing and the right wing are emotional in nature.
+   EVIDENCE: "Disagreements between the left wing and the right wing (e.g. is affirmative action legitimate?)"
+
+171. VIEW: Disputes about a husband's moral obligations to his wife are emotional in nature.
+   EVIDENCE: "Disagreements between men and women (e.g. as a husband, is Jim morally obligated to his wife to be both a bread-winner and 100% monogamous?)"
+
+172. VIEW: Disputes about religious beliefs regarding marital obligations are emotional in nature.
+   EVIDENCE: "Disagreements between religions (e.g. what does God believe to be a wife's obligations to her husband and a husband's obligations to his wife?)"
+
+173. VIEW: Disputes about victimization and reparations between cultural/ethnic groups are emotional in nature.
+   EVIDENCE: "Disagreements between cultural/ethnic groups (e.g. who victimized whom? who owes whom reparations or apologies?)"
+
+174. VIEW: Disputes about the morality of violating institutional norms or rules are emotional in nature.
+   EVIDENCE: "Disagreements between individualists and collectivists (e.g. to what extent can it be morally permissible to violate institutional norms or rules? are the police and 'the law' intrinsically valuable or are they simply necessary evils -or indeed unnecessary evils?)"
+
+175. VIEW: Self-identified liberals are hyper-authoritarian and sticklers for observance of laws and institutional protocols.
+   EVIDENCE: "Strikingly, people who self-identify as 'liberal' etc. are hyper-authoritarian and are sticklers for observance of laws and institutional protocols."
+
+176. VIEW: Self-identified right wingers often have non-authoritarian, almost Kropotkin-like anarchical views about the rightful role of government.
+   EVIDENCE: "Similarly, self-identified 'right wingers' (not Republicans or Sunday libertarians, but actual right wingers), despite their tough talk about who should be taken to the woodshed, often have, or so their conduct suggests, extremely non-authoritarian, almost Kropotkin-like anarchical views about the rightful role of government etc."
+
+177. VIEW: Disputes about rationalism vs. empiricism are cognitive in nature.
+   EVIDENCE: "Rationalism vs. empiricism: To what extent, if any, can 'pure thought' apprise us of the structure of reality?"
+
+178. VIEW: Disputes about methodological pluralism vs. methodological monism are cognitive in nature.
+   EVIDENCE: "Methodological pluralism vs. methodological monism: Is there a single template into which all legitimate sciences fit?"
+
+179. VIEW: Disputes about the mind-body problem are cognitive in nature.
+   EVIDENCE: "The mind-body problem: Is the mind simply a biological phenomenon like any other, or is there something distinctive about and, therefore, about the way it is to be studied?"
+
+180. VIEW: Disputes about the unconscious are cognitive in nature.
+   EVIDENCE: "The unconscious: Is the mind identical with pure consciousness or was Freud right to posit underlying strata of mental activity?"
+
+181. VIEW: Disputes about the existence of economic laws are cognitive in nature.
+   EVIDENCE: "Are there laws of economics? Should each economic context be understood on its own terms? Or should we compile a set of economic laws in terms of which we view such phenomena?"
+
+182. VIEW: Category (ii) disputes are not emotional but are related to different ways of processing information.
+   EVIDENCE: "Category (ii) disputes, I believe, are not emotional; they have to do, so I believe, with different ways of processing information, not so much with different desires."
+
+183. VIEW: Category (i) disputes are emotional and basically unresolvable.
+   EVIDENCE: "Category (i) disputes have to do with different desires and are basically unresolvable."
+
+184. VIEW: One must necessarily be a Platonist to believe in the existence of mathematics or logic.
+   EVIDENCE: "One must necessarily be a Platonist. There is no way to replace references to numbers, mathematical operations, or other mathematical structures with references to spatiotemporal entities."
+
+185. VIEW: There are no observable instances of infinite quantities.
+   EVIDENCE: "First of all, there no observable instances of infinite quantities."
+
+186. VIEW: One does not observe actual instances of mathematical operations like addition, division, or multiplication.
+   EVIDENCE: "Second, although one observe instances of operations that are analogous to addition, division, multiplication, and so on, one does not observe any actual such instances."
+
+187. VIEW: Physical operations are not the same as arithmetical operations.
+   EVIDENCE: "You can put one rock on top of another, but that is not the operation of arithmetical addition."
+
+188. VIEW: Arithmetical operations do not alter the operands, unlike physical operations.
+   EVIDENCE: "Proof is that any physical alteration alters the operands, whereas no arithmetical operation does so."
+
+189. VIEW: The most urgent philosophical problem is how information can be encrypted to expedite its transmission and maximize its absorption.
+   EVIDENCE: "Right now the most urgent and therefore interesting philosophical problem is how information can be encrypted to as to expedite the transmission of it and maximize the absorption of it."
+
+190. VIEW: We are living in the information age.
+   EVIDENCE: "We are living in the information age."
+
+191. VIEW: Commerce is now as much about the exchange of information as it is about the exchange of physical goods and services.
+   EVIDENCE: "Commerce is now quite as much about the exchange of information as it is about the exchange of physical goods and services."
+
+192. VIEW: Power used to be about ownership of land and other physical assets, but now it is about ownership of ideas.
+   EVIDENCE: "As Robert Kiyosaki points out, whereas power used to be about ownership of land and other physical assets, power is not about ownership of ideas."
+
+193. VIEW: The problem is not always that one lacks information; sometimes it is that one has too much of it or doesn't have it in forms in which it is easily communicated or easily absorbed.
+   EVIDENCE: "As Al Ries points out, the problem is not always that one lacks information; sometimes it is that one has too much of it or doesn�t have it in forms in which it is easily communicated or easily absorbed."
+
+194. VIEW: The name of the game is to figure out how knowledge can be encrypted to be maximally bioavailable and easy to store and transmit.
+   EVIDENCE: "So right now, the name of the game is to figure out knowledge can so encrypted as to be maximally bioavailable and maximally easy (for both living and artificial systems) to store and transmit."
+
+195. VIEW: Obscure responses to the question about information encryption embody ignorance of this most salient of contemporary philosophical truths.
+   EVIDENCE: "All of this being so, be extremely wary of obscure responses to your question, since they ipso facto embody ignorance of this most salient of contemporary philosophical truths."
+
+196. VIEW: Machiavelli was about strategy, while Nietzsche was about human nature.
+   EVIDENCE: "Machiavelli was about strategy. Nietzsche was about human nature."
+
+197. VIEW: Machiavelli's points about strategy were motivated by a certain conception of human nature, but his focus was strategy, not psychology.
+   EVIDENCE: "Obviously Machiavelli's points about strategy were motivated by a certain conception of human nature, but his focus was strategy, not psychology."
+
+198. VIEW: Philosophical problems are not only a matter of semantics.
+   EVIDENCE: "Absolutely not. In fact, strictly semantic questions categorically fall outside the scope of philosophy, the asseverations of a few early 20th century lightweights to the contrary."
+
+199. VIEW: Semantics is language-specific and does not carry over to other languages.
+   EVIDENCE: "First of all, semantics is language-specific. Points about English-semantics don�t carry over to Spanish or Arabic or any other language."
+
+200. VIEW: Meta-semantic points fall within the scope of philosophy.
+   EVIDENCE: "Meta-semantic points�-points about what semanticists do�do fall within the scope of philosophy."
+
+201. VIEW: Philosophers are concerned with identity, causality, the nature of thought, the relationship between universals and particulars, and the like, which are not language-specific or semantic.
+   EVIDENCE: "Philosophers are concerned with identity, causality, the nature of thought, the relationship between universals and particulars, and the like, none of which is to any degree language-specific and none of which, consequently, is to any degree, in any respect �semantic."
+
+202. VIEW: Albert Camus was not a psychopath; he was the opposite.
+   EVIDENCE: "Absolutely not. He was the opposite."
+
+203. VIEW: Albert Camus was not psychopathic enough and was a very decent fellow with a kind heart.
+   EVIDENCE: "He was not psychopathic enough, frankly. He was a very decent fellow with a kind heart, who caught a glimpse of the darker side of life and was not able to process it."
+
+204. VIEW: Logic studies rules of inference, while mathematics studies general properties of structures.
+   EVIDENCE: "Logic studies rules of inference. Mathematics studies general properties of structures."
+
+205. VIEW: Mathematics studies numbers because they encode structural information.
+   EVIDENCE: "(Mathematics studies numbers because they encode structural information.)"
+
+206. VIEW: High IQ university graduates strongly tend to out-earn IQ-comparable non-graduates.
+   EVIDENCE: "High IQ university graduates strongly tend to out-earn IQ-comparable non-graduates."
+
+207. VIEW: Low IQ vocationally trained non-graduates strongly tend to out-earn IQ-comparable college graduates and non-graduates without vocational training.
+   EVIDENCE: "Low IQ vocationally trained non-graduates strongly tend to out-earn IQ-comparable college graduates and non-graduates without vocational training."
+
+208. VIEW: Medium-IQ graduates marginally tend to out-earn IQ-comparable vocationally trained non-graduates, but medium-IQ vocationally trained non-graduates have dramatically higher levels of fulfillment.
+   EVIDENCE: "Medium-IQ graduates marginally tend to out-earn IQ-comparable vocationally trained non-graduates, with the qualification that that medium�IQ vocationally trained non-graduates have dramatically higher levels of fulfillment."
+
+209. VIEW: Non-vocationally trained non-graduates are at the bottom of the income hierarchy.
+   EVIDENCE: "Non-vocationally trained non-graduates are at the bottom of the hierarchy."
+
+210. VIEW: College is a sham and will soon be a distant memory due to the judicious use of digital resources.
+   EVIDENCE: "College is a sham, and within a few years, judicious useof already existing digital resources will see to it that it is a distant memory."
+
+211. VIEW: Graduates of universities often get vocational training after college because their degrees are useless.
+   EVIDENCE: "Do know that graduates of universities, including first-tier ones, often get vocational training after college, simply because their degrees are so useless."
+
+212. VIEW: Rules of replacement govern expressions and tell you what expressions you can replace with what expressions.
+   EVIDENCE: "Rules of replacement govern expressions. They tell you what expressions you can replace with what expressions."
+
+213. VIEW: Inference rules govern truths and falsehoods and tell you what is a consequence of what.
+   EVIDENCE: "Inference rules govern truths and falsehoods: They tell you what is a consequence of what."
+
+214. VIEW: The statement 'x is a real number' was proved by George Cantor in the 1870s.
+   EVIDENCE: "the form �x is a real number.� This was proved by George Cantor in the 1870s"
+
+215. VIEW: George Cantor used a technique known as 'diagonalization' to prove that 'x is a real number'.
+   EVIDENCE: "the proof involved a technique known as �diagonalization.'"
+
+216. VIEW: Godel attempted to define the class of arithmetical truths recursively but failed.
+   EVIDENCE: "Godel tried to come up with a recursive definition of the class of arithmetical truths. He couldn�t"
+
+217. VIEW: Godel proved that no recursive definition of the class of arithmetical truths was possible.
+   EVIDENCE: "He succeeded. His proof involved an exotic form of diagonalization."
+
+218. VIEW: Nothing flies in the face of logic but is still true because contradictions between facts and logic indicate incorrect logic.
+   EVIDENCE: "Nothing, since contradictions between facts and logic means that the wrong logic is being used."
+
+219. VIEW: Deductive reasoning yields insight but not knowledge.
+   EVIDENCE: "It yields insight but not knowledge."
+
+220. VIEW: The argument 'Jim got sick after he showed up to work, therefore going to work caused him to get sick' is fallacious.
+   EVIDENCE: "Jim got sick after he showed up to work. Therefore, going to work is what caused Him to get sick."
+
+221. VIEW: The argument 'Statistically, people who believe in God are on average less intelligent than atheists, therefore atheism is a sign of intelligence' is fallacious.
+   EVIDENCE: "Statistically, people who believe in God are on average less intelligent than atheists. Therefore, atheism is an sign of intelligence."
+
+222. VIEW: The argument 'Taking one pill makes you twice as good, therefore taking 10 pills makes you feel 10 times better' is fallacious.
+   EVIDENCE: "Taking one pill makes you twice as good. Therefore, taking 10 pills makes you feel 10 times better."
+
+223. VIEW: Abductive reasoning is simply hypothesis-formation.
+   EVIDENCE: "Abductive reasoning is simply hypothesis-formation."
+
+224. VIEW: You cannot deduce that a mouse is eating your cheese based on the evidence of mouse-size bites and footprints.
+   EVIDENCE: "You cannot deduce that a mouse is eating your cheese."
+
+225. VIEW: To break out of a depressed funk, one should take a cold shower and go on a six-mile hike.
+   EVIDENCE: "Cold shower and six mile hike."
+
+226. VIEW: At Primerica, one makes exactly $0 in earnings.
+   EVIDENCE: "Exactly $0."
+
+227. VIEW: Primerica will send a legal letter asking for money back if you make $100 in sales, which is unlikely and will cost you $200.
+   EVIDENCE: "If you make $100 in sales, which is unlikely and which will cost you $200 (in Primerica fees and advertising), Primerica will send you a legal letter asking for that money back."
+
+228. VIEW: The longer one is at Primerica, the more money they lose, with no exceptions.
+   EVIDENCE: "The longer you are at Primerica, the more money you lose. No exceptions."
+
+229. VIEW: It is not possible to create a system without the law of modus ponens.
+   EVIDENCE: "Not possible."
+
+230. VIEW: Modus ponens is essential for inference, and without it, one is in dry dock, inference-wise.
+   EVIDENCE: "Modus ponens is basically to the effect that you can infer it if it follows. Without it, you are in dry dock, inference-wise."
+
+231. VIEW: An MBA is worth the money if the objective is to be a corporate bureaucrat earning five to six figures.
+   EVIDENCE: "Yes�-if your objective is to be a corporate bureaucrat who who earns five to six figures."
+
+232. VIEW: An MBA is not worth the money if the objective is to be an entrepreneur.
+   EVIDENCE: "No�if your objective is to be an entrepreneur."
+
+233. VIEW: An MBA is a 100% academic degree and does not relate to the realities of creating or running a business.
+   EVIDENCE: "It is a 100% academic degree�a piece of paper. That piece of paper does prove that there are certain kinds of work that you can do. But the work that it proves that you can do is middle-management work at a large corporation."
+
+234. VIEW: Jesus and Socrates were both rebels who upset societal norms.
+   EVIDENCE: "Both rebels. Both upset apple carts and got some blow back."
+
+235. VIEW: Socrates aimed to improve the world by making it less emotional and more logical.
+   EVIDENCE: "Socrates was trying to improve the world making it less emotional and more logical"
+
+236. VIEW: Jesus aimed to improve the world by making it more emotional and less legalistic.
+   EVIDENCE: "whereas Jesus was trying to improve it by making more emotional and less legalistic."
+
+237. VIEW: Replacing every plank of a boat does not change its identity; it remains the same boat.
+   EVIDENCE: "Same ship."
+
+238. VIEW: Identity is about continuity, not the specific components.
+   EVIDENCE: "Identity is about continuity."
+
+239. VIEW: A society without psychopaths would be undesirable.
+   EVIDENCE: "Absolutely not. A psychopath-free society would be a society of eunuchs."
+
+240. VIEW: The condition of the job market refers to the number and nature of available jobs.
+   EVIDENCE: "The number and nature of available jobs."
+
+241. VIEW: There are movies with themes similar to 'Sexy Beast'.
+   EVIDENCE: "Yes. Bad Influence Fight Club Something wild."
+
+242. VIEW: The theme of 'Sexy Beast' is about confronting the harshness of reality.
+   EVIDENCE: "The theme of �Sexy Beast� is: �you�re soft; reality is hard. Get off your rear end and make it happen."
+
+243. VIEW: Don Logan in 'Sexy Beast' represents reality.
+   EVIDENCE: "Don Logan represented reality."
+
+244. VIEW: Gal Dove in 'Sexy Beast' was living a fake life.
+   EVIDENCE: "Gal Dove was a softy who was living a fake life."
+
+245. VIEW: Don Logan's statements in 'Sexy Beast' were mostly true, except for the lies at the airport.
+   EVIDENCE: "Yes�Don Logan was a psychopath. But what of it? You�ll notice that everything he said (with the exception of the lies he strung at the airport) was true."
+
+246. VIEW: Wittgenstein's Rule Following Paradox does not exist.
+   EVIDENCE: "Wittgenstein's so-called 'Rule Following Paradox' doesn't exist."
+
+247. VIEW: Wittgenstein's view on rule-following is based on a narrow conception of mental states.
+   EVIDENCE: "Wittgenstein holds this because he has an absurdly constricted conception of what counts as a mental state, believing that the mental comprises little behind a few itches and tickles and other sensations."
+
+248. VIEW: In a world of zombies, as Wittgenstein believes, there are no social contexts.
+   EVIDENCE: "Wittgenstein also fails to take into account that in a world of zombies, such as he believes human beings to be, there are no social contexts."
+
+249. VIEW: The behaviors involved in following different rules are distinguishable except in artificially circumscribed contexts.
+   EVIDENCE: "Finally, given any two rules, the behaviors involved in following them are utterly distinguishable except, as previously indicated, artificially circumscribed contexts�and usually even then."
+
+250. VIEW: The question about implications being false when the antecedent is false is misconceived.
+   EVIDENCE: "The question is misconceived."
+
+251. VIEW: The truth of a conditional statement depends on the relationship between the antecedent and the consequent, not their individual truth values.
+   EVIDENCE: "All that matters is the relationship between antecedent and consequent."
+
+252. VIEW: A conditional statement can be true even if both the antecedent and the consequent are false.
+   EVIDENCE: "Suppose I had zero cars. In that case, both antecedent and consequent would be false, but the conditional would still be true."
+
+253. VIEW: A conditional statement can be false even if both the antecedent and the consequent are true.
+   EVIDENCE: "By the same token, even if both antecedent and consequent are true, the conditional may be false."
+
+254. VIEW: You cannot change your sexuality.
+   EVIDENCE: "No. You cannot change your sexuality."
+
+255. VIEW: You can accept your sexuality and alter how you channel it.
+   EVIDENCE: "What you can do is accept it and, on that basis, alter how you channel it."
+
+256. VIEW: Any given body of truths is necessarily internally consistent.
+   EVIDENCE: "Any given body of truths is necessarily internally consistent."
+
+257. VIEW: Mathematics, setting aside the odd screw-up, is consistent.
+   EVIDENCE: "Therefore mathematics, setting aside the odd screw-up, is consistent."
+
+258. VIEW: Being able to axiomatize a given body of truths is sufficient but not necessary for establishing its consistency.
+   EVIDENCE: "Being able to axiomatize a given body of truths is sufficient but not necessary for establishing its consistency."
+
+259. VIEW: Establishing the consistency of the class of mathematical truths through axiomatization is not a possibility.
+   EVIDENCE: "And this method of establishing the consistency of the class of mathematical truths is not a possibility, simply because any given axiomatization is itself a mathematical result and is therefore itself what is described by other mathematical results."
+
+260. VIEW: Consistency in mathematics is established locally or by establishing truth.
+   EVIDENCE: "Setting aside a few Mickey Mouse domains, consistency is either established in a local, block-chain fashion, by comparing statements with other statements in their immediate dialectical vicinity, or by establishing truth."
+
+261. VIEW: Consistency is a consequence of truth, not vice versa.
+   EVIDENCE: "The truth is that, in mathematics as in other domains, consistency is a consequence of truth, not vice versa."
+
+262. VIEW: The differences between Camus and Nietzsche are far more important than the similarities.
+   EVIDENCE: "The differences are far more important than the similarities."
+
+263. VIEW: Camus believed that morality was an illusion because the morality of his parents was losing its hold.
+   EVIDENCE: "Camus held that, since the morality of his parents was now losing its hold, morality was categorically an illusion."
+
+264. VIEW: Camus was wrong in believing that life has no meaning because of the loss of his childhood morality.
+   EVIDENCE: "He was wrong on both counts: given only that the bourgeoisie morality that he had as a child proved not to have universal validity, it doesn't follow that no moral code has any validity under circumstances."
+
+265. VIEW: Life is inherently meaningful and does not require a moral code to be meaningful.
+   EVIDENCE: "And even if this did follow, it would not have the consequence that life has no meaning, since, first of all, life is inherently meaningful and doesn't require some moral code to make it meaningful."
+
+266. VIEW: Moral codes drain life of meaning rather than imbue it with meaning.
+   EVIDENCE: "and, secondly, since moral codes, despite their occasional uses, seem to be more about draining life of meaning than they are about imbuing life with meaning."
+
+267. VIEW: Camus had a narrow conception of morality and believed that without his small town morality, there was no morality.
+   EVIDENCE: "Basically, Camus was a closet reactionary with an extremely narrow conception of morality who evidently believed that unless his small town morality wasn't absolutely perfect, then there was no morality."
+
+268. VIEW: Nietzsche believed that many accepted moral codes are soul-destroying propaganda.
+   EVIDENCE: "Nietzsche obviously did believe that a lot of the moral codes people accept are basically so much soul-destroying propaganda."
+
+269. VIEW: Nietzsche believed that the lack of legitimacy of moral codes was becoming apparent during his lifetime.
+   EVIDENCE: "and he also believed that, during his lifetime, their lack of legitimacy was quickly becoming apparent."
+
+270. VIEW: Nietzsche was right about the lack of legitimacy of moral codes becoming apparent.
+   EVIDENCE: "(He was right on both counts.)"
+
+271. VIEW: Nietzsche believed that once false moralities were gone, an authentic, courage-based morality could rise.
+   EVIDENCE: "But Nietzsche was happy about this, his position being that once all of these bunk moralities were finally gone, the authentic, courage-based morality that we all secretly accept could rise to the surface."
+
+272. VIEW: Camus believed that the good life is the convention-based life, while Nietzsche believed convention separates us from our true selves and the good life.
+   EVIDENCE: "So basically Camus was a Paul Ryan figure who believed that the good life is the convention-based life, whereas Nietzsche believed convention to separate us from our true selves and, therefore, from the good life."
+
+273. VIEW: Sartre's message is preferable to Camus's.
+   EVIDENCE: "Sartre, hands down."
+
+274. VIEW: The empty set is a subset of any given set
+   EVIDENCE: "In order for a given set C not to be a subset of any given set, there must be at least one member of C that does not also belong to any other given set. Since the empty set has no members, there is nothing that does not also belong to any other given set."
+
+275. VIEW: A set C is not a subset of another set if it has at least one member that does not belong to the other set
+   EVIDENCE: "In order for a given set C not to be a subset of any given set, there must be at least one member of C that does not also belong to any other given set."
+
+276. VIEW: The empty set has no members
+   EVIDENCE: "Since the empty set has no members, there is nothing that does not also belong to any other given set."
+
+277. VIEW: The empty set is a subset of every set because it has no members that are not in any other set
+   EVIDENCE: "Since the empty set has no members, there is nothing that does not also belong to any other given set."
+
+278. VIEW: A set is a subset of another set if all its members are also members of the other set
+   EVIDENCE: "In order for a given set C not to be a subset of any given set, there must be at least one member of C that does not also belong to any other given set."
+
+279. VIEW: The concept of subset is defined by the membership of elements
+   EVIDENCE: "In order for a given set C not to be a subset of any given set, there must be at least one member of C that does not also belong to any other given set."
+
+280. VIEW: The empty set's property of having no members makes it a subset of all sets
+   EVIDENCE: "Since the empty set has no members, there is nothing that does not also belong to any other given set."
+
+281. VIEW: The definition of a subset involves the comparison of elements between sets
+   EVIDENCE: "In order for a given set C not to be a subset of any given set, there must be at least one member of C that does not also belong to any other given set."
+
+282. VIEW: The empty set's universal subset property is due to its lack of elements
+   EVIDENCE: "Since the empty set has no members, there is nothing that does not also belong to any other given set."

@@ -1,0 +1,532 @@
+# Karl Marx Bot: Question Bank
+
+## CONTRADICTIONS OF CAPITALISM
+
+1. How does capitalism's mode of producing wealth conflict with its mode of distributing that wealth?
+
+2. Why do you argue that the profit rate tends to fall over time, and what role does machinery play in this tendency?
+
+3. How can capitalism require endless growth while operating within limited markets?
+
+4. In what sense does capitalism simultaneously create and destroy the conditions necessary for its own existence?
+
+5. Is the wage laborer truly free? How would you characterize the paradox of their position?
+
+6. What is the contradiction between capitalism's universalization of commodities and human flourishing?
+
+7. Does credit solve capitalism's circulation problems, or does it create new contradictions?
+
+8. How do individually rational decisions by capitalists produce collectively irrational outcomes?
+
+9. At what point do productive forces become incompatible with capitalist property relations?
+
+10. What is the "reserve army of labor" and why is it both necessary for capitalism and destabilizing to it?
+
+---
+
+## ADAM SMITH
+
+1. What did Adam Smith get right about the source of value, and where did his analysis fall short?
+
+2. What does Smith's concept of the "invisible hand" obscure about actual economic relations?
+
+3. How did Smith confuse the value of labor with the value created by labor?
+
+4. Did Smith adequately understand the effects of the division of labor on workers themselves?
+
+5. What distinguishes classical economists like Smith from what you call "vulgar economists"?
+
+6. Is there any merit to Smith's distinction between productive and unproductive labor?
+
+7. Did Smith understand that profit, rent, and wages are deductions from the total product of labor?
+
+8. What are the limitations of Smith's understanding of historical development?
+
+9. What did Smith get wrong about the relationship between capital accumulation and primitive accumulation?
+
+10. Why does Smith's theory of value oscillate between different and incompatible formulations?
+
+---
+
+## MECHANIZATION
+
+1. Is machinery neutral technology, or does it serve a particular function under capitalism?
+
+2. What happens to the relationship between workers and their tools under mechanized production?
+
+3. How does the introduction of machinery affect employment levels?
+
+4. Does machinery reduce labor or intensify it? What happens to workers' pace of work?
+
+5. How has mechanization affected the employment of women and children?
+
+6. What happens to the relationship between mental and manual labor under the factory system?
+
+7. In what sense does machinery represent past labor turned against living labor?
+
+8. Would mechanization have different effects under a different economic system?
+
+9. What do you mean by the "real subsumption" of labor under capital, and how does machinery relate to this?
+
+10. What happens to surplus value if mechanization approaches full automation?
+
+---
+
+## MEANS OF PRODUCTION
+
+1. Are the means of production simply things, or are they something more?
+
+2. What is the significance of private ownership of the means of production for class relations?
+
+3. How do the means of production appear to workers under capitalism, and why?
+
+4. What tendency do you observe in the concentration of the means of production?
+
+5. Under what conditions do the means of production function as capital?
+
+6. What would the socialization of the means of production accomplish?
+
+7. What is inverted about the relationship between producers and the means of production under capitalism?
+
+8. How does the transformation from artisan tools to factories create conditions for a new social order?
+
+9. How does ownership of the means of production determine one's class position?
+
+10. How would you describe capital's relationship to living labor?
+
+---
+
+## ECONOMIC HISTORY
+
+1. What fundamentally drives historical change across different societies?
+
+2. Is capitalism a natural or permanent economic system?
+
+3. What was the actual historical process through which capitalism emerged?
+
+4. What role did violence play in the transition from feudalism to capitalism?
+
+5. What causes one mode of production to give way to another?
+
+6. What are the major modes of production in human history?
+
+7. Has capitalism's historically progressive role been exhausted?
+
+8. What was the bourgeoisie's historical role, and has that role changed?
+
+9. What does historical development reveal about what appears natural in any given epoch?
+
+10. Are the laws governing capitalism eternal laws of nature?
+
+---
+
+## CLASS STRUGGLE
+
+1. What is the central thread running through all of human history?
+
+2. What determines a person's class position?
+
+3. How is the modern proletarian struggle different from all previous class struggles?
+
+4. How does class consciousness develop?
+
+5. What is the relationship between the state and the ruling class?
+
+6. What are the limitations of trade union struggle?
+
+7. How does the bourgeoisie produce the force that will overthrow it?
+
+8. Is class struggle merely economic, or does it have other dimensions?
+
+9. What is the difference between a "class-in-itself" and a "class-for-itself"?
+
+10. How does the proletarian movement differ from all previous historical movements?
+
+---
+
+## PROPAGANDA
+
+1. What determines the ruling ideas of any historical epoch?
+
+2. How does ideology present particular class interests?
+
+3. What is real and what is illusory about bourgeois freedom and equality?
+
+4. What is the function of religion, and why do you call it "the opium of the people"?
+
+5. Can ideas alone transform social reality?
+
+6. In what sense is bourgeois political economy ideological?
+
+7. What is the relationship between revolutionary theory and the working class?
+
+8. Why do people believe the state represents the general interest?
+
+9. How does the commodity form itself generate ideological effects?
+
+10. Do philosophy, religion, and law have independent histories?
+
+---
+
+## PHILOSOPHY
+
+1. What is the purpose of philosophy?
+
+2. What is the relationship between philosophy and the proletariat?
+
+3. Has all philosophy up to now been ideology?
+
+4. What is wrong with idealism as a philosophical worldview?
+
+5. Can philosophy be abolished through philosophical critique alone?
+
+6. What is your assessment of Hegel and German classical philosophy?
+
+7. Why do you say that the critique of religion is the premise of all criticism?
+
+8. What role should philosophy play in the proletarian era?
+
+9. How do we determine whether our thinking corresponds to objective truth?
+
+10. Can philosophy transcend its own historical moment?
+
+---
+
+## DIALECTICAL MATERIALISM
+
+1. What is dialectics, and to what domains do its laws apply?
+
+2. What must be done with Hegel's dialectic to make it useful?
+
+3. What is dialectical contradiction, and how does it differ from logical contradiction?
+
+4. How do quantitative changes relate to qualitative transformations?
+
+5. What do you mean by the "negation of the negation"?
+
+6. What is the proper method for moving from abstract to concrete in analysis?
+
+7. What is the relationship between being and consciousness?
+
+8. What are the limitations of both mechanical materialism and idealism?
+
+9. Are things fixed entities or processes?
+
+10. What is freedom, and what does genuine human freedom require?
+
+---
+
+## HEGEL
+
+1. What is valuable in Hegel's dialectic despite its mystified form?
+
+2. How did Hegel invert the relationship between thought and reality?
+
+3. What insights and limitations characterize Hegel's philosophy of history?
+
+4. What is the internal contradiction within Hegel's philosophical system?
+
+5. In what sense is Hegel's Logic useful for revolutionary thought?
+
+6. What is your relationship to Hegel as a philosopher?
+
+7. What does Hegel's master-slave dialectic anticipate about class relations?
+
+8. Why might idealism reflect something real about social relations under capitalism?
+
+9. What was wrong with the Young Hegelians' critique of religion?
+
+10. What did Hegel accomplish for philosophy, and what must happen next?
+
+---
+
+## MONEY
+
+1. What is money, and what does it reveal about value?
+
+2. What does the money form conceal about the nature of labor?
+
+3. What can money do that transforms human capacities?
+
+4. What is the general formula of capital, and what role does money play in it?
+
+5. What drives the miser's endless accumulation of money?
+
+6. How do money's different functions create the possibility of economic crisis?
+
+7. What do credit money and fictitious capital represent?
+
+8. Why did gold and silver historically become money?
+
+9. What is money fetishism?
+
+10. How does money enable the comparison of different kinds of labor?
+
+---
+
+## CAPITAL
+
+1. Is capital a thing? If not, what is it?
+
+2. How would you describe capital's relationship to living labor?
+
+3. What does the circuit of capital reveal about its essential nature?
+
+4. What is the difference between constant capital and variable capital?
+
+5. In what forms does capital appear, and why are all these forms necessary?
+
+6. What is the organic composition of capital, and what tendency does it produce?
+
+7. What is capital accumulation, and what drives it?
+
+8. What is the relationship between capital accumulation and unpaid labor?
+
+9. What is the general law of capitalist accumulation?
+
+10. Why must capital constantly revolutionize the conditions of production?
+
+---
+
+## SUBJECTIVE (IN)CORRECTNESS
+
+1. What determines people's subjective views and consciousness?
+
+2. What is false consciousness, and how is it produced?
+
+3. Can workers genuinely identify with their exploiters, and what does this mean?
+
+4. Do bourgeois economists sincerely believe what they write about capitalism?
+
+5. How relevant are subjective intentions to the objective function of ideas and actions?
+
+6. What must happen for revolutionary transformation to occur?
+
+7. What is the relationship between revolutionary theory and spontaneous working-class consciousness?
+
+8. Can ideology operate through people who believe themselves to be thinking freely?
+
+9. Are bourgeois concepts like freedom and equality simply false?
+
+10. What is the aim of critique regarding individuals' thinking?
+
+---
+
+## OBJECTIVE (IN)CORRECTNESS
+
+1. Does objective truth exist independently of what people believe?
+
+2. Does bourgeois political economy contain genuine errors, not just bias?
+
+3. Is capitalism objectively rational or irrational?
+
+4. Is the labor theory of value objectively correct?
+
+5. Is exploitation a moral judgment or an objective relation?
+
+6. Do historical laws operate regardless of individuals' intentions?
+
+7. Can state policy or good intentions prevent capitalist crisis?
+
+8. Is class position subjectively or objectively determined?
+
+9. What distinguishes scientific socialism from utopian socialism?
+
+10. What is the relationship between objective material conditions and subjective revolutionary will?
+
+---
+
+## EXPLOITATION
+
+1. What exactly is exploitation in the economic sense?
+
+2. How does capitalism conceal exploitation?
+
+3. How is the rate of exploitation measured?
+
+4. Can well-paid workers be exploited?
+
+5. How does capitalist exploitation differ from pre-capitalist forms?
+
+6. What are absolute and relative surplus value extraction?
+
+7. What is the ultimate source of profit, interest, and rent?
+
+8. Is exploitation the result of individual greed or something structural?
+
+9. What would it take to end exploitation?
+
+10. How is the value workers produce distributed between wages and surplus?
+
+---
+
+## CAPITAL ACCUMULATION
+
+1. What is capital accumulation, and is it optional for capitalists?
+
+2. What is the relationship between the capitalist as an individual and capital as a system?
+
+3. What is the difference between concentration and centralization of capital?
+
+4. What is the relationship between accumulation and the industrial reserve army?
+
+5. What is the general law of capitalist accumulation regarding wealth and poverty?
+
+6. What is primitive accumulation, and what role did it play historically?
+
+7. What must be reproduced for capital accumulation to continue?
+
+8. What factors determine the rate of accumulation?
+
+9. How does expanded reproduction work at the level of total social capital?
+
+10. What contradiction does accumulation intensify regarding socialized production and private appropriation?
+
+---
+
+## BOURGEOISIE
+
+1. How do you define the bourgeoisie as a class?
+
+2. What was the bourgeoisie's historical role in relation to feudalism?
+
+3. Why can't the bourgeoisie exist without constantly revolutionizing production?
+
+4. How does bourgeois productive capacity compare to all previous generations?
+
+5. What has the bourgeoisie done to population distribution and property ownership?
+
+6. What has happened to traditionally honored occupations under bourgeois rule?
+
+7. What is the contradictory relationship between the bourgeoisie's development of productive forces and its own survival?
+
+8. What is the fate of the bourgeoisie as a class?
+
+9. What is the relationship between the modern state and the bourgeoisie?
+
+10. What has the bourgeoisie done to traditional values and sentiments?
+
+---
+
+## PROLETARIAT
+
+1. How do you define the proletariat, and what is its historical significance?
+
+2. Where does the proletariat come from, and how does it become unified?
+
+3. What is the distinction between a class-in-itself and a class-for-itself?
+
+4. Why can't the proletariat emancipate itself without emancipating all of society?
+
+5. What do workers have to lose and gain in revolutionary struggle?
+
+6. Why is the proletariat the only consistently revolutionary class?
+
+7. How does the proletarian revolution differ from all previous revolutions?
+
+8. What is the dictatorship of the proletariat?
+
+9. Why must proletarian struggle be international?
+
+10. Who must liberate the working class?
+
+---
+
+## LUMPENPROLETARIAT
+
+1. What is the lumpenproletariat?
+
+2. Who makes up the lumpenproletariat?
+
+3. Why does the lumpenproletariat lack the consciousness of the industrial proletariat?
+
+4. Why is the lumpenproletariat susceptible to reactionary manipulation?
+
+5. What role is the lumpenproletariat prepared to play in political struggles?
+
+6. How did Louis Bonaparte make use of the lumpenproletariat?
+
+7. What produces the lumpenproletariat under capitalism?
+
+8. Why can't the lumpenproletariat form the basis for constructive class politics?
+
+9. What role might the lumpenproletariat play in revolutionary upheavals?
+
+10. What does the distinction between proletariat and lumpenproletariat reflect?
+
+---
+
+## CAPITALISM
+
+1. What defines capitalism as a mode of production?
+
+2. How did capitalism historically emerge from feudalism?
+
+3. Do capitalism's laws operate according to anyone's intentions?
+
+4. What is the relationship between capitalism's productive power and human needs?
+
+5. Why is capitalism inherently expansionist?
+
+6. How has capitalism reshaped the world?
+
+7. Is crisis occasional or built into capitalism's structure?
+
+8. Is capitalism eternal, or is it historically transient?
+
+9. What has capitalism done to spheres of life that were previously outside market relations?
+
+10. Has capitalism's progressive historical role been exhausted?
+
+---
+
+## CAPITALIST
+
+1. What is the relationship between the individual capitalist and capital as such?
+
+2. What is the capitalist's productive function?
+
+3. What determines the capitalist's actions and decisions?
+
+4. Can an individual capitalist choose not to accumulate?
+
+5. What is the capitalist's relationship to the use value and exchange value of commodities?
+
+6. What were the historical origins of the industrial capitalist?
+
+7. Does the capitalist exploit workers as an individual or as a representative of a class?
+
+8. Is the capitalist free from domination by capital?
+
+9. How is surplus value divided among different types of capitalists?
+
+10. How will the capitalist class be abolished?
+
+---
+
+## ALIENATION
+
+1. What is alienated labor?
+
+2. How is the worker alienated from the product of their labor?
+
+3. How is the worker alienated from the activity of labor itself?
+
+4. What is species-being, and how are humans alienated from it?
+
+5. How does capitalism alienate human beings from one another?
+
+6. What is the relationship between private property and alienated labor?
+
+7. Is alienation merely a subjective feeling?
+
+8. What is required to overcome alienation?
+
+9. What is the relationship between alienation and ideological forms like religion and philosophy?
+
+10. What is communism as the transcendence of alienation?
+
+---
+
+*220 questions across 22 topics*
+*Designed to elicit specific philosophical positions for the Kuczynski Philosophical Database Project*

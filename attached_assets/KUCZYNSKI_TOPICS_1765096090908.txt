@@ -1,0 +1,591 @@
+# KUCZYNSKI PHILOSOPHICAL POSITIONS BY TOPIC
+
+A comprehensive organization of position statements from the Kuczynski corpus, divided into major thematic areas.
+
+---
+
+## I. CRITIQUE OF EMPIRICISM
+
+### A. General Critique
+1. Empiricism cannot explain observable events because it forbids embedding them in unobservable continuities.
+2. Empiricism is fundamentally incompatible with a scientific psychology.
+3. The term "empirical thought" is an oxymoron.
+4. Scientific thought is not the same as empirical thought.
+5. To the extent that thought mediates between observations and beliefs, beliefs are not directly supported by observation.
+6. Most philosophers make heavy concessions to empiricism without empiricism-independent justification.
+7. Empiricism is self-refuting: if true, there are no grounds for believing it; if there are grounds, it is false.
+8. If empiricism is correct, we cannot know to what degree our sensory experiences are veridical.
+9. If empiricism is correct, the future cannot be known on the basis of the present.
+10. The acceptance of empiricism is incompatible with the very existence of any attempt to study anything.
+11. Hume accepted skepticism about perception and induction because they were corollaries of empiricism, instead of rejecting empiricism.
+12. Empiricism is inimical to the idea of invisible structure.
+13. Empiricist philosophers of science deny that anything makes anything happen.
+14. Strict empiricism is inconsistent with the fact that modern physics is a source of knowledge.
+
+### B. Empiricism's Errors About Relations and Properties
+15. Empiricists treat truth as a one-place relation (property) rather than a multi-place relation.
+16. Empiricist subjectivism about arithmetic reflects inability to countenance non-spatiotemporal entities.
+17. Empiricism mistakenly treats relations as properties.
+18. Empiricism often treats 3-place relations as 2-place relations.
+19. Conventionalization is culture-level subjectivization.
+
+### C. Empiricism's Errors About Knowledge
+20. We do not sense-perceive forces or causal powers.
+21. The concept of confirmation is incoherent unless non-empirical knowledge is granted (Goodman's grue argument).
+22. Induction does not have a strictly observational basis; there must be non-observational grounds for preferring certain properties over others in inductive inference.
+23. There cannot be strictly observation-based knowledge that an object's length is given by an irrational number.
+24. Perception cannot self-justify; justification for perception must come from non-empirical, analytic principles.
+
+---
+
+## II. PHILOSOPHY OF MIND
+
+### A. Consciousness and the Unconscious
+1. The mind would consist only of disconnected spontaneities if completely described by conscious experience alone.
+2. Conscious events must be embedded within otherwise unconscious psychological continuities to be explained.
+3. There is unconscious ideation.
+4. There is ideation that is not only unconscious but subpersonal.
+5. Mentality and consciousness are not identical.
+6. The nucleus of one's self is consciousness.
+7. Consciousness qua consciousness is capable only of iconic (pictorial) representation.
+8. Concepts are not constituents of consciousness but are access-conscious.
+9. There is a crucial distinction between access-consciousness and consciousness-proper.
+
+### B. Personal vs. Subpersonal Mentation
+10. There is such a thing as subpersonal mentation.
+11. Subpersonal cognitive operations mediate vision, language-comprehension, and musical ability.
+12. Subpersonal mentation is inherently intelligent, whereas personal/conscious mentation is inherently unintelligent.
+13. Your mind figures out how to convert sensory disturbances into visual images, but not you (your self).
+14. It would be viciously regressive to say the self carried out cognitive operations underlying sense-perception.
+15. The Chomskyan unconscious is impersonal; the Freudian unconscious is personal.
+16. Sub-personal processes are not strictly physiological; they embody intelligence and are not purely reflexive.
+17. Subpersonal knowledge is never transferred from one mental stratum to another; conscious knowledge is merely an analogue.
+
+### C. Propositional Attitudes
+18. Propositional attitudes are not constituents of consciousness.
+19. Propositional attitudes cannot be constituents of consciousness; they are access-conscious at most.
+20. The deployment of a propositional attitude is not constitutive of consciousness.
+21. A belief exists and is operative even when one is not conscious of it.
+22. Emotions are distinct from their manifestations in consciousness.
+23. Emotions are enduring psychological structures, not ephemeral events.
+24. Emotions are beliefs, though they are not discursive beliefs; they are fundamentally egocentric in nature.
+25. Beliefs, like emotions, are enduring structures to be distinguished from the constituents of consciousness to which they may give rise.
+
+### D. Perception
+26. Perception is not mere sensation; perceptions are articulated sensations.
+27. Articulations of perception correspond to conceptual knowledge.
+28. Perception requires conceptual articulation; it is not mere sensation but articulated sensation.
+29. Perception is description—seeing Larry involves seeing that various properties are instantiated.
+30. Perceptions represent objects by encoding existence-claims that those objects satisfy.
+31. Perceptual data is as theory-laden as psychological data.
+32. Visual sensations do not by themselves tell you what color an object is; background knowledge is required.
+33. No sensory experience by itself tells one anything; it must be put in context of background knowledge.
+34. Introspection is an act of conceptualization, not theoretically innocent reportage.
+
+### E. Self and Agency
+35. All selves are minds, but not all minds are selves.
+36. A self is a mind that is an agent.
+37. An agent is a mind that acts, not just reacts.
+38. Where there are no values, there are no selves.
+39. Selfhood requires a regulatory agency under whose jurisdiction mental activity falls.
+40. Selfhood is a matter of degree.
+41. Rational agents are fundamentally different from mere reflex machines or reagents.
+42. The self is a rationality-constituted superstructure whose original purpose was to ensure survival but whose developed purpose is self-honing.
+
+### F. Critique of Searle and Functionalism
+43. Searle's view that mentality is identical with consciousness is logically false.
+44. Dispositionalism about mental states fails to model the data.
+45. If beliefs were merely dispositions, knowledge-constitutive beliefs would be nothing more than arbitrary opinions.
+46. Functionalism amounts to the denial that the mental (qua mental) has any causal powers.
+47. Functionalism denies the very existence of minds.
+48. Functionalism gets the order of explanation wrong: you stop because you see a stop-sign, not vice versa.
+
+### G. Critique of Eliminativism
+49. The Dennett-Churchland eliminativist position on mind is untenable.
+50. Dennett and Churchland's eliminativism about the mental, if cogent, would establish the non-existence of the non-mental as well.
+51. The projector itself cannot be a projection; the mind cannot be eliminated from the scientific picture.
+
+---
+
+## III. PHILOSOPHY OF LANGUAGE
+
+### A. Propositions and Meanings
+1. Propositions are not identical with sentences.
+2. Propositions consist of concepts.
+3. Propositions are non-spatiotemporal.
+4. Propositions consist of properties.
+5. Properties are constituents of propositions.
+6. Propositions exist independently of human beings; they are not human creations, whereas sentences are.
+7. Propositions are properties; truth is instantiatedness.
+8. Meanings are identical with sets of properties.
+9. Concepts are the meanings of predicates, not psychological entities.
+10. A sentence is meaningful if it attributes some property to some object.
+11. Any non-compound sentence either says of some individual that it has some property or says that individuals are interrelated in a certain way.
+
+### B. Critique of Wittgenstein
+12. Wittgenstein's view that "meaning is use" is false.
+13. Meaning cannot be use.
+14. There are meaningful expressions that are never used literally and infinitely many that aren't used at all.
+15. Once you know what an expression means, you won't acquire new knowledge by acquiring knowledge of how that word is used.
+16. Wittgenstein's view that meanings don't exist has been refuted.
+17. Wittgenstein's private language argument fails.
+18. Wittgenstein's contention that philosophical argumentation is misconceived was a post hoc attempt to legitimate his wanting arguments.
+19. Wittgenstein is a hard-core empiricist.
+20. Wittgenstein's view that "thinking is not a mental process" is false.
+21. Wittgenstein denied thoughts have existence apart from overt manifestations.
+
+### C. Semantics and Reference
+22. The distinction between semantics and presemantics is crucial—between literal meanings and information used to identify those meanings.
+23. Semantic externalism is true: meaning is not wholly determined by internal psychological states.
+24. Content internalism is also true: what we are thinking is wholly determined by our internal states.
+25. The distinction between reference-fixing and meaning-giving dissolves tensions between externalism and internalism.
+26. Indirect referentialism is committed to an incoherent semantic view.
+27. Indirect reference is identical with Russellian quantification.
+28. The Theory of Descriptions has a single rule for the semantics of definite descriptions.
+29. Direct reference theory does not show that names express no concepts whatsoever.
+
+### D. Linguistic Competence
+30. Linguistic competence enhances cognitive competence.
+31. Without linguistic competence, a creature could not think discursively at the level of Adam Smith's Wealth of Nations.
+32. Linguistic competence is constitutively, not merely causally, related to cognitive competence.
+33. It is a conceptual necessity that certain cogitations need linguistic vehicles.
+34. The English language is a collection of rules.
+35. People absorb and apply linguistic rules without the slightest difficulty.
+36. If you have conscious, discursive knowledge of word meanings, that knowledge wouldn't operate quickly enough for real-time language comprehension.
+
+---
+
+## IV. LOGIC AND FORMAL TRUTH
+
+### A. Logical Relations
+1. Logical relations hold among propositions, not sentences.
+2. The spatiotemporal world comprises no instances of logical relations.
+3. Entailment holds if, given P, it is not even a theoretical possibility that Q should fail to be true.
+4. Confirmation holds if, given P, it is ceteris paribus more likely than not that Q is true.
+5. Formal entailment holds among propositions, not expressions.
+6. Expression-tokens entail one another only in a derivative sense, via their meanings.
+7. Logical relations hold among meanings, not among expressions per se.
+8. All entailment is not formal entailment (contra Wittgenstein's Tractatus).
+9. Knowing that a formal entailment is valid requires knowing that some informal entailment is valid.
+
+### B. Formal Truth and Incompleteness
+10. Arithmetical truth cannot be formalized: any formal characterization of arithmetic is either inconsistent or incomplete.
+11. Gödel proved the class of arithmetical truths is not recursively definable.
+12. Formal truth is a relation to a recursive proof system, not a monadic property.
+13. There is no decision procedure for formality itself.
+14. There is no unified essence of 'formal truth' to be discovered.
+15. Formality has no form and cannot recursively characterize itself.
+16. There is no recursive definition of 'recursive definition'.
+17. Incompleteness goes all the way up—it's a structural feature appearing at every level.
+18. The space of logical systems is irreducibly plural.
+19. The dream of a unified formal framework is dead.
+
+### C. Analytic Truth
+20. Not all analytic truths are tautologies.
+21. Tautologies (definitional truths) are actually empirical truths about language.
+22. All mathematical truths are analytic truths.
+23. Truths of arithmetic are analytically true but not formally true.
+24. An analytic truth holds entirely in virtue of its own content.
+25. Some analytic truths are "hard analytic" (non-obvious conceptual truths).
+26. What Kant calls synthetic a priori truths are actually hard analytic truths.
+
+### D. Critique of Logical Positivism
+27. Logical positivism holds that meaningful statements are either tautologies or empirical.
+28. LP is self-refuting: it is neither a tautology nor empirically verifiable, so by its own criterion it is meaningless.
+29. There are non-empirical truths that have nothing to do with anyone's linguistic practices.
+30. The very essence of logical positivism is the denial of meaning (propositions).
+
+---
+
+## V. METAPHYSICS
+
+### A. Properties and Universals
+1. Properties are non-spatiotemporal entities.
+2. Concepts are non-spatiotemporal.
+3. The view that properties are identical with scattered objects composed of their instances is false.
+4. Two uninstantiated properties would be identical if properties were identical with their instances (reductio).
+5. One can change a scattered object without affecting the corresponding property.
+6. Properties exist; their existence is validated by obviously true statements.
+7. Properties are not identical with spatiotemporal entities.
+
+### B. Facts, Events, and Truths
+8. Facts are distributions or redistributions of mass-energy.
+9. A truth is distinct from the fact in virtue of which it holds.
+10. Events are redistributions of mass-energy.
+11. Events are nominalizations of truths, not constituents of the external world.
+12. The world doesn't consist of truths; it consists of facts.
+13. Truths hold in virtue of facts but aren't identical with facts.
+14. The spatiotemporal world doesn't consist of discrete events.
+15. The world has an analogue, not a digital structure.
+
+### C. Mind-Body Relations
+16. The physical world is causally closed.
+17. The mental affects the physical, therefore the mental must be physical (ontological materialism).
+18. Explanatory dualism is true even if ontological dualism is false.
+19. There is no way to understand why physicalistic statements being true should entail mentalistic statements being true.
+20. Psychology and physiology are more remote from each other than physiology and microphysics.
+21. Psychological propositions do not present facts as being in physical space.
+22. Cognitive processes are realized by physiological processes, but psychological relations between physiological events cannot be understood in physiological terms.
+23. Physiological properties are multiply realizable with respect to microphysical properties.
+24. Macro-level properties cannot be reduced to microphysical properties.
+
+---
+
+## VI. CAUSATION
+
+### A. Nature of Causation
+1. Causation is a relation between events, not objects.
+2. Objects are not causes; only events are causes.
+3. The concept of persistence is itself a causal notion.
+4. Anything that persists is, for that very reason, a causal sequence.
+5. We observe causal sequences whenever we observe anything.
+6. The notion of spatial occupancy is a causal concept.
+7. Anything that says anything about the spatiotemporal world has causal content.
+8. The essence of causation is continuity—continuous event-series are causal.
+9. There can be no spatiotemporal changes without causal changes because spatiotemporal changes are causal changes.
+
+### B. Critique of Hume
+10. Hume's analysis of causation as mere constant conjunction is false.
+11. We perceive instances of causation directly when we perceive instances of persistence and occupancy.
+12. Hume's analysis cannot distinguish epiphenomenal causation from actual causation.
+13. Day doesn't cause night, even though night regularly follows day.
+14. We know intuitively what causes what before looking for regularities.
+15. A Hume-world without causation is impossible because any instance of persistence or occupancy is an instance of causation.
+16. Hume's analysis of causation involves a failure to distinguish facts from truths.
+
+### C. Critique of Counterfactual Analysis
+17. The counterfactual analysis of causation (CF) is a failure.
+18. Even if CF is extensionally correct, it's no analysis of causality.
+19. Counterfactuals are themselves to be understood in terms of causality.
+20. CF is guilty of vicious circularity.
+21. CF assumes there's no causal redundancy in the world, but sometimes there are back-up mechanisms.
+22. Lewis's analysis of counterfactual truth in terms of possible worlds fails.
+23. The possible worlds analysis of counterfactuals is completely preposterous.
+24. Counterfactuals are grammatical variants of ordinary causal or logical statements.
+
+### D. Space, Time, and Causation
+25. The concepts of space and time are to be understood in terms of causality.
+26. Order in time is to be understood in causal terms.
+27. Order in space is to be understood in causal terms.
+28. Space and time are not empty containers; spatiotemporal positions are relations between events.
+29. Space-time has an analogue, not digital, structure.
+
+---
+
+## VII. PHILOSOPHY OF SCIENCE
+
+### A. Scientific Explanation
+1. The Deductive-Nomological (DN) model of scientific explanation is false.
+2. DN is viciously circular because distinguishing nomic from accidental generalizations requires prior causal knowledge.
+3. Knowledge of singular causation precedes knowledge of covering laws, not vice versa.
+4. Low-resolution explanations (identifying the cause) are genuine explanations even without knowledge of operative laws.
+5. Pre-scientific explanations are not non-explanations—they are correct but incomplete.
+6. Explanation is discontinuity-elimination.
+7. Explanation is reverse-prediction.
+8. Science is not about sticking to facts but about organizing facts by positing hidden structures.
+
+### B. Laws and Regularities
+9. Laws are not regularities; they are dispositive of regularities.
+10. Laws of nature are not perfect concomitances—a law can exist even if no instances occur.
+11. Laws need not be exceptionless regularities to have genuine explanatory value.
+12. Accidental generalizations don't receive support from their instances; only principled generalizations do.
+13. The Raven Paradox arises from failing to distinguish extensional from intensional readings of generalizations.
+
+### C. Program-Causes and Explanation
+14. Causes are INUS conditions: Insufficient but Non-redundant parts of Unnecessary but Sufficient conditions.
+15. Explanation almost always involves identifying program-causes—structures that predetermine specific events.
+16. Different disciplines deal with different program-causes and distinct nomic connections.
+17. Biology isn't just bad physics; psychology isn't just bad physiology.
+18. Predictions are almost always made on the basis of knowledge of program-causes.
+
+### D. Probability
+19. Probability is an epistemic concept.
+20. Probability is a property of statements, not of states of affairs.
+21. Probability is inherently relational.
+22. A complete description of the universe would contain no probability statements.
+23. Probability is "a measure of ignorance."
+24. Statistical probability differs from explanatory probability.
+
+---
+
+## VIII. EPISTEMOLOGY
+
+### A. A Priori Knowledge
+1. A priori knowledge is constitutive of one's ability to reason and learn from experience.
+2. We couldn't learn from experience without a priori knowledge.
+3. Observation cannot apprise us of what is incompatible with what.
+4. A creature cannot acquire knowledge of bearing relations unless it already has such knowledge.
+5. A priori knowledge is not an object of thought but the ability to think itself.
+6. Mathematical knowledge results from ratiocinative processes triggered by perception, not transmitted by it.
+7. Non-empirical knowledge is purely conceptual, concerning structures and interrelations of concepts.
+
+### B. Critique of Foundationalism
+8. Sellars destroyed "the myth of the given" but Berkeley made essentially the same points two hundred years earlier.
+9. The foundationalist picture holds that no empirical background knowledge is needed for perception—this is false.
+10. There are two senses in which knowledge is not "given": it presupposes background knowledge, and sensory experience alone doesn't constitute knowledge.
+11. The epistemic significance of a quale is not fixed; it is a variable function of background empirical knowledge.
+12. No sensory experience is foundational; empirical knowledge requires putting current experiences in context.
+
+### C. Self-Knowledge
+13. One must distinguish having a propositional attitude from knowing that one has it.
+14. Knowing that one feels a certain way involves making a judgment about one's mental state.
+15. The judgments we make about what our mental states express are often quite wrong.
+16. Nobody is perfectly transparent to himself; nobody is conscious of everything in his mind.
+17. Having meta-cognitive wherewithal is required to know what one's propositional attitudes are.
+
+---
+
+## IX. PSYCHOANALYSIS AND DEPTH PSYCHOLOGY
+
+### A. Repression
+1. People can rationalize and deceive themselves.
+2. People can repress knowledge they wish they didn't have.
+3. People can be internally conflicted, and internal conflict is a battle between conscious and unconscious conceits.
+4. Repressed emotions may be expressed as symptoms.
+5. The concept of repression is coherent despite seemingly cogent arguments against it.
+6. There are two distinct kinds of repression (repression₁ and repression₂).
+7. Repression₁ involves deliberate, conscious intention not to follow up on suggestive leads.
+8. Repression₂ involves already-formed beliefs and its essence is dissociation.
+9. Both forms of repression involve rationalization.
+10. Without rationalization, it is hard or impossible to repress an idea or keep it repressed.
+11. Repressions tend to outlive their usefulness.
+12. The result of ongoing repression is loss of both ratiocinative and ethical integrity.
+
+### B. Self-Deception
+13. People routinely deceive themselves, and it would be hard to exaggerate how often or how discrepantly with the truth.
+14. The view that self-deception is conceptually incoherent is itself a case of self-deception.
+15. Self-deception presupposes that, at some level, one has knowledge of the thing of which one lacks conscious knowledge.
+16. Rationalizations are moralizations: attempts to make the immoral seem moral.
+
+### C. Defense of Freud
+17. Freud's theories are theoretically extraordinarily conservative.
+18. Freud was simply making explicit the principles we ordinarily use when making intuitive judgments about other people.
+19. People dismiss Freud's theories, despite their staggering explanatory power, because they don't want to be told they lie to themselves.
+20. Arguments against Freudian psychology are pitifully weak and involve regressions to crude, demonstrably false positions.
+21. Contemporary theoretical psychology's denial of emotions and repression is itself an instance of repression.
+
+---
+
+## X. PSYCHOPATHOLOGY
+
+### A. Psychopathy and Sociopathy
+1. A psychopath is someone who doesn't have a conscience and never had one.
+2. A sociopath is someone who had a conscience but ceased to have one.
+3. Sociopathogenesis involves implementing a certain sort of rationalization.
+4. Sociopaths are people who "sell out" and "die inside."
+5. The pre-sociopath has values, internal conflict, capacity to love, and grasps non-instrumental goodness.
+6. The sociopath lacks values, internal conflict, capacity to love, and grasp of non-instrumental goodness.
+7. Psychopathy is a kind of perpetual infantilism.
+8. Sociopathy is psychological suicide: the destruction of one's value-based psychological architecture.
+9. Sociopaths do not have friends because they do not have values.
+
+### B. Borderline Personality Disorder
+10. People with BPD have two distinct, simultaneously operative psychological "operating systems."
+11. One BPD operating system is appropriately adult and sane; the other is infantile in nature.
+12. One part of the BPD person's mind remained fixated at an early phase of life, usually due to trauma.
+13. People with BPD oscillate between their two psychological integrations.
+14. The BPD person's preferred psychological defense is splitting, not repression.
+15. It is wrong to infer that BPD people are psychopaths.
+
+### C. OCD
+16. Obsessive beliefs are pseudo-beliefs.
+17. Compulsive acts are pseudo-acts.
+18. The essence of OCD is ambivalence.
+19. Obsessional belief represents the opposite of what one actually believes.
+20. Compulsive action is driven by an intention to do the opposite of what one's doing.
+21. Obsessive fears often represent disguised desires.
+
+### D. Other Conditions
+22. Neurotic people perceive external reality accurately but are blind to their own feelings.
+23. Psychosis involves partial cognitive regression where infantile and adult thought pathologically commingle.
+24. Mental illness is NOT "an illness like any other"—it differs categorically from physical illness.
+25. Mental illnesses are contextual in nature and often serve a defensive/protective function.
+26. Pathological insecurity and pathological grandiosity are two sides of the same coin.
+
+---
+
+## XI. ETHICS AND VALUE THEORY
+
+### A. Values and Agency
+1. Values are not desires.
+2. Liking something differs from valuing it.
+3. A value is a judgment that a course of action increases the scope of one's agency.
+4. What is valuable is what consolidates one's agency.
+5. Happiness presupposes a value-system.
+6. Happiness consists in judging oneself to have measured up to certain benchmarks.
+7. One's personhood depends on having values.
+
+### B. Free Will and Autonomy
+8. Free acts require that second-order desires align with first-order desires.
+9. Freedom consists primarily in being oneself, secondarily in being able to do what one wants.
+10. Truly free acts are driven by values, not merely by higher-order desires.
+11. Rational conduct differs from intelligent conduct.
+12. An irrational act can involve enormous intelligence.
+13. A rational act embodies due regard for one's various interests.
+14. Persons, unlike non-persons, subject their own desires to critical scrutiny.
+15. Rationality is intellectual autonomy.
+16. Autonomy is practical rationality.
+17. Agency in the robust sense is identical with rationality, autonomy, and moral responsibility.
+
+### C. Moral Realism
+18. Moral nihilism and aesthetic nihilism are both false.
+19. Moral nihilism and moral relativism are equivalent doctrines.
+20. The Moore-Hume thesis that you cannot derive an "ought" from an "is" is false.
+21. Moral truths hold in virtue of the same facts as descriptive truths.
+22. Morally good acts invariably conduce to psychological, biological, or psychobiological welfare.
+23. Hume's emotivism—the view that moral ideation is non-judicative sentiment—is wrong.
+24. There is no moral difference without a descriptive difference; the moral supervenes on the descriptive.
+25. Moral intuitions track biological facts about welfare and harm.
+26. Emotions can be justified or unjustified, rational or irrational—properties that only beliefs can have.
+
+### D. Critique of Kant
+27. Kant's two categorical imperatives (universalizability and respect for autonomy) are not equivalent.
+28. CI1 (universalizability test) is false.
+29. CI2 (respect autonomy) is approximately correct.
+30. Kant wrongly assumed nothing other than a good will has inherent moral worth.
+31. Autonomy itself must be inherently good if intention to respect autonomy is inherently good.
+32. Kant's argument linking morality and self-interest involves a massive non-sequitur.
+
+---
+
+## XII. PHILOSOPHY OF LAW
+
+### A. Nature of Legal Obligation
+1. Legal obligation is a species of moral obligation.
+2. Legal obligations persist even when outweighed.
+3. Legal obligation holds wherever state protection holds.
+4. Legal obligation fails wherever recognition fails.
+5. Legal normativity is moral normativity under legal description.
+6. Legal obligation exists only within morally structured systems.
+7. A law is an assurance of moral protection.
+8. A legal system is a system of such assurances.
+
+### B. Law and Morality
+9. Laws have a basis in morality because assurances are moral acts.
+10. Wicked laws can still have normative force due to background protections.
+11. Legal obligation emerges from systemic features, not individual mandates.
+12. Even overridden obligations remain obligations.
+13. Principles have weight rather than binary force.
+14. Legal obligations behave like moral principles in weight.
+15. The question of whether law requires morality (positivism vs. anti-positivism) is to be resolved through logical, not empirical, analysis.
+
+---
+
+## XIII. CRITIQUE OF KANT'S EPISTEMOLOGY
+
+1. Kant's arguments about causation and induction are spurious.
+2. Kant erroneously assumes all non-empirical truths are trivial.
+3. Kant confuses the psychological and logical meanings of "concept."
+4. Kant's views on synthetic a priori truths reflect his conflation of psychology with logic.
+5. Kant's reasoning must be "de-psychologized" to be valid.
+6. Kant's definitions of "analytic" and "a priori" are flawed.
+7. Analyticity should be understood as conceptual necessity.
+8. 7+5=12 is analytic, not synthetic.
+9. A straight line is the shortest distance between two points is analytic.
+10. Kant presupposes anti-realism or psychologism about concepts.
+11. Intuition for Kant is a para-perceptual act of imaging.
+12. Kant's mistake is an overly narrow conception of analyticity.
+13. Transcendental arguments are cogent if rephrased in terms of hard analyticity.
+14. Kant erroneously made mathematics a branch of psychology.
+
+---
+
+## XIV. A PRIORI KNOWLEDGE AND CHOMSKY
+
+### A. Chomsky's Contributions
+1. Chomsky's two contributions to philosophy are: (1) the poverty of stimulus argument for pre-experiential knowledge, and (2) his argument for the existence of sub-personal thought.
+2. Humans learn language due to their innate cognitive structure.
+3. Without pre-existing cognitive structure, no amount of sensory stimulation would lead to language acquisition.
+4. It is your mind's innate structure that enables acquisition of linguistic ability and other forms of cognitive competence.
+5. The knowledge Chomsky discusses is not knowledge that your mind has; that knowledge IS your mind.
+6. The a priori knowledge Chomsky discusses is not internal to your cognitive framework: it IS your cognitive framework.
+7. Languages are both productive and systematic.
+8. Language is productive and systematic because our minds are productive and systematic.
+9. The fact that we can learn language is proof that pre-experiential structural properties are cognitive, not merely physiological.
+
+### B. Structure of A Priori Knowledge
+10. You are not aware of your cognitive framework because it itself is your awareness.
+11. The framework-constitutive structures and operations that mediate learning are deeply unconscious.
+12. The contents of the Freudian unconscious are unconscious, but not deeply so.
+13. Our cognitive structure can be deduced from our thought-patterns.
+14. Thoughts, perceptions, and feelings are not themselves the cognitive structure but are its productions.
+
+---
+
+## XV. RUSSELL'S PARADOX AND SEMANTIC PARADOXES
+
+1. Russell, Tarski, and other logicians were wrong that there are meaningless bona fide sentences.
+2. Alleged antinomies are either false or are sentence-schemata, not actual sentences.
+3. Russell's Paradox does not demonstrate a counterexample to the Axiom of Comprehension.
+4. The expression "the property of not being a member of itself" does not have a referent.
+5. K₁ ("K is a member of itself") fails to encode a proposition because "itself" doesn't refer to anything.
+6. Type Theory (TT) is self-defeating because it is given by a sentence that violates its own stricture.
+7. There are two classes of antinomies: meaningless ones and false ones.
+8. "This sentence is false" tokens are neither true nor false, not both true and false.
+9. The semantic rules of English do not permit the construction of sentences that violate the Law of Non-Contradiction.
+10. Natural languages are not defective in the way logicians have alleged.
+11. No language can state all of its own semantic rules—there is a proof of this.
+
+---
+
+## XVI. AESTHETICS AND MUSIC
+
+1. Pleasant affects alert us to certain structural features in works of art.
+2. Congenial phenomenology alerts us to positive properties like truthfulness and validity in expression-image series.
+3. Music transfers subpersonal intelligence to the conscious level, making otherwise imperceptible thought-processes perceptible.
+4. Aesthetic beauty is relational—a property of relations between minds and sounds/objects, not intrinsic.
+5. The delight one takes in listening to a Bach fugue embodies subpersonal awareness of truths about structural properties of sounds.
+6. Subpersonal awarenesses are expressed at the personal level in the form of phenomenological episodes.
+
+---
+
+## XVII. LIBET EXPERIMENTS AND FREE WILL
+
+1. The experiments establish that consciousness of intention follows rather than precedes the intention itself.
+2. Consciousness may serve to approve or disapprove of decisions already made rather than to make decisions.
+3. The concept of "free will" is so unclear that difficulties applying experimental findings reflect problems with the concept.
+4. Nothing is gained by pressing experimental results into the service of a pre-existing philosophical agenda.
+5. The more deliberation and "rational reflection" involved in an action, the less likely the operative intention is to be fully conscious.
+6. Libet's experiment represents an extremely valuable but missed opportunity for philosophy.
+7. W (conscious awareness) does not have a decisive role in causing the action.
+
+---
+
+## XVIII. PHILOSOPHICAL METHODOLOGY
+
+1. Analytic philosophy (broadly construed) is philosophy done in the careful, clear-headed, systematic way that Frege approached problems.
+2. Analytic philosophers solve problems by clarifying statements, not by ontologizing.
+3. Philosophical insight is acquired by analyzing meanings and clarifying statements, not by positing entities.
+4. Philosophical puzzles are purely conceptual and result from confusion, not ignorance.
+5. Scientific puzzles involve acquiring new data; philosophical puzzles are solved by conceptual analysis.
+6. No philosophical assertions are empirical; observation cannot tell you whether one statement is inconsistent with another.
+7. Philosophy justifies assumptions that empirical sciences cannot justify themselves.
+8. Philosophers tend not to admit when they're wrong, thwarting philosophical progress.
+9. There may be a fundamental difference between explanations in physical sciences and psychological sciences.
+
+---
+
+## XIX. MISCELLANEOUS POSITIONS
+
+### A. Intelligence and Education
+1. Intelligence atrophies unless exercised, like athletic skill.
+2. College is a sham and will soon be a distant memory due to digital resources.
+3. There are two ways in which intellectual activity promotes intelligence.
+
+### B. Information and Knowledge
+4. The most urgent philosophical problem is how information can be encrypted to expedite its transmission and maximize its absorption.
+5. We are living in the information age.
+6. Power is now about ownership of ideas, not land.
+
+### C. Logic vs. Mathematics
+7. Logic studies rules of inference; mathematics studies general properties of structures.
+8. Mathematics studies numbers because they encode structural information.
+
+### D. Animals and Concepts
+9. Animals must have concepts given they have sense-perceptions.
+10. Animals' minds grasp abstracta even though the animals themselves do not.
+11. Dogs and snakes are capable of conceptual ideation at the subpersonal level.
+
+---
+
+*Document compiled from the Kuczynski philosophical corpus, organizing position statements by major thematic area.*

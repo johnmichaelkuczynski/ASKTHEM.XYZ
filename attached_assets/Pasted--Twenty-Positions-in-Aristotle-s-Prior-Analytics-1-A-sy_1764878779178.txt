@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Prior Analytics***
+
+1. A **syllogism** is a discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.
+
+2. Every syllogism consists of exactly **three terms**: major, minor, and middle.
+
+3. Every syllogism consists of exactly **two premises** and **one conclusion**.
+
+4. The **middle term** appears in both premises but not in the conclusion; it is the cause of the conclusion's necessity.
+
+5. There are exactly **three syllogistic figures**, distinguished by the position of the middle term in the premises.
+
+6. **First figure**: middle is subject in one premise, predicate in the other—produces the most perfect and self-evident syllogisms.
+
+7. **Second figure**: middle is predicate in both premises—suited for negative conclusions.
+
+8. **Third figure**: middle is subject in both premises—suited for particular conclusions.
+
+9. Premises and conclusions are either **universal or particular**, and either **affirmative or negative**, yielding four propositional forms (A, E, I, O in medieval terminology).
+
+10. Only certain **combinations of premise-pairs** yield valid conclusions; Aristotle systematically identifies which moods are valid in each figure.
+
+11. **First-figure moods** (Barbara, Celarent, Darii, Ferio) are perfect—their validity is self-evident and requires no proof.
+
+12. **Imperfect syllogisms** (in second and third figures) can be **perfected** by reduction to first-figure moods.
+
+13. **Conversion** is a key method of reduction: E-propositions and I-propositions convert simply; A-propositions convert only to I-propositions.
+
+14. **Reductio ad impossibile** is another method for proving validity: assume the contradictory of the desired conclusion and derive a contradiction.
+
+15. **Ekthesis** (exposition/setting out) is a third proof method involving selection of an individual instance.
+
+16. Some premise combinations yield **no valid conclusion at all**—Aristotle proves invalidity by counterexample.
+
+17. **Modal syllogistic** extends the theory to premises involving necessity, possibility, and contingency.
+
+18. **Mixed modal syllogisms** (one necessary premise, one assertoric) can yield necessary conclusions under certain conditions.
+
+19. The logic is fundamentally **term logic**, not propositional logic—it concerns relations among terms via predication.
+
+20. The syllogistic provides the **formal structure for scientific demonstration**, though demonstration proper requires additional conditions treated in the *Posterior Analytics*.

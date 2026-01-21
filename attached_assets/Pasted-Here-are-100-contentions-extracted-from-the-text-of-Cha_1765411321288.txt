@@ -1,0 +1,102 @@
+Here are 100 contentions extracted from the text of *Chapter 14: Determinism, Randomness, and Unpredictability*:
+
+1.  Determinism is the view that how the world is at any given point in time fixes how it will be in every respect at all later times.
+2.  Given how the world is now, there is only one way it could possibly be in the future.
+3.  Indeterminism is the doctrine that determinism is false.
+4.  Indeterminism is not the view that the world is chaotic or lawless.
+5.  For indeterminism to be true, there needs to be only one "renegade" event.
+6.  Determinism is a much stronger and harder claim to establish than indeterminism.
+7.  It is an open question whether the world is strictly deterministic at the sub-atomic level.
+8.  For most intents and purposes, the world of "medium-sized" objects is deterministic.
+9.  Determinism and predictability are not the same thing.
+10. A completely indeterministic system is unpredictable.
+11. A deterministic system may also be unpredictable.
+12. Perceiving the world necessarily involves changing it, creating a gulf between perception and reality.
+13. Information gained through sense-perception is always dated.
+14. The object of perception is altered by the act of perceiving it.
+15. Attempting to narrow the perceptual gulf by gathering more information only widens it.
+16. The logical conditions for sense-perception apply to any percipient being, including God.
+17. Knowledge requires causal connections to serve as evidence.
+18. God could not have knowledge of a spatiotemporal entity without being causally connected to it.
+19. The laws of logic apply to God.
+20. Prediction requires knowledge of initial conditions and causal laws.
+21. One's knowledge of initial conditions is necessarily inaccurate, so predictions will be off.
+22. What we know affects what we do, and what we do affects how the world is.
+23. One cannot know now what one will know in the future.
+24. The growth of one's knowledge affects the world, making complete prediction impossible even under determinism.
+25. The concept of an infallible self-predictor is incoherent.
+26. Self-fulfilling prophecies and self-defeating viewpoints exist.
+27. Self-predictions affect the future, thus undermining their own predictive accuracy.
+28. "Random" does not mean "uncaused."
+29. Random events are caused, but their causes are unforeseeable.
+30. Randomness is a relation an event has to a given body of knowledge, not an intrinsic property of the event.
+31. There can be random events in a deterministic world.
+32. In an indeterministic world, events are not necessarily random.
+33. Randomness is a property of statements (or relations between statements), not of events.
+34. Many universal statements (e.g., "all metal expands when heated") cannot be definitively verified by observation alone.
+35. Determinism ("all events have complete causes") is similarly unverifiable in a strict observational sense.
+36. The unverifiability of determinism, in this sense, is a trivial point shared with all empirical generalizations.
+37. If inference rules are allowed, universal generalizations like determinism can be verified.
+38. Saying something "could" happen contrary to a law often only means it isn't logically ruled out by current knowledge, not that it is physically possible.
+39. Hume's argument against the rationality of induction is difficult to refute but is not accepted in practice.
+40. The belief that one will not sprout wings is justified, unlike a belief that it will rain gumdrops tomorrow.
+41. An argument against determinism based on cloned cells behaving differently fails because cells are never microphysically identical.
+42. Different initial conditions lead to different outcomes, which is consistent with determinism, not a refutation of it.
+43. Causal connections are discovered by observing correlations between changes in initial conditions and changes in outcomes.
+44. One cannot replicate initial conditions perfectly, but one can hold other factors constant to observe causal links.
+45. A deterministic connection means the likelihood of an outcome approaches 100% as other factors are controlled.
+46. Experience can provide good evidence for strictly deterministic connections.
+47. We can have imperfect evidence for perfect (deterministic) correlations.
+48. Deterministic laws are no less capable of being established with reasonable certainty than any other fact about the external world.
+49. The limitations of induction are not a special problem for establishing causality.
+50. "Verification" defined as purely observational renders most knowledge of the external world unverifiable.
+51. The gulf between perception and reality is a necessary consequence of how perception works.
+52. Any attempt to correct perceptual distortion introduces further distortion.
+53. The information-carrier (e.g., light) alters the object it interacts with.
+54. The perceiver cannot know the exact nature of the changes inflicted on the object by the information-gathering process.
+55. Therefore, what is perceived is always different from what exists at the moment of perception.
+56. The argument applies to any sensory modality, not just vision.
+57. The claim that God could have non-causal knowledge is incoherent, akin to scoring a touchdown in soccer.
+58. For a mental state to be evidence of an external thing, it must be an effect of that thing.
+59. Justification for belief requires evidence, which requires a causal connection.
+60. A belief based on a lucky guess, even if true, is not knowledge.
+61. Causal connections are inherently disruptive.
+62. Therefore, God's mental representations of the world must, in some cases, be discrepant with reality.
+63. Learning about the world changes it.
+64. Predictions are based on outdated information about initial conditions.
+65. The second reason for the predictability/determinism gap is that knowledge states affect the world.
+66. If you knew now what you would know in 10 years, that knowledge would already be part of your present state, changing the future.
+67. One's future knowledge cannot be incorporated into present knowledge without altering what that future knowledge would be.
+68. Therefore, the growth of knowledge is inherently unpredictable.
+69. Self-confidence can breed success, acting as a self-fulfilling prophecy.
+70. Unwarranted pessimism can breed failure.
+71. The self-fulfilling nature of predictions opens a gap between how things will be and how we can know them to be.
+72. Predictions about one's own predictions further complicate prediction.
+73. An event is "random" relative to a body of knowledge if its occurrence could not reasonably be predicted from that knowledge.
+74. Randomness is epistemic, not ontological.
+75. Smith's death by ceiling lamp was determined but random relative to the narrator's knowledge.
+76. To a building inspector with different knowledge, the same event was not random.
+77. In an indeterministic scenario with equiprobable outcomes, the actual outcome is not "random" relative to the knowledge of the possible outcomes.
+78. An event can be both random (relative to one knowledge set) and non-random (relative to another).
+79. Indeterminism does not entail widespread randomness.
+80. The amount of randomness in an indeterministic world is not necessarily great.
+81. Universal generalizations are not falsified by the practical impossibility of perfect verification.
+82. The charge that determinism is unverifiable often rests on an overly strict definition of "verification."
+83. Common sense and scientific practice accept inference-based verification.
+84. The possibility of the next metal sample not expanding is a logical, not a physical, possibility.
+85. We know, inductively, that metal expands when heated, and this knowledge is justified.
+86. The cloned-cell argument mistakenly assumes biological identity implies microphysical identity.
+87. Microphysical differences guarantee different outcomes, which is consistent with determinism.
+88. The argument that initial conditions are never identical is true but irrelevant to establishing causal laws.
+89. Causal laws are established by observing correlations under controlled conditions.
+90. The correlation between cause and effect can approach perfection as confounding factors are eliminated.
+91. Technological limitations do not preclude evidence for deterministic laws.
+92. Evidence for deterministic laws is of the same kind and quality as evidence for other empirical regularities.
+93. The Heisenberg Uncertainty Principle is not directly relevant to the logical arguments about auto-prediction.
+94. The unpredictability of our own future knowledge is a logical, not a quantum-mechanical, limitation.
+95. Even a maximally intelligent being with perfect senses could not predict everything in a deterministic world.
+96. Reason #1 (perception alters the world) and Reason #2 (knowledge growth affects the world) establish this.
+97. The very act of gathering information for a prediction changes the system being predicted.
+98. Therefore, complete self-prediction or world-prediction is logically impossible.
+99. Determinism is a metaphysical claim about causality; unpredictability is an epistemological claim about knowledge.
+100. The world can be both deterministic and fundamentally unpredictable to any knowing agent within it.

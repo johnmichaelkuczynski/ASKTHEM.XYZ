@@ -1,0 +1,102 @@
+QUESTIONS
+
+What is philosophy actually about—what distinguishes it from science?
+Why are we good at using concepts like "cause" and "knowledge" but bad at explaining what they are?
+What does it mean for one statement to follow from another?
+How can "nothing is a square circle" be true if there's no square circle for it to be about?
+When I think about something that doesn't exist—like a golden mountain—what exactly am I thinking about?
+What's the difference between a sentence and what it means?
+Can the same thought be expressed in completely different languages?
+What makes something a genuine statement as opposed to meaningless noise?
+How does the grammar of a sentence relate to what it actually says?
+Are there things that exist but aren't in space or time?
+What would it mean for properties like redness to exist independently of red things?
+What is perception—is it just receiving information or does it involve interpreting it?
+When I hallucinate something, what is my experience about?
+Can you think about something without there being a thing you're thinking about?
+What makes a proposition true—what does it match up with?
+Do truths exist independently of anyone thinking them?
+What's the relationship between the words we use and the thoughts we have?
+Is the meaning of a word just how it's used?
+Can I know what a word means without being able to define it?
+Does understanding a word consist in anything beyond being able to use it?
+What makes something count as language rather than just noise?
+Can philosophical questions be settled just by examining how words are used?
+What determines whether a sentence is meaningful or not?
+Can a grammatically correct sentence be meaningless?
+Can a grammatically incorrect sentence be meaningful?
+What makes one statement inconsistent with another?
+Can observation tell us what's possible and impossible?
+Is all knowledge ultimately based on observation?
+What would I have to already know to learn anything from experience?
+Are mathematical truths just definitions or do they say something about reality?
+How can we know mathematical truths if we can't observe mathematical objects?
+What is a tautology—is it just a matter of linguistic convention?
+Can the same sentence be trivial for one person and informative for another?
+What's the difference between knowing what a word means and knowing what the thing is?
+Why doesn't "the good is more identical than the beautiful" mean anything?
+What does it take for a sentence to attribute a property to something?
+How do sentences about relations ("John loves Mary") work logically?
+How do sentences about quantities ("someone smokes," "nothing flies") work logically?
+Are sentences like pictures of reality or are they something fundamentally different?
+What's the difference between how a picture represents and how a sentence represents?
+Can everything we know be captured in images?
+How do we know negative facts—that something is not the case?
+Can a language contain all its own rules?
+What is logical form and how does it differ from grammatical form?
+What does it mean for one statement to formally entail another?
+Are all valid inferences a matter of logical form?
+Can there be valid inferences that aren't formally valid?
+Why can't all truths be captured in a formal system?
+What did Gödel actually show about mathematical truth?
+Is there a limit to what can be formalized?
+What is measurement and what are its limits?
+Can we know through measurement that something has an irrational magnitude?
+What assumptions does physics make that go beyond observation?
+What is an a priori truth?
+Is there knowledge that doesn't come from experience?
+What role does prior knowledge play in learning from experience?
+What is induction and what makes one inductive inference better than another?
+Why does "all emeralds are green" seem like a better inference than "all emeralds are grue"?
+What makes some properties "natural" and others artificial?
+What is causation—is it just constant conjunction?
+How do we distinguish genuine causes from mere correlations?
+What are counterfactual statements about?
+Does "if I had dropped the glass, it would have broken" describe another possible world?
+What grounds truths about what would have happened?
+What is necessity—what makes something necessarily true?
+What is possibility—what makes something possibly true?
+Are necessity and possibility features of statements or of things?
+What is the relationship between what is actual and what is possible?
+What is existence—what does it mean for something to exist?
+Can there be different modes or degrees of existence?
+Do fictional characters exist in any sense?
+What is a fact and how does it relate to a true statement?
+What is the relationship between the mental and the physical?
+Can mental causation be reduced to physical causation?
+What is consciousness and how does it relate to the brain?
+What is intentionality—what makes thoughts "about" things?
+Can there be unconscious mental states?
+What is self-knowledge and what are its limits?
+What is perception's relationship to thought—can you perceive without conceiving?
+What do sense-experiences contribute to knowledge beyond raw data?
+Can there be pure observation uncorrupted by theory?
+What is explanation—what does it mean to explain something?
+How does philosophical explanation differ from scientific explanation?
+What is the structure of scientific theories?
+What makes a theory scientific as opposed to non-scientific?
+What is probability—is it a measure of ignorance or a feature of reality?
+Are physical laws just regularities or something more?
+What is the relationship between laws and the events they govern?
+What is truth—what makes a statement true?
+Is truth relative or absolute?
+What is knowledge—what distinguishes it from mere true belief?
+Can we know anything with certainty?
+What is meaning—what is it for an expression to mean something?
+What determines what a word refers to?
+How do the meanings of parts combine to form the meaning of a whole?
+What is logical truth—is it different from other kinds of truth?
+What are numbers and do they exist?
+What is space and what is time?
+What is personal identity—what makes me the same person over time?
+What is the relationship between philosophy and common sense?

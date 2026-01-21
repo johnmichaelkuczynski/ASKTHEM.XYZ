@@ -1,0 +1,453 @@
+HOW MODEL BUILDER IS SUPPOSED TO WORK: 
+"MODEL"= AN INTERPRETATION OF THE INPUT THAT MAKES SAID INPUT COME OUT TRUE. 
+TWO MODES: FORMAL AND INFORMAL:
+FORMAL MODE: THE APP PRODUCES AN ACTUAL MATHEMATICAL MODEL (AXIOMS, DEFINITIONS, THEOREMS, ETC.), ALNOG WITH A WRITTEN OUT DESCRIPTION OF THE INTUITIVE MOTIVATION OF THE MODEL. 
+INFORMAL: THE APP FINDS A WAY TO INTERPRET THE TEXT WHEREBY IT COMES OUT TRUE. 
+HOW IT WORKS (WORKFLOW):
+USER INPUTS TEXT OF UP TO 100000 WORDS. 
+THERE ARE TWO MODES: 1. MODEL THE ENTIRE TEXT. 2. FIND MULTIPLE MODELS IN TEXT. 
+WHEN 1 IS TOGGLED ON, THAT MEANS THAT THE FUNCTION DOES ITS FIND TO FIND A MODEL OF THE ENTIRE TEXT. 
+WHEN 2 IS TOGGLED ON, THAT MEANS THAT THE FUNCTION DOES NOT ATTEMPT TO MODEL THE ENTIRE TEXT; INSTEAD IT FINDS NATURALLY MODULES OR CHUNKS OF THAT TEXT, PRODUCING A MODEL OF EACH. 
+
+# MODEL BUILDER: Complete Examples for All Four Modes
+
+## Overview
+
+**MODEL** = An interpretation of the input that makes said input come out TRUE.
+
+**Two Format Modes:**
+- **FORMAL:** Produces an actual mathematical model (axioms, definitions, theorems, domain, interpretation) along with written intuitive motivation
+- **INFORMAL:** Finds a way to interpret the text whereby it comes out true (conceptual reinterpretation)
+
+**Two Scope Modes:**
+- **ENTIRE TEXT:** Model the whole input as one coherent structure
+- **CHUNKED:** Find natural modules in the text, produce a separate model for each
+
+---
+
+# MODE 1: FORMAL + ENTIRE TEXT
+
+---
+
+## Example 1A: Leibniz's Monadology
+
+### Input (500 words from Leibniz's Monadology, §§1-9):
+
+> "The Monad, of which we shall here speak, is nothing but a simple substance, which enters into compounds. By 'simple' is meant 'without parts.' And there must be simple substances, since there are compounds; for a compound is nothing but a collection or aggregatum of simple things. Now where there are no parts, there can be neither extension nor form nor divisibility. These Monads are the real atoms of nature and, in a word, the elements of things..."
+
+### Output:
+
+**FORMAL MODEL**
+
+**Domain:** Nodes and subgraphs of a connected undirected graph G = (V, E)
+
+**Interpretation:**
+- "Monad" = individual vertex v ∈ V
+- "Compound" = connected subgraph S ⊆ G with |V(S)| > 1
+- "Simple" = entity with no proper substructure (a single vertex)
+- "PartOf(x, y)" = vertex x ∈ V(S) for subgraph y
+- "Extension" = positive path length within an entity (vertices have none; subgraphs do)
+- "Divisible" = can be partitioned into smaller connected components
+
+**Axioms (now true in this model):**
+
+A1. ∀x(Simple(x) ↔ x is a single vertex) — TRUE: vertices have no graph-theoretic substructure
+
+A2. ∀x(Compound(x) → ∃y(Simple(y) ∧ PartOf(y, x))) — TRUE: every subgraph contains vertices
+
+A3. ∀x(Simple(x) → ¬Extended(x) ∧ ¬Divisible(x)) — TRUE: a vertex has no internal path, cannot be partitioned
+
+A4. ∃x(Compound(x)) → ∃y(Simple(y)) — TRUE: if any subgraph exists, vertices exist
+
+**Theorems:**
+
+T1. Simple substances exist. — TRUE: V ≠ ∅ by definition of graph
+
+T2. No monad has extension. — TRUE: vertices have no internal distance
+
+T3. Compounds are aggregates of simples. — TRUE: subgraphs are sets of vertices + edges
+
+**INTUITIVE MOTIVATION:**
+
+Leibniz's claims are literally false if "monad" means immaterial soul-atom. But interpreted over graph theory, every claim holds. "Simple" = vertex (no internal structure). "Compound" = subgraph (collection of vertices). "No extension" = no path length within a point. The model doesn't vindicate Leibniz's metaphysics—it finds a structure where his *words* come out true. That's what Model Builder does.
+
+---
+
+## Example 1B: Spinoza's Ethics
+
+### Input (800 words from Spinoza's Ethics, Part I, Propositions 1-15):
+
+> "By substance I understand that which is in itself and is conceived through itself; that is, that the conception of which does not require the conception of another thing from which it must be formed. By attribute I understand that which the intellect perceives of substance as constituting its essence. By mode I understand the affections of substance, or that which is in another thing through which it is also conceived... Substance is by nature prior to its affections... Except God, no substance can be nor be conceived... Whatever is, is in God, and nothing can exist or be conceived without God..."
+
+### Output:
+
+**FORMAL MODEL**
+
+**Domain:** A complete lattice L with top element ⊤ and bottom element ⊥
+
+**Interpretation:**
+- "Substance" = ⊤ (the top element, the unique maximum)
+- "Mode" = any element x ∈ L where x ≠ ⊤
+- "Attribute" = a principal filter ↑a (upward-closed set containing a) that generates ⊤
+- "Is in" = lattice ordering ≤ (x is in y iff x ≤ y)
+- "Conceived through" = x is conceived through y iff x ≤ y (x requires y to be defined)
+- "God" = ⊤
+
+**Axioms (now true in this model):**
+
+A1. ∀x(Substance(x) ↔ ¬∃y(x < y)) — TRUE: ⊤ has nothing above it
+
+A2. ∀x(Mode(x) → ∃y(Substance(y) ∧ x ≤ y)) — TRUE: every element ≤ ⊤
+
+A3. Substance is prior to modes — TRUE: ⊤ is in every principal filter; modes presuppose it
+
+A4. Only one substance exists — TRUE: complete lattice has unique ⊤
+
+A5. Everything is in God — TRUE: ∀x(x ≤ ⊤)
+
+**Theorems:**
+
+T1. No substance can be conceived through another — TRUE: ⊤ ≤ y implies y = ⊤
+
+T2. Modes cannot exist without substance — TRUE: remove ⊤, lattice structure collapses
+
+T3. God is infinite (has infinite attributes) — TRUE in infinite lattice: infinitely many principal filters converge to ⊤
+
+**INTUITIVE MOTIVATION:**
+
+Spinoza's monism sounds mystical. But it's just lattice theory. There's one top element. Everything else sits below it. "In God" = below ⊤ in the ordering. "Conceived through" = reachable via ≤. Substance/mode distinction = ⊤ vs. non-⊤. Spinoza is describing the structure of a complete lattice with unique maximum. True by definition.
+
+---
+
+# MODE 2: FORMAL + MULTIPLE MODELS (CHUNKED)
+
+---
+
+## Example 2A: Hegel's Science of Logic
+
+### Input (3000 words from Hegel's Science of Logic, "Being-Nothing-Becoming"):
+
+> "Being, pure being, without any further determination... Being, the indeterminate immediate, is in fact nothing, and neither more nor less than nothing... Becoming is the unity of being and nothing... The truth is neither being nor nothing, but that being—does not pass over but has passed over—into nothing, and nothing into being..."
+
+### Output:
+
+**CHUNK 1: "Being is nothing"**
+
+**Domain:** The trivial topological space T = ({p}, {∅, {p}})
+
+**Interpretation:**
+- "Being" = the point p
+- "Nothing" = the empty set ∅
+- "Is" = topological indiscernibility
+
+**Why true:** In the trivial topology, p and ∅ are indiscernible in the sense that neither has distinguishing open neighborhoods beyond the trivial ones. "Pure being without determination" = a point with no distinguishing properties. "Nothing" = empty of content. In this impoverished structure, they collapse.
+
+---
+
+**CHUNK 2: "Becoming is the unity of being and nothing"**
+
+**Domain:** The unit interval [0,1] with continuous functions
+
+**Interpretation:**
+- "Being" = 1
+- "Nothing" = 0
+- "Becoming" = a continuous path f: [0,1] → [0,1] where f(0) = 0 and f(1) = 1
+
+**Why true:** Becoming is literally the transition—the function connecting 0 and 1. It "contains" both as boundary values. It is neither 0 nor 1 but includes both. "Passed over" = the path has traversed.
+
+---
+
+**CHUNK 3: "The truth is neither being nor nothing but becoming"**
+
+**Domain:** Category theory — the arrow category
+
+**Interpretation:**
+- "Being" = terminal object 1
+- "Nothing" = initial object 0
+- "Becoming" = the unique morphism 0 → 1
+- "Truth" = the morphism, not the objects
+
+**Why true:** In a category with initial and terminal objects, the *morphism* between them carries the information. The objects are trivial; the arrow is where content lives. "Truth" = the arrow, not the endpoints.
+
+---
+
+**INTUITIVE MOTIVATION:**
+
+Hegel's dialectic looks like word salad. But each chunk can be modeled separately. Chunk 1 exploits topological triviality. Chunk 2 uses continuity. Chunk 3 uses category-theoretic structure. No single model covers all of Hegel—that's why Mode 2 chunks it.
+
+---
+
+## Example 2B: Kant's Critique of Pure Reason
+
+### Input (4000 words from Kant's Critique of Pure Reason, "Transcendental Aesthetic"):
+
+> "Space is not an empirical concept that has been drawn from outer experiences... Space is a necessary representation a priori, which underlies all outer intuitions... Space is not a discursive, or as one says, general concept of relations of things in general, but a pure intuition... Space is represented as an infinite given magnitude..."
+
+> "Time is not an empirical concept that is somehow drawn from experience... Time is a necessary representation that underlies all intuitions... Time has only one dimension... different times are not simultaneous but successive... Time is not something that would subsist of itself or attach to things as an objective determination..."
+
+> "Space and time are the pure forms of all sensible intuition, and so are what make a priori synthetic propositions possible..."
+
+### Output:
+
+**CHUNK 1: "Space is a necessary a priori representation underlying all outer intuition"**
+
+**Domain:** Euclidean 3-space ℝ³ as a metric space
+
+**Interpretation:**
+- "Space" = ℝ³ with standard metric
+- "A priori" = defined axiomatically, not empirically measured
+- "Underlying outer intuition" = coordinate system presupposed by any spatial measurement
+- "Pure intuition" = structure given before any particular content
+- "Infinite given magnitude" = unbounded, complete
+
+**Why true:** You cannot describe a location without presupposing a coordinate system. The system is logically prior to any measurement. ℝ³ is infinite, given axiomatically. Kant is describing the preconditions for spatial reference.
+
+---
+
+**CHUNK 2: "Time is a necessary representation; different times are successive, not simultaneous"**
+
+**Domain:** The real line ℝ with standard ordering <
+
+**Interpretation:**
+- "Time" = (ℝ, <)
+- "A priori" = the ordering is axiomatic
+- "One dimension" = ℝ is one-dimensional
+- "Successive, not simultaneous" = < is a total order; no two distinct points are unordered
+- "Does not subsist of itself" = ℝ is a structure, not a substance
+
+**Why true:** The reals with < form a totally ordered set. Every pair is comparable. "Succession" = the ordering. Time isn't a thing; it's a structure. Kant is describing the order topology on ℝ.
+
+---
+
+**CHUNK 3: "Space and time are forms making synthetic a priori propositions possible"**
+
+**Domain:** A differentiable manifold M with metric tensor g
+
+**Interpretation:**
+- "Space and time" = the manifold structure
+- "Form of intuition" = the smooth structure and metric, not the points
+- "Synthetic a priori" = propositions derivable from manifold structure alone (e.g., geodesics, curvature)
+- "Possible experience" = any path on the manifold
+
+**Why true:** On a manifold, you can derive geometric truths (geodesic equations, parallel transport) from structure alone. These are synthetic (non-trivial) and a priori (not empirical). Kant's claim holds: structure enables non-trivial truths.
+
+---
+
+**INTUITIVE MOTIVATION:**
+
+Kant sounds obscure. But he's describing what mathematicians call a coordinate system (space) and a total order (time) as preconditions for representing anything in experience. "Synthetic a priori" = theorems derivable from structure. Model Builder reads Kant as proto-differential geometry.
+
+---
+
+# MODE 3: INFORMAL + ENTIRE TEXT
+
+---
+
+## Example 3A: Nietzsche's Beyond Good and Evil
+
+### Input (2000 words from Nietzsche's Beyond Good and Evil, §259):
+
+> "Life itself is essentially appropriation, injury, overpowering of what is alien and weaker; suppression, hardness, imposition of one's own forms, incorporation, and at least, at its mildest, exploitation... 'Exploitation' does not belong to a corrupted or imperfect or primitive society: it belongs to the essence of what lives, as a fundamental organic function..."
+
+### Output:
+
+**INFORMAL MODEL**
+
+**Interpretation:** Read "life" as *any self-maintaining dissipative system*, including cells, organisms, corporations, ecosystems, and software processes.
+
+**Assignments:**
+- "Appropriation" = resource acquisition (metabolism, market capture, memory allocation)
+- "Injury" = competitive displacement (predation, bankruptcy, garbage collection)
+- "Overpowering the alien" = boundary enforcement (immune response, firewalls, territorial defense)
+- "Exploitation" = extraction of gradient differentials (eating, profit extraction, entropy export)
+
+**Why true under this reading:**
+
+Nietzsche's claims become thermodynamic truisms. Any far-from-equilibrium system persists by importing low-entropy resources and exporting high-entropy waste. This *is* exploitation in a physics sense. It's not moral evil; it's the structure of persistence. Cells exploit glucose gradients. Firms exploit arbitrage. Organisms exploit niches.
+
+"Belongs to the essence of what lives" = TRUE: no dissipative structure survives without extracting work from its environment.
+
+**The model vindicates Nietzsche:** He's not glorifying cruelty. He's describing the thermodynamics of self-maintenance. Read "exploitation" as energy extraction, and every sentence is true.
+
+---
+
+## Example 3B: Schopenhauer's World as Will
+
+### Input (2500 words from Schopenhauer's The World as Will and Representation, Book II):
+
+> "What is this world of perception besides being my representation? The answer is: Will. The body is the objectification of will. Every true act of will is also at once and inevitably a movement of the body. The action of the body is nothing but the act of will objectified. The whole body is nothing but objectified will. The will is the thing in itself; the inner content, the essence of the world..."
+
+### Output:
+
+**INFORMAL MODEL**
+
+**Interpretation:** Read "will" as *control signal* in a feedback control system (cybernetics).
+
+**Assignments:**
+- "Will" = the error-correcting signal in a control loop
+- "Representation" = the sensor reading / perceptual input
+- "Body" = the actuator / effector system
+- "Act of will" = control output
+- "Movement of body" = actuator response
+- "Objectification of will" = physical instantiation of control signal in hardware
+- "Thing in itself" = the control law / transfer function (hidden from perception)
+- "World as representation" = the sensor model
+
+**Why true under this reading:**
+
+Schopenhauer's claim: behind every representation is a driving force (will) that manifests as bodily action. In cybernetics: behind every sensor reading is a control signal driving actuator movement. The control law is not perceived—only its effects are. The "will" is the hidden dynamic that explains behavior.
+
+- "Every act of will is a movement of body" = TRUE: every control output changes actuator state
+- "Body is objectified will" = TRUE: actuator hardware instantiates control architecture
+- "Will is thing in itself" = TRUE: the transfer function is not directly observed, only inferred
+- "World is representation" = TRUE: all the system "knows" is sensor data
+
+**The model vindicates Schopenhauer:** He's describing control theory 75 years before Wiener. The distinction between noumenon and phenomenon = controller vs. sensor model.
+
+---
+
+# MODE 4: INFORMAL + MULTIPLE MODELS (CHUNKED)
+
+---
+
+## Example 4A: Aquinas's Five Ways
+
+### Input (5000 words from Aquinas, Summa Theologica, Question 2, Articles 1-3 — the Five Ways):
+
+> "The first and more manifest way is the argument from motion... Whatever is in motion is put in motion by another... If that by which it is put in motion be itself put in motion, then this also must needs be put in motion by another, and that by another again. But this cannot go on to infinity... Therefore it is necessary to arrive at a first mover, put in motion by no other; and this everyone understands to be God."
+
+> "The second way is from the nature of the efficient cause... There is no case known in which a thing is found to be the efficient cause of itself... Now in efficient causes it is not possible to go on to infinity... Therefore it is necessary to admit a first efficient cause, to which everyone gives the name of God."
+
+> "The third way is taken from possibility and necessity... If everything is possible not to be, then at one time there could have been nothing in existence. Now if this were true, even now there would be nothing in existence... Therefore we must admit the existence of some being having of itself its own necessity..."
+
+### Output:
+
+**CHUNK 1: The First Way (Motion)**
+
+**Interpretation:** Read "motion" as *state change* in a finite state machine.
+
+**Assignments:**
+- "In motion" = transitioning between states
+- "Put in motion by another" = triggered by input
+- "First mover" = initial input / activation signal
+
+**Why true:** In any FSM, state changes require inputs. Inputs trace back to an initial trigger (user action, system boot, clock pulse). No infinite regress—the machine has a starting state and an initial input. The "first mover" = system initialization.
+
+---
+
+**CHUNK 2: The Second Way (Efficient Cause)**
+
+**Interpretation:** Read "efficient cause" as *function call* in a call stack.
+
+**Assignments:**
+- "Efficient cause" = calling function
+- "Effect" = called function / return value
+- "Cannot cause itself" = a function cannot be on the call stack above itself without terminating (no unbounded recursion without base case)
+- "First cause" = main() or system entry point
+
+**Why true:** Every call stack has finite depth. Execution begins somewhere. The "first efficient cause" = program entry point. True in every executable.
+
+---
+
+**CHUNK 3: The Third Way (Contingency)**
+
+**Interpretation:** Read "possible not to be" as *nullable variables* in a database or program.
+
+**Assignments:**
+- "Contingent being" = nullable field (can be NULL)
+- "Necessary being" = non-nullable primary key (must exist)
+- "If everything could not be, nothing would be" = if all fields nullable with no constraints, table could be empty
+- "Necessary being" = schema constraint that guarantees at least one non-null anchor
+
+**Why true:** Relational databases require primary keys. If everything is nullable, referential integrity collapses. The "necessary being" = the non-nullable constraint that grounds the schema.
+
+---
+
+**INTUITIVE MOTIVATION:**
+
+Aquinas's Five Ways fail as metaphysical proofs of God. But each argument has a valid *structure* that holds in the right domain. Motion → FSM triggering. Causation → call stacks. Contingency → database constraints. The arguments are true if you find the right model. Model Builder doesn't prove God exists—it finds where Aquinas's reasoning *is* correct.
+
+---
+
+## Example 4B: Wittgenstein's Tractatus
+
+### Input (6000 words from Wittgenstein's Tractatus Logico-Philosophicus, Propositions 1-4):
+
+> "1. The world is everything that is the case. 1.1 The world is the totality of facts, not of things. 1.2 The world divides into facts..."
+
+> "2. What is the case, the fact, is the existence of atomic facts. 2.01 An atomic fact is a combination of objects (entities, things). 2.02 The object is simple..."
+
+> "3. The logical picture of the facts is the thought. 3.01 The totality of true thoughts is a picture of the world..."
+
+> "4. The thought is the significant proposition. 4.01 The proposition is a picture of reality. 4.03 A proposition communicates to us a state of affairs, therefore it must be essentially connected with the state of affairs..."
+
+### Output:
+
+**CHUNK 1: "The world is the totality of facts, not things"**
+
+**Interpretation:** Read "world" as a *database*, "facts" as *rows*, "things" as *column values*.
+
+**Assignments:**
+- "World" = a relational database
+- "Fact" = a row (a record, a tuple)
+- "Thing" = an atomic value in a cell
+- "Totality of facts" = all rows across all tables
+
+**Why true:** A database is not defined by its atomic values (strings, integers) but by its records. You query for rows, not cells. The world-as-database is the set of instantiated tuples, not the set of possible values. Wittgenstein is describing relational ontology.
+
+---
+
+**CHUNK 2: "Atomic facts are combinations of objects; objects are simple"**
+
+**Interpretation:** Read as *composite keys* in a database.
+
+**Assignments:**
+- "Object" = a primitive value (atomic, no internal structure)
+- "Atomic fact" = a row in a junction table (combination of foreign keys)
+- "Simple" = non-decomposable data type
+
+**Why true:** In a normalized database, a junction table row is a combination of simple foreign keys. The keys are atomic (no subparts). The row is a "combination of objects." Wittgenstein is describing database normalization.
+
+---
+
+**CHUNK 3: "The logical picture of facts is the thought; the proposition is a picture of reality"**
+
+**Interpretation:** Read as *query and result set*.
+
+**Assignments:**
+- "Thought" = a SQL query (a logical structure that can match facts)
+- "Proposition" = the query string
+- "Picture of reality" = the result set (rows that satisfy the query)
+- "True thought" = a query that returns non-empty results
+
+**Why true:** A query is a "picture" of the database in the sense that it specifies a pattern to match. If the pattern matches rows, the query is "true" (satisfied). The proposition-as-query "communicates a state of affairs" by specifying selection criteria.
+
+---
+
+**CHUNK 4: "Proposition must be essentially connected with the state of affairs"**
+
+**Interpretation:** Read as *schema constraint*.
+
+**Assignments:**
+- "Essential connection" = the query is well-formed against the schema
+- "State of affairs" = the actual data
+- "Connected" = the query references existing tables and columns
+
+**Why true:** A query that references non-existent tables is meaningless—it fails at parse time. The proposition must be "connected" to reality in the sense that it must be well-formed against the schema. Wittgenstein is describing the syntax/semantics distinction in query languages.
+
+---
+
+**INTUITIVE MOTIVATION:**
+
+The Tractatus reads like cryptic oracles. But Wittgenstein is describing something like a relational database. World = database. Facts = rows. Things = values. Atomic facts = junction table entries. Propositions = queries. Truth = non-empty result set. He's doing data modeling ontology 50 years before Codd.
+
+---
+
+# SUMMARY TABLE
+
+| Mode | Scope | Output Type | Example A | Example B |
+|------|-------|-------------|-----------|-----------|
+| FORMAL + ENTIRE | Whole text | Single mathematical structure | Leibniz → Graph theory | Spinoza → Lattice theory |
+| FORMAL + CHUNKED | Text segments | Multiple mathematical structures | Hegel → Topology + Continuity + Categories | Kant → ℝ³ + Total orders + Manifolds |
+| INFORMAL + ENTIRE | Whole text | Single conceptual reinterpretation | Nietzsche → Thermodynamics | Schopenhauer → Cybernetics |
+| INFORMAL + CHUNKED | Text segments | Multiple conceptual reinterpretations | Aquinas → FSM + Call stacks + DB constraints | Wittgenstein → Relational databases |

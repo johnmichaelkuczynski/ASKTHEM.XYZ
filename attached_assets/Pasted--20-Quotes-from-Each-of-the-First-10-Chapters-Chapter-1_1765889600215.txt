@@ -1,0 +1,441 @@
+# 20 Quotes from Each of the First 10 Chapters
+
+---
+
+## Chapter 1: Analytic Philosophy as Logical Analysis
+
+1. "Philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world."
+
+2. "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+
+3. "The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold."
+
+4. "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+
+5. "Frege is often described as the first analytic philosopher. Michael Dummett said that 'analytic philosophy is post-Fregean philosophy.'"
+
+6. "Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements."
+
+7. "Philosophical puzzles are solved by making it clear what statements mean. This is the basic tenet of analytic philosophy."
+
+8. "Philosophy explains by clarifying statements. Science explains by positing entities."
+
+9. "Philosophy isn't para-science. Philosophy is conceptual analysis. To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+10. "Analytic philosophers are, almost by definition, ontologically very conservative. In other words, they don't want to grant existence to anything whose existence hasn't been demonstrated beyond a shadow of a doubt."
+
+11. "SS's logical form diverges from its grammatical form. In terms of what its grammar suggests that it is saying, SS is indistinguishable from sentences that attribute the property of smoking to specific objects."
+
+12. "For a property to be instantiated is for there to be an instance of it. An instance of a property is something that has it."
+
+13. "According to verificationism a non-tautologous statement is meaningful iff it's capable of being verified strictly on the basis of sensory observation. Verificationism is false."
+
+14. "Falsificationism is false. Though obviously meaningful, the statement 'there exists a gold ball that weighs exactly 27.13654 lbs' cannot be conclusively falsified."
+
+15. "LP is neither an empirical truth nor a tautology. It is thus a counterexample to itself and is therefore false."
+
+16. "It cannot be known through observation that empiricism is correct. Any attempt to provide an observational basis for any statement presupposes the meaningfulness of that statement."
+
+17. "Self-understanding isn't the mind's primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one."
+
+18. "We're excellent at distinguishing between moral and immoral behavior. We know that rape is immoral and that donating money to charity (for selfless reasons) is moral."
+
+19. "Observation cannot tell you whether one statement is consistent with some other statement."
+
+20. "No philosophical assertions are empirical. Philosophy analyzes the categories in terms of which we think about the world."
+
+---
+
+## Chapter 2: Properties and Non-Spatiotemporal Existence
+
+1. "Not everything that exists is in space-time. Everything that is in space-time is an instance of at least one property, and properties are not themselves in space-time."
+
+2. "No matter how thoroughly one searches the universe, one will never encounter the property of liking to play tennis. One will, at most, encounter its instances."
+
+3. "Properties themselves have properties. The property of being a square circle has the property of being uninstantiated."
+
+4. "Everything that exists is either a property or is in space-time."
+
+5. "The doctrine that spatiotemporal things are instances of non-spatiotemporal things is known as 'Platonism.' This is because Plato was the first person to advocate that doctrine."
+
+6. "The doctrine that properties don't exist, or do exist but only because they are identical with spatiotemporal entities, is sometimes referred to as 'nominalism.'"
+
+7. "Consider the property of having a perfectly triangular shape. Nothing has this property. Are we to say that it doesn't exist? Were we to do so, we'd be saying that, since there are no instances of the property of triangularity, that property doesn't exist. Which is absurd."
+
+8. "The property of being a perfect husband is obviously distinct from the property of being a perfect soldier, even though neither property is instantiated."
+
+9. "Squareness is a form of rectangularity. On the face of it, this seems to make a statement about the property of squareness."
+
+10. "A thing is a rectangle in virtue of its being a square, but a thing isn't green in virtue of its being a square even if it happens to be a square."
+
+11. "All principled connections are relationships between properties."
+
+12. "Unless it's conceded that properties exist, there is no way to account for the fact that there are principled relationships of any kind."
+
+13. "Those who deny the existence of properties tend to be empiricists. Since empiricists cannot grant the existence of things, such as properties, that cannot be seen or otherwise known directly on the basis of observation, they end up denying that anything has any bearing on anything."
+
+14. "Properties do indeed lack causal powers. Causes are necessarily in space and time. To be a cause is to induce change."
+
+15. "Not all explanation is causal explanation. Some explanation is what we call analytic or conceptual."
+
+16. "There were rocks before there were people. And, back then, rocks were similar to one another in ways that they weren't similar to bats and stars and other non-rocks."
+
+17. "For two things to be similar to one another in a certain respect is for there to be some property that they both have."
+
+18. "David Armstrong says that properties are 'ways that things can be.' To be round is to be one way; to be square is another."
+
+19. "Properties can be thought of as conditions. The property of being a pink elephant is a condition a thing must fulfill in order to be a pink elephant."
+
+20. "Sets are not spatiotemporal, and sets do not initially appear to be identical with properties. But they too turn out to be properties."
+
+---
+
+## Chapter 3: What Are Propositions and What Is Truth?
+
+1. "By a 'proposition,' I mean what is meant by an utterance of a sentence."
+
+2. "Propositions are sets of properties; and a proposition is true just in case the properties that are members of it are instantiated."
+
+3. "Truth is identical with the property of being a set (of a certain kind) all of whose members are instantiated."
+
+4. "The property of being identical with Tommy is instantiated, and so is the property of smoking."
+
+5. "For any proposition X, to say that X is the result of Y's 'saturating' Z is to say that X is a set whose members are the property of being identical with X, and Z itself."
+
+6. "States of affairs (or 'facts,' as they are sometimes called) do not have the same kinds of 'articulations' as propositions."
+
+7. "The quantum-ripples on which the truth of a proposition supervenes don't have anything like the structure of that proposition."
+
+8. "Whereas the proposition Tommy is smoking clearly has a unique, and relatively simple decomposition into Tommy, the property of smoking, etc., the state of affairs in which Tommy's smoking consists obviously doesn't uniquely decompose."
+
+9. "The truthmaker of a proposition is the entity or entities whose existence and nature accounts for the fact that the proposition is true."
+
+10. "A true proposition can also be seen as the property of being a world of a certain kind—namely, of being a world at which Tommy is smoking."
+
+11. "What it is for a proposition to be false is for the properties that are members of it to fail to be jointly instantiated."
+
+12. "The instantiatedness of the members of a set S is what it is for S to be true."
+
+13. "The thing that corresponds to a proposition is the state of affairs that, if actual, makes that proposition true."
+
+14. "A given thing's being a certain way is identical with that thing's having a certain property."
+
+15. "Propositions must be identified with properties and a proposition's being true must be identified with its being instantiated."
+
+16. "The world's being a certain way is identical with its having a certain property."
+
+17. "The world was a certain way before we were around; it will be a certain way after we're gone."
+
+18. "Certain propositions are true; and it follows from this that propositions are not human creations."
+
+19. "Sentences, on the other hand, are human creations. They wouldn't be around if it weren't for us."
+
+20. "Propositional analysis is the analysis of propositions that involves analyses of sentences and, therefore, is not itself an analysis of sentences."
+
+---
+
+## Chapter 4: What Is a Language?
+
+1. "The meaning of a true or false sentence is a proposition. Propositions are not themselves sentences."
+
+2. "Different sentences (e.g., 'schnee ist weiss' and 'snow is white') can express the same proposition."
+
+3. "Propositions, when true, are truths. Thus, propositions have existed as long as there have been truths."
+
+4. "Sentences are structurally like the propositions they express."
+
+5. "Sentences and propositions are digital structures, meaning that they have unique breakdowns into minimal significant units."
+
+6. "A visual perception of Sally punching Bob doesn't have a structure comparable to that of 'Sally punched Bob' or any other sentence."
+
+7. "The discipline of semantics attempts to make it clear what our utterances literally mean. It has no interest in what is conveyed through suggestion or innuendo."
+
+8. "Pragmatics studies the use of language. Sometimes language is used literally."
+
+9. "What a sentence literally means is only one of many factors governing what it is used to mean."
+
+10. "The discipline of syntax studies the structures of the meanings of complex expressions."
+
+11. "A complex expression is one that consists of other expressions."
+
+12. "Psychological meaning presupposes linguistic meaning."
+
+13. "What a person means when uttering a given sentence is a function of, among other things, his beliefs as to what that sentence already means."
+
+14. "The sense in which 'snow is white' means that snow is white isn't comparable to the sense in which smoke means fire."
+
+15. "The fact that smoke means fire has nothing to do with conventions on the part of human beings. But the fact that 'snow is white' means what it does is, at least in part, a matter of convention."
+
+16. "There is thus a normative dimension to language use that is absent where purely natural, non-conventional cause-effect relations are concerned."
+
+17. "Two otherwise dissimilar sentences can share the word 'John.' The meanings of those sentences obviously have something in common."
+
+18. "Given that propositions consist of discrete, isolable entities, it follows that, like sentences and unlike visual perceptions and photographs, propositions are digital structures."
+
+19. "The study of language is typically divided into three sub-disciplines—semantics, syntax, and pragmatics."
+
+20. "The relationship that 'Sally hates Bob' bears to 'hates' is identical with the relationship that 'Larry loves Julie' bears to 'loves.'"
+
+---
+
+## Chapter 5: Do We Think in Words?
+
+1. "It is obvious that knowledge of a language makes one more intelligent in at least some respects."
+
+2. "Whatever one can grasp through language, one must be able to grasp independently of language."
+
+3. "We sometimes have thoughts of considerable sophistication that we don't know how to put into words."
+
+4. "Do we think in language? No."
+
+5. "We can obviously have thoughts that we are incapable of putting into words. This shows that we grasp those thoughts in some way other than by grasping the English sentences that express them."
+
+6. "Thinking is often a prerequisite to using language, which in turn shows that at least some thinking is non-linguistic."
+
+7. "A person's knowledge of the differences between x and y may be expressed in that person's drawings of x and y."
+
+8. "Some kinds of information (e.g., visual information) seem inherently incapable of being fully expressed by sentences of English or of any other natural language."
+
+9. "Sentences have very different structures from pictures, even when the sentences and the pictures overlap in content."
+
+10. "Sentences are digital structures, meaning that they consist of discrete entities. Sense-perceptions are analogue structures, meaning that they don't."
+
+11. "You don't have to interpret a visual perception, at least not in the same way. Perceptions are 'self-interpreting' in a way that sentences are not."
+
+12. "In order to learn a language, one must already be able to think."
+
+13. "To learn English is to learn that certain sounds have certain meanings; and in order to be able to do this, you already have to be able to synthesize information."
+
+14. "Different sentences can have the same meaning, and a single sentence can have multiple meanings."
+
+15. "What you think when you think that Bob loves Mary is identical with what you think when you think that Mary is loved by Bob."
+
+16. "If you thought in language, you couldn't disambiguate ambiguous sentences."
+
+17. "A 'natural language' is one that organically arises through human interactions."
+
+18. "We think in an innately known code, a 'language of thought.'"
+
+19. "Knowledge of a language presupposes the ability to think."
+
+20. "If your thinking Bob is dumb were identical with there being an occurrence in your mind of the sentence 'Bob is dumb,' then your thinking Bob is dumb (i.e., he can't speak) would be identical with there being an occurrence in your mind of that same sentence."
+
+---
+
+## Chapter 6: Proper Names, Definite Descriptions, and the Theory of Descriptions
+
+1. "The inventor of bifocals is identical with the first postmaster general. This is a non-trivial truth."
+
+2. "CB tells you that two properties that could have been had by different individuals (being a unique inventor of bifocals and being a unique first postmaster general) are in fact had by the same individual."
+
+3. "'The inventor of bifocals' is a referring term; it picks something out."
+
+4. "That expression refers to a given thing if and only if that thing has the property of being a unique bifocal-inventor."
+
+5. "There are two dimensions to the semantics of 'the inventors of bifocals.' There is what it refers to: this is the referent. And there's the property that a thing must have to be its referent; this property is the sense."
+
+6. "The reason that TB is non-trivial is that, although the definite descriptions in it have the same referent, they have different senses."
+
+7. "When a given thing x is picked out by way of descriptive information, what's really going on is that some statement of the form 'something has such and such properties' is being affirmed."
+
+8. "Frege's analysis collapses into Russell's."
+
+9. "According to TD, 'the inventor of bifocals is tall' means: something uniquely invented bifocals, and any such thing is tall."
+
+10. "Unlike Russell, Frege took it for granted that definite descriptions are just what, given their grammar, they appear to be: referring terms."
+
+11. "The essence of TD is that definite descriptions are not referring terms."
+
+12. "Definite descriptions are quantifier phrases, not referring terms."
+
+13. "The Theory of Descriptions is the right account of how definite descriptions work."
+
+14. "Frege's distinction between 'sense' and 'reference' is an incoherent way of describing the distinction between semantics and pre-semantics."
+
+15. "Your seeing Ralph involves your seeing a thing having various properties—having a certain color, shape, size, position."
+
+16. "The content of your perception of Larry is given by some existence-claim."
+
+17. "Perception is description."
+
+18. "An existence-claim is any claim to the effect that some property is instantiated."
+
+19. "Your perception does represent Larry. But it represents him by way of encoding an existence-claim that he satisfies."
+
+20. "Mental entities have propositions for their contents. When correct, those propositions describe existing things. When false, they don't."
+
+---
+
+## Chapter 7: Some Remarks on Logicism and on Frege's Formalization of Logic
+
+1. "Pre-Fregean formal logic wasn't so much a discipline as it was a collection of rules of thumb."
+
+2. "Frege released logic from the holding pattern it had been in for the previous two thousand years."
+
+3. "Unlike his predecessors, Frege saw that a sentence's logical form may diverge from its grammatical form."
+
+4. "It was because of these insights of his that Frege, unlike all of his many predecessors, successfully formalized inferences involving quantified generalizations."
+
+5. "To formalize an inference is to show that the corresponding conditional is equivalent to a sentence that is an instance of an open-sentence all of whose instances are true."
+
+6. "Frege's predecessors had some success formalizing inferences containing no quantifiers. But they had little success with inferences containing sentences involving so much as a single quantifier."
+
+7. "A quantified inference is an inference that involves so much as a single sentence containing a single quantifier."
+
+8. "Frege sees 'someone snores' as comprising the function ‹x snores› along with another function."
+
+9. "'Someone snores' is true just in case the property of snoring is instantiated."
+
+10. "'Everything' expresses a function G that assigns truth or falsehood to a function F depending on whether there is something to which F assigns falsehood."
+
+11. "'Everything is self-identical' says that the property of being self-identical is universally instantiated."
+
+12. "Frege chose to break up sentences containing the words 'or' and 'and.'"
+
+13. "By reparsing sentences along these lines, Frege was able to formalize an extensive class of quantified generalizations."
+
+14. "Numbers are higher-order properties."
+
+15. "'There are zero penguins in the house' means: the property of being a penguin in the house has the property of being uninstantiated."
+
+16. "The number two may be defined as what all pairs of objects have in common."
+
+17. "Relations may be identified with properties of ordered pairs."
+
+18. "There is some property P such that x is taller than y exactly if the ordered pair <x, y> has P."
+
+19. "Statements about numbers are statements about higher-order properties."
+
+20. "Frege's predecessors weren't able to systematize the few results they were able to obtain, the reason being that they didn't see the principles underlying those results."
+
+---
+
+## Chapter 8: The Relationship between Thought and Language: Literal Meaning vs. Cognitive Content
+
+1. "We obviously think about rocks, trees, people, and other things. But things are the objects of thought only in a derivative sense."
+
+2. "The real object of thought is always some truth or falsehood concerning a thing."
+
+3. "What your eyes tell you isn't: 'that's R over there.' What they tell you is: 'there is a rock having such and such characteristics over there.'"
+
+4. "Given any message given to you through vision or any other sensory modality, and given any object in the external world, that message is consistent with that object's not existing."
+
+5. "Our sense-perceptions obviously represent objects to us and can thus be said to describe them."
+
+6. "You don't just see various property-instances. You see an organized structure consisting of them."
+
+7. "Your seeing Pat involves your seeing various instances of various properties and relations."
+
+8. "There is nothing to seeing an object other than seeing the property-instances associated with it."
+
+9. "Perception is purely descriptive. For you to perceive an object is for you to be apprised (in a certain way) of an existence-claim that it uniquely satisfies."
+
+10. "Conception, like perception, is and must be fundamentally descriptive."
+
+11. "To think of an object is to think some existence-claim that it uniquely satisfies."
+
+12. "Cognitive content doesn't always coincide with literal meaning."
+
+13. "What people think isn't always in complete lock-step with what is literally meant by the expressions that they use."
+
+14. "Names 'denote' (pick out) but do not 'connote' (describe). They are mere labels."
+
+15. "Non-connotative referring terms are said to refer directly; connotative referring terms are said to refer indirectly."
+
+16. "Mill's argument decisively shows that proper names are mere labels. They are not 'connotative;' they don't have Fregean 'senses.'"
+
+17. "What sentences convey isn't always confined to what they literally mean. It's seldom confined to it."
+
+18. "There is some individual x such that, in terms of its literal meaning, all LS does is to attribute the property of being an economics professor to x."
+
+19. "Given the circumstances under which you learned who 'Fred' refers to, it's inevitable that LS would convey some such message to you."
+
+20. "One's knowing what 'London' refers to consists in there being a property phi such that one knows that phi is uniquely instantiated and that 'London' refers to any instance of it."
+
+---
+
+## Chapter 9: Putnam's Insight and Burge's Blunder: Semantic Externalism vs. Content-Externalism
+
+1. "In Naming and Necessity, Kripke decisively showed that proper names are not definite descriptions."
+
+2. "What Putnam showed is that what we think does not, by itself, establish what our words and sentences mean."
+
+3. "What we think largely determines what it is that our expressions mean."
+
+4. "There is an important non-psychological dimension to linguistic meaning."
+
+5. "Even though the psychological state that gave rise to the one utterance is just like the psychological state that gave rise to the other, the meaning of the one may diverge from that of the other."
+
+6. "Let Twin-Earth be a planet in some distant galaxy. Given any person x on Earth, there is a person y on Twin-Earth who is an atom-for-atom duplicate of x."
+
+7. "On Twin-Earth, the liquid in bathtubs, drinking glasses, lakes, etc., isn't H2O—it's XYZ."
+
+8. "'Water' refers to the substance whose chemical composition is H2O. That's a simple fact."
+
+9. "A thoroughly competent speaker of English can easily fail to know that 'water' refers to that substance."
+
+10. "When, finally, that substance was analyzed, it turned out to consist of H2O molecules."
+
+11. "If we were to discover some substance that consisted of XYZ, not H2O, but was otherwise just like water, that other substance wouldn't be H2O."
+
+12. "The chemists who discovered XYZ would not come to the conclusion that water is sometimes H2O and is sometimes XYZ."
+
+13. "Even the most philistine, intellectually narrow human being desperately wants real diamonds, not zirconium imitation diamonds."
+
+14. "Everybody knows that being water-like isn't the same thing as being real water."
+
+15. "On Twin-Earth 'water' would refer to XYZ, not H2O. And it would always have referred to XYZ—even before scientists on their planet discovered its chemical composition."
+
+16. "SE and TS don't have the same meaning. They have different propositions for their respective meanings."
+
+17. "The one proposition is true in circumstances where the other is false, and false in circumstances where the other is true."
+
+18. "Smith and Twin-Smith coincide in respect of what they mean by their respective utterances, but SE and TS don't coincide in respect of what they mean."
+
+19. "Linguistic meaning has an important non-psychological dimension."
+
+20. "Given only that, at any given moment, person X is psychologically and behaviorally indistinguishable from person Y, it does not follow that the words leaving X's mouth have the same meanings as the words leaving Y's mouth."
+
+---
+
+## Chapter 10: Knowledge
+
+1. "A lucky guess is not knowledge."
+
+2. "You have must have some good reason for your choice. Your opinion as to what the right answer is must be justified for it to qualify as knowledge."
+
+3. "Spurious reasons that happen to lead to the right answer are not enough for knowledge."
+
+4. "False premises can lead to true conclusions; misinformation can lead to correct beliefs."
+
+5. "For something to be knowledge it must be true, it must be a belief, and it must be justified."
+
+6. "All cases of knowledge are cases of justified true belief."
+
+7. "The term 'perceptual' means having to do with sense-perception—that is, with sight, hearing, sound, taste, smell, bodily sensations."
+
+8. "The term 'introspective' refers to the direct awareness that one often has of one's own mental contents."
+
+9. "There are ultimately only three sources of justification: perceptual evidence, introspective evidence, and rational inference."
+
+10. "Not all beliefs that are based on testimony qualify as knowledge."
+
+11. "To qualify as knowledge, testimony-based belief must come from a reliable source and the person being given the testimony must have independent evidence of the reliability of that source."
+
+12. "Not all cases of justified true belief are cases of knowledge."
+
+13. "One has knowledge only when one has a belief that is true and justified and, moreover, one's being justified in holding that belief is non-accidentally related to that belief's being true."
+
+14. "Knowledge is a non-accidentally justified true belief."
+
+15. "There must be some kind of principled, as opposed to a strictly fortuitous, relationship between the justification of the belief and its being true."
+
+16. "One feature of consciousness is that, if something has consciousness, then there is 'something it is like' to be that thing."
+
+17. "There is nothing it is like to be pinecone, since pinecones are not conscious."
+
+18. "Although there is something it is like to have a pain or a tickle, or to experience a sense-perception, there isn't anything it is like to believe that 1 + 1 = 2."
+
+19. "We are, at any given time, unaware of many of the events that constitute our very own mental lives."
+
+20. "Awareness of objects is identical with knowledge of truths to the effect that certain descriptions are in fact satisfied."

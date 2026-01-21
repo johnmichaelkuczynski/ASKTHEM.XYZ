@@ -1,0 +1,375 @@
+CONCEPTION AND CAUSATION POSITION STATEMENT KUCZYNSKI 
+
+POSITION STATEMENTS: KUCZYNSKI - CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS
+
+1. Human beings have always unconsciously known the theory of evolution, repressing this knowledge due to its threat to self-esteem.
+2. The anatomical similarities between humans and other animals are so obvious that recognition of common ancestry is virtually inevitable.
+3. When confronted with similar things, humans instinctively seek a common cause; the ability to accept coincidence marks non-instinctive thought.
+4. Human self-conception as morally superior to animals is a defensive mechanism against the humiliating truth of our animal nature.
+5. The biological basis of love and sex, involving excretory organs, reveals our fundamental animality despite idealized conceptions.
+6. Sexual intercourse has always been regarded as indecent except under hyper-specific circumstances, proving awareness of our animal nature.
+7. A proposition is the non-linguistic entity meant by a complete sentence, not the sentence itself.
+8. Emotions are beliefs or are at least belief-like in that they can be true or false, rational or irrational.
+9. Emotions answer to canons of rationality, which only beliefs can do; therefore emotions must be beliefs.
+10. Moral statements express emotions, and since emotions are beliefs capable of truth and falsity, moral statements can be true or false.
+11. Emotivism, properly understood, is a form of moral realism rather than anti-realism.
+12. Awareness of norms cannot be acquired through behavioral conditioning; it must exist ab initio or not at all.
+13. A society of normless individuals cannot collectively become aware of norms; norms cannot emerge from non-normative ingredients.
+14. Understanding complex sentences presupposes grasping concepts; there is no way to reduce sentence comprehension to precognitive reactions.
+15. To understand a complex sentence, one must grasp not just the concepts of its constituents but also the rules governing their composition.
+16. A creature with purely de re awareness cannot make the leap to de dicto awareness through conditioning alone.
+17. Lexical items do not come bundled the way concepts do; therefore lexical items cannot be our concepts, and we do not think in any language.
+18. There is no such thing as Mentalese; we do not think in a language or symbolic code.
+19. Constitutive relations among concepts are not containment relations among symbols.
+20. The thought "that is a sphere" is different from, though constitutively connected with, the thought "that is a closed figure of uniform curvature."
+21. Conceptual analysis and semantic analysis are not the same thing; a single semantic analysis may correspond to multiple conceptual analyses.
+22. Color concepts are not mutually definable, yet they are constitutively interconnected; one cannot grasp one color without grasping others.
+23. Any concept has constitutive connections to other concepts; conceptual atomism is false.
+24. One cannot represent a single property to oneself without being able to represent other properties; representational capacities come in networks.
+25. To grasp a specific shade of color, one must be able to distinguish it from other colors and thus grasp multiple colors.
+26. If a creature could represent only one shade of color, its concept of that shade would collapse into a concept of color in general.
+27. Properties are individuated by their relations to other properties; grasping a property requires grasping its place in a space of properties.
+28. Degree properties like "weighing 1000 lbs" obviously require grasping related properties; this point generalizes to all properties.
+29. A language must comprise basic expressions; otherwise knowledge of any expression would presuppose knowledge of an infinitely large lexicon.
+30. Proper names are not definite descriptions, as Kripke decisively showed.
+31. What we think does not, by itself, establish what our words and sentences mean; semantic externalism is correct.
+32. Twin Earth cases show that the meanings of natural kind terms are not wholly determined by internal psychological states.
+33. Content internalism is compatible with semantic externalism; linguistic meaning and cognitive content are distinct.
+34. Reference-fixing should be distinguished from meaning-giving; this distinction dissolves many puzzles about concepts.
+35. To have a concept of a thing is to know some proposition that describes that thing.
+36. Knowledge of an existential proposition that uniquely describes x suffices for the ability to think about x.
+37. Conception is sustained by knowledge of uniquely individuating descriptions, which may include indexical elements.
+38. Recognition consists in seeing that one object satisfies two existence claims previously thought to be satisfied by different objects.
+39. Phenomenal content does not supervene on propositional content; intentionalism is false.
+40. Phenomenal content does not supervene on non-propositional representational content either.
+41. Intentionalism over-predicts the amount of information borne by sensations.
+42. A tickle or twinge is too simple and homogeneous to bear fine-grained propositions about anatomical structures.
+43. Creatures can experience phenomenal contents like woozy feelings without possessing vast networks of representational capacities.
+44. If intentionalism were true, a twinge would deliver vastly more information than such sensations actually deliver.
+45. Phenomenal content is something altogether different from representational content—not identical with or supervenient on it.
+46. Even restricted intentionalism (within sensory modalities) collapses into non-intentionalism upon examination.
+47. There is no absolute correspondence between phenomenal and representational content.
+48. Different phenomenal contents, even within the same modality, can bear the same representational content.
+49. The relationship between phenomenal contents and their physical causes is like a "rule of projection" that could be different.
+50. The Computational Theory of Mind (CTM) is false because there is no purely morphological characterization of syntax.
+51. There is no purely syntactic characterization of logical truth; adequate characterizations must be partially semantic.
+52. The only way to sensitize a thing to logical form is to sensitize it to semantics.
+53. Turing machines do not compute in the relevant sense because they do not respond to semantics.
+54. Adding numbers is never a purely mechanical, cognition-free operation even when done by the "quick and dirty" method.
+55. A representationally innocent entity generating patterns of shapes does not constitute genuine computation.
+56. Computing involves being sensitive to logical form, and logical form is buried in semantics.
+57. The Ramsey-Lewis sentence method for defining theoretical terms is useless because functionalism cannot be articulated without vicious circularity.
+58. Functionalism fails because it cannot non-circularly specify the mental states in terms of which functional roles are defined.
+59. Content externalism strips mental content of causal efficacy; if externalism is true, content cannot explain behavior.
+60. Program causes (as defined by Jackson and Pettit) do not rescue content externalism from the causal impotence objection.
+61. Mental causation requires that mental content be causally relevant in a way externalism cannot accommodate.
+62. Davidson's anomalous monism leads to epiphenomenalism about the mental.
+63. Jerry Fodor's computationalism is pseudo-computationalism because he cannot adequately account for how syntax tracks semantics.
+64. Fodor's main argument for conceptual atomism fails because constitutive connections are not containment relations.
+65. Fodor confuses the claim that concepts are not decomposable with the claim that concepts lack constitutive connections to others.
+66. Non-atomism does not require inferential role semantics (IRS); the inference from one to the other is fallacious.
+67. Inferential role semantics faces the "error objection": if inferential roles define concepts, misapplication becomes impossible.
+68. Inferential role semantics leads to an untenable holism where no two people can grasp the same proposition.
+69. The bundle theory of personal identity is defensible when properly understood.
+70. Propositions are sets of properties; truth is the instantiation of all members of that set.
+71. A proposition like "Smith punches Jones" is a set containing properties corresponding to Smith, Jones, and the punching relation.
+72. For a proposition to be true is for all of its component properties to be instantiated.
+73. Propositions have decompositional structure; they are not merely specified by truth-conditions.
+74. Analytically equivalent propositions can convey very different information.
+75. Analytic propositions do typically convey information, contrary to Lewis's model.
+76. Hempel's paradox is solved by recognizing that accidental generalizations do not receive support from their instances.
+77. Only principled (nomic) generalizations receive confirmational support from their instances.
+78. "If x is heated metal, x expands" and "If x isn't expanding, x isn't heated metal" are not confirmationally equivalent when read nomically.
+79. Negative facts (like not being heated metal) are not fit to stand in nomic relations because they are not events or constituted by events.
+80. A thing's not having a property is not nomically connected to anything, unlike a thing's having a property.
+81. Inductions by enumeration are actually crypto-inferences to the best explanation.
+82. Formal truth is truth by virtue of being an instance of a sentence-schema all of whose instances are true.
+83. Formal truth is not identical with syntactic truth; there is no purely morphological characterization of logical form.
+84. The equation of formal truth with syntactic truth is viciously circular.
+85. Not all logical truths are formal truths; logic cannot be identified with the study of formal truth.
+86. The most fundamental truths of logic must consist of non-formal, analytic truths.
+87. The linguistic theory of logical truth (that logical truths are true by convention) is false.
+88. Logical truths are not true merely in virtue of the meanings of words or linguistic conventions.
+89. Conceivability sometimes entails possibility, providing a neo-Cartesian argument for dualism.
+90. If mental properties are not identical with physical properties, and identity is necessary, then dualism follows.
+91. Time travel is an incoherent concept.
+92. Probabilistic causation is a genuine form of causation distinct from deterministic causation.
+93. Simulated thought is not actual thought; genuine mental processes cannot be simulated by non-mental processes.
+94. Davidson's views on rationality embody fundamental misconceptions.
+95. Foundationalism about knowledge is compatible with non-atomism about concepts.
+96. Intentionalism (the view that phenomenal properties are representational properties) fails both in restricted and unrestricted forms.
+97. The veil of perception problem is exacerbated by externalism, not solved by it.
+98. Representationalism about perception faces serious objections from the nature of phenomenal experience.
+99. Understanding a sentence requires knowing multiple existence claims and their connections.
+100. Identification is relative to background knowledge; being able to identify an object means connecting it to background knowledge.
+101. A parrot cannot really say "it's getting hotter" because it lacks grasp of concepts and semantic rules.
+102. For a sentence to have meaning for a speaker, it must have internal structure connected to concepts.
+103. The meaning of complex sentences is a resultant, not a mere heaping together, of component meanings.
+104. The word "fire" in isolation has the same semantics as in complex sentences; meaning operates through concepts uniformly.
+105. Sense perceptions have existential content; the content of a perception is given by some bit of existential information.
+106. Introspection, while limited, is reasonably reliable for apprehending the nature of phenomenal contents.
+107. If phenomenal contents deliver information, our conscious minds must retrieve this information, suggesting we know our phenomenal contents well.
+POSITION STATEMENTS: KUCZYNSKI - CONCEPTION AND CAUSATION: SELECTED EARLY PHILOSOPHICAL PAPERS
+
+1. Human beings have always unconsciously known the theory of evolution, repressing this knowledge due to its threat to self-esteem.
+2. The anatomical similarities between humans and other animals are so obvious that recognition of common ancestry is virtually inevitable.
+3. When confronted with similar things, humans instinctively seek a common cause; the ability to accept coincidence marks non-instinctive thought.
+4. Human self-conception as morally superior to animals is a defensive mechanism against the humiliating truth of our animal nature.
+5. The biological basis of love and sex, involving excretory organs, reveals our fundamental animality despite idealized conceptions.
+6. Sexual intercourse has always been regarded as indecent except under hyper-specific circumstances, proving awareness of our animal nature.
+7. A proposition is the non-linguistic entity meant by a complete sentence, not the sentence itself.
+8. Emotions are beliefs or are at least belief-like in that they can be true or false, rational or irrational.
+9. Emotions answer to canons of rationality, which only beliefs can do; therefore emotions must be beliefs.
+10. Moral statements express emotions, and since emotions are beliefs capable of truth and falsity, moral statements can be true or false.
+11. Emotivism, properly understood, is a form of moral realism rather than anti-realism.
+12. Awareness of norms cannot be acquired through behavioral conditioning; it must exist ab initio or not at all.
+13. A society of normless individuals cannot collectively become aware of norms; norms cannot emerge from non-normative ingredients.
+14. Understanding complex sentences presupposes grasping concepts; there is no way to reduce sentence comprehension to precognitive reactions.
+15. To understand a complex sentence, one must grasp not just the concepts of its constituents but also the rules governing their composition.
+16. A creature with purely de re awareness cannot make the leap to de dicto awareness through conditioning alone.
+17. Lexical items do not come bundled the way concepts do; therefore lexical items cannot be our concepts, and we do not think in any language.
+18. There is no such thing as Mentalese; we do not think in a language or symbolic code.
+19. Constitutive relations among concepts are not containment relations among symbols.
+20. The thought "that is a sphere" is different from, though constitutively connected with, the thought "that is a closed figure of uniform curvature."
+21. Conceptual analysis and semantic analysis are not the same thing; a single semantic analysis may correspond to multiple conceptual analyses.
+22. Color concepts are not mutually definable, yet they are constitutively interconnected; one cannot grasp one color without grasping others.
+23. Any concept has constitutive connections to other concepts; conceptual atomism is false.
+24. One cannot represent a single property to oneself without being able to represent other properties; representational capacities come in networks.
+25. To grasp a specific shade of color, one must be able to distinguish it from other colors and thus grasp multiple colors.
+26. If a creature could represent only one shade of color, its concept of that shade would collapse into a concept of color in general.
+27. Properties are individuated by their relations to other properties; grasping a property requires grasping its place in a space of properties.
+28. Degree properties like "weighing 1000 lbs" obviously require grasping related properties; this point generalizes to all properties.
+29. A language must comprise basic expressions; otherwise knowledge of any expression would presuppose knowledge of an infinitely large lexicon.
+30. Proper names are not definite descriptions, as Kripke decisively showed.
+31. What we think does not, by itself, establish what our words and sentences mean; semantic externalism is correct.
+32. Twin Earth cases show that the meanings of natural kind terms are not wholly determined by internal psychological states.
+33. Content internalism is compatible with semantic externalism; linguistic meaning and cognitive content are distinct.
+34. Reference-fixing should be distinguished from meaning-giving; this distinction dissolves many puzzles about concepts.
+35. To have a concept of a thing is to know some proposition that describes that thing.
+36. Knowledge of an existential proposition that uniquely describes x suffices for the ability to think about x.
+37. Conception is sustained by knowledge of uniquely individuating descriptions, which may include indexical elements.
+38. Recognition consists in seeing that one object satisfies two existence claims previously thought to be satisfied by different objects.
+39. Phenomenal content does not supervene on propositional content; intentionalism is false.
+40. Phenomenal content does not supervene on non-propositional representational content either.
+41. Intentionalism over-predicts the amount of information borne by sensations.
+42. A tickle or twinge is too simple and homogeneous to bear fine-grained propositions about anatomical structures.
+43. Creatures can experience phenomenal contents like woozy feelings without possessing vast networks of representational capacities.
+44. If intentionalism were true, a twinge would deliver vastly more information than such sensations actually deliver.
+45. Phenomenal content is something altogether different from representational content—not identical with or supervenient on it.
+46. Even restricted intentionalism (within sensory modalities) collapses into non-intentionalism upon examination.
+47. There is no absolute correspondence between phenomenal and representational content.
+48. Different phenomenal contents, even within the same modality, can bear the same representational content.
+49. The relationship between phenomenal contents and their physical causes is like a "rule of projection" that could be different.
+50. The Computational Theory of Mind (CTM) is false because there is no purely morphological characterization of syntax.
+51. There is no purely syntactic characterization of logical truth; adequate characterizations must be partially semantic.
+52. The only way to sensitize a thing to logical form is to sensitize it to semantics.
+53. Turing machines do not compute in the relevant sense because they do not respond to semantics.
+54. Adding numbers is never a purely mechanical, cognition-free operation even when done by the "quick and dirty" method.
+55. A representationally innocent entity generating patterns of shapes does not constitute genuine computation.
+56. Computing involves being sensitive to logical form, and logical form is buried in semantics.
+57. The Ramsey-Lewis sentence method for defining theoretical terms is useless because functionalism cannot be articulated without vicious circularity.
+58. Functionalism fails because it cannot non-circularly specify the mental states in terms of which functional roles are defined.
+59. Content externalism strips mental content of causal efficacy; if externalism is true, content cannot explain behavior.
+60. Program causes (as defined by Jackson and Pettit) do not rescue content externalism from the causal impotence objection.
+61. Mental causation requires that mental content be causally relevant in a way externalism cannot accommodate.
+62. Davidson's anomalous monism leads to epiphenomenalism about the mental.
+63. Jerry Fodor's computationalism is pseudo-computationalism because he cannot adequately account for how syntax tracks semantics.
+64. Fodor's main argument for conceptual atomism fails because constitutive connections are not containment relations.
+65. Fodor confuses the claim that concepts are not decomposable with the claim that concepts lack constitutive connections to others.
+66. Non-atomism does not require inferential role semantics (IRS); the inference from one to the other is fallacious.
+67. Inferential role semantics faces the "error objection": if inferential roles define concepts, misapplication becomes impossible.
+68. Inferential role semantics leads to an untenable holism where no two people can grasp the same proposition.
+69. The bundle theory of personal identity is defensible when properly understood.
+70. Propositions are sets of properties; truth is the instantiation of all members of that set.
+71. A proposition like "Smith punches Jones" is a set containing properties corresponding to Smith, Jones, and the punching relation.
+72. For a proposition to be true is for all of its component properties to be instantiated.
+73. Propositions have decompositional structure; they are not merely specified by truth-conditions.
+74. Analytically equivalent propositions can convey very different information.
+75. Analytic propositions do typically convey information, contrary to Lewis's model.
+76. Hempel's paradox is solved by recognizing that accidental generalizations do not receive support from their instances.
+77. Only principled (nomic) generalizations receive confirmational support from their instances.
+78. "If x is heated metal, x expands" and "If x isn't expanding, x isn't heated metal" are not confirmationally equivalent when read nomically.
+79. Negative facts (like not being heated metal) are not fit to stand in nomic relations because they are not events or constituted by events.
+80. A thing's not having a property is not nomically connected to anything, unlike a thing's having a property.
+81. Inductions by enumeration are actually crypto-inferences to the best explanation.
+82. Formal truth is truth by virtue of being an instance of a sentence-schema all of whose instances are true.
+83. Formal truth is not identical with syntactic truth; there is no purely morphological characterization of logical form.
+84. The equation of formal truth with syntactic truth is viciously circular.
+85. Not all logical truths are formal truths; logic cannot be identified with the study of formal truth.
+86. The most fundamental truths of logic must consist of non-formal, analytic truths.
+87. The linguistic theory of logical truth (that logical truths are true by convention) is false.
+88. Logical truths are not true merely in virtue of the meanings of words or linguistic conventions.
+89. Conceivability sometimes entails possibility, providing a neo-Cartesian argument for dualism.
+90. If mental properties are not identical with physical properties, and identity is necessary, then dualism follows.
+91. Time travel is an incoherent concept.
+92. Probabilistic causation is a genuine form of causation distinct from deterministic causation.
+93. Simulated thought is not actual thought; genuine mental processes cannot be simulated by non-mental processes.
+94. Davidson's views on rationality embody fundamental misconceptions.
+95. Foundationalism about knowledge is compatible with non-atomism about concepts.
+96. Intentionalism (the view that phenomenal properties are representational properties) fails both in restricted and unrestricted forms.
+97. The veil of perception problem is exacerbated by externalism, not solved by it.
+98. Representationalism about perception faces serious objections from the nature of phenomenal experience.
+99. Understanding a sentence requires knowing multiple existence claims and their connections.
+100. Identification is relative to background knowledge; being able to identify an object means connecting it to background knowledge.
+101. A parrot cannot really say "it's getting hotter" because it lacks grasp of concepts and semantic rules.
+102. For a sentence to have meaning for a speaker, it must have internal structure connected to concepts.
+103. The meaning of complex sentences is a resultant, not a mere heaping together, of component meanings.
+104. The word "fire" in isolation has the same semantics as in complex sentences; meaning operates through concepts uniformly.
+105. Sense perceptions have existential content; the content of a perception is given by some bit of existential information.
+106. Introspection, while limited, is reasonably reliable for apprehending the nature of phenomenal contents.
+107. If phenomenal contents deliver information, our conscious minds must retrieve this information, suggesting we know our phenomenal contents well.
+108. Kant's argument for synthetic a priori truths is spurious, but his important claims about causality, personal identity, and rationality are correct when de-psychologized.
+109. Kant's premises actually entail the opposite of his thesis: there are virtually no a priori truths, making Kant more opposed to a priori truth than John Stuart Mill.
+110. Kant confuses two different epistemological roles of mental imagery: as a vehicle for conceptual analysis and as an object of empirical study.
+111. Kant's reasoning must be de-psychologized—his statements about psychology must be reinterpreted as statements about logic.
+112. Conceptual necessity is non-psychological necessity that holds entirely in virtue of facts about concepts in the platonic sense.
+113. The proposition "triangles have three sides" would still be true even if there were no sentient beings.
+114. Representational necessity is a different category where propositions are necessarily true because of facts about our minds.
+115. Wittgenstein's regress argument shows that grasping a norm is not a cognitive affair in the traditional sense of having an inner representation.
+116. Grasping a norm consists in having certain dispositions, not in possessing some mental icon corresponding to that norm.
+117. Knowing-how is not cognitive in the sense of involving a grasp of propositions; it is a kind of competence or sensitivity.
+118. For Wittgenstein, to know what a sentence means is to know how to use it, which is to be coordinated with other people's usage.
+119. Knowledge-how does ultimately reduce to knowledge-that; knowing how to do something consists in internally representing rules.
+120. Brandom's account of how individuals acquire intentionality is circular: one cannot give and ask for reasons without first grasping reasons.
+121. Locke, Kant, and classical philosophers were right that speaking is a kind of externalized thinking, not vice versa.
+122. The idea that thinking is internalized speaking (Wittgenstein, Brandom) is false.
+123. Given a group of creatures oblivious to norms, no amount of interaction will make any of them aware of norms.
+124. The "buck cannot be passed onto society": a society of normless individuals will itself be normless.
+125. A proposition is a special kind of norm: a standard against which reality is compared.
+126. To expect dinner tomorrow, unlike expecting dinner now, requires de dicto awareness and grasp of concepts.
+127. Ordinary stimuli have no internal structure, but sentences are articulate—their parts stand in significant relations.
+128. Through Pavlovian training you can make a dog react to stimuli, but you cannot make it understand compound sentences.
+129. Understanding "if there's smoke, there's fire" requires grasping the concepts of smoke and fire, not just particular instances.
+130. Identity holds necessarily: if A can be distinct from B, then A must be distinct from B.
+131. Logical possibility sometimes indicates actual possibility, but not always—the relevant difference involves object-dependent vs. object-independent concepts.
+132. Whenever there is a disparity between logical and metaphysical possibility, it is underwritten by facts about object-dependent concepts.
+133. Necessities underwritten wholly by object-independent concepts have logical possibility coinciding with metaphysical possibility.
+134. Object-dependent concepts have actual spatiotemporal objects as constituents; object-independent concepts do not.
+135. To grasp an object-involving proposition, one must have causal liaisons to the object; purely existential propositions can be grasped without such liaisons.
+136. A brain in a vat could grasp purely existential propositions but not object-involving propositions about spatiotemporal objects.
+137. There is no purely morphological characterization of syntax; syntax is buried in semantics.
+138. Any expression could mean anything; given any entity, there is some language in which "172" denotes that entity.
+139. There can be no algorithm deciding truth-value wholly on the basis of shape; truth-value requires morphology plus semantic background.
+140. An algorithm is given by a conditional proposition: if such and such semantic system holds, then there is a morphological characterization of truth.
+141. To apply an algorithm involves recognizing the truth of a multiply conditional proposition about semantics and shapes.
+142. The manipulation of shapes is at most a causal consequence of actual computation—almost an epiphenomenon.
+143. Even if there are algorithms for various domains, thought in those domains cannot be "mechanized."
+144. There are two components to applying an algorithm: recognition of an operative semantic system (not mechanical) and patterns of shapes (can be mechanical).
+145. Inference requires recognition that premises stand in a bearing relation (entailment or probabilification) to the conclusion.
+146. To have a rational thought-process, symbols must follow one another in a way that embodies awareness of bearing-relations among them.
+147. A computer's symbols follow one another in the right order, but this doesn't involve recognition of bearing relations—so computers don't really think.
+148. A computation is a purely formal, syntax-driven inference where consideration of semantics plays no part.
+149. Fodor's "solution" to how physics-driven brain activity can be logic-consistent involves a massive confusion.
+150. The "tracking problem"—how purely descriptive brain activity embodies sensitivity to prescriptive norms—is not solved by CTM.
+151. Nobody knows Mentalese; nobody understands its expressions; it isn't by being understood that Mentalese tokens facilitate thought.
+152. Mentalese, if it existed, would differ radically from real languages because its expressions need not be understood to function.
+153. The very concept of a "language of thought" is incoherent because languages require understanding to function.
+154. Brains are governed entirely by the laws of physics, which are purely descriptive, not prescriptive.
+155. Our mental lives are entirely realized by brain activity, yet our mental activity conforms to canons of good reasoning.
+156. Laws of physics are not laws of rationality, so laws of rationality seemingly play no part in our thinking—yet clearly they do.
+157. What we think largely determines what our expressions mean, but there is also an important non-psychological dimension to meaning.
+158. Given psychological and behavioral indistinguishability, it does not follow that utterances have the same meanings.
+159. Twin Earth cases show that two utterances can differ in meaning despite arising from psychologically identical states.
+160. The word "water" refers to H2O even for speakers in the 1600s who knew nothing of chemistry.
+161. If a substance were discovered to be XYZ rather than H2O, chemists would say it is extremely water-like, not that water is sometimes XYZ.
+162. Semantic externalism is true: meaning is not wholly determined by internal psychological states.
+163. Content internalism is also true: what we are thinking is wholly determined by our internal states.
+164. The distinction between reference-fixing and meaning-giving dissolves the apparent tension between externalism about meaning and internalism about content.
+165. The representational content of visual perception can be put into words and embodied in propositions.
+166. All representational content is essentially propositional; there is no genuinely non-propositional representational content.
+167. Functionalism gets the order of explanation wrong: you stop because you see a stop-sign, not vice versa.
+168. For functionalism, a perception has its content in virtue of causing certain behavior—but content is what causes behavior.
+169. If x exists in virtue of y's existing, then x cannot cause y to exist; so functionalism makes content causally inert.
+170. Functionalism says you see a growling dog because you flee, but obviously you flee because you see a growling dog.
+171. Whenever one adds a referring term to one's lexicon, it involves knowing some uniquely individuating description of the referent.
+172. The semantics of a name are not existential-descriptive, but the act of learning the semantics is existential-descriptive.
+173. Names are just labels semantically, but one learns which thing a name labels through existential-descriptive claims.
+174. To avoid running afoul of Kripke's points, we must give operators like "refers to" narrow scope relative to descriptive content.
+175. Recognition of an individual consists in seeing that one thing uniquely satisfies each of two existence claims.
+176. Conception is sustained by knowledge of a series of interlocking existence claims; any given claim may be dropped and replaced.
+177. At any juncture of having a conception of a thing, that conception involves knowledge of an existence claim.
+178. The cognitive difference between "Hesperus is lovely" and "Phosphorous is lovely" is explained by different existence claims.
+179. Intentionalism is guilty of what Sellars called "the myth of the given."
+180. Visual sensations do not by themselves tell you what color an object is; background knowledge about environmental conditions is required.
+181. Sensations coupled with background knowledge about conditions of perception tell you what properties objects have.
+182. What makes a bit of phenomenal content have a given representational content is precisely the addition of background knowledge.
+183. If Sellars is right about the myth of the given, then intentionalism must be completely wrong.
+184. Perceivable properties require contextualizing information to be represented; they are not intrinsically associated with phenomenal contents.
+185. Tickles and twinges bear only highly generic messages like "disturbance of some kind in such and such part of my body."
+186. Sensations do not constitute high-resolution apprehensions of bodily conditions; they are fairly opaque and uninformative.
+187. Intentionalism demands that sensations be very non-opaque and high-resolution, which they plainly are not.
+188. Even if sensations bore non-propositional information, they still would not bear enough information to vindicate intentionalism.
+189. Non-propositional content, if it exists, presupposes the same vast networks of representational capacities as propositional content.
+190. The ability to have any kind of representation presupposes the ability to represent things as having properties.
+191. A morphinated feeling of euphoria has no felt bodily location—no spatial representations seem involved.
+192. Some phenomenal contents are "generalized" feelings not felt in any particular body part.
+193. Knowing what is distinctive about a color involves knowing how it differs from other colors.
+194. Grasping the specific character of a property involves grasping what distinguishes it from other properties.
+195. One can grasp a specific shape-property only if one has a grasp of a whole "space" of shape properties.
+196. Direct reference theory does not show that names express no concepts whatsoever.
+197. Freud held that thoughts must be clothed in words to become conscious—a view with some merit.
+198. Hume's ethical anti-realism is connected to his view that emotions are incapable of being true or false.
+199. Emotions can be justified or unjustified, rational or irrational—properties that only beliefs can have.
+200. People try to justify their emotions, both negative and positive, suggesting emotions answer to rational standards.
+201. When someone narcotizes an irrational emotion, this presupposes that emotions can be evaluated as rational or irrational.
+202. Moral statements embody emotions; since emotions are beliefs capable of truth and falsity, moral realism follows.
+203. Speech-act semantics and tractarian semantics are not really opposed on the relation between sentences and propositions.
+204. If a sentence bears a proposition, then ipso facto it enables one to express the corresponding belief.
+205. Hempel's paradox arises only if we conflate accidental generalizations with principled (nomic) generalizations.
+206. Accidental generalizations like "all heated metal expands" read as mere de facto concomitances don't receive support from instances.
+207. Only nomic generalizations—those alleging causal or lawlike connections—receive confirmational support from their instances.
+208. Nomic relations hold only among spatiotemporal entities; negative facts like "not being heated metal" are not spatiotemporal.
+209. A thing's not having a property is like not destroying Jupiter—it is not an event and doesn't stand in nomic relations.
+210. The operator "there is a nomic connection between..." doesn't permit intersubstitution of logically equivalent sentences.
+211. Logically equivalent sentences can be truth-preservingly intersubstituted in some contexts but not in contexts governed by nomic operators.
+212. Given that "P iff P" is formally true, the statement "all statements of the form P iff P are formally true" is itself not formal.
+213. It is always on the basis of knowledge of non-formal truths that we know a given truth to be formal.
+214. It is an empirical fact that logical connectives have the syntactic and semantic properties they have.
+215. It is non-empirically true that, given their properties, certain connectives are truth-functional—this is analytic but non-formal.
+216. Those non-formal, analytic truths are themselves part of logic and constitute its essence more than formal truths do.
+217. Formal logic is to pure logic as engineering is to physics—formal logic is applied logic.
+218. Logicians who dedicate themselves exclusively to formal work are applied logicians, not logicians in the truest sense.
+219. Bradley's Logic and Mill's Treatise on Logic, despite containing no formal reasoning, are genuine works of logic.
+220. A sentence is formally true if it is an instance of an open-sentence true for all values of its free variables.
+221. A proposition is a property of a world; for a proposition to be true is for that property to be instantiated.
+222. Truth can be identified with instantiatedness: a proposition is true exactly if that property is instantiated in the actual world.
+223. Lewis's identification of propositions with properties of worlds is informative but viciously circular if taken as an analysis.
+224. Propositions have decompositional structure that mere sets of worlds or functions from worlds to truth-values do not capture.
+225. Analytic propositions do convey information, contrary to views that make them disappear as uninformative.
+226. A true proposition is always true in virtue of something about the world—mass-energy distribution, ripples in the quantum.
+227. The truth of "Plato punched Socrates" supervenes on facts about atomic movements describable without mentioning Plato or Socrates.
+228. The property of having the right "rippling" of mass-energy is more basic than the proposition it makes true.
+229. There is no circularity in analyzing propositions in terms of properties of worlds when those properties are more basic.
+230. Different propositions can share constituents: "Smith punches Jones" and "Plato punches Jones" share the "punches Jones" component.
+231. A proposition has components corresponding to incomplete properties like "x punches Jones" and "Smith punches x."
+232. Frege's analysis that propositions are built from relations and functions captures the structure of propositions correctly.
+233. A proposition is a set of properties; it is true when all its members are instantiated.
+234. Each discrete constituent of a proposition corresponds to one property in the set that constitutes it.
+235. Fodor's argument for atomism fails because constitutive connections among concepts are not containment relations.
+236. Fodor confuses the claim that concepts resist decomposition with the claim that they lack constitutive connections.
+237. One's pink-concept is not composed of other color-concepts, yet one cannot have it without having other color-concepts.
+238. Color-symbols are not mutually definable; color concepts are not decomposable into other color concepts.
+239. If color concepts literally contained other color concepts, any color thought would consist of infinitely many color thoughts—absurd.
+240. Any attempt to block the infinite regress through looping definitions makes concept-possession presuppose itself.
+241. One's concept of 1,143 presupposes concepts of 1,142, 1,141, etc., but 1,143-thoughts are not cobbled together from these.
+242. Fodor is right that most concepts resist decomposition, but wrong that this means they lack constitutive connections.
+243. Inferential role semantics makes it impossible for two people to grasp the same proposition.
+244. For IRS, differences in inferential role mean differences in content; but no two cognitive states have identical inferential roles.
+245. IRS faces the "error objection": if inferential roles define concepts, misapplication of concepts becomes impossible.
+246. If IRS is right, wrong applications of a concept collapse into correct applications of some other concept—but plainly this is false.
+247. The distinction between reference-fixing and meaning-giving saves non-atomism from the objections Fodor raises.
+248. To have a concept of a thing is to know some proposition that describes (uniquely individuates) that thing.
+249. Knowledge of a proposition describing x suffices for ability to think about x—it qualifies as a concept of x.
+250. Once you know a proposition describing a thing, you can attribute any property you grasp to that thing.
+251. Your concept of the number two is your belief in a proposition like "there is some number n such that n=1+1."
+252. Changes in what else you believe about the number two do not change your concept of it.
+253. The error objection is sidestepped: wrong beliefs about two are still about two because they attribute properties to what satisfies n=1+1.
+254. Grasping a thing consists in grasping a proposition about that thing; one cannot just think a thing without thinking something about it.
+255. Whatever is thought—whatever is grasped—is some truth or falsity, never just a bare object.
+256. Knowing who a name refers to is contextual: relative to some existence claims you may know it, relative to others not.
+257. Understanding a sentence-token is contextual because knowing what a term refers to is contextual.
+
+
+
+
+

@@ -1,0 +1,21 @@
+============================================================
+PAPER WRITER COMPREHENSIVE TEST
+Target: 2540 words per thinker
+============================================================
+
+Found 42 thinkers to test
+
+[1/42] Testing adler...
+    Starting paper generation...
+    Received 2572 words in 145.9s
+    Saved to /home/runner/workspace/scripts/paper-writer-tests/outputs/adler-summary.txt
+  => SUCCESS: 2572 words
+
+[2/42] Testing aesop...
+    Starting paper generation...
+    Received 2590 words in 130.7s
+    Saved to /home/runner/workspace/scripts/paper-writer-tests/outputs/aesop-summary.txt
+  => SUCCESS: 2590 words
+
+[3/42] Testing allen...
+    Starting paper generation...

@@ -1,0 +1,50 @@
+```
+DELETE THE ENTIRE "THESIS TO WORLD" FUNCTION AND REBUILD FROM SCRATCH
+
+The current implementation is completely broken. It produces narrative fiction with character arcs, dialogue, and dramatic structure. This is the OPPOSITE of what's required.
+
+HERE IS AN EXAMPLE OF THE GARBAGE IT'S CURRENTLY PRODUCING:
+
+[Shows Maya Chen story with scenes, dialogue between characters discussing the thesis, dystopian fiction clichés, emotional character journeys, and people explaining ideas through conversation]
+
+THIS IS TOTALLY WRONG. HERE'S WHY:
+
+1. **IT'S A SHORT STORY** - There are protagonists (Maya), allies (Elena), villains (Knox), scenes, emotional arcs, dramatic revelations. NONE of this should exist.
+
+2. **CHARACTERS EXPLAIN THE THESIS** - "Helping him more than others makes me a criminal." "They're applauding their own imprisonment." Characters are DISCUSSING and ARTICULATING the critique. This is absolutely prohibited.
+
+3. **DYSTOPIAN FICTION TROPES** - Evil bureaucrats, surveillance cameras, crowds applauding tyranny, bulldozers destroying beauty. This is generic sci-fi nonsense, not documentary observation.
+
+4. **ZERO DOCUMENTARY STRUCTURE** - Should be a chronological accumulation of specific incidents with dates, names, numbers. Instead it's dramatic scenes with dialogue and inner lives.
+
+WHAT IT SHOULD ACTUALLY PRODUCE:
+
+Documentary-style accumulation of specific historical incidents that demonstrate the thesis. Example:
+
+"Between 1950 and 1955, the Soviet Ministry of Science established 847 review committees to ensure research equality. In March 1951, geneticist Nikolai Vavilov submitted crop research showing certain wheat strains produced 60% higher yields. The Central Committee rejected it as 'elitist differentiation.' Vavilov died in prison six months later. By 1953, national crop yields fell 40%.
+
+In August 1952, the Ministry of Culture reviewed 1,200 musical compositions. They rejected 890 as 'insufficiently accessible to workers.' Composers Dmitri Shostakovich and Sergei Prokofiev received formal censures for 'formalist complexity.' Concert attendance dropped 65% between 1952 and 1954.
+
+On June 15, 1953, Factory #447 in Leningrad reported that productivity quotas had eliminated quality control variations. All 2,000 workers now produced identical output. Machine failure rates increased 340% within eight months. The factory closed in 1954.
+
+Between 1949 and 1956, the USSR built 3,400 standardized apartment blocks. Each unit contained identical furniture, identical appliances, identical layouts. Housing Minister Alexei Kuznetsov announced 'perfect residential equality' in December 1955. Suicide rates in standardized housing increased 28% compared to pre-1949 levels."
+
+NO SCENES. NO DIALOGUE. NO CHARACTER ARCS. NO DRAMATIC STRUCTURE. NO EXPLANATIONS OF IDEAS.
+
+Just: Date. Name. Number. Action. Result. Next date. Next name. Next number. Next action. Next result.
+
+The pattern emerges through REPETITION OF FACTS, not through characters discussing or experiencing the thesis.
+
+DELETE THE CURRENT IMPLEMENTATION COMPLETELY. REBUILD WITH THIS STRUCTURE:
+
+1. LLM receives non-fiction input
+2. LLM extracts author's thesis (one sentence)
+3. LLM generates 8-12 discrete incidents with full specifics (dates, names, locations, numbers)
+4. Each incident demonstrates the thesis through observable facts
+5. NO narrative, NO dialogue, NO commentary, NO characters with inner lives
+6. Pure documentary accumulation
+
+If the LLM produces ANYTHING resembling a story with scenes and character development, the entire function has failed.
+
+REBUILD IT NOW.
+```

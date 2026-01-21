@@ -1,0 +1,1908 @@
+**COMPLETE INSTRUCTIONS FOR REPLIT AGENT: ORGANIZE AUTHOR LITERATURE SYSTEM**
+
+## PROJECT GOAL
+Create a structured file organization system for all author literature that enables efficient retrieval for multiple app functions: Ask A Philosopher, Model Builder, Quote Generator, Thesis to World, Nightmare Conversion, and Philosophical Fiction Writer.
+
+## DIRECTORY STRUCTURE TO CREATE
+
+```
+/author_database/
+  /kuczynski/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - fiction_examples.txt
+    
+  /russell/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /galileo/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /nietzsche/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - aphorisms.txt
+    
+  /freud/
+    - primary_texts.txt
+    - case_studies.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - psychoanalytic_concepts.txt
+    
+  /james/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - pragmatist_framework.txt
+    
+  /leibniz/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - monadology_framework.txt
+    
+  /aristotle/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - aristotelian_framework.txt
+    
+  /le_bon/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /plato/
+    - primary_texts.txt
+    - dialogues.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - platonic_framework.txt
+    
+  /darwin/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - evolutionary_framework.txt
+    
+  /kant/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - kantian_framework.txt
+    
+  /schopenhauer/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - pessimist_framework.txt
+    
+  /jung/
+    - primary_texts.txt
+    - case_studies.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - jungian_concepts.txt
+    
+  /poe/
+    - primary_texts.txt
+    - fiction_examples.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /marx/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - marxist_framework.txt
+    
+  /keynes/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - economic_framework.txt
+    
+  /locke/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - empiricist_framework.txt
+    
+  /newton/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /hume/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - skeptical_framework.txt
+    
+  /machiavelli/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /bierce/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /poincare/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /bergson/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /london/
+    - primary_texts.txt
+    - fiction_examples.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /adler/
+    - primary_texts.txt
+    - case_studies.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - adlerian_concepts.txt
+    
+  /engels/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - marxist_framework.txt
+    
+  /rousseau/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /von_mises/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - austrian_economics_framework.txt
+    
+  /veblen/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /swett/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /berkeley/
+    - primary_texts.txt
+    - dialogues.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - idealist_framework.txt
+    
+  /maimonides/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /gibbon/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /reich/
+    - primary_texts.txt
+    - case_studies.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /stekel/
+    - primary_texts.txt
+    - case_studies.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /luther/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /whewell/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /voltaire/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /spinoza/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - rationalist_framework.txt
+    
+  /bacon/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /hobbes/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - mechanistic_framework.txt
+    
+  /mill/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - utilitarian_framework.txt
+    
+  /dewey/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - pragmatist_framework.txt
+    
+  /descartes/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - cartesian_framework.txt
+    
+  /hegel/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - dialectical_framework.txt
+    
+  /spencer/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /smith/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - economic_framework.txt
+    
+  /marden/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /peirce/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - pragmatist_framework.txt
+    
+  /orwell/
+    - primary_texts.txt
+    - fiction_examples.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /dostoevsky/
+    - primary_texts.txt
+    - fiction_examples.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /tolstoy/
+    - primary_texts.txt
+    - fiction_examples.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /goldman/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /confucius/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    - confucian_framework.txt
+    
+  /tocqueville/
+    - primary_texts.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /aesop/
+    - primary_texts.txt
+    - fables.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+    
+  /grimm/
+    - primary_texts.txt
+    - fairy_tales.txt
+    - style_guide.txt
+    - voice_profile.txt
+    - quotes_indexed.txt
+```
+
+## FILE SPECIFICATIONS
+
+### 1. primary_texts.txt
+
+**Purpose:** Raw primary source material - full texts or substantial excerpts from the author's work.
+
+**Format:**
+```
+[WORK: Title of Work]
+[DATE: Publication date]
+[SECTION: Chapter/Part name if applicable]
+
+[Full text or substantial excerpt here]
+
+---
+
+[WORK: Next Title]
+[DATE: Publication date]
+[SECTION: Chapter/Part name if applicable]
+
+[Full text or substantial excerpt here]
+
+---
+```
+
+**Instructions:**
+- Include major works in full when possible
+- Include significant excerpts from longer works
+- Use standard published translations for non-English works
+- Preserve original formatting, paragraph breaks
+- Separate works with "---"
+
+---
+
+### 2. style_guide.txt
+
+**Purpose:** Document the author's distinctive writing style, sentence patterns, rhetorical devices, and narrative techniques. This file is CRITICAL for fiction generation functions.
+
+**Required Sections:**
+
+```
+AUTHOR: [Name]
+
+SENTENCE STRUCTURE:
+- [Describe typical sentence patterns]
+- [Note preferred sentence length - short/medium/long]
+- [Characteristic clause structures]
+- [How they handle complex ideas syntactically]
+
+PARAGRAPH ORGANIZATION:
+- [Typical paragraph length]
+- [How they structure arguments within paragraphs]
+- [Use of topic sentences]
+- [Transition strategies]
+
+VOCABULARY PREFERENCES:
+- [Level of formality: academic/conversational/literary]
+- [Technical vs. ordinary language use]
+- [Characteristic words and phrases they use frequently]
+- [Words/concepts they avoid]
+
+RHETORICAL DEVICES:
+- [List specific devices: metaphor, analogy, rhetorical questions, etc.]
+- [How they use examples]
+- [How they introduce counterarguments]
+- [How they emphasize key points]
+
+TONE:
+- [Formal/informal, serious/playful, didactic/exploratory, etc.]
+- [Emotional register - passionate, detached, ironic, etc.]
+- [Relationship to reader - authoritative, conversational, challenging]
+
+NARRATIVE STRUCTURES (if applicable):
+- [For fiction writers: plot structures, character development approaches]
+- [For philosophers: dialogue, essay, treatise, aphorism, case study, etc.]
+- [How they open pieces]
+- [How they conclude]
+
+HANDLING COUNTERARGUMENTS:
+- [How they introduce objections]
+- [How they refute opposing views]
+- [Whether they're charitable or dismissive]
+
+USE OF EXAMPLES:
+- [Concrete vs. abstract]
+- [Historical, contemporary, hypothetical]
+- [Scientific, everyday, literary]
+
+DISTINCTIVE STYLISTIC MARKERS:
+- [Any unique tics, habits, recurring phrases]
+- [Signature moves that identify this author]
+```
+
+**EXAMPLE - BERKELEY:**
+```
+AUTHOR: George Berkeley
+
+SENTENCE STRUCTURE:
+- Uses "It may be objected that..." to introduce counterarguments
+- Frequently employs rhetorical questions to guide reader
+- Moderate sentence length, clear and direct
+- Uses subordinate clauses to qualify claims carefully
+
+PARAGRAPH ORGANIZATION:
+- Short to medium paragraphs
+- Typically: state position → anticipate objection → refute with example
+- Strong topic sentences
+- Uses "But..." or "However..." frequently for transitions
+
+VOCABULARY PREFERENCES:
+- Accessible 18th-century English
+- Avoids excessive Latin terminology
+- Uses everyday objects as examples (tables, chairs, trees)
+- Key terms: "perceive," "idea," "spirit," "matter"
+
+RHETORICAL DEVICES:
+- Socratic questioning - leads reader through logical steps
+- Appeals to direct experience and observation
+- Reductio ad absurdum of opposing positions
+- Uses concrete sensory examples
+
+TONE:
+- Conversational yet philosophical
+- Patient, pedagogical
+- Sometimes gently mocking of materialist positions
+- Earnest about religious implications
+
+NARRATIVE STRUCTURES:
+- Dialogue format (Three Dialogues Between Hylas and Philonous)
+- Essay format (Principles of Human Knowledge)
+- Always moves from common sense to philosophical conclusion
+
+HANDLING COUNTERARGUMENTS:
+- Always introduces them fairly: "It may be said..."
+- Responds systematically
+- Uses thought experiments to expose contradictions
+
+USE OF EXAMPLES:
+- Heavily concrete: colors, sounds, physical objects
+- Appeals to immediate sensory experience
+- Uses examples from daily life, not esoteric scenarios
+
+DISTINCTIVE STYLISTIC MARKERS:
+- "esse est percipi" (to be is to be perceived)
+- Frequent appeals to what "any man" can observe
+- Contrast between "vulgar" (common sense) and "philosophical" understanding
+- Uses "I say" to emphasize key claims
+```
+
+**EXAMPLE - FREUD:**
+```
+AUTHOR: Sigmund Freud
+
+SENTENCE STRUCTURE:
+- Complex, Germanic sentence construction even in translation
+- Long sentences with multiple subordinate clauses
+- Careful qualifications and hedging
+- Uses parenthetical asides frequently
+
+PARAGRAPH ORGANIZATION:
+- Long, dense paragraphs
+- Builds arguments through accumulated evidence
+- Returns cyclically to key themes
+- Uses numbered lists for case details
+
+VOCABULARY PREFERENCES:
+- Technical psychoanalytic terminology (ego, id, superego, cathexis, libido)
+- Medical/clinical language
+- Archaeological metaphors (layers, excavation, buried material)
+- Germanic compound constructions
+
+RHETORICAL DEVICES:
+- Case study method
+- Interprets dreams, slips, symptoms as symbolic
+- Uses analogies extensively (psyche as archaeology, as hydraulics)
+- Appeals to clinical observation
+- Anticipates skepticism explicitly
+
+TONE:
+- Clinical yet intimate
+- Detached observer who reveals private matters
+- Authoritative but acknowledges uncertainty
+- Sometimes defensive about controversial claims
+
+NARRATIVE STRUCTURES:
+- Case history format: presenting complaint → biographical background → analysis of symptoms → interpretation → outcome
+- First presents manifest content, then reveals latent content
+- Dreams as central evidence
+- Emphasizes resistance and transference
+
+HANDLING COUNTERARGUMENTS:
+- Acknowledges objections seriously
+- Often interprets resistance to theory as evidence for theory
+- Uses clinical data to counter theoretical objections
+- Sometimes ad hominem: resistance indicates neurosis
+
+USE OF EXAMPLES:
+- Extended case studies (Dora, Rat Man, Wolf Man)
+- Dreams with detailed associations
+- Slips of the tongue, forgetting
+- Mythology and literature (Oedipus)
+- Personal observations from practice
+
+DISTINCTIVE STYLISTIC MARKERS:
+- "We are compelled to assume..."
+- "Further analysis revealed..."
+- "The patient's resistance at this point was significant..."
+- Use of initials or pseudonyms (Herr K., Fräulein Elisabeth)
+- Systematic return to childhood origins
+- Sexual/aggressive interpretations
+```
+
+**EXAMPLE - WILLIAM JAMES:**
+```
+AUTHOR: William James
+
+SENTENCE STRUCTURE:
+- Varied: short emphatic sentences mixed with longer exploratory ones
+- Conversational rhythm
+- Uses dashes frequently for asides and qualifications
+- Direct address to reader ("Consider...", "We find...")
+
+PARAGRAPH ORGANIZATION:
+- Medium length, reader-friendly
+- Exploratory rather than dogmatic
+- Often circles back to refine initial statement
+- Comfortable with ambiguity
+
+VOCABULARY PREFERENCES:
+- American vernacular mixed with philosophical terminology
+- Concrete, vivid language
+- Psychological terms from introspection
+- Avoids excessive abstraction
+- Uses "cash value" idiom
+
+RHETORICAL DEVICES:
+- Thought experiments
+- Introspective reports ("When I examine my own consciousness...")
+- Pragmatic test: what practical difference does this make?
+- Generous to opposing views before critiquing
+
+TONE:
+- Warm, conversational, personal
+- Self-deprecating humor
+- Genuinely curious and open
+- Anti-dogmatic
+- Intimate relationship with reader
+
+NARRATIVE STRUCTURES:
+- Essay format with personal reflection
+- Often first-person: "I must confess..."
+- Presents competing views fairly before offering resolution
+- Emphasizes lived experience over abstract theory
+
+HANDLING COUNTERARGUMENTS:
+- Extremely charitable
+- Often says opponents have legitimate point
+- Pragmatic resolution: both sides partly right
+- "The truth lies somewhere between..."
+
+USE OF EXAMPLES:
+- Personal experience and introspection
+- Psychological case studies
+- Religious experience narratives
+- Everyday situations
+- Scientific experiments
+
+DISTINCTIVE STYLISTIC MARKERS:
+- "The pragmatic method..."
+- "What difference would it make?"
+- "I must confess..."
+- "Now, what does this mean in practice?"
+- Emphasis on "feeling" and phenomenology
+- "Stream of consciousness" metaphor
+- "The cash value of..."
+```
+
+**EXAMPLE - JOHN-MICHAEL KUCZYNSKI:**
+```
+AUTHOR: John-Michael Kuczynski
+
+SENTENCE STRUCTURE:
+- Contemporary academic philosophy style
+- Crisp, clear declarative sentences
+- Uses em-dashes for asides and specifications
+- Minimal subordination - prefers coordination or separate sentences
+- Direct and unhedged
+
+PARAGRAPH ORGANIZATION:
+- Short, focused paragraphs
+- Each paragraph makes one specific point
+- Moves fast - no repetition
+- Clear logical progression
+- Often single-sentence paragraphs for emphasis
+
+VOCABULARY PREFERENCES:
+- Analytic philosophy terminology
+- Precise technical language where needed
+- Ordinary language for examples
+- Mathematical/logical precision
+- Avoids jargon when ordinary words suffice
+
+RHETORICAL DEVICES:
+- Falsification - presents hypothesis, shows it's wrong
+- Reductio ad absurdum
+- Concrete counterexamples
+- Parsimonious explanations
+- "What's philosophically interesting:" marker
+
+TONE:
+- Direct, no-nonsense
+- Intellectually aggressive
+- Impatient with imprecision
+- Confident
+- Sometimes dismissive of conventional wisdom
+
+NARRATIVE STRUCTURES:
+- Case study format for fiction
+- States claim → tests claim → falsifies or confirms
+- Uses contemporary scenarios
+- Clinical detail without emotional editorializing
+- Philosophical analysis after narrative
+
+HANDLING COUNTERARGUMENTS:
+- "You might object..."
+- Addresses objection directly
+- Shows why it fails
+- No hedging or diplomatic language
+
+USE OF EXAMPLES:
+- Contemporary, concrete scenarios
+- Named individuals with specific circumstances
+- Detailed behavioral descriptions
+- Emphasizes what's falsifiable/testable
+
+DISTINCTIVE STYLISTIC MARKERS:
+- "Consider X, age Y..."
+- "What's philosophically interesting:"
+- "The prediction is falsified."
+- "This fails."
+- "The more parsimonious explanation:"
+- Uses actual numbers and specific details
+- "contra the theory"
+```
+
+---
+
+### 3. voice_profile.txt
+
+**Purpose:** Define the author's philosophical commitments, what they would/wouldn't say, how they approach problems, and their intellectual personality. This constrains responses in "Ask A Philosopher" and ensures philosophical accuracy in all functions.
+
+**Required Sections:**
+
+```
+AUTHOR: [Name]
+
+CORE PHILOSOPHICAL COMMITMENTS:
+- [List fundamental beliefs]
+- [Metaphysical positions]
+- [Epistemological positions]
+- [Ethical positions]
+- [Political positions if relevant]
+
+WHAT THIS AUTHOR WOULD SAY:
+- [Typical responses to common questions]
+- [Characteristic moves in arguments]
+- [Preferred solutions to problems]
+
+WHAT THIS AUTHOR WOULD NOT SAY:
+- [Positions inconsistent with their philosophy]
+- [Arguments they would reject]
+- [Anachronisms to avoid]
+
+INTELLECTUAL PERSONALITY:
+- [Temperament: cautious/bold, systematic/intuitive, etc.]
+- [Attitude toward tradition]
+- [Attitude toward opponents]
+- [Degree of certainty in claims]
+
+RELATIONSHIP TO OTHER THINKERS:
+- [Key influences]
+- [Key opponents]
+- [Intellectual tradition/school]
+
+HISTORICAL CONTEXT:
+- [Time period]
+- [Cultural/intellectual milieu]
+- [Major events that shaped thinking]
+
+BLIND SPOTS / LIMITATIONS:
+- [What they couldn't have known]
+- [Prejudices of their era]
+- [Gaps in their system]
+
+TYPICAL PROBLEM-SOLVING APPROACH:
+- [How they analyze problems]
+- [What they look for]
+- [What they prioritize]
+
+KEY CONCEPTS / TERMINOLOGY:
+- [Central technical terms]
+- [How they define key concepts]
+```
+
+**EXAMPLE - BERKELEY:**
+```
+AUTHOR: George Berkeley
+
+CORE PHILOSOPHICAL COMMITMENTS:
+- Idealism: only minds (spirits) and ideas exist
+- "To be is to be perceived" (esse est percipi)
+- No mind-independent material substance
+- God perceives everything constantly, ensuring continuity
+- Direct perception of ideas, not of matter
+- Rejection of abstract ideas
+- Christian theism essential to system
+
+WHAT THIS AUTHOR WOULD SAY:
+- Material objects are collections of ideas
+- Skepticism dissolves once we reject matter
+- Common sense supports idealism, not materialism
+- Science describes patterns in our perceptions
+- God's perception grounds objective reality
+- We know other minds by analogy with our own
+
+WHAT THIS AUTHOR WOULD NOT SAY:
+- Would not accept solipsism (God's mind ensures shared reality)
+- Would not deny external world (ideas are real)
+- Would not embrace atheism or deism
+- Would not accept abstract ideas exist
+- Would not say we can conceive matter
+- Would not use substance dualism (mind + matter)
+
+INTELLECTUAL PERSONALITY:
+- Confident but patient
+- Genuinely thinks his view is common sense
+- Sees materialists as creating pseudo-problems
+- Religious motivations central
+- Pedagogical - wants to lead reader step by step
+
+RELATIONSHIP TO OTHER THINKERS:
+- INFLUENCED BY: Locke (but radicalizes his empiricism)
+- OPPOSES: Locke's material substance, Descartes' dualism, materialism generally
+- CONTEMPORARY OF: Hume (but more religious)
+- TRADITION: British empiricism, but idealist
+
+HISTORICAL CONTEXT:
+- Early 18th century (1685-1753)
+- Response to Newtonian science and materialism
+- Defense of religion against mechanical philosophy
+- Irish Anglican bishop
+
+BLIND SPOTS / LIMITATIONS:
+- Overestimates how intuitive idealism is
+- Struggles with intersubjective agreement (God solves too easily)
+- Can't easily explain difference between real vs. imagined perceptions
+- Modern neuroscience undermines the mental/material distinction he relies on
+
+TYPICAL PROBLEM-SOLVING APPROACH:
+1. Identify opponent's position
+2. Show it leads to skepticism or incoherence
+3. Argue his idealism avoids these problems
+4. Appeal to direct experience
+5. Show consistency with common sense AND science
+
+KEY CONCEPTS / TERMINOLOGY:
+- Ideas: immediate objects of perception
+- Spirit/Mind: that which perceives
+- Matter: incoherent concept, impossible to conceive
+- Perception: direct awareness of ideas
+- Esse est percipi: to be is to be perceived
+- Sensible qualities: colors, sounds, etc. are ideas not properties of matter
+```
+
+**EXAMPLE - FREUD:**
+```
+AUTHOR: Sigmund Freud
+
+CORE PHILOSOPHICAL COMMITMENTS:
+- Psychological determinism: all mental events have causes
+- The unconscious is primary; consciousness is derivative
+- Sexual and aggressive drives (libido and death drive) fundamental
+- Childhood experiences shape adult psychology
+- Dreams as wish-fulfillment
+- Neurotic symptoms as symbolic/meaningful
+- Pleasure principle vs. reality principle
+- Id, ego, superego structure
+- Repression as core defense mechanism
+- Transference reveals unconscious patterns
+
+WHAT THIS AUTHOR WOULD SAY:
+- "Your feelings toward X remind you unconsciously of your relationship with your father/mother"
+- "This dream symbolizes a wish that cannot be acknowledged"
+- "The intensity of your denial suggests proximity to unconscious truth"
+- "Neurotic symptoms are compromises between repressed wishes and defense"
+- "Free association will reveal hidden meanings"
+- "Resistance indicates we're approaching something important"
+- "Early sexual experiences were traumatic and repressed"
+
+WHAT THIS AUTHOR WOULD NOT SAY:
+- Would not accept purely biological explanations without psychological meaning
+- Would not deny sexual/aggressive motives behind behavior
+- Would not accept conscious explanations at face value
+- Would not embrace mysticism or spirituality (saw religion as illusion)
+- Would not accept Adler's power drive or Jung's collective unconscious as primary
+- Would not say trauma memories are inherently unreliable
+- Would not abandon sexual etiology of neuroses
+
+INTELLECTUAL PERSONALITY:
+- Authoritative, sometimes dogmatic
+- Deeply curious about hidden meanings
+- Suspicious of surface explanations
+- Willing to be controversial
+- Values clinical observation over theory
+- Protective of psychoanalytic orthodoxy
+- Pessimistic about human nature and culture
+
+RELATIONSHIP TO OTHER THINKERS:
+- INFLUENCED BY: Charcot (hysteria), Breuer (talking cure), Darwin (drives/instincts)
+- DISCIPLES WHO BROKE AWAY: Jung (spirituality), Adler (power), Rank (birth trauma)
+- OPPOSES: Academic psychology, religious explanations, biological reductionism
+- TRADITION: Medical/scientific approach to mind, but created new paradigm
+
+HISTORICAL CONTEXT:
+- Late 19th/early 20th century Vienna
+- Bourgeois Victorian sexual repression
+- Jewish in anti-Semitic culture
+- Neurologist turned psychologist
+- Fled Nazis in 1938
+
+BLIND SPOTS / LIMITATIONS:
+- Overemphasizes sexual etiology
+- Male-centered psychology (penis envy, etc.)
+- Limited sample (neurotic Viennese bourgeoisie)
+- Confirmation bias (interprets resistance as confirmation)
+- Some theories unfalsifiable
+- Underestimates social/cultural factors
+- Modern neuroscience challenges some assumptions
+
+TYPICAL PROBLEM-SOLVING APPROACH:
+1. Listen to patient's narrative and complaints
+2. Note symbolic content, dreams, slips, resistances
+3. Trace current symptoms to childhood experiences
+4. Identify repressed wishes and defenses
+5. Interpret symbolic meanings
+6. Work through transference
+7. Make the unconscious conscious
+
+KEY CONCEPTS / TERMINOLOGY:
+- Unconscious: repressed wishes and memories outside awareness
+- Repression: pushing unacceptable thoughts out of consciousness
+- Id: primitive drives and wishes
+- Ego: mediates between id, superego, reality
+- Superego: internalized parental/social prohibitions
+- Oedipus complex: childhood sexual feelings toward parent
+- Transference: patient projects feelings onto analyst
+- Resistance: defenses against therapeutic insight
+- Cathexis: psychic energy invested in object
+- Libido: sexual/life energy
+- Death drive (Thanatos): aggressive/destructive energy
+- Dream-work: condensation, displacement, symbolization
+- Defense mechanisms: repression, projection, sublimation, etc.
+```
+
+**EXAMPLE - WILLIAM JAMES:**
+```
+AUTHOR: William James
+
+CORE PHILOSOPHICAL COMMITMENTS:
+- Pragmatism: truth is what works, has "cash value"
+- Radical empiricism: relations are directly experienced
+- Pluralism: universe is genuinely open, not closed system
+- Free will is real and makes practical difference
+- Religious experience is valid source of knowledge
+- Consciousness is a stream, not a collection of atoms
+- Mind and body interact (anti-epiphenomenalism)
+- Anti-determinism, anti-absolute idealism
+- Meliorism: world can improve but isn't guaranteed to
+
+WHAT THIS AUTHOR WOULD SAY:
+- "What practical difference would believing this make?"
+- "The truth is what works in practice"
+- "Both views have merit; the question is which serves us better"
+- "My experience confirms..."
+- "We have genuine choices that make real differences"
+- "Religious experience is evidence of something"
+- "The world is not a closed system"
+- "Philosophy should address living issues"
+
+WHAT THIS AUTHOR WOULD NOT SAY:
+- Would not claim absolute certainty
+- Would not embrace complete determinism
+- Would not dismiss religious experience as mere delusion
+- Would not accept there's only one right way to see things
+- Would not be dogmatic about philosophical system
+- Would not ignore practical consequences
+- Would not reduce mind to matter or vice versa
+
+INTELLECTUAL PERSONALITY:
+- Warm, generous, open-minded
+- Genuinely curious rather than ideological
+- Comfortable with ambiguity and paradox
+- Values lived experience over abstract theory
+- Self-critical and humble
+- Psychologically insightful
+- Humanistic and pluralistic
+
+RELATIONSHIP TO OTHER THINKERS:
+- INFLUENCED BY: Peirce (pragmatism), Mill (empiricism), Renouvier (free will)
+- FRIEND/RIVAL: Josiah Royce (absolute idealism)
+- OPPOSES: Rationalism, absolute idealism, materialism, determinism
+- CONTEMPORARY OF: Dewey (fellow pragmatist), Russell (friend despite disagreements)
+- TRADITION: American pragmatism, empiricism
+
+HISTORICAL CONTEXT:
+- Late 19th/early 20th century America (1842-1910)
+- Post-Civil War intellectual flowering
+- Response to German idealism and British empiricism
+- Psychologist who became philosopher
+- Harvard professor
+- Privileged but psychologically troubled
+
+BLIND SPOTS / LIMITATIONS:
+- Sometimes too accommodating, fails to draw clear lines
+- Pragmatic test can be vague
+- Underestimates role of power and ideology in "what works"
+- Religious tolerance sometimes becomes credulity
+- Pluralism can slide into relativism
+- Psychological method limited to introspection
+
+TYPICAL PROBLEM-SOLVING APPROACH:
+1. Present competing views fairly
+2. Examine lived experience / phenomenology
+3. Ask "What practical difference does this make?"
+4. Look for synthesis that honors insights of both sides
+5. Test against actual consequences
+6. Remain open to revision based on experience
+
+KEY CONCEPTS / TERMINOLOGY:
+- Pragmatism: truth is what works
+- Cash value: practical consequences of belief
+- Will to believe: right to believe when evidence insufficient
+- Stream of consciousness: continuous flow, not discrete states
+- Radical empiricism: relations experienced directly
+- Pluralism: universe is many, not one
+- Meliorism: improvement possible but not guaranteed
+- Pure experience: prior to subject/object distinction
+- Right to believe: in undecided cases, practical concerns legitimate
+```
+
+---
+
+### 4. quotes_indexed.txt
+
+**Purpose:** Pre-extracted quotable passages with metadata tags for rapid retrieval by Quote Generator function.
+
+**Format:**
+
+```
+[TOPIC: tag1, tag2, tag3]
+[WORK: Title of Work]
+[TYPE: quote_type]
+[LENGTH: short/medium/long]
+"Quote text here."
+
+[TOPIC: tag1, tag2, tag3]
+[WORK: Title of Work]
+[TYPE: quote_type]
+[LENGTH: short/medium/long]
+"Quote text here."
+
+---
+```
+
+**Topic Tags (use consistently across all authors):**
+epistemology, metaphysics, ethics, politics, psychology, logic, aesthetics, religion, science, language, mind, consciousness, free_will, determinism, causation, identity, perception, reality, truth, knowledge, belief, justification, skepticism, rationalism, empiricism, idealism, materialism, dualism, monism, existence, being, becoming, substance, essence, universals, particulars, space, time, infinity, god, soul, immortality, virtue, vice, justice, rights, duty, pleasure, happiness, good, evil, morality, immorality, state, government, society, freedom, authority, power, law, property, equality, democracy, tyranny, war, peace, beauty, art, taste, emotion, reason, intuition, experience, sense_perception, memory, imagination, thought, judgment, inference, deduction, induction, fallacy, paradox, meaning, reference, truth_conditions, propositions, concepts, definitions
+
+**Type Tags:**
+argument, definition, example, criticism, analogy, thought_experiment, case_study, aphorism, maxim, principle, observation, question, warning, exhortation, praise, condemnation, irony, paradox
+
+**Length:**
+- short: under 25 words
+- medium: 25-75 words  
+- long: 75+ words
+
+**EXAMPLE - BERKELEY:**
+```
+[TOPIC: idealism, existence, perception]
+[WORK: A Treatise Concerning the Principles of Human Knowledge]
+[TYPE: principle, definition]
+[LENGTH: short]
+"To be is to be perceived."
+
+[TOPIC: materialism, skepticism, criticism]
+[WORK: Three Dialogues Between Hylas and Philonous]
+[TYPE: question, criticism]
+[LENGTH: medium]
+"But what is matter? A thing perfectly unknown, and inconceivable. For if we take away all sensible qualities, there remains nothing but an unknown support of we know not what."
+
+[TOPIC: perception, reality, idealism]
+[WORK: A Treatise Concerning the Principles of Human Knowledge]
+[TYPE: argument]
+[LENGTH: long]
+"Some truths there are so near and obvious to the mind that a man need only open his eyes to see them. Such I take this important one to be, viz., that all the choir of heaven and furniture of the earth, in a word all those bodies which compose the mighty frame of the world, have not any subsistence without a mind, that their being is to be perceived or known."
+
+[TOPIC: abstraction, criticism, empiricism]
+[WORK: A Treatise Concerning the Principles of Human Knowledge]
+[TYPE: criticism, argument]
+[LENGTH: medium]
+"If any man has the faculty of framing in his mind such an idea of a triangle as is here described, it is in vain to pretend to dispute him out of it, nor would I go about it. All I desire is that the reader would fully and certainly inform himself whether he has such an idea or no."
+
+[TOPIC: god, existence, perception]
+[WORK: Three Dialogues Between Hylas and Philonous]
+[TYPE: argument, explanation]
+[LENGTH: long]
+"When things are said to exist without the mind, it must be meant that they exist in some other mind; as when I imagine trees in the garden or books in the study, when no one is there to perceive them, they continue to exist in the mind of God, who perceives them always."
+```
+
+**EXAMPLE - FREUD:**
+```
+[TOPIC: unconscious, repression, psychology]
+[WORK: The Interpretation of Dreams]
+[TYPE: principle]
+[LENGTH: medium]
+"The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind."
+
+[TOPIC: psychology, determinism, slips]
+[WORK: The Psychopathology of Everyday Life]
+[TYPE: principle, argument]
+[LENGTH: medium]
+"There are no accidents in psychic life. What seems arbitrary and unmotivated is actually determined by unconscious factors."
+
+[TOPIC: ego, id, superego, psychology]
+[WORK: New Introductory Lectures on Psychoanalysis]
+[TYPE: definition, principle]
+[LENGTH: medium]
+"Where id was, there ego shall be. It is a work of culture—not unlike the draining of the Zuider Zee."
+
+[TOPIC: repression, resistance, therapy]
+[WORK: Studies on Hysteria]
+[TYPE: observation, principle]
+[LENGTH: medium]
+"The greater the resistance, the greater the distortion. Whatever disturbs the continuation of the work is a resistance."
+
+[TOPIC: dreams, wish_fulfillment, psychology]
+[WORK: The Interpretation of Dreams]
+[TYPE: principle]
+[LENGTH: short]
+"Dreams are the disguised fulfillment of repressed wishes."
+
+[TOPIC: sexuality, psychology, development]
+[WORK: Three Essays on the Theory of Sexuality]
+[TYPE: principle, argument]
+[LENGTH: long]
+"The sexual instinct of man does not serve the purposes of reproduction merely, but has as its goal the gaining of particular kinds of pleasure. It manifests itself in infancy, passes through stages of development, and becomes what we know as the normal sexuality of the adult only as the result of a complicated process."
+```
+
+---
+
+### 5. fiction_examples.txt (for authors who wrote fiction)
+
+**Purpose:** Provide narrative examples for Fiction Generator functions. Include this file for: Poe, Dostoevsky, Tolstoy, Jack London, Orwell, Aesop, Brothers Grimm.
+
+**Format:**
+
+```
+[WORK: Title]
+[TYPE: short_story/novel/fable/fairy_tale]
+[NARRATIVE_TECHNIQUE: technique description]
+
+[Excerpt or full short piece]
+
+---
+
+[WORK: Title]
+[TYPE: ]
+[NARRATIVE_TECHNIQUE: ]
+
+[Excerpt]
+
+---
+```
+
+**What to include:**
+- Complete short stories when possible
+- Key excerpts from longer works showing different techniques
+- Different narrative modes (first-person, third-person, etc.)
+- Examples of dialogue handling
+- Character development examples
+- Plot structures
+
+---
+
+### 6. [special]_framework.txt (for Model Builder function)
+
+**Purpose:** Document philosophical frameworks that can be applied isomorphically to validate theories. Only create for authors with systematic analytical frameworks.
+
+**Which authors get framework files:**
+- Aristotle → aristotelian_framework.txt
+- Marx → marxist_framework.txt  
+- Kant → kantian_framework.txt
+- Freud → psychoanalytic_concepts.txt
+- Jung → jungian_concepts.txt
+- Darwin → evolutionary_framework.txt
+- Plato → platonic_framework.txt
+- Leibniz → monadology_framework.txt
+- Berkeley → idealist_framework.txt
+- Hume → skeptical_framework.txt
+- James/Dewey → pragmatist_framework.txt
+- Locke → empiricist_framework.txt
+- Spinoza → rationalist_framework.txt
+- Descartes → cartesian_framework.txt
+- Hegel → dialectical_framework.txt
+- Hobbes → mechanistic_framework.txt
+- Mill → utilitarian_framework.txt
+- Smith/Keynes/Von Mises → economic_framework.txt
+- Schopenhauer → pessimist_framework.txt
+- Confucius → confucian_framework.txt
+- Adler → adlerian_concepts.txt
+- Reich/Stekel → (their psychoanalytic variants)
+
+**Format:**
+
+```
+AUTHOR: [Name]
+FRAMEWORK: [Name of system]
+
+CORE ANALYTICAL STRUCTURE:
+[Describe the basic framework - what are its fundamental components?]
+
+KEY CONCEPTS:
+- [Concept 1]: [Definition and role in framework]
+- [Concept 2]: [Definition and role in framework]
+- [Concept 3]: [Definition and role in framework]
+
+ANALYTICAL PATTERN:
+[How does this framework analyze phenomena? What steps?]
+1. [Step 1]
+2. [Step 2]
+3. [Step 3]
+
+APPLICABLE DOMAINS:
+[What kinds of things can this framework analyze?]
+- Domain 1
+- Domain 2
+- Domain 3
+
+CHARACTERISTIC QUESTIONS:
+[What questions does this framework ask about any phenomenon?]
+- Question 1
+- Question 2
+- Question 3
+
+EXAMPLE APPLICATIONS:
+[Show how the framework applies to diverse domains]
+
+EXAMPLE 1 - [Domain]:
+[Show analysis]
+
+EXAMPLE 2 - [Different domain]:
+[Show analysis]
+
+LIMITATIONS:
+[What can't this framework explain? Where does it fail?]
+
+ISOMORPHIC PATTERNS TO RECOGNIZE:
+[What patterns in other domains map onto this framework?]
+```
+
+**EXAMPLE - MARXIST_FRAMEWORK.TXT:**
+```
+AUTHOR: Karl Marx
+FRAMEWORK: Historical Materialism / Marxist Analysis
+
+CORE ANALYTICAL STRUCTURE:
+Base/superstructure model:
+- MATERIAL BASE: Economic relations, mode of production, who owns means of production
+- IDEOLOGICAL SUPERSTRUCTURE: Culture, law, religion, philosophy, art - justified by and serving the base
+- DIALECTICAL PROCESS: Contradictions in base lead to revolutionary transformation
+- CLASS CONFLICT: Primary engine of historical change
+
+KEY CONCEPTS:
+- Mode of production: How society produces goods (slavery, feudalism, capitalism, socialism)
+- Means of production: Tools, factories, land, technology used to produce
+- Relations of production: Who owns means vs. who labors
+- Class: Position in relation to means of production (owners vs. workers)
+- Exploitation: Owners extract surplus value from workers' labor
+- Alienation: Workers separated from products, labor, species-being, others
+- Ideology: Ideas that justify existing power relations
+- False consciousness: Workers accepting ideology against their interests
+- Class struggle: Conflict between owners and workers driving history
+- Commodity fetishism: Social relations appear as relations between things
+- Surplus value: Value produced by workers beyond their wages
+- Dialectical materialism: Change through contradiction and resolution
+
+ANALYTICAL PATTERN:
+1. Identify the material base (who owns what, who does what labor)
+2. Identify the superstructure (ideas, culture, laws)
+3. Show how superstructure serves/justifies base
+4. Identify contradictions in current mode of production
+5. Predict revolutionary transformation when contradictions become unbearable
+6. Identify whose interests are served by existing arrangements
+
+APPLICABLE DOMAINS:
+- Economics (obviously)
+- Politics and law
+- Religion ("opiate of the masses")
+- Philosophy and ideology
+- Art and culture
+- Family structures
+- Education systems
+- Technology
+- Urban planning
+- Gender relations
+- Race relations
+- Environmental issues
+- Any social institution
+
+CHARACTERISTIC QUESTIONS:
+- Who owns the means of production here?
+- Who benefits materially from this arrangement?
+- What ideology justifies this arrangement?
+- What contradictions exist in this system?
+- How is surplus value extracted?
+- What would revolutionary transformation look like?
+- Whose class interests does this serve?
+- How are workers alienated in this domain?
+
+EXAMPLE APPLICATIONS:
+
+EXAMPLE 1 - EDUCATION:
+Material base: Schools funded by property taxes (wealthy areas = better schools)
+Relations: Wealthy control educational resources; working class labors to produce educated workers
+Superstructure: Ideology of "meritocracy" - school success reflects individual talent
+Function: System reproduces class relations - wealthy children get better education, better jobs, become new ruling class
+Contradiction: Claims to be meritocratic but systematically advantages the already-advantaged
+Class interest: Serves ruling class by providing them advantages while maintaining illusion of fairness
+Alienation: Education becomes credential-gathering rather than intellectual development
+
+EXAMPLE 2 - SOCIAL MEDIA:
+Material base: Users produce content (labor), platform owners monetize it
+Means of production: Algorithms, servers, user attention owned by tech companies
+Relations: Users = workers, company = owners extracting surplus value
+Exploitation: Users generate value through posts/engagement, receive no payment, companies profit from advertising
+Alienation: Users' social connections mediated and controlled by platform
+Superstructure: Ideology of "sharing economy," "connecting people," "democratizing media"
+Contradiction: Celebrates user agency while extracting value from unpaid labor
+Revolutionary potential: Users could collectively own platforms (worker cooperatives)
+
+EXAMPLE 3 - ACADEMIC PUBLISHING:
+Material base: Researchers produce knowledge, publishers control distribution
+Means of production: Journals, peer review systems owned by for-profit companies
+Relations: Researchers provide free labor (writing, reviewing), universities pay massive subscription fees, publishers profit
+Exploitation: Publicly-funded research given free to publishers who sell it back to public institutions
+Superstructure: "Prestige," "impact factor," "peer review standards" justify system
+Contradiction: Open knowledge production captured by profit-seeking middlemen
+Revolutionary potential: Open access movement, researcher-owned platforms
+
+LIMITATIONS:
+- Can be reductive: not everything reduces to economic base
+- Overestimates role of class vs. other identities (race, gender)
+- Predicts revolutions that don't always occur
+- Weak on explaining why individuals act against class interest
+- Struggles with post-industrial information economy
+- Cultural factors may be more independent than base/superstructure allows
+- Historical determinism too strong
+
+ISOMORPHIC PATTERNS TO RECOGNIZE:
+Look for: producers vs. owners, labor vs. capital, value extraction, ideological justification, contradictions between stated purpose and actual function, systems that benefit those who control resources while claiming to benefit all
+```
+
+**EXAMPLE - FREUDIAN PSYCHOANALYTIC_CONCEPTS.TXT:**
+```
+AUTHOR: Sigmund Freud
+FRAMEWORK: Psychoanalytic Theory
+
+CORE ANALYTICAL STRUCTURE:
+Topographical model (early): Conscious / Preconscious / Unconscious
+Structural model (later): Id / Ego / Superego
+Dynamic model: Psychic energy (libido), cathexis, investment, discharge
+Developmental model: Oral, Anal, Phallic, Latency, Genital stages
+Interpretive model: Manifest vs. Latent content
+
+KEY CONCEPTS:
+- Unconscious: Repressed wishes, memories, drives outside awareness
+- Repression: Primary defense - pushing unacceptable content out of consciousness
+- Id: Primitive drives (sex, aggression), pleasure principle, primary process
+- Ego: Mediator between id, superego, reality; reality principle, secondary process
+- Superego: Internalized parental/social prohibitions, conscience, ego-ideal
+- Libido: Sexual/life drive energy
+- Death drive (Thanatos): Aggressive, destructive energy
+- Oedipus complex: Childhood sexual feelings toward opposite-sex parent, rivalry with same-sex parent
+- Castration anxiety: Boy's fear of punishment for Oedipal wishes
+- Penis envy: Girl's perceived lack and wish for male anatomy
+- Fixation: Arrested development at psychosexual stage
+- Regression: Return to earlier developmental stage under stress
+- Transference: Patient projects feelings onto analyst
+- Countertransference: Analyst's feelings toward patient
+- Resistance: Defenses against therapeutic insight
+- Defense mechanisms: Strategies to manage anxiety
+  - Repression: Pushing into unconscious
+  - Projection: Attributing own feelings to others
+  - Reaction formation: Expressing opposite of true feeling
+  - Sublimation: Channeling drives into acceptable outlets
+  - Displacement: Redirecting feelings to safer target
+  - Rationalization: Logical excuse for emotional motive
+  - Denial: Refusing to acknowledge reality
+- Dream-work: Condensation, displacement, symbolization, secondary revision
+- Free association: Unfiltered speech reveals unconscious
+- Parapraxes: Slips of tongue, forgetting reveal unconscious
+- Symptom formation: Compromise between wish and defense
+- Cathexis: Investment of psychic energy in object
+- Pleasure principle: Seek pleasure, avoid pain (id)
+- Reality principle: Delay gratification for practical concerns (ego)
+- Primary process: Immediate wish-fulfillment, ignores logic (id, dreams)
+- Secondary process: Logical, reality-oriented thinking (ego)
+
+ANALYTICAL PATTERN:
+1. Identify presenting symptoms/complaints
+2. Gather biographical information, especially childhood
+3. Note dreams, free associations, slips, resistances
+4. Identify what's being defended against (repressed wish)
+5. Identify defense mechanisms
+6. Trace symptom to childhood origin (usually Oedipal)
+7. Interpret symbolic meaning
+8. Work through transference
+9. Make unconscious conscious
+10. Achieve insight leading to symptom relief
+
+APPLICABLE DOMAINS:
+- Individual psychology and psychopathology
+- Dreams
+- Art and literature (what does it express unconsciously?)
+- Religion (illusion, father-figure projection)
+- Culture and civilization (repression required)
+- Humor (release of repressed aggression)
+- Mythology (collective fantasy)
+- Biography (explain person's life through unconscious)
+- Social movements (mass psychology)
+- Any human behavior or production
+
+CHARACTERISTIC QUESTIONS:
+- What is being repressed here?
+- What childhood trauma or conflict does this trace to?
+- What wish is being defended against?
+- How is this symptom a compromise formation?
+- What does this symbolize?
+- Why is the person resisting this interpretation?
+- What Oedipal dynamics are at play?
+- How does this relate to sexual or aggressive drives?
+- What defense mechanisms are operating?
+- What would free association reveal?
+
+EXAMPLE APPLICATIONS:
+
+EXAMPLE 1 - PERFECTIONISM:
+Presenting issue: Person has crippling perfectionism, can't complete projects
+Childhood origin: Critical, demanding father; fear of never being good enough
+Oedipal dynamics: Trying to win father's approval, compete with father
+Repressed wish: To be recognized as superior to father
+Defense: Reaction formation - "I'm not trying to surpass father, I'm trying to please him"
+Symptom: Perfectionism ensures nothing is ever finished, avoiding test of actual superiority
+Symbolic meaning: Incomplete projects = staying child, not competing as adult
+Transference: Treats therapist as critical judge
+Interpretation: Perfectionism protects against Oedipal rivalry by ensuring failure
+
+EXAMPLE 2 - POLITICAL FANATICISM:
+Presenting issue: Extreme devotion to political ideology, intolerance of dissent
+Childhood origin: Authoritarian father, strict rules, punishment for disobedience
+Repressed wish: To rebel against father, express rage at being controlled
+Defense: Identification with the aggressor - becoming the authority figure
+Symptom: Rigid adherence to ideology, punishing "heretics"
+Symbolic meaning: Ideology = father figure; dissenters = rebellious child self
+Superego dynamics: Harsh superego taken from father now applied to political sphere
+Interpretation: Political fanaticism is displacement of unresolved father conflict
+
+EXAMPLE 3 - WRITER'S BLOCK:
+Presenting issue: Established writer suddenly can't write
+Recent event: Success of previous book
+Unconscious conflict: Success triggers castration anxiety (surpassing father)
+Repressed wish: To be recognized as genius (Oedipal triumph)
+Defense: Inhibition of writing prevents realization of wish
+Symptom: Block protects against feared punishment for success
+Oedipal dynamics: Writing = phallic achievement; block = symbolic castration
+Resistance: When therapist suggests this interpretation, patient insists it's just external stress
+Interpretation: Block is compromise - maintains identity as writer while preventing actual success
+
+LIMITATIONS:
+- Unfalsifiable: Resistance to interpretation proves interpretation correct
+- Overemphasizes sexual/Oedipal factors
+- Male-centered (penis envy, etc.)
+- Limited sample: Neurotic Viennese bourgeoisie
+- Ignores social/cultural/economic factors
+- Some concepts (death drive) speculative
+- Difficult to test empirically
+- Therapeutic efficacy debated
+- Modern neuroscience challenges some premises
+
+ISOMORPHIC PATTERNS TO RECOGNIZE:
+Look for: Surface vs. hidden meaning, expressed vs. defended-against wishes, childhood origins of adult patterns, symbolic expressions, resistance to insight, compromise formations, energy investment/withdrawal, primary vs. secondary process thinking, pleasure vs. reality demands
+```
+
+---
+
+### 7. case_studies.txt (for Freud, Jung, Adler, Reich, Stekel)
+
+**Purpose:** For psychoanalysts who used extensive case studies - provides concrete examples of their analytical method in action.
+
+**Format:**
+```
+[CASE: Name or pseudonym]
+[WORK: Publication where discussed]
+[CONDITION: Diagnosis/presenting problem]
+
+[Full case study or substantial excerpt showing analysis]
+
+---
+
+[CASE: ]
+[WORK: ]
+[CONDITION: ]
+
+[Case study]
+
+---
+```
+
+---
+
+### 8. dialogues.txt (for Plato, Berkeley)
+
+**Purpose:** For authors who wrote in dialogue form - preserve the specific format and dialectical structure.
+
+**Format:**
+```
+[WORK: Title of Dialogue]
+[PARTICIPANTS: Names of speakers]
+[TOPIC: Main subject]
+
+[Full dialogue or substantial excerpt]
+
+---
+```
+
+---
+
+### 9. aphorisms.txt (for Nietzsche)
+
+**Purpose:** For Nietzsche specifically - his aphoristic style needs separate file.
+
+**Format:**
+```
+[WORK: Title]
+[NUMBER: Aphorism number if applicable]
+[TOPIC: tags]
+
+[Aphorism text]
+
+---
+```
+
+---
+
+### 10. fables.txt (for Aesop)
+
+**Purpose:** Collection of complete fables with morals.
+
+**Format:**
+```
+[TITLE: Fable name]
+[MORAL: The lesson]
+
+[Complete fable text]
+
+---
+```
+
+---
+
+### 11. fairy_tales.txt (for Brothers Grimm)
+
+**Purpose:** Collection of complete fairy tales.
+
+**Format:**
+```
+[TITLE: Tale name]
+[GRIMM NUMBER: KHM number]
+
+[Complete tale text]
+
+---
+```
+
+---
+
+## FUNCTION-SPECIFIC ACCESS PATTERNS
+
+Document how each app function accesses these files:
+
+### ASK A PHILOSOPHER
+**Files loaded:**
+1. voice_profile.txt (primary constraint - what would this author say?)
+2. primary_texts.txt (for reference and accuracy)
+3. style_guide.txt (for matching writing style)
+
+**Process:**
+- Voice profile determines response boundaries
+- Primary texts provide factual accuracy
+- Style guide ensures response sounds like author
+
+---
+
+### MODEL BUILDER
+**Files loaded:**
+1. [framework].txt files (primary - these ARE the models)
+2. voice_profile.txt (to determine if author would recognize pattern)
+3. primary_texts.txt (for framework accuracy)
+
+**Process:**
+- Load relevant framework files
+- Identify isomorphic patterns between philosophical theory and domain
+- Generate reinterpretation showing how author's framework applies
+
+---
+
+### QUOTE GENERATOR
+**Files loaded:**
+1. quotes_indexed.txt (primary access)
+2. primary_texts.txt (fallback if quotes insufficient)
+
+**Process:**
+- Search quotes_indexed.txt by topic tags
+- Filter by requested length/type
+- Fall back to primary_texts.txt if needed
+
+---
+
+### THESIS TO WORLD
+**Files loaded:**
+1. style_guide.txt (for matching author's documentary/narrative style)
+2. voice_profile.txt (to constrain what scenarios would be plausible)
+3. fiction_examples.txt (if available, for narrative techniques)
+
+**Process:**
+- Parse thesis from input
+- Generate fictional world where thesis is true
+- Write in author's documentary/narrative style
+
+---
+
+### NIGHTMARE CONVERSION
+**Files loaded:**
+1. style_guide.txt (critical - for matching author's narrative voice)
+2. voice_profile.txt (to understand author's likely anxieties)
+3. fiction_examples.txt (if available, for narrative structure)
+4. case_studies.txt (for psychoanalysts, for psychological analysis)
+
+**Process:**
+- Analyze input for underlying anxiety structure
+- Generate scenario where that fear materializes
+- Write in author's narrative style (NOT about the original topic)
+
+---
+
+### PHILOSOPHICAL FICTION WRITER
+**Files loaded:**
+1. style_guide.txt (MOST IMPORTANT - this makes it sound like the author)
+2. voice_profile.txt (philosophical constraints)
+3. fiction_examples.txt (if available - narrative structures)
+4. case_studies.txt (for psychoanalysts - case history format)
+5. dialogues.txt (for Plato, Berkeley - dialogue format)
+
+**Process:**
+- Parse philosophical content from input
+- Convert argument into narrative form
+- Maintain author's distinctive voice throughout
+- Apply custom instructions if provided
+
+---
+
+## METADATA AND TAGGING SYSTEM
+
+Create `/author_database/metadata/topic_taxonomy.txt`:
+
+```
+EPISTEMOLOGY:
+- knowledge
+- belief
+- justification
+- truth
+- skepticism
+- certainty
+- evidence
+- perception
+- memory
+- testimony
+
+METAPHYSICS:
+- existence
+- being
+- reality
+- substance
+- essence
+- universals
+- particulars
+- identity
+- causation
+- space
+- time
+- infinity
+- possibility
+- necessity
+
+ETHICS:
+- good
+- evil
+- right
+- wrong
+- virtue
+- vice
+- duty
+- obligation
+- rights
+- justice
+- fairness
+- pleasure
+- happiness
+- utility
+- consequences
+
+POLITICAL:
+- state
+- government
+- authority
+- power
+- freedom
+- liberty
+- equality
+- democracy
+- tyranny
+- law
+- property
+- rights
+- society
+- community
+
+PSYCHOLOGY:
+- mind
+- consciousness
+- perception
+- emotion
+- reason
+- will
+- desire
+- belief
+- memory
+- imagination
+- unconscious
+- self
+- identity
+
+RELIGION:
+- god
+- existence_of_god
+- faith
+- revelation
+- miracles
+- soul
+- immortality
+- afterlife
+- prayer
+- evil_problem
+
+AESTHETICS:
+- beauty
+- art
+- taste
+- sublime
+- aesthetic_judgment
+- creativity
+
+LANGUAGE:
+- meaning
+- reference
+- truth_conditions
+- propositions
+- concepts
+- definitions
+- translation
+
+LOGIC:
+- deduction
+- induction
+- inference
+- validity
+- soundness
+- fallacy
+- paradox
+- contradiction
+
+SCIENCE:
+- scientific_method
+- explanation
+- laws_of_nature
+- causation
+- determinism
+- reductionism
+```
+
+---
+
+## IMPLEMENTATION STEPS
+
+**PHASE 1: Directory Structure**
+1. Create `/author_database/` directory
+2. Create subdirectory for each author (use lowercase, underscores for spaces)
+3. Create metadata directory: `/author_database/metadata/`
+
+**PHASE 2: Core Files for Each Author**
+For EVERY author, create these files:
+1. primary_texts.txt
+2. style_guide.txt
+3. voice_profile.txt
+4. quotes_indexed.txt
+
+**PHASE 3: Specialized Files**
+Create additional files based on author type:
+- Fiction writers: fiction_examples.txt
+- Psychoanalysts: case_studies.txt + [name]_concepts.txt
+- Systematic philosophers: [framework]_framework.txt
+- Dialogue writers: dialogues.txt
+- Aphorists: aphorisms.txt
+- Fabulists: fables.txt or fairy_tales.txt
+
+**PHASE 4: Content Population**
+PRIORITY ORDER:
+1. Start with most-used authors (Kuczynski, Freud, James, Berkeley, Nietzsche)
+2. Focus on style_guide.txt first - this is critical for fiction generation
+3. Then voice_profile.txt - constrains all responses
+4. Then quotes_indexed.txt - enables Quote Generator
+5. Then primary_texts.txt - can be populated gradually
+6. Framework files last - only needed for Model Builder
+
+**PHASE 5: Metadata System**
+1. Create topic_taxonomy.txt
+2. Document tagging conventions
+3. Create author_index.txt listing all authors with brief descriptions
+
+**PHASE 6: Access Layer**
+Create `/author_database/access/retrieval_functions.py` with functions:
+- `load_author_style(author_name)`
+- `load_author_voice(author_name)`
+- `load_author_quotes(author_name, topic_tags=[])`
+- `load_author_framework(author_name)`
+- `load_author_texts(author_name)`
+- `search_quotes(topic_tags, authors=[], length=None, type=None)`
+
+---
+
+## VALIDATION CHECKLIST
+
+For each author directory, verify:
+- [ ] All four core files exist (primary_texts, style_guide, voice_profile, quotes_indexed)
+- [ ] Style guide includes all required sections
+- [ ] Voice profile includes all required sections  
+- [ ] Quotes have proper metadata tags
+- [ ] Topic tags match taxonomy
+- [ ] Specialized files present where appropriate
+- [ ] Files use consistent formatting
+
+---
+
+## MAINTENANCE GUIDELINES
+
+**Adding new authors:**
+1. Create directory with author name (lowercase, underscores)
+2. Create four core files
+3. Add to author_index.txt
+4. Populate minimally (can expand later):
+   - style_guide.txt: at minimum 200 words
+   - voice_profile.txt: at minimum 300 words
+   - quotes_indexed.txt: at minimum 20 quotes
+   - primary_texts.txt: at minimum 5000 words
+
+**Updating existing authors:**
+- More quotes always useful
+- Expand style guides with more examples
+- Add framework files for systematic thinkers
+- Expand primary_texts as needed
+
+**Quality standards:**
+- Style guides must be detailed enough to generate recognizable prose
+- Voice profiles must actually constrain responses
+- Quotes must be properly attributed and tagged
+- All content must be accurate to author's actual positions
+
+---
+
+## DELIVERABLE
+
+When complete, provide:
+1. Full directory structure in `/author_database/`
+2. All files for all authors
+3. Access layer Python functions
+4. Documentation in `/author_database/README.md`
+5. Sample queries showing each function accessing appropriate files
+
+BEGIN IMPLEMENTATION NOW.

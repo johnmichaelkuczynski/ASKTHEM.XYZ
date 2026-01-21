@@ -1,0 +1,683 @@
+POSITION STATEMENT WITH QUOTATIONS FOR CHAPTER 1 OF ANALYTIC PHILOSOPHY BY KUCZYNSKI 
+
+# ANALYTIC PHILOSOPHY CHAPTER 1: POSITION STATEMENT WITH SUPPORTING QUOTATIONS
+
+---
+
+**1. Philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world.**
+
+> "Philosophy studies these categories. It delineates their structures. This is its sole function. Thus, philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world."
+
+---
+
+**2. We understand the world through categories (event, cause, thing, mind, perception, belief, knowledge, language, truth, value-judgment, law, justice, etc.).**
+
+> "We understand the world in terms of certain categories (e.g., person, statement, fact, impossibility, existence)."
+
+---
+
+**3. These categories are seldom objects of thought, even though we cannot think without them.**
+
+> "Whatever we know, we know it through these categories (and others like them—the list is not complete). But even though we cannot think without them, they are seldom the objects of thought."
+
+---
+
+**4. We are adept at using categories but have difficulty making explicit the conditions that govern them.**
+
+> "The result is that, although we're adept at using them, we know little about them."
+
+---
+
+**5. Self-understanding is not the mind's primary function.**
+
+> "In general, it's hard to identify the principles that guide our thoughts. Self-understanding isn't the mind's primary function."
+
+---
+
+**6. The idea of a mind that thinks about nothing other than itself is incoherent.**
+
+> "Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one."
+
+---
+
+**7. Any case of self-awareness is necessarily derivative of, and of lesser quality than, some more fundamental sort of understanding.**
+
+> "Thus, any case of self-awareness, and therefore of self-understanding, is necessarily derivative of, and for that reason of lesser quality than, some other more fundamental sort of understanding."
+
+---
+
+**8. Philosophy is the analysis of the preconditions of all knowledge—the analysis of analysis, the logic of logic, the science of science.**
+
+> "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+
+---
+
+**9. Philosophical knowledge is metaknowledge—knowledge about knowledge.**
+
+> "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+
+---
+
+**10. The philosopher wants to know the laws governing the laws—what it would even make sense to claim to hold.**
+
+> "The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold. He wants to know the laws that the laws can't break."
+
+---
+
+**11. The philosopher is to the physicist what the physicist is to the engineer.**
+
+> "The philosopher is to the physicist what the physicist is to the engineer and, therefore, what the engineer is to the stranded motorist."
+
+---
+
+**12. Pre-Fregean philosophers (with some exceptions) mistakenly thought they were studying the most general features of the actual world.**
+
+> "With some exceptions, pre-Fregean philosophers thought they were studying the most general features of the actual world."
+
+---
+
+**13. Frege showed that philosophers' interest in the actual is subordinate to their interest in the possible.**
+
+> "Frege showed that this is wrong... But with philosophers, it's the other way around. Any interest they have in the actual is subordinate to their interest in the possible."
+
+---
+
+**14. Analytic philosophers figure out what there could be by analyzing statements.**
+
+> "Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements."
+
+---
+
+**15. Statements that make sense describe possible realities; those that don't, don't.**
+
+> "Statements that make sense are those that can be true, and statements that don't are those that can't. Therefore, statements that make sense describe possible realities and those that don't don't."
+
+---
+
+**16. Frege's key insight: logical form ≠ grammatical form.**
+
+> "2.0 Frege's key insight: Logical form ≠ grammatical form"
+
+---
+
+**17. When people have an obviously correct belief that seems to have an absurd consequence, they often accept the absurdity and develop ad hoc hypotheses rather than questioning whether the absurdity really follows.**
+
+> "(FL) When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief. But they frequently don't. Instead they accept the absurdity and, in order to make this mistake of theirs work, they develop ad hoc hypotheses as to the nature of reality that undermine the integrity of their own belief system."
+
+---
+
+**18. Philosophical insight is acquired not by doing parascience or positing entities, but by analyzing meanings and clarifying statements.**
+
+> "What this shows is that, in at least some cases, philosophical insight is acquired, not by doing parascience, but by analyzing meanings—not by positing entities, but by clarifying statements."
+
+---
+
+**19. "Nothing is a square circle" does not attribute a property to a non-entity; it states that the set of squares doesn't overlap with the set of circles.**
+
+> "Since (i) and (ii) are just different ways of saying what SC says, the latter doesn't make the absurd statement that some non-entity is a circle, and it instead makes the innocuous statement that the set of squares doesn't overlap with the set of circles."
+
+---
+
+**20. The concept of "non-entities" or "subsistent entities" (Brentano, Meinong) is absurd—such philosophers were ontologizing when they should have been analyzing.**
+
+> "This entire approach is misguided. Brentano and Meinong were ontologizing when they should have been analyzing."
+
+---
+
+**21. Hallucinations do not require the existence of non-existent objects; they have for their content an existence-claim that nothing satisfies.**
+
+> "When we describe a thought or perception as having a 'non-existent object,' what we mean, so far as what we mean is coherent, is that it has for its content an existence-claim that nothing satisfies."
+
+---
+
+**22. Scientific puzzles involve acquiring new data; philosophical puzzles are purely conceptual and result from confusion, not ignorance.**
+
+> "The puzzles that science deals with typically involve a failure to know all the facts... Unlike scientific puzzles, philosophical puzzles are not solved by generating new raw data. Philosophical puzzles are purely conceptual in nature and have no strictly factual component."
+
+---
+
+**23. Scientific breakthroughs have two components: (i) new raw data and (ii) new conceptual modeling of already-known data.**
+
+> "In general, scientific breakthroughs have two components: (i) a strictly fact-based component (new raw data is acquired), and (ii) a purely conceptual component (already known data is modeled in a new and better way)."
+
+---
+
+**24. Philosophical puzzles are not solved by generating new raw data—they result from failure to draw the right inferences.**
+
+> "Philosophical puzzles result, not from a failure to know the facts, but from a failure to draw the right inferences. They result, not from ignorance, but from confusion."
+
+---
+
+**25. Wittgenstein was wrong to claim that all philosophical puzzles are linguistic in nature.**
+
+> "But this position is incorrect. There are many philosophical puzzles that don't have anything to do with language, and the solutions to these puzzles cannot be modeled on Frege's solutions to the puzzles discussed a moment ago."
+
+---
+
+**26. There are philosophical puzzles that have nothing to do with language.**
+
+> "There are many philosophical puzzles that don't have anything to do with language."
+
+---
+
+**27. Propositions are not sentences; propositions are the things meant by sentences.**
+
+> "Propositions are the things meant by sentences. 'Snow is white,' 'schnee is weiss,' and 'la neige est blanche' all mean the same thing. There is some one proposition that is the meaning of each of them."
+
+---
+
+**28. Propositions exist independently of human beings; they are not human creations, whereas sentences are.**
+
+> "It's widely thought that propositions are human creations. This is false... it follows from this that propositions are not human creations. Sentences, on the other hand, are human creations. They wouldn't be around if it weren't for us."
+
+---
+
+**29. Propositions are properties; truth is instantiatedness.**
+
+> "Propositions must be identified with properties and a proposition's being true must be identified with its being instantiated. Propositions are properties and truth is instantiatedness."
+
+---
+
+**30. The world was a certain way before we were around, so propositions (as ways the world is) exist independently of our beliefs.**
+
+> "The world was a certain way before we were around; it will be a certain way after we're gone; and the way it is while we're around is up to us only to a limited extent. It follows that, independently of our having any beliefs or, indeed, our doing or thinking anything, certain propositions are true."
+
+---
+
+**31. Analytic philosophy (broadly construed) is philosophy done in the careful, clear-headed, systematic way that Frege approached problems.**
+
+> "The word 'analytic philosopher' sometimes refers to the sort of philosophy done by people who aspire to approach philosophical problems in the same careful and clear-headed way as Frege."
+
+---
+
+**32. The claim that one can know something only by being causally affected by it (e.g., Fodor's position regarding knowledge of mathematical truths) is absurd in the extreme.**
+
+> "I personally regard JK as being absurd in the extreme."
+
+---
+
+**33. The fact that 1+1=2 is non-spatiotemporal; nothing outside space-time can bear causal relations to anything.**
+
+> "The fact it describes must therefore be non-spatiotemporal. Nothing outside of space-time can bear any causal relation to anything. Therefore, JK is wrong."
+
+---
+
+**34. The dispute over causal theories of knowledge is not linguistic—it concerns whether an agreed-upon meaning is true.**
+
+> "In any case, the dispute between those who accept JK and those who reject it has nothing to do with language. It's agreed what JK means. What isn't agreed is whether the thing that it's agreed to mean is true."
+
+---
+
+**35. No philosophical assertions are empirical; observation cannot tell you whether one statement is inconsistent with another.**
+
+> "No philosophical assertions are empirical. Philosophy analyzes the categories in terms of which we think about the world... Since observation can't tell one whether one statement is inconsistent with another, philosophical assertions are non-empirical."
+
+---
+
+**36. The question of whether law requires morality (legal positivism vs. anti-positivism) is to be resolved through logical, not empirical, analysis.**
+
+> "What analytic philosophers of law, such as positivist H.L.A. Hart (1907–1992) and anti-positivist Ronald Dworkin (1931–), do agree about is that LM is to be resolved on the basis of logical analysis."
+
+---
+
+**37. Logical positivism (LP) holds that meaningful statements are either tautologies or empirical.**
+
+> "LP says that any meaningful statement is either a tautology or is empirical."
+
+---
+
+**38. LP is self-refuting: it is neither a tautology nor empirically verifiable, so by its own criterion it is meaningless.**
+
+> "Thus, LP is neither an empirical truth nor a tautology. It is thus a counterexample to itself and is therefore false."
+
+---
+
+**39. There are non-empirical truths that have nothing to do with anyone's linguistic practices.**
+
+> "We've seen that, contrary to what LP says, there are non-empirical truths that have nothing to do with anyone's linguistic practices."
+
+---
+
+**40. Strictly observational grounds cannot support theoretical statements like Newton's physics directly—only in conjunction with specific factual claims.**
+
+> "By itself NT doesn't make any predictions or otherwise have observable consequences... Thus, taken by itself, NT isn't confirmable. What is confirmable isn't NT, but NT plus statements describing specific matters of fact."
+
+---
+
+**41. Wittgenstein's acknowledgment that the Tractatus is meaningless by its own standards is self-contradictory; to understand something is to see its meaning.**
+
+> "So far as they aren't trivial, these magisterial words are false. To understand something is to see its meaning. Therefore, anything that is understood has a meaning. So Wittgenstein's words, if understood, have a meaning, and Wittgenstein is therefore contradicting himself in saying that those who understand his words will see that they're meaningless."
+
+---
+
+**42. Empiricism is self-refuting: if true, there are no grounds for believing it; if there are grounds, it is false.**
+
+> "Thus, so far as empiricism is correct, there are no grounds for believing it correct; and so far as there are such grounds, empiricism is false... Therefore, empiricism, if true, is false; therefore it's false."
+
+---
+
+**43. Russell's argument against naïve realism ("if true, is false; therefore false") rests on spurious reasoning—we do observe external objects, not merely effects upon ourselves.**
+
+> "Though eloquently stated, this argument consists of spurious reasoning for a false conclusion. In observing the paper-weight on my desk, I'm not observing some effect of the stone upon myself: I'm observing the stone itself."
+
+---
+
+**44. The greenness, hardness, and coldness of physics are identical with those of daily observation; physics tells us what these properties are.**
+
+> "This is false. Physics has a lot to say about greenness, hardness, and coldness that commonsense does not. But that's very different from saying that the coldness we feel, the greenness we see, etc., aren't the greenness, coldness, and hardness of physics. Physics tells us what it is for something to have the properties we know them to have through sight, touch, etc."
+
+---
+
+**45. The concept of confirmation is incoherent unless non-empirical knowledge is granted (Goodman's grue argument).**
+
+> "But we'll now see that the concept of confirmation is an incoherent one unless it's granted that there is nonempirical knowledge and, therefore, that confirmationalism is incoherent."
+
+---
+
+**46. Induction does not have a strictly observational basis; there must be non-observational grounds for preferring certain properties over others in inductive inference.**
+
+> "Contrary to what that argument tacitly assumes, induction does not have strictly observational basis... This means that, if any inductions are better than any others, we must have legitimate but at least partly nonobservational grounds for believing that, when making inductive inferences, certain properties (e.g., green) are relevant and others (e.g., grue) are not."
+
+---
+
+**47. It is utterances, not sentences per se, that are tautologies—tautologousness depends on how the auditor learned the meanings of expressions.**
+
+> "In this section we'll see that it is utterances of sentences, not sentences per se, that are tautologies."
+
+---
+
+**48. One knows the meanings of expressions descriptively; two different descriptions can pick out the same thing.**
+
+> "This story illustrates some deeply important facts that are in the philosophy of language. First, one knows the meanings of expressions descriptively... Two very different descriptions can pick out some one thing (cf. 'the third U.S. President' and 'the President responsible for the Louisiana Purchase')."
+
+---
+
+**49. All entailment is not formal entailment (contra Wittgenstein's Tractatus).**
+
+> "There are some qualifications to this, as we'll see in a moment, but none that redound to the credit of Wittgenstein's point... There are infinitely many informally valid inferences for each formally valid one. So Wittgenstein's allegation that all entailments are formal entailment is not feasible."
+
+---
+
+**50. "Brown is a circle" entails "Brown is a two-dimensional figure," but this is not a formal entailment—it is a non-tautologous, non-empirical truth.**
+
+> "(12) doesn't say anything about the spatiotemporal world. (12) is logically true; its truth is guaranteed by the structures of the concepts composing it. Unlike (11), (12) isn't a tautology. Therefore, it's a non-tautologous, non-empirical truth. Thus, there are non-formal entailments."
+
+---
+
+**51. The concept of a logically perfect language is incoherent.**
+
+> "In any case, the concept of a logically perfect language is not a coherent one. It isn't possible for everything about a sentence's meaning to be reflected in its grammar."
+
+---
+
+**52. If a logically perfect language existed, it would be expressively inferior to natural languages.**
+
+> "And if per impossibile there did exist a logically perfect language, it would be expressively inferior to English, Arabic, and every other natural language."
+
+---
+
+**53. For each analytic truth a logically perfect language could express, there would be infinitely many it could not express.**
+
+> "A consequence is that, for each analytic truth that a logically perfect language can express, there are infinitely many that it cannot express."
+
+---
+
+**54. Knowing that a formal entailment is valid requires knowing that some informal entailment is valid; there are infinitely many informally valid inferences for each formally valid one.**
+
+> "The only way to know that some formal entailment is valid is to know that some informal entailment is valid... There are, quite literally, infinitely many informally valid inferences for each formally valid one."
+
+---
+
+**55. There cannot be strictly observation-based knowledge that an object's length is given by an irrational number (Hempel's argument).**
+
+> "It follows that, if an object's length is given by an irrational number, that fact cannot be known directly on the basis of measurement. It therefore follows that there is no strictly observation-based way to know that y's length equals x's multiplied by √2."
+
+---
+
+**56. Modern physics depends on assumptions (that magnitudes can assume irrational values) for which there cannot be strictly observational grounds.**
+
+> "Thus, it must be assumed that, at certain junctures, the velocities, lengths, masses, etc., of objects are sometimes given by irrational numbers. But there cannot, as we've seen, be strictly observational grounds for believing that a given object's length is √2 meters."
+
+---
+
+**57. Strict empiricism is inconsistent with the fact that modern physics is a source of knowledge.**
+
+> "This means that strict empiricism is inconsistent with the obvious fact that modern physics is a source of knowledge."
+
+---
+
+**58. Euclid's axioms (1)–(5) are statement-forms, not statements proper, and some interpretations of them are false.**
+
+> "We'll use the expression '(1)-(5)' to refer to the conjunction of (1) and (2) and (3), etc... One would think that (1)-(5) is correct. But this turned out not to be so. It turned out that (1)-(5) is a statement-form, not a statement proper, and that (1)-(5) therefore isn't true or false. It also turned out that some of its instances are false."
+
+---
+
+**59. The parallel postulate is not true or false of anything—it is a statement-form.**
+
+> "According to many, this shows that the parallel postulate isn't true of every possible space. This isn't what it shows. The parallel postulate isn't true or false of anything. It's a statement-form, not a statement, and statement-forms aren't true or false of anything."
+
+---
+
+**60. Arithmetical truth cannot be formalized: any formal characterization of arithmetic is either inconsistent or incomplete.**
+
+> "It turned out that this is not possible. This means that any formal characterization of arithmetic is either inconsistent (i.e., it entails a contradiction), or incomplete (i.e., there is some arithmetical truth that is not a consequence of it)."
+
+---
+
+**61. The possible worlds analysis of counterfactuals (Lewis, Kment, Stalnaker) is completely preposterous.**
+
+> "I find this analysis completely preposterous."
+
+---
+
+**62. We don't know anything about other universes; any knowledge of them would be parasitic on knowledge of counterfactual truths.**
+
+> "We don't know anything about other universes, let alone whether Smith and Kennedy exist in them or, therefore, what their situations there are. Anything we do know about such universes is parasitic on our knowledge of counterfactual truths like K and S."
+
+---
+
+**63. Counterfactuals are grammatical variants of ordinary causal or logical statements.**
+
+> "The right analysis of counterfactuals, I would suggest, is to see them as grammatical variants of garden variety causal or logical statements."
+
+---
+
+**64. "Someone" is not in the same semantic category as "John" or "Ethel"—it does not refer to an individual.**
+
+> "What all this shows is that 'someone' isn't in the same category as 'John' and 'Ethel.' It doesn't function in the same way, even though, given its grammatical function, one would expect it to."
+
+---
+
+**65. "Someone smokes" does not attribute the property of smoking to a non-specific individual; it states that the property of being a smoker is instantiated.**
+
+> "What SS is saying, as Frege made clear, is that the characteristic—or as analytic philosophers put it, the property—of being a smoker is instantiated. SS is making a statement, not about some non-specific individual, but about a very specific property, and it's saying of this property that it's instantiated."
+
+---
+
+**66. There is no such thing as an "ambiguous person" or "non-specific entity"—to posit such things is to twist reality to conform to grammatical assumptions.**
+
+> "The wrong way to react to that fact is to twist reality to make it conform to our assumption that 'someone,' being grammatically comparable to 'John,' must refer to something... But then we're then stuck with the absurd thesis that there is some non-specific entity in the world."
+
+---
+
+**67. The word "someone" is not ambiguous; it has one meaning.**
+
+> "That's false. 'Someone' isn't ambiguous; it isn't like the word 'dumb.' SS has one meaning."
+
+---
+
+**68. Analytic philosophers solve problems by clarifying statements, not by ontologizing (positing entities not previously believed to exist).**
+
+> "As a general rule, analytic philosophers do not try to solve philosophical problems by 'ontologizing'—that is, by positing an entity, or class of entities, not previously believed to exist. They try to solve them by clarifying statements."
+
+---
+
+**69. When analytic philosophers do ontologize, they posit only abstract, non-spatiotemporal entities—never spatiotemporal denizens like persons or tables.**
+
+> "But, whenever this happens, the 'entity' being posted is never a denizen of the spatiotemporal world; the thing that's posited is never a person or a table or a mountain or a monster. It's always an abstract object of some kind."
+
+---
+
+**70. Properties exist; their existence is validated by obviously true statements (e.g., "Bob and Sally are both intelligent").**
+
+> "For example, given the premise that Bob and Sally are both humans who are intelligent, it follows that there exist characteristics—or, to use the word preferred by analytic philosophers, properties—that Bob and Sally have in common, and from this it follows that properties exist."
+
+---
+
+**71. Properties are not identical with spatiotemporal entities; you will never encounter intelligence per se in space-time.**
+
+> "But although you may encounter many instances of intelligence, you'll never encounter intelligence per se and it would make no sense to assign any spatiotemporal location to it."
+
+---
+
+**72. The essence of the mental is intentionality (non-derivative representationality), as Brentano held.**
+
+> "According to Franz Brentano (1838–1917), the essence of the mental is intentionality... So Brentano's thesis is that for something to be mental is for it to be non-derivatively representational."
+
+---
+
+**73. Perception is description—seeing Larry involves seeing that various properties are instantiated.**
+
+> "The solution to this problem lies in the fact that perception is description... Seeing Larry involves seeing a thing having various properties—having a certain color, shape, size, position (relative to you), etc. So seeing Larry involves seeing that various properties are instantiated."
+
+---
+
+**74. Perceptions represent objects by encoding existence-claims that those objects satisfy.**
+
+> "So, yes, your perception does represent Larry. But it represents him by way of encoding an existence-claim that he satisfies."
+
+---
+
+**75. The content of a perception is given by an existence-claim, not by a semantically simple symbol.**
+
+> "But in no sense-perception of Larry is he represented by some simple, homogenous, non-composite cipher. So far as he is perceived, Larry is represented as having these or those properties... Thus, the content of your perception of Larry is given by some existence-claim."
+
+---
+
+**76. Hallucinations are representational not because they pick out non-existent objects, but because they encode false existence-claims.**
+
+> "The important point is that, although it was hallucinatory, your visual experience encoded an existence-claim and, in so doing, gave you a message and was therefore representational. It wasn't representational in the sense that there was some thing that it picked out and, for that reason, represented."
+
+---
+
+**77. Thoughts about non-existent things (e.g., an even prime greater than two) involve thinking false existence-claims.**
+
+> "The same thing is true of thoughts about the non-existent. When you think about some non-existent number—for example, an even prime greater than two—there isn't some mathematically impossible entity that you're cognitively locking onto. What's going on is that you're thinking some false existence-claim."
+
+---
+
+**78. Wittgenstein's view that philosophical problems arise only when sentences are misused is incorrect.**
+
+> "But in both of them, Wittgenstein insists that that philosophical problems arise when, and only when, sentences are misused... But this position is incorrect."
+
+---
+
+**79. Wittgenstein's Tractatus holds that philosophical statements violate hidden syntactic rules; the Investigations holds they result from using words in non-standard ways—both positions are wrong.**
+
+> "In the TLP, Wittgenstein contends that all philosophical problems result from a failure to understand the syntactic rules of the languages we use... In the Philosophical Investigations... he denies that such misuses involve violations of hidden syntactic rules, and instead says that such misuses consist exclusively in one's using words in ways in which they are not ordinarily used."
+
+---
+
+**80. One cannot learn about concepts by studying word usage unless one can already grasp the concept independently of the word.**
+
+> "Given any expression E and any concept C, an obvious extension of this argument shows that one can't learn about C by studying E unless one can grasp C, and can therefore examine it, without E's help. Thus, Wittgenstein is simply wrong to contend that one learns about concepts by learning about how the corresponding words are used."
+
+---
+
+**81. Wittgenstein's thesis that "meaning is use" is incoherent.**
+
+> "This contention is incoherent on many levels."
+
+---
+
+**82. If two expressions could only differ in meaning by being used differently, then any two sentences that have never been used would have the same meaning—which is absurd.**
+
+> "Also, given any natural language, there are infinitely many sentences belonging to it that have never been used. The thesis that sentences have the same meaning iff they're used in the same way has the absurd consequence that any two sentences that haven't been used before have the same meaning."
+
+---
+
+**83. Conceptual role semantics (CRS)—the thesis that two sentences have the same meaning iff used the same way—is indefensible.**
+
+> "In any case, CRS is indefensible."
+
+---
+
+**84. Someone who utters a sentence does so because she knows semantic rules assign a certain proposition to those words and she wishes to express that proposition.**
+
+> "So far as she isn't misspeaking or randomly barking out noises, anyone who says 'it's hot out' or 'hace much calor,' or any other sentence, does so because she knows that existing semantic rules assign a certain proposition to those words and she wishes to put that proposition into words."
+
+---
+
+**85. Carnap's view that for a lecture to concern triangles is for the word "triangle" to occur in the lecture is false.**
+
+> "Carnap's view is false. Many a lecture that doesn't contain the word 'triangle' concerns triangles. (Think of all the mathematics lectures given in Japanese, Swedish, and Arabic. How often does the word 'triangle' occur in them?)"
+
+---
+
+**86. The very essence of logical positivism is the denial of meaning (propositions).**
+
+> "The distinction between the word 'triangle' and the corresponding meaning is one that Carnap couldn't countenance without ceasing to be a logical positivist. The very essence of logical positivism is the denial of meaning."
+
+---
+
+**87. It is not up to us whether meanings (propositions) are correct, even though it is up to us what our symbols mean.**
+
+> "We can use words in any way that we like... But whatever meaning we end up assigning to those words, it's not up to us whether that meaning is correct."
+
+---
+
+**88. Logical truths are never sentences; they are always propositions.**
+
+> "Thus, it is always propositions, and never sentences, that are logically true."
+
+---
+
+**89. Propositions are never conventionally true; linguistic conventions are known empirically, but what those conventions express is not itself empirical.**
+
+> "But no proposition is true by convention. It's up to us what our symbols mean. But it's not up to us whether those meanings are correct."
+
+---
+
+**90. Logical positivists were unanimous in denying the existence of propositions and meanings generally.**
+
+> "It should be pointed out that logical positivists were unanimous in denying the existence of propositions and of meanings generally."
+
+---
+
+**91. Sentences like "the universe is a perfect unity" are not meaningless because they are non-empirical; they are meaningless because key terms are undefined—they are statement-forms, not statements.**
+
+> "'Statements' such as 'the universe is a perfect unity,' 'the nothing nothings,' and so on, aren't really statements at all. They're statement-forms. (i) is obviously supposed to attribute some property to the universe. But since this property isn't identified, (i) contains an undefined term and therefore says nothing."
+
+---
+
+**92. Once undefined terms are defined, previously "meaningless" sentences become meaningful and true or false.**
+
+> "Once that term is defined, a meaningful statement results."
+
+---
+
+**93. A sentence is meaningful if it attributes some property to some object; it is meaningless if it does not attribute any property to anything.**
+
+> "A sentence is meaningful if it attributes some property to some object. A sentence S is meaningful if, for some object x and some property phi, S says that x has phi."
+
+---
+
+**94. Any non-compound sentence either says of some individual that it has some property or says that two or more individuals are interrelated in a certain way.**
+
+> "Any non-compound sentence (i.e., any sentence that doesn't consist of other sentences) either says of some individual that it has some property or it says that two more individuals are interrelated in a certain way."
+
+---
+
+**95. All sentences (relational, compound, negative, quantified) can be reduced to the form ‹x has phi›.**
+
+> "We have thus established that any given sentence S is equivalent to some sentence having the form ‹x has phi.›"
+
+---
+
+**96. The picture theory of meaning—that sentences are "pictures" of the facts they describe—is either trivially true or incoherent.**
+
+> "What does he mean? Maybe he means that sentences are picture-like in that they, like pictures, represent facts. But in that case what Wittgenstein is saying is completely and utterly trivial."
+
+---
+
+**97. If the picture theory means that sentences share structural features with the facts they describe, it is dubiously coherent.**
+
+> "Maybe Wittgenstein is saying that sentences and the facts they describe share structural features. But this claim is of dubious coherence."
+
+---
+
+**98. Wittgenstein's claim that "what can be shown, cannot be said" is obviously false.**
+
+> "Wittgenstein's assertion that 'what can be shown, cannot be said' is obviously false. I tell you that I can do fifty push-ups. (I say 'I can do fifty push-ups.') You don't believe me. So I show you that I can do fifty push-ups."
+
+---
+
+**99. Contrary to Wittgenstein, we can identify the logical forms of our own utterances; we do it whenever we put the meanings of words into words.**
+
+> "In any case, contrary to what Wittgenstein says, we can identify the logical forms of our own utterances. To identify the logical form of a statement is simply to make it clear what it means. We can do this. We do it all the time. We do it whenever we put the meanings of words into words."
+
+---
+
+**100. No language can state all of its own semantic rules—there is a proof of this.**
+
+> "But neither the English language, nor any other, can state all of its own semantic rules. Here's why... We're forced to reject this obvious truth if we grant the supposition that the English language can express each of its own semantic rules. Therefore, the English language cannot state all of its own semantic rules."
+
+---
+
+**101. The claim that truth is indefinable is false if it means we cannot say what it is for a proposition to be true; it is true if it means no language can state all of its own semantic rules.**
+
+> "It is often said that truth is indefinable... (a) is false. (See Chapter 3.) But (b) is true."
+
+---
+
+**102. The sub-disciplines of philosophy (mind, language, epistemology, logic, metaphysics, science, ethics, political philosophy, religion, formal logic) overlap considerably.**
+
+> "It should be kept in mind that these sub-disciplines overlap a great deal."
+
+---
+
+**103. The question "do we think in words?" belongs to both the philosophy of mind and the philosophy of language.**
+
+> "So, for example, the question 'do we think in words?' belongs to the philosophy of mind and to the philosophy of language."
+
+---
+
+**104. Philosophical logic studies bearing-relations among sentences and propositions.**
+
+> "This discipline studies bearing-relations holding among sentences and propositions (sentence-meanings)."
+
+---
+
+**105. Metaphysics studies the nature of possibility, necessity, causal relations, identity, and the conditions something must meet to exist.**
+
+> "This discipline studies the nature of possibility and necessity, of causal relations between objects. It also studies the nature of identity and the conditions that something must meet in order to exist."
+
+---
+
+**106. The philosophy of science studies the logical structure of scientific endeavor and its results.**
+
+> "This discipline studies the logical structure of scientific endeavor and of its results."
+
+---
+
+**107. There may be a fundamental difference between explanations in the physical sciences and explanations in the psychological sciences.**
+
+> "Is there a fundamental difference between explanations in the physical sciences and explanation in the psychological sciences?"
+
+---
+
+**108. Whether a system is deterministic or not may depend on how it is described—determinism may be a logical property of statements, not of events (Nagel's view).**
+
+> "Determinism is a logical property of statements, in Nagel's view, not of the events they describe. A consequence is that a given domain may be deterministic with respect to one method of describing it, but indeterministic with respect to some other method of describing it."
+
+---
+
+**109. Formal logic studies formal truth and attempts to formalize informal analytic truth insofar as possible.**
+
+> "This discipline studies formal truth... Formal logic tries to formalize informal analytic truth, so far as that's possible to do so, and to say when it isn't possible, so far as it isn't."
+
+---
+
+**110. A sentence is formally true if every sentence of the same form is true.**
+
+> "A sentence is formally true if every sentence of the same form is true."
+
+---
+
+**111. Open-sentences (statement-forms) are neither true nor false; only their instances (when variables are replaced with constants) are true or false.**
+
+> "An open sentence is a sentence-like expression that contains a free variable and is thus neither true nor false."
+
+---
+
+**112. Mathematical logicians try to identify open-sentences that are true under all their interpretations, thereby formalizing analytic truth.**
+
+> "Formal logicians aspire to identify open-sentences that are true under all their interpretations, since it is only to the extent that they can do this that they can formalize analytic truth, which is their main objective."
+
+---
+
+**113. Some classes of true statements (e.g., arithmetical statements) that one would expect to be formalizable turn out not to be—arithmetical truth cannot be formalized.**
+
+> "There are some classes of true statements that one would expect to be formalizable but turn out not to be. The class of arithmetical statements ('1 + 2 = 3,' '2 × 9 = 18,' etc.) is an example. In other words, arithmetical truth cannot be formalized."
+
+---

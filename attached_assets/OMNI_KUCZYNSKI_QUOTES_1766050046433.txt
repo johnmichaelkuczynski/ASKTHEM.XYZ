@@ -1,0 +1,1777 @@
+# 20 Quotes from Each of the First 10 Chapters
+
+---
+
+## Chapter 1: Analytic Philosophy as Logical Analysis
+
+1. "Philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world."
+
+2. "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+
+3. "The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold."
+
+4. "Philosophical knowledge is metaknowledge—knowledge about knowledge."
+
+5. "Frege is often described as the first analytic philosopher. Michael Dummett said that 'analytic philosophy is post-Fregean philosophy.'"
+
+6. "Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements."
+
+7. "Philosophical puzzles are solved by making it clear what statements mean. This is the basic tenet of analytic philosophy."
+
+8. "Philosophy explains by clarifying statements. Science explains by positing entities."
+
+9. "Philosophy isn't para-science. Philosophy is conceptual analysis. To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+10. "Analytic philosophers are, almost by definition, ontologically very conservative. In other words, they don't want to grant existence to anything whose existence hasn't been demonstrated beyond a shadow of a doubt."
+
+11. "SS's logical form diverges from its grammatical form. In terms of what its grammar suggests that it is saying, SS is indistinguishable from sentences that attribute the property of smoking to specific objects."
+
+12. "For a property to be instantiated is for there to be an instance of it. An instance of a property is something that has it."
+
+13. "According to verificationism a non-tautologous statement is meaningful iff it's capable of being verified strictly on the basis of sensory observation. Verificationism is false."
+
+14. "Falsificationism is false. Though obviously meaningful, the statement 'there exists a gold ball that weighs exactly 27.13654 lbs' cannot be conclusively falsified."
+
+15. "LP is neither an empirical truth nor a tautology. It is thus a counterexample to itself and is therefore false."
+
+16. "It cannot be known through observation that empiricism is correct. Any attempt to provide an observational basis for any statement presupposes the meaningfulness of that statement."
+
+17. "Self-understanding isn't the mind's primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one."
+
+18. "We're excellent at distinguishing between moral and immoral behavior. We know that rape is immoral and that donating money to charity (for selfless reasons) is moral."
+
+19. "Observation cannot tell you whether one statement is consistent with some other statement."
+
+20. "No philosophical assertions are empirical. Philosophy analyzes the categories in terms of which we think about the world."
+
+---
+
+## Chapter 2: Properties and Non-Spatiotemporal Existence
+
+1. "Not everything that exists is in space-time. Everything that is in space-time is an instance of at least one property, and properties are not themselves in space-time."
+
+2. "No matter how thoroughly one searches the universe, one will never encounter the property of liking to play tennis. One will, at most, encounter its instances."
+
+3. "Properties themselves have properties. The property of being a square circle has the property of being uninstantiated."
+
+4. "Everything that exists is either a property or is in space-time."
+
+5. "The doctrine that spatiotemporal things are instances of non-spatiotemporal things is known as 'Platonism.' This is because Plato was the first person to advocate that doctrine."
+
+6. "The doctrine that properties don't exist, or do exist but only because they are identical with spatiotemporal entities, is sometimes referred to as 'nominalism.'"
+
+7. "Consider the property of having a perfectly triangular shape. Nothing has this property. Are we to say that it doesn't exist? Were we to do so, we'd be saying that, since there are no instances of the property of triangularity, that property doesn't exist. Which is absurd."
+
+8. "The property of being a perfect husband is obviously distinct from the property of being a perfect soldier, even though neither property is instantiated."
+
+9. "Squareness is a form of rectangularity. On the face of it, this seems to make a statement about the property of squareness."
+
+10. "A thing is a rectangle in virtue of its being a square, but a thing isn't green in virtue of its being a square even if it happens to be a square."
+
+11. "All principled connections are relationships between properties."
+
+12. "Unless it's conceded that properties exist, there is no way to account for the fact that there are principled relationships of any kind."
+
+13. "Those who deny the existence of properties tend to be empiricists. Since empiricists cannot grant the existence of things, such as properties, that cannot be seen or otherwise known directly on the basis of observation, they end up denying that anything has any bearing on anything."
+
+14. "Properties do indeed lack causal powers. Causes are necessarily in space and time. To be a cause is to induce change."
+
+15. "Not all explanation is causal explanation. Some explanation is what we call analytic or conceptual."
+
+16. "There were rocks before there were people. And, back then, rocks were similar to one another in ways that they weren't similar to bats and stars and other non-rocks."
+
+17. "For two things to be similar to one another in a certain respect is for there to be some property that they both have."
+
+18. "David Armstrong says that properties are 'ways that things can be.' To be round is to be one way; to be square is another."
+
+19. "Properties can be thought of as conditions. The property of being a pink elephant is a condition a thing must fulfill in order to be a pink elephant."
+
+20. "Sets are not spatiotemporal, and sets do not initially appear to be identical with properties. But they too turn out to be properties."
+
+---
+
+## Chapter 3: What Are Propositions and What Is Truth?
+
+1. "By a 'proposition,' I mean what is meant by an utterance of a sentence."
+
+2. "Propositions are sets of properties; and a proposition is true just in case the properties that are members of it are instantiated."
+
+3. "Truth is identical with the property of being a set (of a certain kind) all of whose members are instantiated."
+
+4. "The property of being identical with Tommy is instantiated, and so is the property of smoking."
+
+5. "For any proposition X, to say that X is the result of Y's 'saturating' Z is to say that X is a set whose members are the property of being identical with X, and Z itself."
+
+6. "States of affairs (or 'facts,' as they are sometimes called) do not have the same kinds of 'articulations' as propositions."
+
+7. "The quantum-ripples on which the truth of a proposition supervenes don't have anything like the structure of that proposition."
+
+8. "Whereas the proposition Tommy is smoking clearly has a unique, and relatively simple decomposition into Tommy, the property of smoking, etc., the state of affairs in which Tommy's smoking consists obviously doesn't uniquely decompose."
+
+9. "The truthmaker of a proposition is the entity or entities whose existence and nature accounts for the fact that the proposition is true."
+
+10. "A true proposition can also be seen as the property of being a world of a certain kind—namely, of being a world at which Tommy is smoking."
+
+11. "What it is for a proposition to be false is for the properties that are members of it to fail to be jointly instantiated."
+
+12. "The instantiatedness of the members of a set S is what it is for S to be true."
+
+13. "The thing that corresponds to a proposition is the state of affairs that, if actual, makes that proposition true."
+
+14. "A given thing's being a certain way is identical with that thing's having a certain property."
+
+15. "Propositions must be identified with properties and a proposition's being true must be identified with its being instantiated."
+
+16. "The world's being a certain way is identical with its having a certain property."
+
+17. "The world was a certain way before we were around; it will be a certain way after we're gone."
+
+18. "Certain propositions are true; and it follows from this that propositions are not human creations."
+
+19. "Sentences, on the other hand, are human creations. They wouldn't be around if it weren't for us."
+
+20. "Propositional analysis is the analysis of propositions that involves analyses of sentences and, therefore, is not itself an analysis of sentences."
+
+---
+
+## Chapter 4: What Is a Language?
+
+1. "The meaning of a true or false sentence is a proposition. Propositions are not themselves sentences."
+
+2. "Different sentences (e.g., 'schnee ist weiss' and 'snow is white') can express the same proposition."
+
+3. "Propositions, when true, are truths. Thus, propositions have existed as long as there have been truths."
+
+4. "Sentences are structurally like the propositions they express."
+
+5. "Sentences and propositions are digital structures, meaning that they have unique breakdowns into minimal significant units."
+
+6. "A visual perception of Sally punching Bob doesn't have a structure comparable to that of 'Sally punched Bob' or any other sentence."
+
+7. "The discipline of semantics attempts to make it clear what our utterances literally mean. It has no interest in what is conveyed through suggestion or innuendo."
+
+8. "Pragmatics studies the use of language. Sometimes language is used literally."
+
+9. "What a sentence literally means is only one of many factors governing what it is used to mean."
+
+10. "The discipline of syntax studies the structures of the meanings of complex expressions."
+
+11. "A complex expression is one that consists of other expressions."
+
+12. "Psychological meaning presupposes linguistic meaning."
+
+13. "What a person means when uttering a given sentence is a function of, among other things, his beliefs as to what that sentence already means."
+
+14. "The sense in which 'snow is white' means that snow is white isn't comparable to the sense in which smoke means fire."
+
+15. "The fact that smoke means fire has nothing to do with conventions on the part of human beings. But the fact that 'snow is white' means what it does is, at least in part, a matter of convention."
+
+16. "There is thus a normative dimension to language use that is absent where purely natural, non-conventional cause-effect relations are concerned."
+
+17. "Two otherwise dissimilar sentences can share the word 'John.' The meanings of those sentences obviously have something in common."
+
+18. "Given that propositions consist of discrete, isolable entities, it follows that, like sentences and unlike visual perceptions and photographs, propositions are digital structures."
+
+19. "The study of language is typically divided into three sub-disciplines—semantics, syntax, and pragmatics."
+
+20. "The relationship that 'Sally hates Bob' bears to 'hates' is identical with the relationship that 'Larry loves Julie' bears to 'loves.'"
+
+---
+
+## Chapter 5: Do We Think in Words?
+
+1. "It is obvious that knowledge of a language makes one more intelligent in at least some respects."
+
+2. "Whatever one can grasp through language, one must be able to grasp independently of language."
+
+3. "We sometimes have thoughts of considerable sophistication that we don't know how to put into words."
+
+4. "Do we think in language? No."
+
+5. "We can obviously have thoughts that we are incapable of putting into words. This shows that we grasp those thoughts in some way other than by grasping the English sentences that express them."
+
+6. "Thinking is often a prerequisite to using language, which in turn shows that at least some thinking is non-linguistic."
+
+7. "A person's knowledge of the differences between x and y may be expressed in that person's drawings of x and y."
+
+8. "Some kinds of information (e.g., visual information) seem inherently incapable of being fully expressed by sentences of English or of any other natural language."
+
+9. "Sentences have very different structures from pictures, even when the sentences and the pictures overlap in content."
+
+10. "Sentences are digital structures, meaning that they consist of discrete entities. Sense-perceptions are analogue structures, meaning that they don't."
+
+11. "You don't have to interpret a visual perception, at least not in the same way. Perceptions are 'self-interpreting' in a way that sentences are not."
+
+12. "In order to learn a language, one must already be able to think."
+
+13. "To learn English is to learn that certain sounds have certain meanings; and in order to be able to do this, you already have to be able to synthesize information."
+
+14. "Different sentences can have the same meaning, and a single sentence can have multiple meanings."
+
+15. "What you think when you think that Bob loves Mary is identical with what you think when you think that Mary is loved by Bob."
+
+16. "If you thought in language, you couldn't disambiguate ambiguous sentences."
+
+17. "A 'natural language' is one that organically arises through human interactions."
+
+18. "We think in an innately known code, a 'language of thought.'"
+
+19. "Knowledge of a language presupposes the ability to think."
+
+20. "If your thinking Bob is dumb were identical with there being an occurrence in your mind of the sentence 'Bob is dumb,' then your thinking Bob is dumb (i.e., he can't speak) would be identical with there being an occurrence in your mind of that same sentence."
+
+---
+
+## Chapter 6: Proper Names, Definite Descriptions, and the Theory of Descriptions
+
+1. "The inventor of bifocals is identical with the first postmaster general. This is a non-trivial truth."
+
+2. "CB tells you that two properties that could have been had by different individuals (being a unique inventor of bifocals and being a unique first postmaster general) are in fact had by the same individual."
+
+3. "'The inventor of bifocals' is a referring term; it picks something out."
+
+4. "That expression refers to a given thing if and only if that thing has the property of being a unique bifocal-inventor."
+
+5. "There are two dimensions to the semantics of 'the inventors of bifocals.' There is what it refers to: this is the referent. And there's the property that a thing must have to be its referent; this property is the sense."
+
+6. "The reason that TB is non-trivial is that, although the definite descriptions in it have the same referent, they have different senses."
+
+7. "When a given thing x is picked out by way of descriptive information, what's really going on is that some statement of the form 'something has such and such properties' is being affirmed."
+
+8. "Frege's analysis collapses into Russell's."
+
+9. "According to TD, 'the inventor of bifocals is tall' means: something uniquely invented bifocals, and any such thing is tall."
+
+10. "Unlike Russell, Frege took it for granted that definite descriptions are just what, given their grammar, they appear to be: referring terms."
+
+11. "The essence of TD is that definite descriptions are not referring terms."
+
+12. "Definite descriptions are quantifier phrases, not referring terms."
+
+13. "The Theory of Descriptions is the right account of how definite descriptions work."
+
+14. "Frege's distinction between 'sense' and 'reference' is an incoherent way of describing the distinction between semantics and pre-semantics."
+
+15. "Your seeing Ralph involves your seeing a thing having various properties—having a certain color, shape, size, position."
+
+16. "The content of your perception of Larry is given by some existence-claim."
+
+17. "Perception is description."
+
+18. "An existence-claim is any claim to the effect that some property is instantiated."
+
+19. "Your perception does represent Larry. But it represents him by way of encoding an existence-claim that he satisfies."
+
+20. "Mental entities have propositions for their contents. When correct, those propositions describe existing things. When false, they don't."
+
+---
+
+## Chapter 7: Some Remarks on Logicism and on Frege's Formalization of Logic
+
+1. "Pre-Fregean formal logic wasn't so much a discipline as it was a collection of rules of thumb."
+
+2. "Frege released logic from the holding pattern it had been in for the previous two thousand years."
+
+3. "Unlike his predecessors, Frege saw that a sentence's logical form may diverge from its grammatical form."
+
+4. "It was because of these insights of his that Frege, unlike all of his many predecessors, successfully formalized inferences involving quantified generalizations."
+
+5. "To formalize an inference is to show that the corresponding conditional is equivalent to a sentence that is an instance of an open-sentence all of whose instances are true."
+
+6. "Frege's predecessors had some success formalizing inferences containing no quantifiers. But they had little success with inferences containing sentences involving so much as a single quantifier."
+
+7. "A quantified inference is an inference that involves so much as a single sentence containing a single quantifier."
+
+8. "Frege sees 'someone snores' as comprising the function ‹x snores› along with another function."
+
+9. "'Someone snores' is true just in case the property of snoring is instantiated."
+
+10. "'Everything' expresses a function G that assigns truth or falsehood to a function F depending on whether there is something to which F assigns falsehood."
+
+11. "'Everything is self-identical' says that the property of being self-identical is universally instantiated."
+
+12. "Frege chose to break up sentences containing the words 'or' and 'and.'"
+
+13. "By reparsing sentences along these lines, Frege was able to formalize an extensive class of quantified generalizations."
+
+14. "Numbers are higher-order properties."
+
+15. "'There are zero penguins in the house' means: the property of being a penguin in the house has the property of being uninstantiated."
+
+16. "The number two may be defined as what all pairs of objects have in common."
+
+17. "Relations may be identified with properties of ordered pairs."
+
+18. "There is some property P such that x is taller than y exactly if the ordered pair <x, y> has P."
+
+19. "Statements about numbers are statements about higher-order properties."
+
+20. "Frege's predecessors weren't able to systematize the few results they were able to obtain, the reason being that they didn't see the principles underlying those results."
+
+---
+
+## Chapter 8: The Relationship between Thought and Language: Literal Meaning vs. Cognitive Content
+
+1. "We obviously think about rocks, trees, people, and other things. But things are the objects of thought only in a derivative sense."
+
+2. "The real object of thought is always some truth or falsehood concerning a thing."
+
+3. "What your eyes tell you isn't: 'that's R over there.' What they tell you is: 'there is a rock having such and such characteristics over there.'"
+
+4. "Given any message given to you through vision or any other sensory modality, and given any object in the external world, that message is consistent with that object's not existing."
+
+5. "Our sense-perceptions obviously represent objects to us and can thus be said to describe them."
+
+6. "You don't just see various property-instances. You see an organized structure consisting of them."
+
+7. "Your seeing Pat involves your seeing various instances of various properties and relations."
+
+8. "There is nothing to seeing an object other than seeing the property-instances associated with it."
+
+9. "Perception is purely descriptive. For you to perceive an object is for you to be apprised (in a certain way) of an existence-claim that it uniquely satisfies."
+
+10. "Conception, like perception, is and must be fundamentally descriptive."
+
+11. "To think of an object is to think some existence-claim that it uniquely satisfies."
+
+12. "Cognitive content doesn't always coincide with literal meaning."
+
+13. "What people think isn't always in complete lock-step with what is literally meant by the expressions that they use."
+
+14. "Names 'denote' (pick out) but do not 'connote' (describe). They are mere labels."
+
+15. "Non-connotative referring terms are said to refer directly; connotative referring terms are said to refer indirectly."
+
+16. "Mill's argument decisively shows that proper names are mere labels. They are not 'connotative;' they don't have Fregean 'senses.'"
+
+17. "What sentences convey isn't always confined to what they literally mean. It's seldom confined to it."
+
+18. "There is some individual x such that, in terms of its literal meaning, all LS does is to attribute the property of being an economics professor to x."
+
+19. "Given the circumstances under which you learned who 'Fred' refers to, it's inevitable that LS would convey some such message to you."
+
+20. "One's knowing what 'London' refers to consists in there being a property phi such that one knows that phi is uniquely instantiated and that 'London' refers to any instance of it."
+
+---
+
+## Chapter 9: Putnam's Insight and Burge's Blunder: Semantic Externalism vs. Content-Externalism
+
+1. "In Naming and Necessity, Kripke decisively showed that proper names are not definite descriptions."
+
+2. "What Putnam showed is that what we think does not, by itself, establish what our words and sentences mean."
+
+3. "What we think largely determines what it is that our expressions mean."
+
+4. "There is an important non-psychological dimension to linguistic meaning."
+
+5. "Even though the psychological state that gave rise to the one utterance is just like the psychological state that gave rise to the other, the meaning of the one may diverge from that of the other."
+
+6. "Let Twin-Earth be a planet in some distant galaxy. Given any person x on Earth, there is a person y on Twin-Earth who is an atom-for-atom duplicate of x."
+
+7. "On Twin-Earth, the liquid in bathtubs, drinking glasses, lakes, etc., isn't H2O—it's XYZ."
+
+8. "'Water' refers to the substance whose chemical composition is H2O. That's a simple fact."
+
+9. "A thoroughly competent speaker of English can easily fail to know that 'water' refers to that substance."
+
+10. "When, finally, that substance was analyzed, it turned out to consist of H2O molecules."
+
+11. "If we were to discover some substance that consisted of XYZ, not H2O, but was otherwise just like water, that other substance wouldn't be H2O."
+
+12. "The chemists who discovered XYZ would not come to the conclusion that water is sometimes H2O and is sometimes XYZ."
+
+13. "Even the most philistine, intellectually narrow human being desperately wants real diamonds, not zirconium imitation diamonds."
+
+14. "Everybody knows that being water-like isn't the same thing as being real water."
+
+15. "On Twin-Earth 'water' would refer to XYZ, not H2O. And it would always have referred to XYZ—even before scientists on their planet discovered its chemical composition."
+
+16. "SE and TS don't have the same meaning. They have different propositions for their respective meanings."
+
+17. "The one proposition is true in circumstances where the other is false, and false in circumstances where the other is true."
+
+18. "Smith and Twin-Smith coincide in respect of what they mean by their respective utterances, but SE and TS don't coincide in respect of what they mean."
+
+19. "Linguistic meaning has an important non-psychological dimension."
+
+20. "Given only that, at any given moment, person X is psychologically and behaviorally indistinguishable from person Y, it does not follow that the words leaving X's mouth have the same meanings as the words leaving Y's mouth."
+
+---
+
+## Chapter 10: Knowledge
+
+1. "A lucky guess is not knowledge."
+
+2. "You have must have some good reason for your choice. Your opinion as to what the right answer is must be justified for it to qualify as knowledge."
+
+3. "Spurious reasons that happen to lead to the right answer are not enough for knowledge."
+
+4. "False premises can lead to true conclusions; misinformation can lead to correct beliefs."
+
+5. "For something to be knowledge it must be true, it must be a belief, and it must be justified."
+
+6. "All cases of knowledge are cases of justified true belief."
+
+7. "The term 'perceptual' means having to do with sense-perception—that is, with sight, hearing, sound, taste, smell, bodily sensations."
+
+8. "The term 'introspective' refers to the direct awareness that one often has of one's own mental contents."
+
+9. "There are ultimately only three sources of justification: perceptual evidence, introspective evidence, and rational inference."
+
+10. "Not all beliefs that are based on testimony qualify as knowledge."
+
+11. "To qualify as knowledge, testimony-based belief must come from a reliable source and the person being given the testimony must have independent evidence of the reliability of that source."
+
+12. "Not all cases of justified true belief are cases of knowledge."
+
+13. "One has knowledge only when one has a belief that is true and justified and, moreover, one's being justified in holding that belief is non-accidentally related to that belief's being true."
+
+14. "Knowledge is a non-accidentally justified true belief."
+
+15. "There must be some kind of principled, as opposed to a strictly fortuitous, relationship between the justification of the belief and its being true."
+
+16. "One feature of consciousness is that, if something has consciousness, then there is 'something it is like' to be that thing."
+
+17. "There is nothing it is like to be pinecone, since pinecones are not conscious."
+
+18. "Although there is something it is like to have a pain or a tickle, or to experience a sense-perception, there isn't anything it is like to believe that 1 + 1 = 2."
+
+19. "We are, at any given time, unaware of many of the events that constitute our very own mental lives."
+
+20. "Awareness of objects is identical with knowledge of truths to the effect that certain descriptions are in fact satisfied."
+
+# 20 Quotes from Each of Chapters 21-27
+
+**Note:** The book contains 27 chapters total. This document covers the final seven chapters.
+
+---
+
+## Chapter 21: Moral Conventionalism and Moral Nihilism
+
+1. "Just as the laws created by a nation's legislature are for its legislature to create and modify, moral laws are for us to create and modify."
+
+2. "There were no moral laws before there were human beings. It doesn't follow that human beings created them."
+
+3. "We come into this world with biological and psychological structures that, although capable of being changed within certain narrow limits, are otherwise quite fixed."
+
+4. "Moral truths supervene on psychological and biological truths."
+
+5. "Two situations that are identical in respect of their non-moral characteristics cannot possibly differ in respect of their moral characteristics."
+
+6. "Once the physical, physiological, and psychological facts are fixed, so are the moral facts."
+
+7. "Given only that there are different views as to what is moral, it doesn't follow that all of them are right."
+
+8. "The Nazis had a moral code. It was a bad one; the ethical precepts it embodied were false."
+
+9. "A non-restrictive, non-punitive moral code is one that gives people no protection against their brethren."
+
+10. "We have both moral and also strategic obligations to tolerate different moral views."
+
+11. "People can't flourish without having a certain amount of freedom."
+
+12. "Moral principles can be seen as being to the effect that if there were creatures having PBS, then it would follow that treating those creatures in certain ways would be wrong."
+
+13. "Enslaving human beings was wrong even before there were people."
+
+14. "A moral law can exist without being known. Since we'd always know the laws of morality if we created them, it follows that we don't create them."
+
+15. "Conventions cannot fail to be implemented. It cannot be a convention that people wear green hats on Sunday unless people actually do so."
+
+16. "It follows that moral laws aren't conventions."
+
+17. "When two cultures disagree, neither is right and neither is wrong. If there were moral facts, somebody would be right and somebody would be wrong."
+
+18. "People knowingly do all sorts of immoral things. Given only that such and such is done in a given culture, it doesn't follow that people in that culture think that it's right."
+
+19. "No society could exist if it permitted unrestricted theft, arson, etc."
+
+20. "Morality is to be understood in terms of these needs of ours: it is fixed by them."
+
+---
+
+## Chapter 22: The Nature of Subjecthood and the Connection between Self-Interest and Morality
+
+1. "There are often pragmatic incentives to act morally."
+
+2. "Setting aside pragmatic considerations, is it in one's interest to act morally? The answer is a very qualified 'yes.'"
+
+3. "The very purpose of the laws we create is to incentivize moral conduct and to dis-incentivize immoral conduct."
+
+4. "It's also frequently to one's advantage to act immorally towards others."
+
+5. "Those in power want you to serve their interests, and their interests are seldom those of morality."
+
+6. "No viable legal system could possibly dis-incentivize all immoral behavior."
+
+7. "More often than not, a certain amount of aggression and narcissism underlies great accomplishment."
+
+8. "In a world of completely moral people, there would be no innovators, no creators—only milquetoast do-gooders and innocuous squares."
+
+9. "Nothing is more evil than preventing people from flourishing."
+
+10. "A legal system that made it completely impossible to act at all immorally would itself be supremely immoral."
+
+11. "So far as one's reason for behaving ethically is that it is to one's advantage to do so, one's behavior has no moral worth."
+
+12. "Unless the agent's intention is to act morally, his behavior is not moral, even if it is indistinguishable from moral conduct."
+
+13. "The 'moral' person, almost by definition, grossly undervalues his own needs and aspirations."
+
+14. "Too much morality hobbles people. It turns them into weaklings and conformists."
+
+15. "The essence of morality—or of hyper-morality, in any case—is a certain self-hate."
+
+16. "Being happy consists, at least in part, in judging that one's life conforms to some ideal."
+
+17. "Happiness isn't so much a feeling as it is a conviction that how one is coincides with how one should be."
+
+18. "The concept of happiness must be understood at least partly in valuative terms. It is a moral concept."
+
+19. "The psychopath isn't someone who has no conscience. He's someone who has one that functions only intermittently."
+
+20. "Because of their lack of conscience, psychopaths grossly under-perform."
+
+---
+
+## Chapter 23: Kant's Ethics and His Attempt to Identify Morality with Self-Interest
+
+1. "Like the present author, Kant held that it is categorically in one's interest to act ethically."
+
+2. "A categorical imperative is a rule that one should follow no matter what."
+
+3. "According to Kant, an act is moral just in case, were everyone else to act similarly, that act would not be self-defeating."
+
+4. "An act is moral to the extent that it embodies a respect for people's autonomy."
+
+5. "Autonomy is self-determination, and for a person to be autonomous is for him, not someone else, to decide how he'll live."
+
+6. "The opposite of autonomy is 'heteronomy.'"
+
+7. "Kant believes CI1 and CI2 are equivalent. He's wrong."
+
+8. "It would be pointless to lie in a world where everybody lied, since nobody would believe anybody."
+
+9. "People could use people in a world where everybody was a user. The smart con-men could con the not so smart con-men."
+
+10. "Nobody could successfully practice medicine in a world of physicians. Who would grow crops, build roads, enforce the law?"
+
+11. "An act is wrong if it's a case of treating a person as an object, not a subject."
+
+12. "It's obviously wrong to undermine another person's autonomy."
+
+13. "Stealing from Smith is the lesser of two evils."
+
+14. "In some cases the 'right' thing to do is merely the least wrong thing to do."
+
+15. "A moral principle outweighed is not a moral principle extinguished."
+
+16. "There are many categorical moral obligations. Lying, cheating, stealing, manipulating, wounding—these are all bad things."
+
+17. "Torture is wrong. But it's more wrong to allow a nuclear device to be detonated in the middle of a city."
+
+18. "The obligation not to steal does hold categorically. In contexts where it appears not to hold, it is merely outweighed by some other, stronger obligation."
+
+19. "Even if God is omnipotent, He/She cannot make rape be morally okay."
+
+20. "To be a rational agent is to be a self-governing agent."
+
+---
+
+## Chapter 24: Hedonism, Egoism, Utilitarianism, and Deontology
+
+1. "There are two different doctrines that go by the name of 'hedonism.' One is an ethical doctrine about what we should do. The other is a psychological doctrine about what we in fact do."
+
+2. "According to ethical hedonism, people have an obligation to pursue their own pleasure and they have no other obligations."
+
+3. "According to psychological hedonism, human beings always seek pleasure."
+
+4. "It would be incoherent to advocate ethical hedonism unless psychological hedonism were false."
+
+5. "There is a difference between doing something with the intention of bringing about X, and doing something knowing that X will come about as a result."
+
+6. "People don't play soccer in order to bring themselves joy. They do it because they value it, and because they value it, doing it brings them pleasure."
+
+7. "The pleasure they experience in what they're doing is a reflection of their belief that what they're doing has value."
+
+8. "Nobody thinks ill of Beethoven for spending so much time working on his music."
+
+9. "We admire Beethoven (he was 'dedicated to his craft'), whereas we revile Jones (he's 'empty and dissolute')."
+
+10. "Ethical hedonism would say that Beethoven's moral obligation was to have a good time."
+
+11. "Looked at superficially, ethical hedonism seems like a liberating, care-free doctrine. Looked at less superficially, it's a dehumanizing and cruel doctrine."
+
+12. "According to ethical egoism, one ought never to act in a manner that isn't self-interested."
+
+13. "According to psychological egoism, one can't act in a manner that isn't self-interested."
+
+14. "Although we're obviously egocentric, our egocentrism isn't as morally empty as we're inclined to think."
+
+15. "Mother Teresa helped people not because it was in her interest, but because she saw value in it."
+
+16. "Utilitarianism says that an act is moral just in case its consequences are at least as good as those of any available alternative."
+
+17. "There are two kinds of utilitarianism: act-utilitarianism and rule-utilitarianism."
+
+18. "Deontologists say that, whether or not an act is right is determined by considerations other than its consequences."
+
+19. "Acts can be intrinsically right or wrong, regardless of their consequences."
+
+20. "An act's being right consists in its conformity with the right principles, not in the desirability of its consequences."
+
+---
+
+## Chapter 25: Religion
+
+1. "The so-called philosophy of religion doesn't concern religion. It concerns puzzles that can be illustrated in connection with religious questions but are really of a strictly logical nature."
+
+2. "Many hold that God is omnipotent—that She can do anything."
+
+3. "OG doesn't have anything to do with God. It has to do with subtleties of logic."
+
+4. "Every event has a predecessor. Therefore, there is some event that is the predecessor of every event."
+
+5. "Given only that any given event has a predecessor, it doesn't follow that some one event precedes every other."
+
+6. "There can't be comparatives unless there are absolutes."
+
+7. "Contrary to what Aquinas believes, there don't have to be absolutes for there to be comparatives."
+
+8. "Religion is not science or logic, and to the extent that one's beliefs are based on rational consideration of the relevant evidence, one is a person of science, not of religion."
+
+9. "Religion involves complete commitment without complete evidence."
+
+10. "To the extent that one's beliefs about God are open to rational revision, those beliefs are not religious, but are instead those of a scientist."
+
+11. "The religious person doesn't ask 'is there a God?' Rather, he asks: 'what does God want me to do?'"
+
+12. "You are a person of faith in that connection if your commitment to it has no sensitivity to evidence."
+
+13. "If your acceptance of some proposition P is to be religious, your acceptance of P must be entirely insensitive to evidence."
+
+14. "The problem of evil is that, given all of the evil in the world, it is hard to see how there could be an all-powerful, all-good God."
+
+15. "A theodicy is an attempt to show that the existence of evil is consistent with the existence of an all-knowing, all-powerful, and all-good God."
+
+16. "The free-will theodicy says that God gave us free will, and that the existence of evil is an inevitable by-product of this gift."
+
+17. "According to Divine Command Theory, something is good if and only if God approves of it."
+
+18. "If God approves of charity because it is good, then its being good is independent of God's approval."
+
+19. "Even if God is omnipotent, God could not make rape be morally okay."
+
+20. "God's inability to make rape be right isn't an abridgment of His/Her powers."
+
+---
+
+## Chapter 26: Are We Free to Choose Our Own Values? Existentialism Examined
+
+1. "The traditional view is that, when a person comes into the world, there are various standards to which he must conform."
+
+2. "Existentialism says: 'To hell with all these preexisting values!'"
+
+3. "Existentialism is an injunction that we choose our own values and, more generally, chart our own course."
+
+4. "At its core, existentialism is less of a doctrine than it is an attitude."
+
+5. "A doctrine is a system of interconnected propositions."
+
+6. "The viability of a doctrine has nothing to do with how anyone feels about anything. Doctrines are right or wrong."
+
+7. "Attitudes cannot be understood in these terms. If you tell me that you like being at the beach, I cannot say: 'you're wrong.'"
+
+8. "If you see values as yours to accept or reject, you are less likely to be duped by moralistic propaganda."
+
+9. "A number of values seem to involve a diminishment of self."
+
+10. "The values that are endorsed by society are those that are good for society, and therefore aren't necessarily those that are good for the individual."
+
+11. "A precondition for civilization is the abridgment of human freedoms and, consequently, of gratifications."
+
+12. "The values that people impose on one another often express their desire to prevent others from superseding them."
+
+13. "Attitudes—though not true or false themselves—are rooted in beliefs, and those beliefs are true or false."
+
+14. "There is no set of values that, morally speaking, one must accept."
+
+15. "Sartre says that 'existence precedes essence.'"
+
+16. "Existentialists say that we are 'condemned to be free.'"
+
+17. "It would be hard to think of a single case where a fruitful rebellion against conventional values did not involve an acceptance of a deeper set of values."
+
+18. "While there are cases where one oughtn't accept the values that others want one to accept, it doesn't follow that there are no values that one ought to accept."
+
+19. "Our emotional attitudes are grounded in beliefs about the world, and those beliefs are true or false."
+
+20. "If you choose your values, instead of simply accepting the values of others, you are more likely to live according to values that work for you psychologically."
+
+---
+
+## Chapter 27: Appendix – Logic and Argumentation
+
+1. "A deductively valid argument is one where, if the premises are true, then the conclusion must be true."
+
+2. "An inductively valid argument is one where, if the premises are true, then the conclusion is likely to be true."
+
+3. "The conclusion of a deductively valid argument is said to 'follow from' those premises."
+
+4. "P entails Q iff Q cannot possibly be false if P is true."
+
+5. "If P entails Q, then P is a sufficient condition for Q, and Q is a necessary condition for P."
+
+6. "A sufficient condition for x is any condition y that, if satisfied, guarantees that x is satisfied."
+
+7. "A necessary condition for x is any condition y that must be satisfied for x to be satisfied."
+
+8. "The contrapositive of 'if P then Q' is 'if not-Q, then not-P.'"
+
+9. "A statement is equivalent with its contrapositive."
+
+10. "An argument is sound if it's valid and its premises are true."
+
+11. "An argument is valid but unsound if it's valid but at least one of its premises is false."
+
+12. "The converse of (P→Q) is (Q→P)."
+
+13. "Statements are not generally equivalent with their converses."
+
+14. "The inverse of (P→Q) is (not-P→not-Q)."
+
+15. "Contraposition is truth-preserving. Conversion and inversion are not."
+
+16. "Modal means 'having to do with necessity or possibility.'"
+
+17. "Possibility and necessity are properties of statements, not objects."
+
+18. "'Necessary' can be defined as 'not possibly not,' and 'possibly' can be defined as 'not necessarily not.'"
+
+19. "Causal necessity isn't logical necessity."
+
+20. "Material implication isn't a form of implication at all."
+
+# Quotes from the Appendices
+
+---
+
+## Appendix 1: The Rudiments of Logic (30 Quotes)
+
+1. "To make an inference is to form a new belief on the basis of an old one."
+
+2. "Inferential knowledge is indirect knowledge. Non-inferential knowledge is direct knowledge."
+
+3. "There is some reason to believe that all knowledge is inferential."
+
+4. "A premise is a belief that one either has or that one is willing to accept for argument's sake."
+
+5. "An inference always begins with certain premises and ends with a conclusion that one accepts on the basis of those premises."
+
+6. "An inference is deductive if the premises are intended to make the conclusion 100% likely to be correct."
+
+7. "An inference is inductive if the premises are intended to support the conclusion."
+
+8. "If one statement can be deductively inferred from another, we say that the second entails the first."
+
+9. "If one statement can be inductively inferred from another, we say that the second confirms the first."
+
+10. "True statements can confirm false ones, but they cannot entail them."
+
+11. "A valid argument is a deductive argument whose premises, if true, in fact give a probability of 100% to the conclusion."
+
+12. "A valid argument can have false premises."
+
+13. "A sound argument is a valid argument with true premises."
+
+14. "A valid argument cannot possibly have true premises and a false conclusion."
+
+15. "There are two kinds of inductive inference: induction by enumeration and inference to the best explanation."
+
+16. "All theories are cases of inference to the best explanation."
+
+17. "The conclusions of inferences to the best explanation are always causal statements."
+
+18. "Induction by enumeration is parasitic on inference to the best explanation."
+
+19. "There are two kinds of entailment: formal entailment and informal entailment."
+
+20. "Not all valid entailments hold in virtue of syntax. In fact, most do not."
+
+21. "P model-theoretically entails Q just in case there is no coherently conceivable scenario where P is true and Q is false."
+
+22. "Model-theoretic entailment is an over-valued notion that doesn't correspond at all well to the conception of entailment embodied in our inferential practices."
+
+23. "Model-theoretic entailment isn't really a kind of entailment. It is a theory of entailment."
+
+24. "For awhile, it was thought that all entailments could be formalized. That viewpoint is simply false."
+
+25. "The relation of formal entailment holds between sentences, whereas the relation of model-theoretic entailment holds between propositions."
+
+26. "A statement is false if it entails its own negation."
+
+27. "There is nothing that isn't entailed by a contradiction."
+
+28. "Whatever is actual is possible. Whatever is necessary is actual."
+
+29. "Whatever is necessary is necessarily necessary."
+
+30. "Nothing that can be true entails anything that cannot be true."
+
+---
+
+## Appendix 2: Important Terms and Principles
+
+### Entries 1-4: Algorithm, Ambiguity vs. Indexicality, Ambiguity vs. Vagueness, Antecedent/Consequent
+
+1. "An algorithm is a fixed procedure for carrying out a task."
+
+2. "An ambiguous expression is one that is assigned meaning by two or more different rules."
+
+3. "An expression is vague if it is assigned meaning by no well-defined semantic rule."
+
+### Entries 5-8: Analytic Truth, Atomic Proposition, A Priori, A Posteriori
+
+4. "A statement is analytically true if its negation is incoherent."
+
+5. "An atomic proposition is a proposition that isn't molecular."
+
+6. "Knowledge is a priori if one has it in virtue of one's innate cognitive structure of one's mind."
+
+### Entries 9-12: Axiom, Axiom of Comprehension, Coherent, Conditional
+
+7. "An axiom is a statement that, in some context, is assumed to be true and therefore isn't argued for."
+
+8. "The axiom of comprehension is the principle that, given any property, there is a set containing all and only those objects that have that property."
+
+9. "Bertrand Russell discovered that the axiom of comprehension has self-contradictory consequences and is therefore false."
+
+### Entries 13-16: Confirmation, Conjunction, Connective, Consequent
+
+10. "For one statement to confirm another is for the truth of the first to make the truth of the second probable but not certain."
+
+11. "A conjunction is a compound statement formed by putting the word 'and' between two sentences."
+
+12. "A connective is an expression that, when given a sentence or ordered n-tuple of sentences, yields a new sentence."
+
+### Entries 17-20: Contingent, Contrapositive, Deduction, Defeasible
+
+13. "A proposition is contingent if it is possible but not necessary."
+
+14. "The contrapositive of 'if P then Q' is 'if not-Q then not-P.' A statement is equivalent with its contrapositive."
+
+15. "A 'defeasible' claim is one that can in principle be overturned."
+
+### Entries 21-24: Descriptive Proposition, Disjunction, Dualism, Empirical
+
+16. "A proposition is descriptive if it says how things are."
+
+17. "A disjunction is a compound statement formed by putting the word 'or' between two sentences."
+
+18. "Dualism is the doctrine that mental entities are not identical with physical entities."
+
+### Entries 25-28: Entailment, Epistemology, Essential Property, Existential Quantifier
+
+19. "P entails Q iff it is impossible for P to be true and Q to be false."
+
+20. "Epistemology is the study of knowledge—its nature, its sources, and its limits."
+
+21. "A property is essential to a thing if that thing must have that property."
+
+### Entries 29-32: Expression, Extension, Formal Truth, Free Variable
+
+22. "An expression is any meaningful string of words, including single words."
+
+23. "An extension of an expression is the set of all objects to which that expression correctly applies."
+
+24. "A sentence is formally true if it holds in virtue of its form or syntax."
+
+### Entries 33-36: Functionalism, Hedonism, Implication, Indexical
+
+25. "Functionalism says that what makes something a belief is the role it plays in a person's cognitive economy."
+
+26. "According to hedonism, all human acts are intended to bring about pleasure."
+
+27. "An indexical is a context-sensitive expression."
+
+### Entries 37-40: Induction, Inference, Intensional Context, Interpretation
+
+28. "Induction is inference from the particular to the general."
+
+29. "An intensional context is one in which co-referential expressions cannot be freely substituted."
+
+30. "An interpretation of a set of open-sentences is an assignment of definite meanings to the undefined expressions occurring in it."
+
+### Entries 41-44: Intension, Intuition, Leibniz's Law, Logical Form
+
+31. "The intension of an expression is the rule that determines its extension."
+
+32. "In philosophy, an intuition is a judgment for which one has no articulated grounds but that one nonetheless firmly accepts."
+
+33. "Leibniz's Law states that if x and y are identical, then anything true of x is true of y."
+
+### Entries 45-48: Logically Perfect Language, Materialism, Meaning vs. Entailment, Modal Operator
+
+34. "There can be no logically perfect language."
+
+35. "Materialism is the doctrine that mental entities are identical with physical entities."
+
+36. "For two sentences to have the same meaning, it is necessary that they be equivalent."
+
+### Entries 49-52: Model, Molecular Proposition, Mutatis Mutandis, Necessary
+
+37. "To model a collection of data is to produce a hypothesis that accounts for it."
+
+38. "A molecular proposition is a proposition that has another proposition as a proper part."
+
+39. "A proposition is necessary if there is no coherently conceivable circumstance where it is false."
+
+### Entries 53-56: Negation, Necessity/Sufficiency, Normative, Numerically Identical
+
+40. "The negation of P is not-P."
+
+41. "'If P then Q' means that there's no way that P can be true unless Q is true."
+
+42. "A proposition is normative if it says how things should be."
+
+### Entries 57-60: Observable Characteristic, Occurrence, Open-Sentence, Operator
+
+43. "An observable characteristic is any characteristic of a thing that one can see or otherwise sense-perceive."
+
+44. "An open-sentence is an expression that contains a free variable and is therefore neither true nor false."
+
+45. "An operator is any expression that, when joined with a sentence, forms a new sentence."
+
+### Entries 61-64: Performative Utterance, Possible, Predicate, Property
+
+46. "A performative utterance creates a fact rather than reports a fact."
+
+47. "A proposition is possible if there is no incoherence in supposing it true."
+
+48. "A property is any characteristic of any object."
+
+### Entries 65-68: Proposition, Qualitatively Identical, Quantifier, Quasi-Quotation
+
+49. "A proposition is the meaning of a sentence—that which a sentence says."
+
+50. "x and y are qualitatively identical if they have the same properties."
+
+51. "A quantifier specifies a quantity of objects that have a given property."
+
+### Entries 69-72: Rationalism, Reference, Relation, Russell's Paradox
+
+52. "Rationalism is the doctrine that some knowledge is acquired through the use of one's ability to reason."
+
+53. "The reference of a term is the object denoted by that term."
+
+54. "Russell's paradox shows that the axiom of comprehension is false."
+
+### Entries 73-76: Semantics, Sense, Sense-Perception, Sentence
+
+55. "Semantics is the study of meaning."
+
+56. "The sense of an expression is the rule that determines what that expression refers to."
+
+57. "Sense-perception is the process of becoming aware of external objects through sight, hearing, touch, taste, or smell."
+
+### Entries 77-80: Set, Slingshot Argument, Sound Argument, Supervenience
+
+58. "A set is a collection of objects."
+
+59. "A sound argument is a valid argument whose premises are all true."
+
+60. "x supervenes on y if there can be no change in x without a change in y."
+
+### Entries 81-84: Syntax, Tautology, Token, Truth-Conditions
+
+61. "Syntax is the study of the structural properties of expressions."
+
+62. "A tautology is a statement that is true in virtue of its logical form."
+
+63. "A token is a particular instance of an expression."
+
+### Entries 85-88: Truth, Truth-Value, Universal Generalization, Utilitarianism
+
+64. "A true sentence has the truth-value true, and a false sentence has the truth-value false."
+
+65. "A sentence expresses a universal generalization if the main connective of that sentence is a universal quantifier."
+
+66. "Utilitarianism is the doctrine that an act is morally correct to the extent that it promotes human welfare."
+
+### Entries 89-92: Valid, Virtue Theory
+
+67. "An argument is valid iff the conclusion cannot possibly be false if premises are true."
+
+68. "According to virtue theory, a morally correct life is one in which one flourishes."
+
+69. "One's own flourishing depends constitutively on one's having character traits that conduce to the flourishing of others."
+
+# 20 Quotes from Each of Chapters 11-20
+
+---
+
+## Chapter 11: Cartesian Skepticism and the Birth of Epistemology
+
+1. "Modern philosophy is generally held to have begun with the work of Rene Descartes (1596–1650)."
+
+2. "Descartes single-handedly invented the discipline of analytic epistemology."
+
+3. "The central tenet of Descartes' work is that nothing ought to be accepted unless there is a logical, as opposed to faith-based, reason for doing so."
+
+4. "Descartes believed that all knowledge ought to be modeled on geometrical knowledge—more specifically, on Euclid's axiomatization of geometry."
+
+5. "Euclid attempted, with some success, to show that every accepted principle of geometry could be derived from a small number of assumptions that he referred to as 'axioms' or 'postulates.'"
+
+6. "Descartes tried to show that what Euclid did for geometrical knowledge could be done for all knowledge."
+
+7. "Skepticism is the doctrine that we can't establish that any of our sense-perceptions represent the world as it really is."
+
+8. "According to foundationalism, all knowledge coincides with, or rests on top of, knowledge of certain self-evident principles."
+
+9. "Coherentists say that there are no foundational pieces of knowledge; there is no ground floor, so to speak."
+
+10. "For the coherentist, no perception by itself constitutes knowledge. Only vast collections of experiences, supplemented by inferences, do so."
+
+11. "For the foundationalist, on the other hand, there are some self-evidently correct beliefs—some beliefs that cannot be had without ipso facto having knowledge."
+
+12. "The appearance-reality dichotomy seems inapplicable to at least some mental entities, the reason being that some mental entities are appearances."
+
+13. "The mental seems to be different from the physical."
+
+14. "Taken together, these facts suggest that the apparent differences between the mental and the physical are at least sometimes actual differences."
+
+15. "Given the fact that mind and body interact, along with the fact that such interactions seem not to involve violations of physical law, it seems that materialism is probably correct."
+
+16. "Functionalism says that x is a belief that snow is white iff x has the right causal role."
+
+17. "If functionalism is correct, then the fact that you believe that water quenches thirst cannot cause you to do things like drink water when thirsty."
+
+18. "Functionalism strips the mental of any causal powers."
+
+19. "Given that the mental does have causal powers, it follows that functionalism is wrong."
+
+20. "I believe that I am now typing on a keyboard. But how do I know this? This question might seem trivial. But it turns out not to be so easy to answer."
+
+---
+
+## Chapter 12: Skepticism and the Justification of Inductive Inference
+
+1. "A skeptic is a doubter, not a disbeliever."
+
+2. "Skepticism is doubt, not disbelief."
+
+3. "To be a skeptic about the external world is to doubt that what our senses are telling us is accurate."
+
+4. "An inference is deductive if, supposing that one's premises are true and one's reasoning non-faulty, it is impossible for one's conclusion to be false."
+
+5. "An inference is inductive if, supposing that one's premises are true and one's reasoning non-faulty, it is possible for one's conclusion to be false."
+
+6. "A skeptic about inductive inference holds that it is impossible, as a matter of principle, to learn anything through non-deductive inference."
+
+7. "David Hume made it clear why it may be doubted whether inductive inference ever leads to knowledge."
+
+8. "The past resembles the future; the known resembles the unknown. Nature is uniform."
+
+9. "It is the uniformity principle (UP) that allows us to make rational, non-deductive inferences about the unknown on the basis of the known."
+
+10. "Nobody denies that inductive inferences are knowledge-conducive and, therefore, that the conclusion of Hume's argument is false."
+
+11. "Hume assumes that the primary form of non-deductive inference is induction by enumeration."
+
+12. "Induction by enumeration is less important than, and subordinate to, a very different form of non-deductive inference known as inference to the best explanation."
+
+13. "Good explanations minimize causal anomalies."
+
+14. "Other things being equal, theory T1 is better than theory T2 if the world as T1 describes it contains fewer unexplained causal connections."
+
+15. "There are two forms of inductive inference: induction by enumeration and inference to the best explanation."
+
+16. "One creates more unexplained explainers by assuming that the unknown differs from the known than by assuming that it does not."
+
+17. "To explain an event is to show how its occurrence was an unsurprising consequence of antecedent conditions."
+
+18. "A system of beliefs is coherent iff no belief belonging to it contradicts any other belief belonging to it."
+
+19. "Given MC, and given Steps 1–4, it follows that there is an analytic and therefore non-inductive reason to hold that, other things being equal, the unknown resembles the known."
+
+20. "Skepticism about the external world is actually an extravagant and irrational position."
+
+---
+
+## Chapter 13: Empiricism and Its Limits
+
+1. "According to a doctrine known as 'empiricism,' all knowledge is derived from sense-perception."
+
+2. "According to a view known as 'rationalism,' some knowledge is acquired entirely through the use of one's ability to reason."
+
+3. "Rationalists typically hold that knowledge acquired in this way is very important—it isn't trivial."
+
+4. "Those who believe that there exist non-spatiotemporal entities are necessarily rationalists."
+
+5. "Being one that has deep roots in common sense, empiricism is a very old doctrine."
+
+6. "Empiricism was first rigorously developed by John Locke (1632–1704), George Berkeley (1685–1753), and David Hume (1711–1776)."
+
+7. "The first great rationalist was Plato (428 B.C.–348 B.C.)."
+
+8. "The first great empiricist was Aristotle (384 B.C.–322 B.C.)."
+
+9. "Sense-perception discloses only particulars to us—particular objects having particular property-instances."
+
+10. "We understand and describe the world in terms of categories or, as they are sometimes called, 'universals.'"
+
+11. "Because they are non-spatiotemporal, those of an empiricist mindset regard universals with extreme suspicion."
+
+12. "There is no way to understand the world except in terms of universals."
+
+13. "All explanations presuppose the existence of universals. The very idea of an explanation that didn't do so is an incoherent one."
+
+14. "Universals are outside of space-time. For this reason, they cannot have effects on anything."
+
+15. "It is therefore impossible as a matter of logic to find any observational basis for the existence of universals."
+
+16. "Our perceptions of primary properties are very different from our perceptions of secondary properties."
+
+17. "When one sees a porcupine, one's visual image has a structural similarity to that of the porcupine."
+
+18. "An object's secondary properties belong to it no less than its primary properties."
+
+19. "Grueness isn't a color at all—it's a color-related property."
+
+20. "A Platonic metaphysics requires a rationalist epistemology."
+
+---
+
+## Chapter 14: Determinism, Randomness, and Unpredictability
+
+1. "Determinism is the view that how the world is at any given point in time fixes how it will be in every respect at all later times."
+
+2. "Indeterminism is the doctrine that determinism is false."
+
+3. "Indeterminism is not the view that the world is chaotic or lawless."
+
+4. "Determinism is much harder to establish than indeterminism."
+
+5. "For most intents and purposes, the world in which we operate—the world of 'medium sized' objects—is deterministic."
+
+6. "Predictability and determinism are not the same thing."
+
+7. "Even if the world is completely deterministic, there are limits to how much any creature could predict about the course of future events."
+
+8. "Learning about the world involves changing it."
+
+9. "What you see is different from what is out there, in the relevant place, at the time of your perception."
+
+10. "Perceiving a thing involves having an experience that is caused by that thing."
+
+11. "Whatever changes that disturbance had on the object, you don't know about them, since they occurred after the relevant information-transmitting process left that thing."
+
+12. "What you know, at t, about R is confined to what L tells you. And what R tells you is dated information—it's yesterday's news."
+
+13. "Attempts to remove this margin of error by having more perceptions will only make it bigger."
+
+14. "We are not talking about the limitations of human beings. We're talking about the conditions that must, as a matter of logic, be fulfilled by any sense-perception."
+
+15. "The idea that God could know of some event without having any causal connection is incoherent."
+
+16. "Only justified true beliefs are knowledge. Lucky guesses don't count."
+
+17. "A justified belief is one for which there is evidence."
+
+18. "One spatiotemporal thing is evidence of another if and only if the first is causally related to the second."
+
+19. "There is necessarily a gulf between the perception and the reality."
+
+20. "Nothing that follows from definitional truths can be false; anything that follows from a truth of logic is itself a truth of logic."
+
+---
+
+## Chapter 15: The Compatibilist Conception of Freedom
+
+1. "A set of events is deterministic if it obeys laws that, given the system's state at any given point in time, fix the system's state at all later points in time."
+
+2. "There are both physical and mental entities. Anything that involves thought or feeling is mental; anything that does not is physical."
+
+3. "Some hold that mental entities are identical with certain physical entities. This position is known as materialism."
+
+4. "Others deny this, saying that the mental is non-physical. This position is known as dualism."
+
+5. "If materialism is right, then the mental world is just part of the physical world."
+
+6. "It's hard to see how there could be free will if the state of the universe a million years ago completely settled what choices I would make today."
+
+7. "A choice that isn't predetermined by anything isn't predetermined by any facts about one's personality."
+
+8. "In order to be made 'freely,' a choice has to be rooted in facts about one's personality, and must express one's values, desires, beliefs, and previous intentions."
+
+9. "Even if there is indeterminism, it doesn't help people be free; indeterminism actually seems to hurt our chances of being free."
+
+10. "Some hold that there can be free will in a deterministic world. Such people are known as compatibilists."
+
+11. "Those who deny it are incompatibilists."
+
+12. "You are free to the extent that you can do what you want, and you are unfree to the extent that you cannot."
+
+13. "According to G.E. Moore, an act is performed freely if the agent would have done something else if he had chosen to do so."
+
+14. "An act is free if the agent 'could have done otherwise.'"
+
+15. "Being able to do what you want, though necessary for freedom, isn't sufficient for it."
+
+16. "It is necessary also that your choices be adequately rooted in who you are as a person."
+
+17. "The decisions that one makes are clearly a product of one's pre-existing mental condition."
+
+18. "A choice that lacks these roots seems to involve a disintegration of the person's psyche."
+
+19. "Something over which you have no control is completely responsible for the choices that you're making."
+
+20. "At least according to some viewpoints, the choices we make have extremely deep roots in our unconscious mental lives."
+
+---
+
+## Chapter 16: Personal and Objectual Identity
+
+1. "Statements of the form ‹x is identical with y› are known as 'identity statements.'"
+
+2. "The verb 'to be' is ambiguous. It sometimes means 'identical with.' But sometimes it has an entirely different meaning."
+
+3. "Sometimes 'is' has a predicative meaning: it is used to predicate a property of an individual."
+
+4. "Identity statements are often used in a loose, figurative fashion."
+
+5. "When one says 'I'm not myself today,' one isn't saying that one is literally not identical with oneself."
+
+6. "For x and y to be qualitatively identical is for them to have the very same features."
+
+7. "x and y can be qualitatively identical even if they are not literally the same thing."
+
+8. "In philosophy, we are concerned with numerical identity."
+
+9. "Numerical identity entails qualitative identity, but not vice versa."
+
+10. "The principle that genuine qualitative identity entails numerical identity is known as the Identity of Indiscernibles."
+
+11. "The Indiscernibility of Identicals, better known as Leibniz's Law, states that x and y, if numerically identical, are also qualitatively identical."
+
+12. "If an identity statement concerns an inanimate object, then it affirms a case of objectual identity."
+
+13. "If an identity statement concerns people or other animate beings, then it concerns personal identity."
+
+14. "Objectual identity is more fundamental than personal identity."
+
+15. "What is it for me—a middle-aged professor—to be the same person as the guy who, 20 years ago, was out partying every night?"
+
+16. "Persons are to be thought of as a certain class of causally complex objects."
+
+17. "There is no such thing as backwards time-travel."
+
+18. "If Relativity Theory is right, the statement 'E2 is an effect of E1, but E1 post-dates E2' is tautologically false."
+
+19. "According to RT, order in time is defined in terms of causation: anything caused by a given event ipso facto follows that event."
+
+20. "The principle that causes ipso facto precede their effects is an analytic, not an empirical, truth."
+
+---
+
+## Chapter 17: Causality
+
+1. "Events cause other events to occur."
+
+2. "According to many empiricists, we cannot see or otherwise observe causal ties."
+
+3. "We don't observe electrons or quarks, but we have good reason to believe them to exist."
+
+4. "The concept of persistence is itself a causal notion, and anything that persists is, for that very reason, a causal sequence."
+
+5. "We observe causal sequences whenever we observe anything."
+
+6. "The very notion of spatial occupancy is a causal notion."
+
+7. "Anything that says anything about anything in the spatiotemporal world has causal content."
+
+8. "It is only events that can be causes. Objects are not causes."
+
+9. "The rock didn't cause the window to break. What did so was some event involving the rock."
+
+10. "We must distinguish between something's being a cause, on the one hand, and its having causal properties, on the other."
+
+11. "What we call 'conditions' are patterns of constant change."
+
+12. "What we call 'events' are changes in the manner of change."
+
+13. "Conditions can be causes. But since conditions consist of events, this is in no way inconsistent with our contention that it is events, and events alone, that are causes."
+
+14. "There are two kinds of improbability: statistical and explanatory."
+
+15. "Given any event, there is a way of describing it that makes it improbable in the statistical sense."
+
+16. "My winning the lottery is improbable in the statistical sense, but not in the explanatory sense."
+
+17. "To explain an event E is to show that its occurrence is a logical consequence of the statement formed by conjoining statements describing known natural laws with statements describing the conditions under which E occurred."
+
+18. "Something is grue if it is green before Jan. 1, 2010, or blue thereafter."
+
+19. "Grueness and greenness are different properties. But they're not different colors."
+
+20. "Statistical improbability is innocuous. It's explanatory improbability that you have to worry about."
+
+---
+
+## Chapter 18: Modality and Non-Existence
+
+1. "A modal statement is one that says what could be the case or what must be the case."
+
+2. "For any proposition P, it's necessarily the case that P iff it's not possible that not-P."
+
+3. "There are no impossible objects—no objects that couldn't possibly exist."
+
+4. "There are no possible but non-actual objects—no objects that could exist but don't."
+
+5. "Possibility and impossibility are properties of propositions, not of objects."
+
+6. "Nothing doesn't exist. There exists no x such that x doesn't exist."
+
+7. "Statements that, given their surface-structures, appear to attribute non-existence to objects in fact attribute falsity to propositions."
+
+8. "Necessity does not come in degrees."
+
+9. "There are only two degrees of necessity: having it completely and lacking it completely."
+
+10. "When we say that P is 'more necessary' than Q, we're saying something about the conditions that must hold for those statements to be true."
+
+11. "'Squares have four sides' is maximally necessary, because it holds unconditionally."
+
+12. "In any universe at all, no matter how mass-energy is distributed in it, that statement is true."
+
+13. "A sentence is formally true if no sentence having the same syntactic structure is false."
+
+14. "W.V.O. Quine gave a characteristically intelligent and straightforward answer: a sentence S is formally true if, given any expression in S that isn't a logical constant, it isn't possible to produce a false sentence by replacing that expression with another expression."
+
+15. "A 'logical constant' is an expression on the following list: 'if . . . then . . . ,' 'either . . . or . . . ,' 'not,' 'for all,' 'for some,' '=.'"
+
+16. "A sentence is formally true if it is an instance of an open-sentence that is true for all values of its free variables."
+
+17. "Formal truth is maximally generic, or 'topic-neutral,' truth."
+
+18. "There are maximally generic truths that aren't formal."
+
+19. "Whether a sentence expresses a generic truth has nothing to do with its form."
+
+20. "Nothing can wholly pre-exist itself."
+
+---
+
+## Chapter 19: Some Fundamental Principles Relating to Ethics
+
+1. "There are two kinds of statements: normative and descriptive."
+
+2. "A descriptive statement is one to the effect that such and such is the case. Descriptive statements don't express value-judgments."
+
+3. "A normative statement is one that does express a value-judgment."
+
+4. "Ethics is the discipline that attempts to clarify the structures of normative concepts."
+
+5. "The most important normative terms are 'good' and 'bad.'"
+
+6. "There are two kinds of goodness: instrumental good and intrinsic good."
+
+7. "To say that an act is instrumentally good is to say that it has consequences that are desired by, or to the advantage of, the agent."
+
+8. "If something is good in a non-instrumental sense, it is intrinsically good."
+
+9. "Ethics is concerned with intrinsic goodness."
+
+10. "Ethics is not interested in instrumental (i.e., strategic or pragmatic) goodness."
+
+11. "There are many views as to which things have intrinsic value."
+
+12. "Something can be both instrumentally and intrinsically good."
+
+13. "Some things that are intrinsically good are commendable—that is, they deserve praise."
+
+14. "Some things that are intrinsically good do not deserve praise."
+
+15. "Happiness is intrinsically good."
+
+16. "A happy person doesn't necessarily deserve praise for being happy."
+
+17. "There are two kinds of intrinsic goods—those which are commendable and those which are not."
+
+18. "Just as there are two kinds of intrinsic goodness, so there are two kinds of intrinsic badness."
+
+19. "Being unhappy is bad even if it doesn't bring about misfortunes other than unhappiness."
+
+20. "It's obviously bad to be unhappy. And the badness in question is clearly of a non-instrumental, and therefore intrinsic, nature."
+
+---
+
+## Chapter 20: Emotivism
+
+1. "Emotivism is a doctrine about ethical statements—statements about what is good or right."
+
+2. "Emotivists say that ethical statements don't express beliefs; they express feelings."
+
+3. "When you say 'stealing is wrong,' you're not expressing a belief; you're expressing a feeling of disapproval towards stealing."
+
+4. "According to emotivism, ethical statements are neither true nor false."
+
+5. "Emotivism says that ethical statements have the same meaning as certain non-cognitive utterances."
+
+6. "Geach's argument shows that emotivism is false."
+
+7. "Moral statements can occur in conditionals, but emotional ejaculations cannot."
+
+8. "'If stealing is wrong, then getting your little brother to steal for you is wrong' is meaningful."
+
+9. "But 'If boo to stealing!, then boo to getting your little brother to steal for you!' is not meaningful."
+
+10. "If moral statements were mere expressions of emotion, they couldn't occur in conditionals."
+
+11. "Emotions are beliefs about one's desires."
+
+12. "For Ben to be happy that he can play soccer is for him to know himself to have some desire whose gratification is facilitated by his being able to play soccer."
+
+13. "Any given attitudes can be expressed in many different ways."
+
+14. "A belief can be expressed in a lot of different ways."
+
+15. "If emotions are beliefs, they can be expressed through grammatical utterances and meaningless gesticulations."
+
+16. "Geach's argument fails if emotions are beliefs."
+
+17. "One can dispassionately but sincerely make moral statements."
+
+18. "The underlined expressions are not synonymous, and the emotivist is wrong to say otherwise."
+
+19. "Replacing an expression with a synonymous expression doesn't turn meaning into nonsense."
+
+20. "Hume argued that moral judgments are not beliefs but are instead feelings or sentiments."
+
+
+1. Analytic philosophy is a style of philosophizing that involves the use of logic and analysis to address traditional philosophical issues.
+
+2. 'Analytic' in the phrase 'analytic philosophy' does not refer to analytic propositions, but rather to a style of philosophical practice that relies on analysis.
+
+3. Although analytic philosophy began in large measure as an attempt to clarify philosophical issues through the use of logic and other mathematical tools, it has since become a tradition with many other non-mathematical strands.
+
+4. Analytic philosophy is often contrasted with continental philosophy, a style that focuses more heavily on existential, political, social, and cultural issues.
+
+5. Analytic philosophy is philosophy, not para-science. Philosophers study questions that arise independently of what the current state of our scientific knowledge may be.
+
+6. Logical analysis involves using the tools of logic (quantifiers, variables, truth-functions, etc.) to clarify, and hopefully, to solve philosophical problems.
+
+7. Conceptual analysis involves clarifying terms and ideas that, for whatever reason, have proved difficult to understand, or that have generated disagreement among philosophers.
+
+8. Russell's analysis of the word 'the', according to which 'the' is a quantifier, is a paradigm of logical analysis.
+
+9. The attempt to identify what it is that makes something a case of 'knowledge' is a paradigm of conceptual analysis.
+
+10. Philosophy, like mathematics, is an a priori discipline. Philosophers do not do experiments and do not test hypotheses through observation.
+
+**Chapter 2**
+
+1. A property is a feature or characteristic that an entity has.
+2. The world consists of things that have features. Things have different features and, consequently, differ from one another.
+3. Platonism is the thesis that properties exist, and that they are not located in space or in time.
+4. Nominalism is the thesis that there are no properties, and that what we call "properties" are really just words, concepts, or mental abstractions.
+5. Conceptualism is the thesis that properties exist but are mental entities – ideas, concepts, or other psychological items.
+6. Properties are universals – entities that can be wholly present in multiple locations at the same time.
+7. The distinction between particulars and universals is fundamental. Particulars can only be in one place at a time; universals can be wholly present at multiple locations simultaneously.
+8. Properties exist necessarily. If a property exists, it couldn't have failed to exist.
+9. Properties are not located in space or time. They are abstract entities.
+10. Realism about properties holds that properties exist independently of minds and language.
+
+**Chapter 3**
+
+1. A proposition is what is expressed by a declarative sentence.
+2. Different sentences can express the same proposition. 'Snow is white' and 'La neige est blanche' express the same proposition.
+3. Propositions are the primary bearers of truth and falsity.
+4. Propositions are abstract entities that exist independently of language and thought.
+5. A proposition is a set of properties – specifically, the set of properties that would have to be instantiated for that proposition to be true.
+6. A proposition is true if and only if all of its member properties are instantiated.
+7. Propositions exist necessarily. If a proposition exists, it couldn't have failed to exist.
+8. The proposition that snow is white is true because whiteness is instantiated by snow.
+9. Propositions are not sentences. Sentences are linguistic entities; propositions are abstract objects.
+10. Two sentences are synonymous if and only if they express the same proposition.
+
+**Chapter 4**
+
+1. Language is a system of symbols that can be used to express thoughts and to communicate.
+2. Natural languages are languages that have evolved naturally among human communities.
+3. Formal languages are artificially constructed languages with precise syntactic and semantic rules.
+4. The syntax of a language concerns the rules governing the arrangement of symbols.
+5. The semantics of a language concerns the meanings of symbols and their combinations.
+6. A sentence is meaningful if and only if it expresses a proposition.
+7. The meaning of a sentence is determined by the meanings of its parts and how they are combined.
+8. Compositionality is the principle that the meaning of a complex expression is determined by the meanings of its parts and their mode of combination.
+9. Language is a vehicle for thought, but thought is not identical to language.
+10. We can think things that we cannot express in language.
+
+**Chapter 5**
+
+1. Thought and language are distinct. We do not think in English or any other natural language.
+2. The language of thought hypothesis holds that thinking occurs in a mental language with its own syntax and semantics.
+3. Natural language is used to express thoughts, not to constitute them.
+4. When we think, we manipulate mental representations, not words.
+5. The speed of thought far exceeds the speed of inner speech, which shows that thinking is not identical to talking to oneself.
+6. Animals and pre-linguistic children can think, which shows that thought does not require natural language.
+7. Translation between languages would be impossible if we thought in natural language, since there would be no common medium.
+8. Ambiguous sentences can express unambiguous thoughts, showing that thought is more precise than language.
+9. We often struggle to find words for our thoughts, which shows that the thoughts exist prior to their linguistic expression.
+10. The language of thought is innate and universal; natural languages are acquired and vary.
+
+**Chapter 6**
+
+1. A definite description is a phrase of the form 'the so-and-so'.
+2. Russell's Theory of Descriptions holds that definite descriptions are not referring expressions but rather quantifier phrases.
+3. 'The present King of France is bald' does not refer to anyone; it makes a false existential claim.
+4. On Russell's analysis, 'The F is G' means: there exists exactly one F, and that thing is G.
+5. Definite descriptions are incomplete symbols – they have no meaning in isolation, only in the context of a sentence.
+6. Russell's theory solves the puzzle of negative existentials. 'The golden mountain does not exist' is meaningful and true.
+7. The theory explains how sentences containing non-referring descriptions can be meaningful.
+8. Russell's theory distinguishes between primary and secondary occurrences of descriptions, explaining scope ambiguities.
+9. Strawson objected that sentences with non-referring descriptions are neither true nor false, but Russell's view is that they are simply false.
+10. Russell's analysis of 'the' as a quantifier is a paradigm of logical analysis in philosophy.
+
+**Chapter 7**
+
+1. Frege was the first to fully formalize logic, creating a system powerful enough to express all of mathematics.
+2. Frege's logic introduced quantifiers, variables, and the function-argument analysis of sentences.
+3. Logicism is the thesis that mathematics is reducible to logic – that mathematical truths are logical truths.
+4. Frege distinguished between sense and reference. The sense of an expression is its mode of presentation; the reference is what it picks out.
+5. 'The morning star' and 'the evening star' have the same reference but different senses.
+6. The sense of a sentence is a thought (proposition); the reference of a sentence is a truth-value.
+7. Frege's puzzle: if identity is a relation between objects, how can 'a = b' be informative when 'a = a' is trivial?
+8. The solution: 'a = b' is informative because 'a' and 'b' have different senses, even though they have the same reference.
+9. Frege held that the sense of a complex expression is determined by the senses of its parts.
+10. Frege's logic replaced the subject-predicate analysis of sentences with the function-argument analysis.
+
+**Chapter 8**
+
+1. A proper name is a word that refers to a particular individual.
+2. Mill held that proper names are non-connotative – they refer without describing.
+3. Frege held that proper names have both sense and reference – they refer by means of a descriptive content.
+4. The description theory of names holds that a name is synonymous with a definite description or cluster of descriptions.
+5. Kripke argued against the description theory: names are rigid designators, but descriptions are not.
+6. A rigid designator is an expression that refers to the same object in all possible worlds in which that object exists.
+7. 'Aristotle' refers to Aristotle in every possible world, but 'the teacher of Alexander' does not.
+8. Kripke's causal theory: a name refers to whatever is at the end of an appropriate causal chain leading back to an initial baptism.
+9. Names refer directly, without the mediation of descriptive content.
+10. The meaning of a name is exhausted by its reference; names do not have Fregean senses.
+
+**Chapter 9**
+
+1. Semantic externalism is the thesis that meaning is not entirely determined by what is in the head.
+2. Putnam's Twin Earth argument: two individuals can be in identical psychological states yet mean different things by their words.
+3. On Twin Earth, 'water' refers to XYZ, not H2O, even though Twin Earthlings are psychologically identical to us.
+4. Meanings ain't in the head – there is a non-psychological component to meaning.
+5. Natural kind terms like 'water', 'gold', and 'tiger' refer to underlying essences, not superficial properties.
+6. The extension of 'water' is determined by the actual nature of the stuff we call 'water', not by our beliefs about it.
+7. Externalism implies that two people can have the same thoughts only if they are appropriately related to the same external environment.
+8. Burge extended externalism to show that social and linguistic context also partly determines meaning.
+9. Internalism holds that meaning supervenes on internal psychological states – externalism denies this.
+10. Externalism has profound implications for philosophy of mind, showing that mental content is partly world-involving.
+
+**Chapter 10**
+
+1. Knowledge is traditionally defined as justified true belief.
+2. The Gettier problem shows that justified true belief is not sufficient for knowledge.
+3. In Gettier cases, a person has a justified true belief that is true only by luck, and so does not count as knowledge.
+4. Knowledge requires that the connection between belief and truth not be accidental.
+5. Reliabilism holds that a belief counts as knowledge if it is produced by a reliable belief-forming process.
+6. The causal theory of knowledge holds that a belief counts as knowledge if it is caused in an appropriate way by the fact that makes it true.
+7. Foundationalism holds that knowledge rests on basic beliefs that are self-justifying or self-evident.
+8. Coherentism holds that beliefs are justified by their coherence with other beliefs, not by foundational beliefs.
+9. Skepticism challenges whether we can have knowledge at all, given the possibility of systematic deception.
+10. Knowledge is factive: if S knows that p, then p is true.
+
+**Chapter 11**
+
+1. Cartesian skepticism is the view that we cannot know anything about the external world because we cannot rule out the possibility that we are being systematically deceived.
+2. Descartes' evil demon hypothesis: there could be a powerful deceiver causing us to have false beliefs about everything.
+3. The modern version is the brain-in-a-vat hypothesis: we could be brains being fed experiences by a computer.
+4. If we cannot distinguish being deceived from not being deceived, then we cannot know we are not being deceived.
+5. The skeptical argument: if I cannot know I am not a brain in a vat, then I cannot know anything about the external world.
+6. Moore's response: I know I have hands; therefore, I know I am not a brain in a vat.
+7. The closure principle: if S knows that p, and S knows that p entails q, then S knows that q.
+8. Denying closure is one response to skepticism, but it has counterintuitive consequences.
+9. Contextualism holds that the standards for knowledge vary with context, which may dissolve the skeptical problem.
+10. The skeptic's standards for knowledge may be unreasonably high – ordinary knowledge claims may still be true.
+
+**Chapter 12**
+
+1. Inductive inference is inference from observed cases to unobserved cases.
+2. Hume's problem of induction: we cannot justify induction either deductively or inductively without circularity.
+3. Induction assumes the uniformity of nature – that the future will resemble the past – but this assumption cannot be justified non-circularly.
+4. Deductive arguments cannot justify induction because the conclusion of an inductive argument is not guaranteed by its premises.
+5. Inductive arguments cannot justify induction because that would be circular – using induction to justify induction.
+6. Hume concluded that induction is a matter of habit or custom, not reason.
+7. Goodman's new riddle of induction: the predicate 'grue' shows that not all inductive inferences are equally legitimate.
+8. Something is grue if it is observed before time t and green, or not observed before t and blue.
+9. All observed emeralds are green, but they are also grue – so why do we project 'green' rather than 'grue'?
+10. Goodman's solution involves distinguishing entrenched predicates from non-entrenched ones.
+
+**Chapter 13**
+
+1. Empiricism is the thesis that all knowledge of matters of fact comes from sensory experience.
+2. Rationalism is the thesis that some knowledge of matters of fact is a priori – known independently of experience.
+3. Locke held that the mind is a blank slate (tabula rasa) and all ideas come from experience.
+4. Hume distinguished between relations of ideas (a priori, necessary) and matters of fact (a posteriori, contingent).
+5. Logical positivism held that meaningful statements are either analytic or empirically verifiable.
+6. The verification principle: a statement is meaningful if and only if it is either analytic or empirically verifiable.
+7. The verification principle is self-refuting – it is neither analytic nor empirically verifiable.
+8. Quine attacked the analytic-synthetic distinction, arguing that no statement is immune from revision.
+9. Quine's holism: our beliefs face the tribunal of experience as a corporate body, not individually.
+10. The empiricist dogma that each statement has its own empirical content is false – meaning is holistic.
+
+**Chapter 14**
+
+1. Determinism is the thesis that every event is necessitated by prior causes according to natural laws.
+2. If determinism is true, then given the past and the laws of nature, there is only one possible future.
+3. Hard determinism holds that determinism is true and incompatible with free will, so we have no free will.
+4. Libertarianism holds that we have free will, which requires that determinism be false.
+5. Agent causation is the view that free actions are caused by agents themselves, not by prior events.
+6. The consequence argument: if determinism is true, then our actions are consequences of events before we were born, so we have no control over them.
+7. The problem of luck: if our actions are not determined, they seem to be random, which is not freedom either.
+8. Indeterminism does not obviously give us the kind of control required for moral responsibility.
+9. Quantum indeterminacy does not help with free will because random events are not free choices.
+10. The scientific worldview seems to leave no room for libertarian free will.
+
+**Chapter 15**
+
+1. Compatibilism is the thesis that free will is compatible with determinism.
+2. Compatibilists redefine free will as acting according to one's desires without external constraint.
+3. Hume held that freedom is the power to act according to the determinations of the will.
+4. Frankfurt's hierarchical theory: free will involves having the will one wants to have – second-order volitions.
+5. An addict who wants to be free of addiction but cannot stop does not act freely, even if unconstrained.
+6. Freedom requires that one's first-order desires align with one's second-order volitions.
+7. The compatibilist sense of 'could have done otherwise' means: would have done otherwise if one had chosen differently.
+8. Critics argue that compatibilism changes the subject – determinism still rules out ultimate responsibility.
+9. The manipulation argument: if someone is manipulated to have certain desires, they are not free, even if compatibilist conditions are met.
+10. Compatibilism may capture a sense of freedom sufficient for moral responsibility, even if not ultimate freedom.
+
+**Chapter 16**
+
+1. Personal identity concerns what makes a person the same person over time.
+2. The bodily criterion holds that personal identity consists in continuity of the body.
+3. The psychological criterion holds that personal identity consists in psychological continuity – memory, personality, beliefs.
+4. Locke held that personal identity is constituted by memory – you are the same person as a past person if you remember their experiences.
+5. Reid's objection: the transitivity of identity plus the non-transitivity of memory leads to contradiction.
+6. The psychological continuity theory allows for overlapping chains of memory, solving Reid's objection.
+7. Thought experiments involving teleportation, brain transplants, and fission challenge our intuitions about personal identity.
+8. Parfit argued that personal identity is not what matters – what matters is psychological continuity, even without identity.
+9. The fission case: if your brain is split and each half put in a different body, which one is you?
+10. Parfit's conclusion: identity is not what matters for survival; psychological connectedness and continuity are what matter.
+
+**Chapter 17**
+
+1. Causation is a relation between events in which one event brings about another.
+2. Hume analyzed causation as constant conjunction – we never observe a necessary connection between cause and effect.
+3. For Hume, to say A causes B is to say that events of type A are regularly followed by events of type B.
+4. The regularity theory faces the problem of distinguishing genuine causal regularities from accidental ones.
+5. Counterfactual theories analyze causation in terms of counterfactual dependence: if the cause had not occurred, the effect would not have occurred.
+6. Lewis's theory: C causes E if and only if E counterfactually depends on C, or there is a chain of counterfactual dependence from C to E.
+7. The problem of preemption: in cases where a backup cause would have produced the effect, counterfactual dependence fails.
+8. The problem of overdetermination: when two causes are each sufficient for the effect, neither is counterfactually necessary.
+9. Probabilistic theories hold that causes raise the probability of their effects.
+10. The nature of causation remains one of the most contested issues in metaphysics.
+
+**Chapter 18**
+
+1. Modality concerns necessity and possibility – what must be, what could be, and what could not be.
+2. A proposition is necessarily true if it is true in all possible worlds.
+3. A proposition is possibly true if it is true in at least one possible world.
+4. A proposition is contingent if it is true in some possible worlds but not others.
+5. Possible worlds are ways the world could have been – complete, consistent states of affairs.
+6. Lewis's modal realism holds that possible worlds are real, concrete entities as real as our own world.
+7. Ersatz modal realism holds that possible worlds are abstract entities – sets of propositions or states of affairs.
+8. De dicto modality concerns the modal status of propositions; de re modality concerns the modal properties of objects.
+9. Kripke argued that some necessary truths are knowable only a posteriori, like 'water is H2O'.
+10. Essentialism holds that objects have some properties necessarily – properties without which they would not be that object.
+
+**Chapter 19**
+
+1. Ethics concerns questions about how we ought to live and what we ought to do.
+2. Metaethics concerns the nature of moral judgments, properties, and facts.
+3. Normative ethics concerns which actions are right and which things are good.
+4. Applied ethics concerns specific moral issues like abortion, euthanasia, and war.
+5. Moral realism holds that there are objective moral facts independent of what anyone thinks or feels.
+6. Moral anti-realism denies that there are objective moral facts.
+7. Cognitivism holds that moral judgments are truth-apt – capable of being true or false.
+8. Non-cognitivism holds that moral judgments are not truth-apt – they express attitudes rather than state facts.
+9. The fact-value distinction holds that facts about how things are do not entail facts about how things ought to be.
+10. Moral truths, if they exist, supervene on natural facts – there can be no moral difference without a natural difference.
+
+**Chapter 20**
+
+1. Emotivism is the view that moral judgments express emotions or attitudes rather than state facts.
+2. Ayer held that 'X is wrong' means something like 'Boo to X!' – it expresses disapproval.
+3. Stevenson developed emotivism to include the persuasive function of moral language.
+4. Emotivism is a form of non-cognitivism – moral judgments are neither true nor false.
+5. The Frege-Geach problem: moral terms function in embedded contexts in ways emotivism cannot explain.
+6. 'If lying is wrong, then getting your brother to lie is wrong' uses 'wrong' in a context where no attitude is expressed.
+7. Emotivism cannot explain the logical validity of moral arguments.
+8. Prescriptivism (Hare) holds that moral judgments are universal prescriptions, not mere expressions of emotion.
+9. Quasi-realism (Blackburn) attempts to earn the right to talk as if moral realism were true, starting from an expressivist base.
+10. The problems facing emotivism show that moral language has a cognitive dimension that pure expressivism cannot capture.
+
+Here are the 20 most brilliant quotes from Chapter 1:
+
+1. "Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science."
+
+2. "The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold."
+
+3. "Philosophy explains by clarifying statements. Science explains by positing entities."
+
+4. "To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief."
+
+5. "Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements. Statements that make sense are those that can be true, and statements that don't are those that can't."
+
+6. "When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief. But they frequently don't. Instead they accept the absurdity and, in order to make this mistake of theirs work, they develop ad hoc hypotheses as to the nature of reality that undermine the integrity of their own belief system."
+
+7. "Brentano and Meinong were ontologizing when they should have been analyzing."
+
+8. "Mental entities have propositions for their contents. When correct, those propositions describe existing things. When false, they don't. But nothing non-existent or quasi-existent can be the object of a thought or perception."
+
+9. "Our knowledge of what words mean is what guides our linguistic behavior. If meaning were use, meaning couldn't guide use. But it obviously does."
+
+10. "To the extent that my uttering those words embodied a failure to know the actual meaning of what I was saying—to the extent that meaning failed to guide use, in other words—I misspoke. And to the extent that my uttering those words embodied a knowledge of what they meant—to the extent that meaning did guide use, in other words—I spoke properly."
+
+11. "There are two kinds of 'nonsense.' A sentence can be nonsense by failing to have any meaning. And a sentence can be nonsense by virtue of having an absurd meaning. Ryle doesn't distinguish between these two kinds of nonsense. Neither does Wittgenstein."
+
+12. "LP is neither an empirical truth nor a tautology. It is thus a counterexample to itself and is therefore false."
+
+13. "Thus, the likelihood that empiricism is correct is inversely proportional to the degree of probability that the information at our disposal confers on it. And this means that, if it's a certainty that empiricism is correct, it's a certainty that it's false."
+
+14. "Given any body of data, there are different, but equally observationally legitimate ways of describing it. This means that, if any inductions are better than any others, we must have legitimate but at least partly non-observational grounds for believing that, when making inductive inferences, certain properties (e.g., green) are relevant and others (e.g., grue) are not."
+
+15. "Sentences are digital structures. They have a unique decomposition into a finite number of discrete parts. Pictures aren't like this. A picture of a cat on the mat doesn't have one, minimal unit of significance corresponding to the cat, another to the mat, etc."
+
+16. "To the extent that a given thing is functioning as a linguistic expression, it is not functioning as a picture. Things that happen to be pictures cannot function as pictures so far as they are functioning as linguistic expressions."
+
+17. "There are, quite literally, infinitely many informally valid inferences for each formally valid one. So Wittgenstein's allegation that all entailments are formal entailment is not feasible."
+
+18. "One knows the meanings of expressions descriptively. Two very different descriptions can pick out some one thing. Therefore, the perceptually encoded descriptions through which one learns what two expressions mean may differ enormously, even if those expressions mean the same thing. A consequence is that what utterances tell you is as much a function of the information through which you learn their meanings as it is of those meanings themselves."
+
+19. "In order to be able to represent logical form, we should have to be able to station ourselves with sentences outside logic, that is to say outside the world. Wittgenstein seems to be saying that we cannot correctly describe the relationship holding between our words and the facts they describe. But, if correct, that point itself describes that relationship, calling into question its own coherence."
+
+20. "No language can express all of its own semantic rules. Given any language L, what we just said about English is true of L."
+
+TEXT INTELLIGENCE REPORT
+Generated: 12/17/2025, 1:59:33 PM
+Source Length: 28993 words
+LLM Used: openai
+
+--- KEY QUOTATIONS ---
+1. Philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world.
+2. Whatever we know, we know it through these categories (and others like them—the list is not complete). But even though we cannot think without them, they are seldom the objects of thought.
+3. Self-understanding isn’t the mind’s primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one.
+4. Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science.
+5. The philosopher is interested in the laws governing the laws. He doesn’t want to know what in fact holds. He wants to know what it would even make sense to claim to hold.
+6. Frege's legacy to philosophy can be summed up thus: When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief.
+7. Any interest that botanists have in plants that might exist, but don’t, is subordinate to their interest in what plants actually exist. Like all scientists, they are interested in what there could be only to the extent that it helps them figure out what there is. But with philosophers, it’s the other way around.
+8. Statements that make sense are those that can be true, and statements that don’t are those that can’t. Therefore, statements that make sense describe possible realities and those that don’t don’t.
+9. What this shows is that, in at least some cases, philosophical insight is acquired, not by doing parascience, but by analyzing meanings—not by positing entities, but by clarifying statements.
+10. Analytic philosophy is philosophy that is driven by acceptance of Frege's legacy.
+

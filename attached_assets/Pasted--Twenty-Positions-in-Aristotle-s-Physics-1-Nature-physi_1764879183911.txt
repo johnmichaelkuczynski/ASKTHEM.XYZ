@@ -1,0 +1,41 @@
+**Twenty Positions in Aristotle's *Physics***
+
+1. **Nature (physis)** is an internal principle of motion and rest—natural things have within themselves the source of their own change.
+
+2. **Physics studies natural beings**—things that exist by nature as opposed to things that exist by art (techne) or chance.
+
+3. The physicist must know all **four causes**: material, formal, efficient, and final—nature is a cause in multiple senses.
+
+4. **Teleology is essential to natural explanation**—nature acts for the sake of ends; final causation is not reducible to mechanism.
+
+5. **Chance and spontaneity** are real but derivative—they are incidental causes that presuppose the regular, goal-directed order of nature.
+
+6. The principles of natural things are **form, privation, and matter**—change requires a persisting substrate and a transition between opposites.
+
+7. **Matter (hyle)** is pure potentiality; **form (eidos)** is actuality—every natural substance is a composite of the two.
+
+8. **Motion (kinesis)** is the actuality of what exists potentially, insofar as it is potential—the progressive actualization of a capacity.
+
+9. There are four kinds of motion: **locomotion, alteration, growth/diminution**, and (in a qualified sense) **generation/corruption**.
+
+10. Motion presupposes the **infinite, place, void, and time**—each must be analyzed to understand change.
+
+11. The **infinite** exists only potentially, never actually—there is no actually infinite body or magnitude, only indefinite divisibility or addition.
+
+12. **Place (topos)** is the innermost motionless boundary of the containing body—it is where a thing is, distinct from the thing itself.
+
+13. **Void (kenon) does not exist**—motion does not require empty space; in fact void would make motion impossible (no natural direction, no medium for speed differentiation).
+
+14. **Time** is the number of motion with respect to before and after—it is dependent on change and on a soul that counts.
+
+15. The **now** is to time as the moving body is to motion—a continuity-maker that is always different yet connects past and future.
+
+16. **Continuity** characterizes magnitude, motion, and time—they are infinitely divisible and contain no indivisible atomic units.
+
+17. **Zeno's paradoxes** are resolved by distinguishing actual from potential infinity—a finite magnitude contains infinitely many potential but not actual parts.
+
+18. Every motion requires a **mover**—nothing moves itself in the primary sense; there must be an agent of change distinct from the patient.
+
+19. There cannot be an **infinite regress of movers**—there must be a **first unmoved mover** that initiates motion without itself being moved.
+
+20. The **unmoved mover** is eternal, without magnitude, and located at the periphery of the cosmos—it causes the eternal circular motion of the heavens, which in turn causes all sublunary change.

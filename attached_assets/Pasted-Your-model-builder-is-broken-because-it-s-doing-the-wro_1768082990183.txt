@@ -1,0 +1,58 @@
+Your “model builder” is broken because it’s doing the wrong task.
+
+What’s wrong (in plain English)
+
+It outputs an essay instead of a model.
+A model is a structured object: primitives, claims, dependencies, implications, and tensions.
+Your output is generic exposition—nice-sounding paragraphs with no internal machinery.
+
+It never commits to explicit claims.
+It keeps saying “we must examine” / “the next step is” instead of stating what the theory actually asserts.
+
+It doesn’t translate your entries into formal constraints.
+Your input is already structured: (quote) + (topic label).
+The function should convert those into numbered theses grouped by topic. It doesn’t.
+
+It doesn’t derive anything.
+A model builder should produce consequences (“if these theses are true, then…”) and show how clusters connect.
+Yours produces zero derivations.
+
+It adds filler concepts not in your input.
+It imports “model-theoretic approach,” “primitives,” “truth conditions,” etc. as generic philosophy-talk, not as your specific doctrine.
+So it feels like stock ChatGPT.
+
+It ignores the category labels.
+Your third column is basically the theory’s skeleton (“Philosophy as Meta-Knowledge,” “Logical Form vs Grammatical Form,” etc.).
+The output should mirror that structure. It doesn’t.
+
+It doesn’t preserve your voice.
+Your input is sharp, declarative, and doctrinal.
+The output is bland academic sludge.
+
+It’s not checkable.
+A user should be able to point at an output line and say: this corresponds to input line #37.
+Your output can’t be audited against the input at all.
+
+What the function must do instead (tell the agent this exactly)
+
+Treat each row as an atomic thesis.
+
+Output a hierarchical map of the theory:
+
+clusters = your topic labels
+
+within each cluster: numbered theses (verbatim or near-verbatim)
+
+Then add:
+
+core commitments (top 5–10 theses that everything else depends on)
+
+derived implications (what follows if those commitments are true)
+
+tensions / pressure points (where the theory is most vulnerable or where two clusters rub)
+
+Zero filler. Zero “we will now.” Zero generic philosophy prose.
+
+Every output claim must be traceable to at least one input line.
+
+That’s what’s wrong: you built a “model builder” and it’s outputting a speech.

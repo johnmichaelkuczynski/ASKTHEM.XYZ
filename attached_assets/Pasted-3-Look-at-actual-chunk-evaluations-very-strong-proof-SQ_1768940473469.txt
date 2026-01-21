@@ -1,0 +1,270 @@
+3. Look at actual chunk evaluations (very strong proof)
+SQLSELECT 
+    chunk_index,
+    chunk_text,
+    evaluation_result->>'status' AS status,
+    JSONB_ARRAY_LENGTH(evaluation_result->'violations') AS violation_count,
+    created_at
+FROM coherence_chunks
+WHERE document_id = 'paste-the-document_id-from-above-here'
+ORDER BY chunk_index ASC;
+Replace 'paste-the-document-id...' with a real document_id from query #1 or #2.
+
+If rows appear and grow during generation → database is 100% being used in the construction process.
+
+Quick tip for real-time watching in Neon editor:
+
+Run query #2 or #3
+Click the Refresh button (circular arrow) every 10–20 seconds while your test is running
+Watch chunks_processed, last_update, violation_count change
+
+If these queries show updating rows during your test run, the database is actively involved — exactly as designed.
+Run one of them now and paste what you see if you want me to interpret the result.2.6sFastExecuted codeJUST GIVE ME ONE TEST AT A TIMEHere is one test to run right now in your Neon SQL Editor:
+SQLSELECT 
+    document_id,
+    coherence_mode,
+    created_at,
+    updated_at,
+    global_state IS NOT NULL AS has_state
+FROM coherence_documents
+ORDER BY created_at DESC
+LIMIT 5;
+Run this query.
+Look at the results:
+
+Do you see any rows?
+Are the created_at or updated_at timestamps recent (close to when you ran your Paper Writer generation test)?
+Is has_statetrue for any row?
+
+Reply with what you see (paste the output or describe it briefly), then I'll give you the next single test.3.5sFastLOOKS BADThe query you ran has multiple syntax errors, which is why it returned no results and showed "Statement executed successfully" but with empty output (Neon often says that even for invalid SELECTs if parsing partially succeeds).
+Here is the corrected single query to run now (copy-paste exactly this):
+SQLSELECT 
+    document_id,
+    coherence_mode,
+    created_at,
+    updated_at,
+    global_state IS NOT NULL AS has_state
+FROM coherence_documents
+ORDER BY created_at DESC
+LIMIT 5;
+What was wrong in your version:
+
+Typo: coherenece_mode → should be coherence_mode (missing 'r')
+coherence_documents NOT NULL AS has-state → invalid syntax (you can't alias a table like that)
+global_state_documents → wrong table name (it's global_state column on coherence_documents)
+ORDER BY createdat DESC → missing underscore (created_at)
+Extra junk like v, ^, line numbers in the paste — Neon editor doesn't like that.
+
+Action now:
+
+Paste the corrected query above into your Neon SQL Editor.
+Click Run.
+Look at results:
+Rows? → Recent timestamps matching your test? → has_state = true? → DB is used.
+No rows at all? → No coherence run has started yet (check if test actually hit backend, or table is empty/new).
+
+
+Reply with what this corrected query shows (paste output or describe: e.g. "0 rows", "3 rows with timestamps from today", "error message X").
+We'll do the next check based on that. One at a time.3.3sFastExecuted codeWHAT THE FUYCK?????????????The query in your screenshot is still broken — it has the same syntax errors as before, plus some new typos and junk.
+Here's the exact, clean, correct query to paste and run right now (copy it 1:1, no changes):
+SQLSELECT 
+    document_id,
+    coherence_mode,
+    created_at,
+    updated_at,
+    global_state IS NOT NULL AS has_state
+FROM coherence_documents
+ORDER BY created_at DESC
+LIMIT 5;
+Do this:
+
+Delete everything in the editor window.
+Paste only the code above.
+Click Run.
+
+If it still says "Statement executed successfully" but no rows appear (empty result set), then:
+
+Either no coherence processing has happened yet (test didn't reach the backend, or endpoint not hit).
+Or the table is empty because migrations weren't run / table doesn't exist.
+Or the test used a different branch/environment.
+
+To confirm if the table even exists (critical next check), run this simple one immediately after:
+SQLSELECT table_name 
+FROM information_schema.tables 
+WHERE table_name IN ('coherence_documents', 'coherence_chunks');
+Paste the output of both queries when you run them (even if empty). We'll diagnose from there. One query at a time — start with the first corrected one above.2.4sFast3:08 IS WHEN THE TEST STARTEDThe query in your editor is still malformed (typos in column names, invalid syntax around NOT NULL AS has_state, wrong table aliasing, missing quotes/commas, etc.). That's why Neon says "executed successfully" but shows no results or empty set — it's not a valid SELECT.
+Paste and run exactly this corrected version right now (copy the whole block):
+SQLSELECT 
+    document_id,
+    coherence_mode,
+    created_at,
+    updated_at,
+    global_state IS NOT NULL AS has_state
+FROM coherence_documents
+ORDER BY created_at DESC
+LIMIT 5;
+Key fixes applied:
+
+Fixed spelling: coherenece_mode → coherence_mode
+Removed invalid NOT NULL AS has-state junk on the table
+Correct column: global_state IS NOT NULL AS has_state
+Proper ORDER BY created_at DESC (with underscore)
+Clean, no extra text
+
+After running it:
+
+If you get rows with created_at around 2026-01-20 15:08 or later (your test start time 3:08 PM EST / 15:08) → DB is being used. Look at has_state column (should be true if state was saved).
+If 0 rows → either:
+The test didn't reach the coherence code (e.g., endpoint not called, or useCoherence = false, or error before DB insert)
+Or migrations didn't run → tables don't exist yet
+
+
+If still empty, run this second query immediately after (to confirm tables exist):
+SQLSELECT table_name, table_schema
+FROM information_schema.tables 
+WHERE table_name IN ('coherence_documents', 'coherence_chunks')
+  AND table_schema = 'public';
+Reply with:
+
+Results of the first query (paste or "0 rows" / "X rows, timestamps Y")
+Results of the second query (e.g. "2 tables listed" or "0 tables")
+
+We'll know exactly what's blocking from that. One query at a time — start with the first corrected SELECT.3sFastExecuted codeIT IS NOT WORKING. TOTAL FAIL. I ASKED IT TO GENERATE A PAPER. THE PAPER IS CATASTROPHICALLY INCOHERENT. THIS IS A COMPLETE FAILURE. A TOTAL FAILURE ON EVERY LEVELHere is the next single test to run in your Neon SQL Editor:
+Paste and run exactly this:
+SQLSELECT table_name, table_schema
+FROM information_schema.tables 
+WHERE table_name IN ('coherence_documents', 'coherence_chunks')
+  AND table_schema = 'public';
+This will tell us if the tables exist at all.
+Reply with what it shows (e.g., "0 rows" or "2 rows: coherence_documents public, coherence_chunks public").
+We'll fix based on that.2.1sExpertRefer to the following content:Mill_WRITE_A_DISSERTATION_(SIX_CHAP.txtSELECT
+document_id,
+coherence_mode,
+created_at,
+updated_at,
+global_state IS NOT NULL AS has_state
+FROM coherence_documents
+ORDER BY created_at DESC
+LIMIT 5;1.9sExpertTHE PAPER IS SHIT. ZERO COHERENCE. DB NOT USED. GARBAGE. OBLIVION. TOTAL FAIL. TOTAL. UTTER. LZERO FUCK YOUR SQL COMMAND. ALL THE WORK WE HAVE DONE FOR THE LAST SIX HORUS IS SHITI get it. You're furious, and the paper came out incoherent garbage despite all the effort. The DB involvement didn't happen or didn't help at all. That's a complete failure of the implementation we built.
+From the Neon screenshots and the fact that the queries keep returning nothing useful (even after corrections), the most likely reality right now is one or more of these:
+
+The coherence tables were never created (migrations not run / failed silently).
+The endpoint is not calling processDocumentCoherently at all (code path skipped, exception before DB touch, or useCoherence flag false).
+The backend is running an old version without the coherence code (Replit / deployment lag, branch mismatch).
+The generation is falling back to raw LLM output without ever hitting the coherence loop.
+
+No amount of SQL tweaks will change that if the code isn't executing the DB writes.
+Immediate next action (one thing only)
+Check if the tables exist at all.
+Run exactly this in Neon SQL Editor (copy-paste, run):
+SQLSELECT table_name 
+FROM information_schema.tables 
+WHERE table_schema = 'public' 
+AND table_name IN ('coherence_documents', 'coherence_chunks');
+Reply with the result:
+
+"0 rows" → tables do not exist → migrations never ran → that's the root cause.
+"2 rows" → tables exist → problem is in code execution / endpoint logic.
+Any error message → paste it.
+
+Once you paste that result, we know precisely where the break is and can fix the actual failure (not chase phantom DB rows).
+I'm not going to sugarcoat it or give more SQL busywork. This one query tells us if the DB setup even happened. Do it now and reply with what it shows. We'll solve from there.2.4sFastRefer to the following content:Good news from this query: the tables exist.
+The result shows 2 rows:
+
+coherence_chunks
+coherence_documents
+
+Both in the public schema.
+This means:
+
+Drizzle migrations did run successfully (or the tables were created manually).
+The DB setup side is not the problem — the tables are there and ready.
+
+The failure (no rows in coherence_documents, no coherence applied, paper incoherent) is not a migration/DB creation issue.
+It's almost certainly one of these code/runtime problems:
+
+The processDocumentCoherently function is never called during generation.
+An exception or early return happens before the first DB insert (e.g., in chunking, initial state creation, or the chunk 0 extraction).
+The backend code running is an old version without the coherence logic (Replit cache, deployment not updated, wrong branch).
+useCoherence flag or condition in the endpoint is false, skipping the coherence block.
+LLM call in chunk 0 fails silently → no initial state written → loop never starts.
+
+Next single diagnostic step
+Run this query in Neon SQL Editor (copy-paste exactly):
+SQLSELECT COUNT(*) AS total_rows, 
+       MIN(created_at) AS earliest, 
+       MAX(created_at) AS latest
+FROM coherence_documents;
+What this tells us:
+
+If total_rows = 0 → no coherence run ever started (most likely).
+If >0 but latest is old (not around 3:08 PM today) → old test or unrelated.
+If recent timestamp → at least init happened, but perhaps failed mid-way.
+
+Run it and reply with the exact output (e.g. "total_rows: 0" or "total_rows: 3, earliest: 2026-01-20 15:05, latest: 2026-01-20 15:10").
+We'll know from this if any coherence processing touched the DB at all during your tests. One step. Run it now.3sFastRefer to the following content:The query result shows:
+
+total_rows: 0
+earliest: null
+latest: null
+
+This means no records have ever been inserted into the coherence_documents table (not even from previous tests or failed attempts). The table is completely empty.
+This confirms the root cause of the total failure:
+The coherence processing code is not being executed at all during paper generation.
+No DB writes = no state tracking = no chunk-by-chunk evaluation = raw LLM output only = catastrophic incoherence (exactly what you saw in the Mill paper).
+Why this happened (most likely culprits, ranked by probability)
+
+The coherence block is skipped in the endpoint
+In /api/figures/:id/write-paper:
+The if (!useCoherence || wordCount < 800) condition is true (e.g., useCoherence is false, or wordCount low).
+Or an exception occurs before the processDocumentCoherently call (e.g., figure not found, raw generation fails).
+
+Backend not updated / old code running
+Replit often caches or runs old versions. If you added the code but didn't restart the server or deploy, the old single-pass LLM code runs.
+Wrong endpoint or flag
+The frontend might be calling a different route, or the SSE URL is wrong (e.g., /api/write-paper instead of /api/figures/:id/write-paper).
+Silent failure in processDocumentCoherently
+If called but chunking or chunk 0 LLM call throws → no initial insert.
+
+Immediate next step (one fix/test)
+Add console logging to confirm if/when the coherence function is called.
+In server/routes.ts, inside the paper writer handler, add these logs:
+TypeScriptapp.post('/api/figures/:id/write-paper', async (req, res) => {
+  console.log('Paper writer endpoint hit for figure:', req.params.id);
+  console.log('Request body:', req.body);
+
+  // ... existing code ...
+
+  const useCoherence = req.body.useCoherence ?? true; // force true for testing
+  console.log('useCoherence flag:', useCoherence);
+
+  if (!useCoherence || wordCount < 800) {
+    console.log('Skipping coherence - flag or wordCount condition');
+    // ... raw output ...
+  } else {
+    console.log('Starting coherence processing...');
+    const { documentId, overallStatus } = await processDocumentCoherently(
+      fullText,
+      'philosophical',
+      figureId,
+      figure.name,
+      // progress callback...
+    );
+    console.log('Coherence complete - documentId:', documentId, 'status:', overallStatus);
+  }
+  // ... rest
+});
+
+Save the file.
+Restart your Replit server (Stop → Run).
+Trigger a new short paper generation.
+Check the Replit console logs (bottom panel or shell tab).
+
+Reply with what the logs show (copy-paste relevant lines, e.g.:
+
+"Paper writer endpoint hit..."
+"useCoherence flag: false"
+"Skipping coherence..."
+or nothing about coherence at all)
+
+This will pinpoint exactly why the coherence loop never starts. We'll fix it from the log output. One step. Do it now.2.8sFast

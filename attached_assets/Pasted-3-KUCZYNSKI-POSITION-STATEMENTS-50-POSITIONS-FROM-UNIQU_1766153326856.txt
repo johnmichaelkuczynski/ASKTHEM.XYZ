@@ -1,0 +1,217 @@
+3 KUCZYNSKI POSITION STATEMENTS
+
+50 POSITIONS FROM "UNIQUELY INDIVIDUATING DESCRIPTIONS"
+
+
+ON THE CENTRAL THESIS
+
+1. In order to refer to an object, one must know of some description that singles it out—a uniquely individuating description (UID).
+
+2. In order to think about an object, one must know of some description that singles it out.
+
+3. Without knowledge of a uniquely individuating description, there is no reference and there is no conception.
+
+4. Causal connections to objects, though essential, have a subordinate role: they facilitate conception and reference by being part of one's knowledge of a uniquely individuating description.
+
+5. The ability to think about Socrates requires knowledge of a description that singles him out, even though "Socrates" itself has no descriptive content.
+
+
+ON KRIPKE AND DIRECT REFERENCE
+
+6. Kripke's major point about proper names is correct: "Socrates" is not a disguised definite description.
+
+7. Direct reference theory is correct—the sole semantic value of "Socrates" is Socrates.
+
+8. Semantics is not epistemology: given that "Socrates" is a label rather than a description, it does not follow that one can think about Socrates without knowing a UID.
+
+9. None of Kripke's important semantic insights require abandoning the position that thinking about x requires knowing a description that applies uniquely to x.
+
+10. Kripke's own account actually requires that one always have knowledge of a uniquely individuating description.
+
+
+ON RUSSELL'S THEORY
+
+11. According to Russell, "Socrates" is synonymous with a definite description—Kripke demolished this view.
+
+12. One can understand sentences containing "Socrates" without knowing any particular description that uniquely applies to him.
+
+13. Given any description D that applies uniquely to Socrates, one can understand "Socrates was wise" without knowing that D applies to Socrates.
+
+
+ON CAUSAL THEORIES OF REFERENCE
+
+14. "Socrates" refers to Socrates because a certain kind of causal relation holds between tokens of "Socrates" and Socrates himself.
+
+15. Reference is transmitted through a chain of causal connections from original acquaintance through successive speakers.
+
+16. Words undergo phonetic distortion as they are transmitted through causal chains, but the principles governing appropriation remain the same.
+
+
+ON WAYS OF LEARNING WHAT A TERM REFERS TO
+
+17. There are three ways to add a referring term to one's lexicon: ostensive definition, descriptive definition, or simply "picking up" the use.
+
+18. Ostensive definition actually collapses into a kind of descriptive definition.
+
+19. In most cases where we seem to appropriate a name through descriptive definition, we are actually appropriating it through "picking up."
+
+20. Cases of genuinely acquiring a name through pure descriptive definition are rare and tend to be artificial.
+
+
+ON OSTENSIVE DEFINITION
+
+21. For an ostensive definition to work, one must have some way of singling out the object being pointed to.
+
+22. Picking out a single object involves knowing a uniquely individuating description.
+
+23. Even when thirty qualitatively identical people are present, ostension works because one knows "there is some x such that the speaker just pointed x out."
+
+24. The description from ostension need not tell you anything about how the referent differs psychologically or physically from others—it need only enable cognitive singling out.
+
+25. The causal connection in seeing someone is a component of one's knowledge of a uniquely individuating description, not primary in itself.
+
+
+ON "PICKING UP" NAMES
+
+26. One can acquire ability to use a name meaningfully just by overhearing others use it, without ostensive or descriptive definition.
+
+27. When you overhear Smith say "Argo is a cad," you thereby know: on that occasion, there was exactly one person Smith was describing as a cad, and "Argo" refers to that person.
+
+28. Terms like "occasion" and "context" are context-sensitive—an occasion can be a millisecond or an entire era.
+
+29. Within any conversation where multiple names are used, there are sub-occasions where each name refers to exactly one person being described.
+
+30. The information you have about the context of a speech act—even if the speech act's content is minimal—gives you a uniquely individuating description.
+
+
+ON THE DISTINCTION BETWEEN CLAIMS
+
+31. "Exactly one person has phi" differs from "Exactly one person is being described, on some occasion, as having phi."
+
+32. Your picking up "Argo" doesn't require learning that exactly one person is a cad—only that on a specific occasion exactly one person was being described as a cad.
+
+33. The information enabling reference comes not just from what the speaker says but from your perception of the conversational context.
+
+
+ON TRANSMISSION THROUGH CAUSAL CHAINS
+
+34. If you are at five hundred removes from someone acquainted with the referent, the same principles of appropriation apply.
+
+35. However distorted a word becomes through phonetic transmission, appropriating it still requires knowledge of a uniquely individuating description.
+
+36. There is no vicious circularity: the original namer learned through ostension, and each subsequent appropriator learns through knowledge of a UID.
+
+
+ON REPLACEMENT OF DESCRIPTIONS
+
+37. One typically forgets the existence-claim through which one originally added a name to one's lexicon.
+
+38. The original uniquely individuating description is not simply dropped—it is replaced by another "interlocking" description.
+
+39. The new description "inherits" the verifier of the old one: the thing making both true is the same.
+
+40. This process of replacement continues indefinitely—e3 replaces e2, which replaced e1, and so on.
+
+41. So long as one is able to think about someone, one possesses some uniquely individuating description of them.
+
+
+ON THE ABILITY TO REFER WITHOUT KNOWING WHO
+
+42. One can be able to think about and refer to someone without knowing who they are in any historically significant sense.
+
+43. Most "descriptive definitions" are really cases of learning who somebody is, not cases of acquiring the ability to refer to them.
+
+44. The ability to refer to and think about an object usually pre-exists learning who or what that object is.
+
+
+ON LITERAL MEANING VS. COGNITIVE CONTENT
+
+45. One must distinguish literal meaning from cognitive content.
+
+46. The literal meaning of "Fred looked puffy" is simply: Fred looked puffy—not some existential-descriptive claim.
+
+47. Even though names are just labels semantically, one learns which thing a name labels through existential-descriptive claims.
+
+48. The semantics of a name are not existential-descriptive, but the act of learning those semantics is existential-descriptive.
+
+
+ON SCOPE AND OPERATORS
+
+49. When giving descriptive definitions, the descriptive information must be given wide-scope relative to the "means that" operator—otherwise the definition is false.
+
+50. The operator "the semantic rule for __ is" must be given narrow-scope to avoid commitment to false descriptivism.
+
+POSITIONS EXTRACTED FROM: The Will to Project
+Cults, Hyperreality, and the Foundations of Religion
+==================================================
+
+NATURE OF CULTS VS. RELIGIONS
+-----------------------------
+1. A religion is a sanitized, rationalized cult that has become respectable and absorbed into society.
+2. A religion is a cult that has been institutionalized and bureaucratized into near-lifelessness.
+3. Religions are degenerate cults, not the reverse—degenerate precisely because they conform to rationality-based benchmarks.
+4. Religions lack the "spiritual vitality" that sets them apart from ordinary institutions like the Department of Motor Vehicles.
+5. A cult is a case of collective person-worship.
+6. Worship by a single individual does not constitute a cult; the collective element is essential.
+7. Multiple individuals worshipping the same person independently (without mutual policing) does not constitute a cult.
+8. A cult exists when followers police each other to perpetuate the cycle of worship.
+
+NATURE OF WORSHIP
+-----------------
+9. Worshipping something is not the same as acknowledging that it has great power.
+10. Being worshipful of a thing is not equivalent to making due allowances for its strengths.
+11. Worshipping someone may entail believing they possess some virtue to an extreme degree, but the entailment does not go in the reverse direction.
+12. Believing someone is superhumanly capable does not necessarily entail worshipping them.
+13. Superhuman is not the same as supernatural.
+14. To worship x is to regard x as supernatural.
+15. One's high regard for a worshipped entity is not answerable to empirical data.
+16. What is worshipped is necessarily a fiction.
+17. What is worshipped is necessarily a projection.
+
+PROJECTION AND REALITY
+----------------------
+18. Projection is unconscious assignment of a role or significance to something.
+19. "Unconscious projection" is a pleonasm, since projection is by definition unconscious role-assignment.
+20. Projection is equivalent to virtualization—experiencing what is internal as external.
+21. We can unconsciously assign people roles just as we can consciously do so in LARPing.
+22. When you consciously assign someone a fictional role, you retain awareness that they are not actually that character.
+23. When you unconsciously project a role onto someone, you genuinely experience the fictional character through them.
+24. A projected being appears as an apparition inhabiting a world it is not truly of.
+
+EVALUATION UNDER PROJECTION
+---------------------------
+25. When evaluating a non-projected person, their behavior is assessed on its own terms relative to evidence.
+26. When evaluating a projected person, their behavior is assessed with respect to their ability to function as a proxy for the projected fiction.
+27. Measures will be taken to compatibilize contradictory evidence with the projected fiction (e.g., explaining stupidity as a ploy or drug influence).
+28. If someone continually fails to match the projected fiction, they may be "fired" from that role.
+29. The answer to "what does X tell us about person P?" necessarily differs from "what does X tell us about P's feasibility as a fiction-proxy?"
+
+THE SUPERNATURAL
+----------------
+30. A projected being is ipso facto supernatural.
+31. A hallucinated entity (pure projection) can violate physical laws—walk on water, fly, walk through walls.
+32. A projection onto an actual person is more constrained by physical reality but is still supernatural.
+33. Projections onto real persons allow for supernatural interpretation of ambiguous perceptual data.
+34. Perceptual data is disambiguated in favor of supernatural interpretation when the subject is a projection-target.
+35. "Supernatural" means not merely "not bound by natural law" but "such that it is not even to be understood in terms of natural law."
+36. A supernatural being is one that is "in this world but not of it."
+37. Alleged singularities or anomalies are still of this world and are therefore not supernatural.
+38. To say something is "of another world" is to say its true home is a fictitious universe making an appearance in reality.
+39. Supposedly supernatural beings are always emotionally significant.
+40. If x is projected, then x is supernatural.
+41. If x is supernatural, then x is projected.
+42. A supernatural being is a fiction that we are seeing in something real.
+
+THE DIVINE AS A SPECIES OF THE SUPERNATURAL
+-------------------------------------------
+43. "Divine" is a subcategory of "supernatural"—all divine beings are supernatural.
+44. Not all supernatural beings are divine (e.g., monsters like Michael Myers are supernatural but not divine).
+45. Even debased supernatural beings (like movie monsters) are not merely non-divine but anti-divine—divine in the manner of representatives of Satan.
+46. Divine beings and supernatural beings are ultimately cut from the same cloth.
+
+THE CULT LEADER
+---------------
+47. The cult leader is necessarily perceived as supernatural, not merely as competent or virtuous.
+48. Extraordinary natural ability (e.g., Mozartian talent) is not sufficient for cult leadership on its own.
+49. Natural abilities can serve as evidence of supernatural status but do not qualify someone for cult leadership on their own terms.
+50. The cult leader must be the object of projection; followers are not following him but following the fiction of which he has been made the personification.

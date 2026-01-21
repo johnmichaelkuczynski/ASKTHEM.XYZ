@@ -1,0 +1,102 @@
+Here are another 100 contentions or claims extracted or inferred from the text of Chapter 14:
+
+1.  The view that the future is “fixed” by the present is a defining claim of determinism.
+2.  Indeterminism is a minimal negation of determinism, requiring only one instance of non-determination.
+3.  Most of the observable, macro-scale world operates as if it were deterministic.
+4.  Apparent randomness in everyday life usually results from complexity and ignorance, not fundamental indeterminacy.
+5.  The principle of “same cause, same effect” is central to the deterministic worldview.
+6.  Even if micro-level events are indeterministic, their effects often cancel out or are irrelevant at macro scales.
+7.  Predictability is a practical, epistemic concept, while determinism is a metaphysical one.
+8.  The limits of predictability are logical, not merely technological.
+9.  Sense-perception is an invasive, information-gathering process.
+10. The chain of perception—from object to light to eye to brain—involves multiple transformative stages.
+11. Information carried by light is a snapshot of the past state of an object.
+12. Any interaction between a probe (like light) and an object alters the object, however slightly.
+13. For very small objects, the act of observation can dramatically change their state.
+14. The observer cannot precisely know the perturbation caused by the observation itself.
+15. Therefore, there is an inescapable “margin of error” between reality and perception.
+16. Attempting to correct this error through further interaction only introduces more perturbation.
+17. This perceptual dilemma applies to any entity that gains knowledge through causal interaction.
+18. The author explicitly rejects the notion of non-causal, direct knowledge (even for a deity).
+19. Knowledge requires justification, which requires evidence, which requires a causal link.
+20. A “correct hallucination” or lucky guess does not constitute knowledge.
+21. Logical truths (like the laws of logic) are not limitations on power but define what is coherent.
+22. God’s inability to have non-causal knowledge is akin to an athlete’s inability to score a football touchdown in a soccer game—it’s a category error.
+23. Prediction is an application of causal laws to known initial conditions.
+24. Inaccurate knowledge of initial conditions guarantees inaccurate predictions.
+25. Our own mental states and knowledge are part of the causal fabric of the world.
+26. The content of our future knowledge is a future fact that can affect present actions.
+27. Knowing your future knowledge now would change that future knowledge, creating a paradox.
+28. Therefore, the growth of personal knowledge is an inherently unpredictable process.
+29. The “infallible self-predictor” is a logically incoherent concept.
+30. Psychological attitudes like confidence can be causal factors in bringing about outcomes.
+31. Self-fulfilling prophecies demonstrate that predictions can be part of the causal chain leading to the predicted event.
+32. This complicates prediction because the prediction itself becomes a new initial condition.
+33. “Random” in common parlance means “unforeseen” or “unexpected given my knowledge,” not “acausal.”
+34. An event can be fully determined yet perfectly random from a limited epistemic perspective.
+35. Randomness is not in the event but in the relationship between the event and an information set.
+36. Two observers with different knowledge can disagree on whether an event is random.
+37. In an indeterministic scenario with two equally likely outcomes, the actual outcome is not random relative to the knowledge that one of them would occur.
+38. Indeterminism can exist without events seeming “random” to a knowledgeable observer.
+39. The verification of universal claims like “all metals expand” requires inductive inference.
+40. Hume’s problem of induction questions the rational justification for such inferences.
+41. The author suggests Chapter 12 contains a refutation of Hume’s argument.
+42. In practice, everyone accepts inductive reasoning as justified.
+43. The difference between a justified belief (I won’t sprout wings) and an unjustified one (it will rain gumdrops) is clear in practice.
+44. Arguments against determinism based on the behavior of “identical” clones fail because perfect microphysical identity is virtually impossible.
+45. Any two physical systems, no matter how similar, will have some differing initial conditions.
+46. Determinism only requires that *identical* initial conditions yield identical outcomes; it doesn’t claim we can ever create them.
+47. Causal discovery in science works by observing correlations while striving to control other variables.
+48. A perfect correlation (100%) in practice is not necessary to infer a deterministic underlying law.
+49. Evidence for a deterministic law is found if the correlation can be made arbitrarily strong by controlling more factors.
+50. Our evidence for deterministic laws is “imperfect” but of the same type as our evidence for any empirical fact.
+51. Nothing known through sense-perception can be “definitively established” with absolute certainty.
+52. The existence of your hands is no more certain, in a strict philosophical sense, than the existence of deterministic laws.
+53. The shortcomings of induction are a general problem for empirical knowledge, not a specific problem for determinism.
+54. We can have strong, reasonable certainty about deterministic laws.
+55. The text presents a sustained defense of “compatibilism” between determinism and unpredictability.
+56. It argues against the intuitive link between determinism and complete predictability.
+57. It also argues against the intuitive link between indeterminism and randomness.
+58. The author positions their view as a “close approximation” to the truth of determinism for the macro-world.
+59. The narrative example of Smith’s death illustrates the core distinctions between determined, random, and foreseeable.
+60. The concept of “independent causal sequences” is key to understanding common-sense randomness.
+61. The burden of proof is higher for the determinist than for the indeterminist.
+62. Modern physics has made determinism a “live” philosophical question, not a settled one.
+63. The author is dismissive of arguments they perceive as based on semantic tricks or overly strict definitions of verification.
+64. The chapter engages with and rejects theological exceptions to epistemological principles.
+65. It makes a case for the universality of certain logical and epistemic constraints.
+66. Self-knowledge, specifically knowledge of one’s own future states, is presented as particularly problematic for prediction.
+67. The chapter implies that free will debates (not explicitly discussed here) must account for these predictability limits.
+68. The “perfect predictor” is often used in thought experiments about free will; this chapter undermines the coherence of that concept.
+69. The author uses analogies from sports (football/soccer) to illustrate logical incoherence.
+70. The text is pedagogical, addressing common student arguments directly.
+71. It references other chapters (10, 12, 25) for deeper treatment of related issues (knowledge, induction, God/logic).
+72. The end-of-chapter exercises test comprehension of the core distinctions (determinism vs. predictability vs. randomness).
+73. One exercise question references the Heisenberg Uncertainty Principle, suggesting it is often mistakenly invoked in these debates.
+74. The author claims their personal experience validates the power of self-fulfilling prophecy (self-confidence).
+75. They also speculate that apparent self-doubt might sometimes be a strategic form of self-protection.
+76. Information is physically embodied (in light waves, neural impulses).
+77. Transmission of information takes time, creating a necessary lag.
+78. Decoding information is a physical process in the perceiver.
+79. The “veil of perception” is a real, physical barrier created by the causal process of perception itself.
+80. The term “transperceptual” is coined to refer to the world as it exists outside of this perceptual process.
+81. Scientific laws are about transperceptual correlations.
+82. Our evidence for these correlations is always “imperfect” because it’s filtered through perception.
+83. The possibility of an “accidentally correct” representation of the world is acknowledged but deemed irrelevant to knowledge.
+84. Justification requires a reliable link between belief and truth, which causality provides.
+85. The argument against divine foreknowledge is based on epistemic principles, not theological ones.
+86. The author asserts that “rubbish!” is an appropriate response to the idea of non-causal knowledge.
+87. The tone is often forceful and dismissive of opposing views deemed logically flawed.
+88. The structure is logical and sequential: defining terms, presenting two major arguments for the predictability/determinism gap, analyzing randomness, defending the verifiability of determinism.
+89. Examples are used extensively to ground abstract philosophical points (Smith, the elevator, the metal bar, the cloned cells).
+90. The chapter aims to clarify common misconceptions in philosophy of science and epistemology.
+91. It suggests that much debate about determinism is muddled by conflating the metaphysical (what *is*) with the epistemic (what we can *know*).
+92. The author is a realist about the external world and causal laws.
+93. They are also a fallibilist about our knowledge of that world.
+94. The view presented is naturalistic, explaining knowledge and perception within a physical, causal framework.
+95. It rejects Cartesian-style dualism or direct mental access to the world.
+96. The “gulf” between perception and reality is not an argument for skepticism but a logical constraint on prediction.
+97. The focus is on the *conditions for the possibility* of prediction, which are found to be logically limited.
+98. The chapter can be seen as an application of broader insights about information theory and observer effects to classic philosophical problems.
+99. It implicitly argues that Laplace’s demon—an infinitely intelligent predictor knowing all initial conditions and laws—is logically impossible, not just physically impossible.
+100. The ultimate conclusion is that a deterministic universe is not a “clockwork” universe knowable in its entirety by any internal observer, due to the very nature of what it means to be an observing part of that causal system.

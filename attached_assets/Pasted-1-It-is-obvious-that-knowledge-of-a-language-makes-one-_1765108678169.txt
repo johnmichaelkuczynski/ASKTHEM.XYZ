@@ -1,0 +1,150 @@
+1. It is obvious that knowledge of a language makes one more intelligent in at least some respects.
+2. Knowledge of a language makes one more intelligent in at least some respects.
+3. Authoritarian governments tend to be less responsive to the needs of their constituents than democratic governments.
+4. One could not grasp that thought without knowing some language or other.
+5. We have at least some inclination to say that one could not grasp that thought without knowing some language.
+6. We are reluctant to regard creatures that cannot interact with reality through a language as capable of grasping abstract principles.
+7. We are reluctant to regard language-less creatures as capable of thinking about reality in a discursive manner.
+8. Whatever one can grasp through language, one must be able to grasp independently of language.
+9. This view (that thought is independent of language) is counterintuitive.
+10. Our untutored intuitions incline us to hold that without knowledge of a language a creature would be incapable of thinking discursively.
+11. Untutored intuitions are not always probative.
+12. Sometimes untutored intuitions are inconsistent with one another.
+13. We strongly feel that we sometimes have thoughts of considerable sophistication that we don’t know how to put into words.
+14. Not all discursive thought is language-dependent.
+15. The purpose of the chapter is to answer the question: Do we think in language?
+16. We do not think in language.
+17. There are two very different versions of the view that we think in language.
+18. Version #1: People think in the natural languages that they learn (English speakers in English, etc.).
+19. A natural language is one that organically arises through human interactions.
+20. Artificial languages are invented (e.g., by programmers or philosophers).
+21. Version #2: We think in an innately known code, a “language of thought.”
+22. In Version #2, the sentences of thought belong to a hard-wired system of symbolism.
+23. Version #1 is wrong.
+24. We can have thoughts that we are incapable of putting into words.
+25. We grasp those thoughts in some way other than by grasping the sentences that express them.
+26. There are occasions where putting a thought into words requires great effort.
+27. Thinking is often a prerequisite to using language.
+28. At least some thinking is non-linguistic.
+29. Many authors (e.g., Wittgenstein, Blackburn, McDowell) deny that we know anything that we can’t readily articulate.
+30. “If you can’t say it, you don’t know it.”
+31. A person’s beliefs can be expressed in many ways, not all linguistic.
+32. Knowledge can be expressed in drawings, movements, or other non-linguistic manners.
+33. Accurate painting involves bona fide knowledge, not pseudo-knowledge.
+34. Some kinds of information (e.g., visual) seem inherently incapable of being fully expressed by sentences of natural languages.
+35. Sentences have very different structures from pictures.
+36. Sentences are digital structures (decompose into discrete parts).
+37. Sense-perceptions are analogue structures (do not decompose into discrete parts).
+38. Any sentence must be interpreted to be understood.
+39. Perceptions are self-interpreting in a way that sentences are not.
+40. In order to learn a language, one must already be able to think.
+41. Learning a language presupposes the ability to synthesize information and make judgments.
+42. Knowledge of a language presupposes the ability to think.
+43. Different sentences can have the same meaning.
+44. A single sentence can have multiple meanings.
+45. “Bob loves Mary” and “Mary is loved by Bob” have the same meaning but are different sentences.
+46. If we thought in sentences, those would constitute different beliefs, but they do not.
+47. We can disambiguate ambiguous sentences, which would be impossible if thoughts were identical with sentence-occurrences.
+48. People who speak different languages can have the same thoughts.
+49. Understanding sentences involves thought.
+50. Understanding a sentence is different from its flashing through your mind.
+51. Version #2 (language of thought) is false.
+52. We often think in images (visual and auditory).
+53. Images have a structure fundamentally different from sentences.
+54. Knowing a language involves understanding its expressions and their semantic rules.
+55. It is viciously circular to hold that thought depends on an innate code whose rules must be understood.
+56. Advocates say we don’t understand the innate sentences; we are merely built to conform to them.
+57. If sentences aren’t understood, they aren’t functioning as sentences.
+58. We don’t think in language, even an innate one.
+59. Mental images (icons) on a computer desktop represent changes in electrical activity.
+60. Thoughts often take the form of a voice or mental images of spoken words.
+61. People think with the help of visual imagery.
+62. Mental images are not identical with the ratiocinative activities they facilitate.
+63. Images need only be sufficiently differentiated to avoid confusion.
+64. Ratiocinative activity cannot be identical with any sequence of images.
+65. Everything constitutive of consciousness seems image-like or phenomenologically pregnant.
+66. Wittgenstein concluded that thinking isn’t a private psychological act.
+67. Thinking consists of engaging in overt behaviors involving public language symbols.
+68. Wittgenstein’s position is absurd.
+69. Thoughts, unlike itches and tickles, aren’t phenomenologically pregnant.
+70. Wittgenstein’s mistake is similar to Hume’s on personal identity.
+71. Thinking is a psychological process.
+72. Mental imagery facilitates thought.
+73. Mental images allow us to manage thought-processes that we otherwise couldn’t manage.
+74. Consciousness integrates otherwise isolated streams of cognitive activity.
+75. Knowledge of a language provides a rich system of icons for managing cognitive activities.
+76. Wittgenstein contended that there cannot be a private language.
+77. Private codes must be translations of public languages.
+78. A single person can use a public language privately, but it’s parasitic on public use.
+79. It is logically impossible for a solitary individual to create a language.
+80. One cannot think unless one knows a language.
+81. Knowledge of a language is prerequisite for reasoning.
+82. Thinking requires being embedded in a society.
+83. Wittgenstein’s Private Language Argument (PLA) argues there cannot be private languages.
+84. Rule-following arguments show one cannot think without language.
+85. Not all ideation is ratiocinative.
+86. Ratiocinative ideation must be rule-governed.
+87. Thinking involves following rules.
+88. There is no psychological condition that necessarily accompanies rule-following.
+89. Following a rule is not a psychological act.
+90. Not all mental states are images or sensations.
+91. Beliefs are stable, enduring structures, not fleeting events.
+92. Meanings are themselves symbols.
+93. Positing meanings to explain symbol-comprehension is circular (like the homunculus fallacy).
+94. Wittgenstein’s argument resembles Aristotle’s Third Man Argument.
+95. Properties are not instances of themselves.
+96. Meanings are not themselves understood or interpreted.
+97. Meanings are grasped or not grasped.
+98. There is no gap between grasping a meaning and applying it (to the extent grasp is determinative).
+99. Principles aren’t interpreted; they’re grasped and guide judgments.
+100. The Private Language Argument imagines a solitary person creating a language.
+101. In a private language, expressions mean whatever the person thinks they mean.
+102. A symbol that can’t be used wrongly doesn’t mean anything.
+103. Languages require right and wrong ways of use, which require multiple people.
+104. All languages are public.
+105. The Private Language Argument is spurious.
+106. Expressions are meaningful because people remember what they mean.
+107. Forgetting semantic rules renders a language useless to the individual.
+108. If a person changes meanings, they create a new language.
+109. Thinking involves following rules.
+110. Rule-following is a psychological act.
+111. Thought is a psychological act.
+112. A prerequisite for speaking a language is knowing its semantic rules.
+113. Thought mediates meaningful use of language.
+114. Wittgenstein’s arguments for his conclusions are not probative.
+115. We have no good reason to accept Wittgenstein’s position that thought consists in manipulating public symbols.
+116. We know Wittgenstein’s position to be erroneous.
+117. Not all thought involves the use of a public language.
+118. We don’t think in an innate language or code.
+119. Some kinds of cognition necessarily involve language, others don’t.
+120. Wittgenstein held there cannot be a private language.
+121. Wittgenstein held one cannot think without knowing a language.
+122. Meanings don’t have to be interpreted.
+123. Visual perceptions are analogue, sentences are digital.
+124. Learning language requires prior thought.
+125. Same thoughts can be expressed in different languages.
+126. Mental imagery is not constitutive of thought but facilitates it.
+127. Consciousness pools otherwise discrete bodies of knowledge.
+128. Language provides icons for cognitive management.
+129. Rule-following is a psychological act.
+130. Beliefs are not phenomenologically pregnant.
+131. Thinking is private and psychological.
+132. Private languages are possible.
+133. Solitary individuals can think.
+134. Meanings are grasped directly, not interpreted.
+135. Semantic rules determine meaning independently of ongoing interpretation.
+136. Understanding a sentence requires more than mere imagery of it.
+137. Thoughts precede and enable language acquisition.
+138. Ambiguous sentences can be disambiguated non-linguistically.
+139. Non-linguistic expression of knowledge is possible (e.g., drawing).
+140. Visual information cannot be fully captured linguistically.
+141. Perceptions do not require interpretation like sentences do.
+142. Knowledge of language enhances cognition by providing manipulable icons.
+143. Mental images serve as surrogates for concepts.
+144. Wittgenstein wrongly infers thought is public behavior.
+145. Wittgenstein’s rule-following arguments fail because they assume all mental states are phenomenal.
+146. The private language argument fails because memory provides objective standards for correctness.
+147. Changing intended meanings creates a new language, not arbitrary meaning in the old one.
+148. Public languages are causally entrenched but not logically different from private ones.
+149. Thought is independent of public language.
+150. We do not think in words, whether public or innate.

@@ -1,0 +1,416 @@
+﻿Outline
+of
+
+Set
+Theory
+
+ 
+                                Outline of Knowledge Database
+                                        January 2, 2012
+ MATH>Set Theory
+
+
+ 
+  set theory
+  Set operations follow rules {set theory}. Boolean-set algebras {algebra of sets} can be axiomatic
+set theories. From sets, one can choose {selection, set} smaller sets {subset, selection}, without regard
+for  sequence  or  order  {combination,  set}.  For  valid  set-theory  statements,  if  operations  union  and
+intersection  interchange,  null  set  and  universal  set  interchange,  and  set  inclusions  reverse,  valid
+statements result. Set inclusion can use only intersection and union, so statements do not need to have
+set inclusion.
+ 
+  set in mathematics
+  Objects {member, set} {element, set} and events can be in groups {set, mathematics}. Sets
+{well-defined set} can have membership criteria. Sets have numbers of members {cardinality, set}
+{power, set} {size, set}, which can be specific, unspecific, or infinite.
+  subsets
+  Sets  can  have  parts  {subset,  set}.  Sets  can  split  into  mutually  exclusive  subsets  {partition,
+subset}. Subsets {connected set} can have all set members that are not in union of two separated sets.
+  union
+  Sets can contain all members of two sets {union, set}. Union of set with empty set is the set.
+Union of set with universal set is universal set. Union of relative complements is a set {symmetric
+difference}.
+  intersection
+  Sets can contain all members shared by two sets {intersection, set}. Intersection of set with
+empty set is empty set. Intersection of set with universal set is the set.
+ 
+  Venn diagram
+  Circles {Venn diagram} can be graphs that show set relations.
+ MATH>Set Theory>Set Types
+
+
+ 
+  universal set
+  Sets {universal set}| can contain everything.
+ 
+  empty set
+  Sets {null set} {empty set} can contain nothing.
+ 
+    countable set
+  Sets {countable set} can be in one-to-one correspondence with positive-integer set.
+ 
+  disjoint set
+   Two  sets  {disjoint  set,  non-overlapping}  {non-overlapping  set}  can  have  no  members  in
+common.
+ 
+    equivalence class
+  Sets {equivalence class} can include all number examples. Equivalence classes are typically
+infinite sets. For example, the equivalence class of -2 can include all possible pairs of natural-number
+subtractions {equivalence relation, class}: -2 = 0 - 2 = (0,2) and -2 = 1 - 3 = (1,3), and so on. Complex
+numbers are equivalence classes of remainders of polynomials x / (x^2 + 1), where x is a real number.
+ 
+  residue class
+  All congruent integers form set {residue class, set}, [x]n or Zn.
+ 
+MATH>Set Theory>Set Types>Interval
+
+
+ 
+  closed set
+  Sets {closed set, interval} can contain limit point at boundary.
+ 
+  derived set
+  Sets {derived set} can have other-set limit points.
+ 
+  open set
+  Sets {open set} can contain no boundary points and so have only interior points.
+ 
+  perfect set
+  All closed-set {perfect set} points can be at the limit.
+ 
+MATH>Set Theory>Set Types>Ordered
+
+
+ 
+    monotonic set
+  Set systems {monotonic set} can have previous sets contained in next sets.
+ 
+  ordered set
+  Sets  {ordered  set}  can  have  elements  that  follow  trichotomy  and  transitivity  relations.  Sets
+{partially ordered set} can have elements that follow trichotomy and transitivity relations. 
+  reflexive set
+  Relation between second coordinate and first coordinate can be same as relation between first
+coordinate and second coordinate {reflexive set}.
+ 
+    transitive set
+  Relation between second coordinate and first coordinate can be from higher to lower {transitive
+set}.
+ 
+MATH>Set Theory>Set Types>Subset
+
+
+ 
+    complement of subset
+  Subsets {complement, set}| {absolute complement} can have all set members that do not belong
+to another subset. Subsets {relative complement} can have set members that do not belong to another
+subset and belong to third subset.
+ 
+  coset
+  Subsets {coset, subset} can contain products of one set element times all set elements.
+ 
+  nested set
+  Sets {nested set} {nest, set} can have one set inside the other.
+ 
+  power set
+  For a set, a set {power set} can contain all subsets. For n-element sets, power sets have 2^n
+elements. Subset number is greater than set-member number.
+ MATH>Set Theory>Axioms
+
+
+ 
+    Foundation axiom
+  Set theory does not allow sets {paradoxical set} that are elements of themselves {Foundation
+axiom}.
+ 
+    Zermelo-Fraenkel set theory
+  Set theories {Zermelo-Fraenkel set theory} {ZF set theory} can be axiomatic systems. Zermelo
+set theory has no paradoxes but is not consistent.
+  The empty set exists {axiom of empty set}. The empty set exists, so at least one set exists {axiom
+of existence}. Sets with same elements are equal {axiom of extension} {axiom of extensionality}. For
+two sets, another set exists that contains all and only elements of the two sets {axiom of union}. For
+two sets, another set exists that has the two sets as only elements {axiom of pairing}. For a set, another
+set exists whose elements are the subsets of the original set {axiom of powers} {axiom of power set}.
+A set exists that has the empty set as an element and, if an element is in the set, the set that contains
+only that element is an element in the set {axiom of infinity}.
+  Non-empty sets contain at least one element, and the non-empty set and the set of any element
+are disjoint sets {axiom of regularity}. For any set and any mapping, a subset of the set exists that has
+as elements the domain of the mapping {axiom of separation}. For any set and any mapping, a set
+exists that has as elements the range of the mapping over the original set's elements (as domain of
+mapping) {axiom of replacement} {axiom of specification}. For any set, a mapping exists that chooses
+one element of each subset (axiom of choice).
+ 
+MATH>Set Theory>Axioms>Axiom Of Choice
+
+
+ 
+  axiom of choice
+  For  any  set,  a  mapping  exists  that  chooses  one  element  of  each  subset  {axiom  of  choice}
+{Zermelo's axiom}. Elements are not in any other non-empty set, even if number of non-empty subsets
+is infinite. Axiom of choice is independent of set theory. Zermelo set theory has no paradoxes but is not
+consistent. If Zermelo-Fraenkel set theory is consistent without axiom of choice, then ZF set theory is
+consistent with axiom of choice.
+ 
+    Banach-Tarski theorem
+  Axiom of choice leads to unexpected consequences if applied to sets with uncountably infinite
+members. In such set, object can divide into five pieces that can rotate, translate, and invert to make
+much greater volume {Banach-Tarski theorem}.
+ 
+  Zorn lemma
+  In partially ordered sets in which subsets have upper bounds, sets have greatest member {Zorn's
+lemma} {Zorn lemma}. Zorn's lemma is equivalent to axiom of choice.
+ MATH>Set Theory>Infinite Set
+
+
+ 
+  infinite set
+  Sets {infinite set} can have unlimited numbers of elements, with no greatest element.
+ 
+  aleph naught
+   The  smallest  infinite  set  {aleph  naught}  is  enumerable.  Enumerable  sets  include  cardinal
+numbers, ordinal numbers, integers, and rational numbers {algebraic-equation solutions}, which all
+have same size.
+ 
+  power of the continuum
+  The next-smallest infinite set is all points on a line {power of the continuum} {aleph one}, which
+is equivalent to all n-dimensional space points and to all real numbers. The second-smallest infinite set
+is all curves {aleph two}. Even-higher infinite sets exist, up to infinity {aleph infinity} {aleph naught
+naught}.
+ 
+  Cantor diagonal process
+  Rational-number sets have same infinity level as counting-number sets, as proved by Cantor's
+diagonal process {diagonalization} {Cantor diagonal process} {diagonal proof}.
+  rational numbers
+  Make table with infinite rows and columns. Cells have positive rational numbers. First row is a
+positive-integer series. Second row is a positive-integer series, each divided by 2. nth row is a positive-
+integer series, each divided by n.
+  To count fractions, start at top left 0. Go down one row to 0/2. Go diagonally up and right to first
+row at 1. Go right one column to 2. Go diagonally down and left to first column at 0/3. Repeat to cover
+all cells and count all fractions. Fractions count only once, establishing one-to-one correspondence
+between counting numbers and rational numbers.
+  real numbers
+  The real-number set has higher infinity than counting-number set. List real numbers in sequence
+as table. Rows are real numbers. Columns are digits. Along diagonals through table are real numbers,
+with one digit from each row and column. Change all digits of main-diagonal real number. Resulting
+real number is not any real number already in table, because all row and column digits have changed.
+Therefore, real numbers number more than counting numbers, and no one-to-one correspondence exists
+between counting numbers and real numbers.
+ 
+    continuum hypothesis
+   No  set  has  size  between  integer-set  size  and  real-number-set  size  {continuum  hypothesis}
+{continuum problem}. No aleph is between aleph naught and aleph one. Raising any positive integer to
+aleph-naught power results in aleph one.
+  indeterminible
+  Continuum hypothesis is indeterminable under set theory.
+  generalized continuum hypothesis
+  Positive integers raised to aleph n power equal aleph n+1 {generalized continuum hypothesis}.
+Generalized continuum hypothesis is independent of set theory.
+ 
+  Cantor set
+  In continuous intervals, continually removing inner third of remaining continuous interval still
+leaves infinitely many points, and total empty distance is interval length {Cantor set}. Cantor sets are
+the same at all scales. 1/f noise is like Cantor sets. 
+  Cantor paradox
+  Power sets are larger than their basis sets {Cantor's paradox} {Cantor paradox}. Therefore, there
+can be no largest set and no set of all sets.
+ 
+  Galileo paradox
+  Are infinite sets countable {paradox of Galileo} {Galileo paradox}?
+ MATH>Set Theory>Laws
+
+
+ 
+    absorption law
+  Union of set a and its intersection with another set b is the set {absorption law}: a V (a & b) = a.
+Intersection of set a and its union with another set b is the set: a & (a V b) = a.
+ 
+    idempotent law
+  Union of set a with itself is the set {idempotent law}: a V a = a. Intersection of set a with itself is
+the set: a & a = a.
+ 
+  De Morgan laws for sets
+  Absolute complement of set union equals intersection of set absolute complements {De Morgan's
+laws,  set}  {De  Morgan  laws,  set}  {De  Morgan's  complement}:  ~(a  V  b)  =  ~a  &  ~b.  Absolute
+complement of set intersection equals union of set absolute complements: ~(a & b) = ~a V ~b.
+ 
+  involution of set
+  Absolute complement of set absolute complement is set {involution, set}: ~(~a) = a. Absolute
+complement of empty set is universal set. Absolute complement of universal set is empty set.
+ MATH>Set Theory>Laws Of Form
+
+
+ 
+  laws of form
+  Sets have types {theory of types, laws of form} {laws of form}. Sets have lower or higher type
+than other sets. Lower sets cannot be in statements about higher sets, and higher sets cannot be in
+statements about lower sets.
+  differences
+  Laws of form use differences {calculus of indications}.
+  self-reference
+  In set type, boundary contains object surrounded, and object is boundary {self-reference, set}.
+Self-reference allows references to members, classes, classes of classes, and so on. Imaginary numbers
+express self-reference and self-referential statements, because imaginary numbers can represent time
+dimensions.
+  Statements that use set types correctly can use self-reference. Statements that do not use set types
+correctly must not use self-reference.
+  space or set
+  Members, definition, description, selection, name, or statement define space or set {space, laws
+of form}. Spaces can imply boundaries and have natural boundaries. Absolute time and relative time
+can be boundaries and show boundary history {creativity, laws of form}.
+  logical laws
+  Laws of form are equivalent to logical laws. NOT a = marked a. a OR b = NOT a AND NOT b. a
+AND b = NOT (NOT a OR NOT b). a THEN b = NOT a OR b.
+ 
+    boundary in sets
+  Sets have open or closed boundaries {boundary, set}. Actions can create a boundary {expansion,
+laws of form} or cross a boundary {contraction, laws of form}. Complex actions combine expansions
+and contractions.
+  marking
+  Boundary side can be positive {marked region} and other side negative {unmarked region}.
+  space
+  Drawing boundary inside space tells nothing about whole space. Encircling whole space with
+boundary tells nothing about whole space.
+  boundary making
+  Interaction between observer and system {boundary making} makes larger system containing
+both observer and original system. Observer can surround all or some sets or be inside a set in the set
+hierarchy.
+  Observer cannot know whole system, only part close to boundary. Observer makes boundaries to
+describe whole system.
+  interval
+  Regions {interval, laws of form} have boundaries. Boundaries can be in marked sets or spaces
+{open interval, set}. Boundaries can not be in marked sets or spaces {closed interval, set}.
+  operations at boundaries
+  Going from inside boundary to outside boundary is opposite operation {inverse, laws of form}.
+Going from inside boundary to outside boundary, and then going from inside boundary to outside
+boundary, results in original condition {identity, laws of form}. Drawing same boundary second time is
+NULL operation and gives no new information.
+ 
+    contraction statement
+  Two mutually exclusive same-type sets can become one same-type set, by crossing a boundary.Statements {contraction statement} can name two classes {categorizing, laws of form} and a relation
+{description, laws of form}, such as equality, with a reference point from which to relate members.
+Instructions {selection rule, laws of form} can be about how to select members. Processes can cross
+boundaries.
+ 
+    expansion statement
+  Sets can divide into two mutually exclusive same-type sets, by creating a boundary. Statements
+{expansion  statement}  can  name  {naming,  laws  of  form}  classes  {definition,  expansion}  and  a
+distinction,  such  as  equality,  with  a  reference  point  from  which  to  identify  members.  Instructions
+{selection rule, expansion} can be about how to select members. Processes can draw boundaries.
+ MATH>Set Theory>Set Properties
+
+
+ 
+    abstraction principle
+   If  all  set  members  have  a  property,  set  has  property  {abstraction  principle}  {principle  of
+abstraction}.
+ 
+    adjunction
+  Elements added to sets {adjunction} can extend set properties.
+ 
+  bound of set
+  Sets have a highest member {upper bound, set} {bound}. Sets have a lowest member {lower
+bound, set}. Sets can have minimum at highest member {greatest lower bound, set}. Sets can have
+maximum at lowest member {least upper bound, set}.
+ 
+  cyclic permutation
+  Ordered-set elements can advance one place {cyclic permutation}. Cyclic permutations can have
+only two elements {transposition, set}.
+ 
+    extension principle
+  Two sets are equal if and only if sets have same members {principle of extension} {extension
+principle}.
+ 
+    injection mapping
+  The identity relation can apply to domain subset {injection mapping}.
+ 
+  integral domain
+  Sets can have two binary operations {integral domain}. Operations make commutative rings and
+have identity elements. First operation has identity element if second operation happens.
+ 
+  interior point
+  Open sets can contain no point {interior point} at boundary.
+ 
+    one-to-one correspondence
+  Two sets are equivalent if their elements pair {one-to-one correspondence}|.
+ 
+  ordered in sets
+  Relations {ordered} between two or more things can have sequence. Sequence does not have to
+be complete {partial order}.
+  number
+  For two things, first {first coordinate} and second {second coordinate} make pair {ordered pair,
+set} or relation {binary relation}. First coordinate belongs to domain. Second coordinate belongs to
+range. Second coordinate derives from first coordinate {Cartesian product, pair}.
+  Relations can be among many things {ordered n-tuple} {n-ary relation}, with many coordinates.
+  types
+  Order can be linear {simple order} {linear order}. All set members can have simple order {chain,
+set}. Non-empty sets can have unique lowest members {well-ordered set}.
+  value
+  Sets can have unique lowest {least element} member. Sets can have unique highest {greatest
+element} member. Maximum at lowest member {least upper bound, element} and minimum at highestmember {greatest lower bound, element} bound interval.
+ 
+    partition of set
+  Sets can split {partition, set}| into mutually exclusive subsets.
+ 
+    symmetric in sets
+  Relation between second coordinate and first coordinate can be image of relation between first
+coordinate  and  second  coordinate  {symmetric}.  Relations  can  be  reflexive  and  transitive
+{antisymmetric}, so both members are equal.
+ 
+MATH>Mathematics>History>Set Theory
+
+
+ 
+  Bolzano B
+  He lived 1781 to 1848 and studied continuity and set theory. Real numbers in closed intervals
+can be in one-to-one correspondence with real numbers in other closed intervals. Infinite sequences in
+closed intervals have limits {Bolzano-Weierstrass theorem}. Truths can be a priori. Logic is about
+ideals, not about time or space.
+    \1837\1850\Bernard  Bolzano  [Bolzano,  Bernard]\mathematician\Bohemia\Scientific  Theory
+[1837]; Paradoxes of Infinity [1850]\
+ 
+  Venn J
+  He lived 1834 to 1923 and invented Venn diagrams.
+    \1880\\John  Venn  [Venn,  John]\mathematician\USA\On  the  Diagrammatic  and  Mechanical
+Representation of Prepositions and Reasonings [1880]\
+ 
+  Cantor G
+  He lived 1845 to 1918 and studied set theory, infinity, continuity, transfinite numbers, union,
+intersection, conjunction, disjunction, bound, extension principle, abstraction principle, and one-to-one
+correspondence.
+   He  invented  continuum  hypothesis.  Cardinal-number  series  and  ordinal-number  series  are
+infinite. Irrational numbers in closed intervals are rational-number-series limits. Sets of limits can have
+sets of limits, and so on, to infinity.
+  Geometrical-figure or space topologies are points related by distance functions or limits. For any
+real number n, 2^n > n.
+    \1885\\Georg  Cantor  [Cantor,  Georg]\mathematician\Halle,  Germany\Contributions  to  the
+Founding of the Theory of Transfinite Numbers [1885]\
+ 
+    Burali-Forti C
+  He lived 1861 to 1931. Ordinal numbers are well-ordered by definition. Ordinal-number sets
+must then have a greatest ordinal number. However, the set can be infinite and not have greatest ordinal
+number. Therefore, infinite ordinal-number sets cannot exist {Burali-Forti paradox}. Ordinal-number
+sets are higher-ordinal-number-set subsets.
+    \1897\\Cesare Burali-Forti [Burali-Forti, Cesare]\mathematician\Italy\Question about Transfinite
+Numbers [1897]\
+ 
+    Zermelo E
+  He lived 1871 to 1956 and invented Zermelo-Fraenkel set theory [1904 to 1908]. Infinite sets can
+contain sets with no elements in common. Methods to choose one element from each set must exist
+{axiom of choice, Zermelo}. If sets have no defined choice function, sets must use axiom of choice.    \1904\1908\Ernst Zermelo [Zermelo, Ernst]\mathematician\Germany\\
+ 
+    Hausdorff F
+   He  lived  1868  to  1942,  invented  generalized  continuum  hypothesis  [1907],  and  invented
+Hausdorff space.
+    \1907\1919\Felix Hausdorff [Hausdorff, Felix]\mathematician\Germany\Principles of Set Theory
+[1914]; Dimension and Outer Measure [1919]\
+ 
+  Fraenkel A
+  He lived 1891 to 1965 and improved Zermelo-Fraenkel set theory [1922].
+    \1922\\Abraham  Fraenkel  [Fraenkel,  Abraham]  or  Abraham  FrŠnkel  [FrŠnkel,
+Abraham]\mathematician\Germany\\
+ 
+    Cohen P
+  He lived 1934 to ? and proved that continuum hypothesis was indeterminable under set theory
+[1963].
+    \1963\1966\Paul J. Cohen [Cohen, Paul J.]\mathematician\USA\Set Theory and the Continuum
+Hypothesis [1966]\
+ 

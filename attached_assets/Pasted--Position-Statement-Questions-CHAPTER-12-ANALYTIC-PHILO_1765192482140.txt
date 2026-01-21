@@ -1,0 +1,812 @@
+# Position Statement Questions
+
+## CHAPTER 12: ANALYTIC PHILOSOPHY (Skepticism & Induction)
+
+1. What is the distinction between a skeptic and a disbeliever?
+2. How does skepticism differ from disbelief?
+3. What tendency exists regarding the relationship between skepticism and disbelief over time?
+4. Under what circumstances can failure to find positive evidence constitute counterevidence?
+5. What distinguishes philosophical skepticisms from ordinary doubts?
+6. What are the two most important forms of philosophical skepticism?
+7. What does it mean to be a skeptic about the external world?
+8. What characterizes direct knowledge as opposed to indirect knowledge?
+9. How is indirect knowledge acquired?
+10. What are the two components of any inference?
+11. What are the two kinds of inferences?
+12. What defines a deductive inference?
+13. What defines an inductive inference?
+14. What position does a skeptic about inductive inference hold?
+15. What did David Hume demonstrate regarding inductive inference?
+16. How does Hume's argument about induction begin?
+17. Why is "the sun has always risen; therefore it will rise tomorrow" not a deductive argument?
+18. What question arises once we acknowledge the premise-conclusion connection isn't deductive?
+19. What answer initially seems tempting regarding how premises warrant conclusions in induction?
+20. What is the uniformity principle (UP) and what role does it supposedly play in inductive inference?
+21. Can anyone directly know that UP holds universally?
+22. What kind of knowledge must knowledge of UP be?
+23. Why can't the inference establishing UP be deductive?
+24. What kind of inference must establish UP?
+25. What condition must be granted for an inductive inference to go through?
+26. Why does Hume conclude that inductive inference cannot be justified?
+27. Does anyone actually deny that inductive inferences are knowledge-conducive?
+28. Is there an accepted response to Hume's argument about induction?
+29. Is Hume's argument refutable according to the text?
+30. How many serious errors does the text identify in Hume's argument?
+31. What does Hume's first error assume about the primary form of non-deductive inference?
+32. What form of non-deductive inference is actually more fundamental than induction by enumeration?
+33. What does Hume's second error assume about non-deductive inferences?
+34. What principle does the text propose must be granted instead of UP?
+35. What does "MC" stand for?
+36. What is the epistemic status of MC according to the text?
+37. What are the two forms of inductive inference?
+38. What is the logical form of an induction by enumeration?
+39. What is the logical form of an inference to the best explanation?
+40. What do philosophers widely assume about the relationship between induction by enumeration and inference to the best explanation?
+41. What is the actual relationship between induction by enumeration and inference to the best explanation?
+42. Which form of inference does Hume's argument focus on?
+43. Is induction by enumeration justifiable according to the text?
+44. What well-known inductive error is discussed in relation to dice rolling?
+45. Why would predicting a repeated outcome (like rolling 27) be irrational in a fair game?
+46. Under what conditions is a bet on a specific outcome no more rational than betting on any other?
+47. What must remain true for random predictions to be equally unwarranted?
+48. When does it become rational to believe a specific outcome is more likely?
+49. What makes it rational to believe in the recurrence of a specific outcome?
+50. What must past observations provide reason to believe for predictions to be justified?
+51. Does knowing many phi's are psi's necessarily justify believing the next phi will be psi?
+52. What is the value of induction by enumeration in itself?
+53. What is the real structure of inferences mistakenly thought to be induction by enumeration?
+54. What does any non-fallacious induction by enumeration involve?
+55. What does Hume's argument assume about how the past guides the future?
+56. How might Hume defend his view against the objection about underlying structures?
+57. Is one caught in a vicious circle if one assumes UP to justify inductive inference?
+58. Does making an inductive inference actually require assuming UP?
+59. What does one actually assume when making an inductive inference?
+60. What is the purpose of explanation?
+61. What do good new theories tend to facilitate?
+62. What do good theories do regarding causal gaps?
+63. Is knowledge of the actual causal structure of the world analytic?
+64. What is analytic about good explanations and unexplained explainers?
+65. Is explanatory goodness the same as correctness?
+66. Can the right explanations sometimes be bad ones?
+67. What is explanatory goodness a relationship between?
+68. What is required of good explanations regarding relevant data?
+69. Among explanations consistent with data, which is best?
+70. What happens when a hypothesis's explanatory cost exceeds its explanatory value?
+71. Is there an inherent connection between an explanation being good and being true?
+72. What does the "conservative view" posit regarding the natural order?
+73. What is analytically true about better explanations and unexplained explainers?
+74. How does MC's epistemic status differ from UP's?
+75. What status do concomitances among known objects have?
+76. Which assumption creates more unexplained explainers—that the unknown differs from or resembles the known?
+77. What incoherent position does remaining agnostic commit one to?
+78. What follows from MC regarding the resemblance of known and unknown?
+79. What is the verdict on Hume's argument?
+80. What does the non-skeptic say about new sensory experiences?
+81. What does the skeptic say about the rationality of believing experiences don't come from nothing?
+82. What is analytically true about comparing theories and anomalies?
+83. Is it analytic that our sensory experiences are correct?
+84. What is analytic about supposing sensory experiences veridical?
+85. What does the skeptic's denial embody?
+86. What does heating a metal object involve at the microstructural level?
+87. What is the relationship between the macroscopic and the microscopic?
+88. What does assuming a previously-holding law suddenly ceases involve?
+89. What unexplained explainers are created by assuming continuity of natural laws?
+90. What is the rational move regarding microparticle governance until further evidence?
+91. What does conventional wisdom say about the conservative move?
+92. How does the so-called conservative view actually compare to the alternative?
+93. What characterizes one's sensory experience regarding continuity?
+94. What happens every time you open your eyes or turn your head?
+95. What can the anti-skeptic not assume without begging the question?
+96. What is the status of induction by enumeration as a form of inference?
+97. What is induction by enumeration parasitic on?
+98. What does Hume attempt to show about inductive inference?
+99. Why does Hume's argument fall short?
+100. What is the assessment of the chapter's attempt to refute skepticism?
+
+## CHAPTER 11: ANALYTIC PHILOSOPHY (Descartes & Mind-Body)
+
+1. What were Descartes' beliefs regarding God's existence and its proof?
+2. Was Descartes interested in the question of universals' independent existence?
+3. What discipline did Descartes single-handedly invent?
+4. What is the central tenet of Descartes' work?
+5. What did Descartes believe all knowledge ought to be modeled on?
+6. What did Descartes try to show about human knowledge and self-evident truths?
+7. What is the other objective of the Meditations besides establishing foundations?
+8. What is skepticism in the context of sense-perception?
+9. What are the two historical ways of answering how we know our perceptions aren't hallucinations?
+10. What does foundationalism claim about knowledge?
+11. What do coherentists say about foundational knowledge?
+12. How does the coherentist view individual perceptions as knowledge?
+13. What is Descartes' ultimate position on foundationalism vs. coherentism?
+14. What does Descartes say about beliefs concerning our own minds versus external objects?
+15. What is Descartes' famous cogito formulation?
+16. Why can't one doubt one's existence according to Descartes' reasoning?
+17. What good point does Descartes make about self-knowledge versus world-knowledge?
+18. What does Descartes say about our basic beliefs regarding the physical world?
+19. What does any belief about the external world involve that makes it precarious?
+20. Why is knowledge that one is sad not precarious?
+21. What is Descartes' position on the sources of knowledge (rationalism)?
+22. What does Descartes think is necessary to justify beliefs about the external world?
+23. What does Descartes provide in Meditation 3?
+24. What principle does Descartes invoke about causes and effects regarding "reality"?
+25. What strong version of "something from nothing" does Descartes affirm?
+26. What does Descartes say about the relationship between effects and their causes?
+27. What does Descartes say we have concepts of?
+28. How does Descartes combine these points to argue for God's existence?
+29. What does Descartes believe he has established once God's existence is proven?
+30. Why wouldn't a good God want us to be wrong all the time?
+31. What has God given us and set up regarding belief-formation?
+32. What problem does Descartes point out despite God's goodness?
+33. What kind of argument does Descartes provide to explain wrong beliefs?
+34. What does Descartes say God has given us that leads to wrong beliefs?
+35. What happens if we don't draw unwarranted conclusions?
+36. What kind of argument does Descartes ultimately put forth about external world beliefs?
+37. What is the status of Descartes' first premise about mental transparency?
+38. What is the status of Descartes' second premise about effects resembling causes?
+39. Can the premise about effects resembling causes be fixed?
+40. What is a more defensible version of the effects-causes relationship?
+41. What is the main point of Meditation 5?
+42. What argument does this second proof coincide with?
+43. What is God by definition regarding excellence?
+44. How does the ontological argument conclude that God exists?
+45. What does Descartes argue for in Meditation 6?
+46. What does the doctrine of mind-body dualism state?
+47. What is the customary response to Descartes' argument for dualism?
+48. In what sentential contexts does Leibniz's Law break down?
+49. Does the failure of Descartes' argument prove that mind is body?
+50. What is the topic for the rest of the chapter?
+51. What are examples of mental entities?
+52. What are examples of physical entities?
+53. What is dualism?
+54. What is materialism?
+55. What is dual aspect theory?
+56. What is mental eliminativism?
+57. What is idealism?
+58. What is materialism NOT claiming about mental entities?
+59. What analogy does the materialist use for the mind-brain identity?
+60. What do advocates of materialism typically hold mental entities are identical with?
+61. What properties does the mental obviously have that seem absent from the physical?
+62. How can the materialist respond to the apparent difference in properties?
+63. What seems to be the nature of some mental entities as appearances?
+64. What is the explanatory gap between mental and physical?
+65. Even if mental can't be understood in terms of physical, what doesn't follow?
+66. What is the relationship between biology talk and physics talk?
+67. What is the analogous claim about psychology talk and physics talk?
+68. What do many hold about the explanatory gap between mental and physical?
+69. What do some hold about explaining why one state accompanies another?
+70. Why is Hempel's conception of explanation wrong?
+71. What is widely believed about the "multiple realizability" of the mental?
+72. What is functionalism?
+73. Why is functionalism false?
+74. What is the relationship between mentalistic and physicalistic statements regarding data?
+75. What does Donald Davidson argue in "Mental Events"?
+76. What false assumptions does Davidson's argument depend on?
+77. What straightforward argument did Descartes provide for dualism?
+78. What fallacy is this argument guilty of?
+79. What does an improved version of Descartes' argument claim?
+80. What is true about identity if it holds at all?
+81. What do many contemporary philosophers believe about necessity and analyticity?
+82. What generates natural kinds?
+83. What does Kripke argue about pain and brain states?
+84. What is the first argument for materialism regarding mental-physical interaction?
+85. What is epiphenomenalism?
+86. Why is epiphenomenalism clearly wrong?
+87. What is another argument for materialism regarding physical laws?
+88. What would happen if mental entities were non-physical regarding physical law?
+89. What is Fodor's argument for materialism?
+90. Why is dual aspect theory incoherent?
+91. Why is eliminativism a non-starter?
+92. What is behaviorism?
+93. Why is behaviorism false?
+94. What does functionalism allow regarding causes and effects of mental entities?
+95. What is essential to something being a pain?
+96. What does functionalism say about belief that snow is white?
+97. Why does functionalism strip the mental of causal powers?
+98. Given mind-body interaction without physical law violations, what is probably correct?
+99. What seems to be true about the mental relative to the physical?
+100. What is true about apparent differences between mental and physical?
+
+## CHAPTER 10: ANALYTIC PHILOSOPHY (Epistemology)
+
+1. Is the term "know" unambiguous?
+2. What does "know" sometimes refer to regarding objects?
+3. What does "know" often refer to regarding truths?
+4. Do other languages mark this distinction?
+5. What does the cross-linguistic pattern suggest about distinguishing these knowledge types?
+6. Is knowledge of people reducible to knowledge of truths?
+7. In philosophy, what kind of knowledge are we primarily concerned with?
+8. Is "know" ambiguous in additional ways beyond the object/truth distinction?
+9. What do psychologists and philosophers call one type of knowledge?
+10. What constitutes procedural knowledge?
+11. Do many deny that procedural knowledge is genuine knowledge?
+12. How does the virtuoso's knowledge differ from the incompetent neophyte's?
+13. What happens to knowledge as it deepens?
+14. What characterizes non-procedural knowledge?
+15. What characterizes procedural knowledge regarding integration?
+16. Is it defensible to hold that procedural knowledge is non-knowledge?
+17. What do some philosophers maintain about all knowledge ultimately?
+18. Can one know something that is false?
+19. Do people sometimes firmly believe they know false things?
+20. Is the distinction between true and false belief always marked by internal differences?
+21. What simple fact characterizes what can be known?
+22. What is the relationship between knowledge and belief?
+23. If you know something, what follows about belief?
+24. Are all instances of belief instances of knowledge?
+25. What is the status of false beliefs regarding knowledge?
+26. What must a belief be if it is to qualify as knowledge?
+27. Does a lucky guess constitute knowledge?
+28. What must you have for your choice to be justified?
+29. What must be true of your opinion for it to qualify as knowledge?
+30. Are spurious reasons sufficient for knowledge even if they lead to the right answer?
+31. What is a general principle of logic regarding false premises?
+32. Can misinformation lead to correct beliefs?
+33. How does accurate information compare to misinformation regarding reliability?
+34. Can false premises and unsound methodologies lead to truth?
+35. What three characteristics must something have to be knowledge?
+36. What is the relationship between knowledge and justified true belief?
+37. What does "perceptual" mean?
+38. How do you know there is a computer in front of you?
+39. What does "introspective" refer to?
+40. Is introspective knowledge based on the use of senses?
+41. What are the ultimate sources of justification?
+42. What have some philosophers argued about the relationship between (a) and (b)?
+43. Is all knowledge personally verified?
+44. Do all testimony-based beliefs qualify as knowledge?
+45. What two conditions must testimony-based belief satisfy to qualify as knowledge?
+46. Can testimony-based true belief be knowledge?
+47. What combination of sources does testimony-based knowledge involve?
+48. During early years, do we have independent corroboration for testimony?
+49. At first, did we know things based on early testimony?
+50. Are all cases of justified true belief cases of knowledge?
+51. What fourth condition is required beyond truth, belief, and justification?
+52. In the Gettier case, is the belief true and justified?
+53. What is the coincidental element in the Gettier case?
+54. What does this show about justified true belief?
+55. Is satisfying conditions (1)-(3) sufficient for knowledge?
+56. What is the status of debate regarding the fourth condition?
+57. What four conditions must something satisfy to be knowledge?
+58. How is knowledge characterized in terms of justification?
+59. What kind of relationship must exist between justification and truth?
+60. Is condition K precise enough to solve the problem?
+61. In the real world Larry example, do you know Larry is in Texas?
+62. What does your belief about Larry's location correctly explain?
+63. What is the status of your belief in the Larry case?
+64. What is a hyper-justified belief?
+65. What is knowledge according to the proposed analysis?
+66. Is some knowledge purely conceptual?
+67. What is purely conceptual knowledge called?
+68. What is knowledge with a non-conceptual component called?
+69. Why is analytic knowledge so-called?
+70. Is most knowledge analytic or non-analytic?
+71. What is the relationship between synthetic and analytic knowledge regarding spatiotemporal facts?
+72. What is all synthetic knowledge knowledge of?
+73. What important division exists within synthetic knowledge?
+74. What are the two types of spatiotemporal knowledge?
+75. What does "nomic" mean?
+76. Are all nomic relations causal?
+77. What are causal relations instances of?
+78. What do causal relations typically involve?
+79. What is the covering law for a causal sequence?
+80. Is knowing a natural law knowledge of a spatiotemporal fact?
+81. Are natural laws logical, philosophical, or mathematical in nature?
+82. Is knowledge of physics laws general or specific?
+83. Is most spatiotemporal knowledge general or specific?
+84. Are all future facts knowable?
+85. Can we know any facts about the future?
+86. What two ingredients does knowledge of the future always have?
+87. Can we have knowledge of the past?
+88. What two forms does knowledge of the past take?
+89. When is knowledge of the past direct?
+90. What does indirect knowledge of the past involve?
+91. How does indirect knowledge of the past relate structurally to knowledge of the future?
+92. Can we have knowledge of what would have been?
+93. What are propositions like S called?
+94. What is knowledge of counterfactuals identical with?
+95. What do many contemporary philosophers take counterfactual statements to be about?
+96. What is the assessment of this view about other universes?
+97. What is knowledge of other universes parasitic on?
+98. What makes a true counterfactual statement true?
+99. What seems to be the source of much of what we know?
+100. But what is much knowledge actually?
+101. What is a theory?
+102. Is all theoretical knowledge inferential?
+103. What do some epistemologists maintain about perceptual knowledge?
+104. What does the fact that newborns can have sense-perceptions show?
+105. What is this innate knowledge referred to as?
+106. What is knowledge called if it is not a priori?
+107. What is the status of debate about a priori knowledge?
+108. Is there reason to hold that not all knowledge is theoretical?
+109. Do all inferences yield knowledge?
+110. What is required for an inference yielding a correct conclusion to yield knowledge?
+111. What are theories?
+112. What does knowing a dependence-relation involves?
+113. What is the relationship between knowledge of dependence-relations and knowledge of theories?
+114. When does a dependence-relation hold between two statements?
+115. What are total causes always?
+116. What is a defeasible inference rule?
+117. What is the difference between a defeasible rule and a bad rule?
+118. What is the difference between a principle and a rule?
+119. What are rules about?
+120. What are principles about?
+121. What is the status of a rule that admits exceptions?
+122. Is a duly hedged rule a principle?
+123. How are principles better understood?
+124. How does a person's self-knowledge compare to knowledge of others?
+125. Can we have knowledge of what others are thinking?
+126. Can we have direct knowledge of our own mental contents?
+127. How do we ascribe mental states to others?
+128. Do people know much about themselves?
+129. What is a striking feature of some self-knowledge?
+130. What does having accurate perceptions involve?
+131. What can happen to sensory experiences that makes them like forensic data?
+132. What seems impossible regarding certain kinds of self-knowledge?
+133. What happens with some psychological occurrences regarding appearance and reality?
+134. How does knowledge of psychological facts compare to knowledge of external facts?
+135. Are there reasons to believe self-knowledge is difficult to obtain?
+136. What does "consciousness" refer to in philosophical contexts?
+137. Does "consciousness" refer to the objects of experience?
+138. Do mental constituents exist only when occupying consciousness?
+139. Are there instances of knowledge that are not consciousness?
+140. Are there instances of consciousness that are not knowledge?
+141. What is one feature of consciousness regarding "something it is like"?
+142. What is the relationship between consciousness and "something it is like to be"?
+143. Is there something it is like to believe that 1+1=2?
+144. Is the belief that 1+1=2 a constituent of consciousness?
+145. Can the intention to receive a degree be identified with a constituent of consciousness?
+146. How is such an intention better characterized?
+147. Are we conscious of everything in our minds?
+148. What contention about mental events do we have grounds for?
+149. With certain exceptions, what is awareness of objects identical with?
+150. What is an existence-claim?
+151. What is true whenever knowledge is theoretical or indirect?
+152. How are we aware of electrons?
+153. Is our knowledge of directly perceived objects descriptive?
+154. What is perception identical with?
+155. Is it conceivable to have a perception that doesn't describe the world?
+156. What does this show about awareness of sense-perceived objects?
+157. What seems different about awareness of intense pain?
+158. Do we have non-descriptive knowledge of some psychological states?
+159. What distinction do some philosophers and psychologists make?
+160. What is any skill a case of?
+161. Are knowledge-how and knowledge-that fundamentally different?
+162. Does knowledge-that add up to skill or vice versa?
+163. What is knowledge of a language?
+164. What is knowledge of a language more precisely?
+165. What is procedural knowledge in general?
+166. Does all procedural knowledge start as declarative knowledge?
+167. Does one have conscious access to declarative knowledge within procedural knowledge?
+168. What characterizes the mind regarding compartmentalization?
+169. When do we have intuitive knowledge?
+170. When do we have discursive knowledge?
+171. What does it mean to know something intuitively?
+172. What does Jones know that Timmy doesn't about judging the circle?
+173. What is the difference between Timmy and Jones?
+174. How many ways does Jones know the drawing is a circle compared to Timmy?
+175. What is a proposition?
+176. What are the two striking features of sentential information?
+177. How does the sentence represent the content of visual perception schematically?
+178. From one viewpoint, does the sentence under-represent visual perception content?
+179. From another viewpoint, does the sentence over-represent perception content?
+180. What is Jones doing with the information?
+181. How does Jones' knowledge differ from Timmy's regarding descriptions?
+182. What is CR an example of?
+183. According to G.E. Moore, what is paradoxical about conceptual analyses?
+184. Can Moore's paradox be dissolved?
+185. Can a fact be described in different but equally correct ways?
+186. What must be distinguished regarding Newton's theory of gravitation?
+187. What must be distinguished given a belief?
+188. What is the relationship between justification and discovery?
+189. What is the relationship between discovering and coming to know?
+190. What does knowing involve regarding justification?
+191. What follows from the previous two points?
+192. What must we distinguish regarding discovering versus coming to believe?
+193. Can one discover without coming to believe, and vice versa?
+194. To what extent are a person's beliefs likely to be justified?
+195. What follows about justification for conjectures leading to scientific advances?
+196. In what is justification inherent beyond scientific discovery?
+197. What drove the thoughts of Newton and Keynes?
+198. What is the relationship between psychology and logic of discovery?
+199. What did Pascal say about intuition and logic?
+200. Is Pascal's claim correct?
+
+## CHAPTER 9: ANALYTIC PHILOSOPHY (Semantic Externalism)
+
+1. Is linguistic meaning a strictly psychological notion?
+2. Does what we think largely determine what our expressions mean?
+3. Who made clear that there is an important non-psychological dimension to meaning?
+4. Does psychological/behavioral indistinguishability guarantee same meanings?
+5. What is Twin-Earth?
+6. What is true of every person x on Earth and their counterpart y on Twin-Earth?
+7. What is the liquid in bathtubs, glasses, and lakes on Twin-Earth?
+8. Do SE and TS have the same meaning?
+9. What is the relationship between SE and TS regarding meaning?
+10. What is the relationship between their meanings regarding truth conditions?
+11. What does "water" refer to?
+12. What is the status of this claim about "water"?
+13. Can a competent English speaker fail to know what "water" refers to chemically?
+14. What did the analysis of water reveal about its composition?
+15. What would "water" refer to on Twin-Earth?
+16. Is knowledge of chemistry required for mastery of English?
+17. Does the described view have the consequence that chemistry knowledge is required?
+18. What is the semantic rule for "Barack Obama"?
+19. Do points about "Jack Jones" also hold for "water"?
+20. What is necessary to know what "water" refers to?
+21. How many properties does water uniquely have?
+22. What is the relationship between knowing any single truth (n) and knowing what "water" refers to?
+23. Which part of n describes a semantic rule?
+24. What does anyone who knows the semantics of "water" know?
+25. What is an individual's sole intention in saying "water covers most of the Earth's surface"?
+26. What is each individual's intention in uttering w₂?
+27. Is the meaning the same when Smith and Jones utter the same sentence about water?
+28. Why do Smith and Twin-Smith affirm different propositions despite identical internal conditions?
+29. What is the truth condition for Smith's utterance of SE given H₂O?
+30. Does Smith have any idea what it means to identify water with H₂O?
+31. Does Smith's statement concern H₂O despite his ignorance?
+32. What does PTM (semantic externalism) state about meaning determinants?
+33. What are the truth conditions for Twin-Smith's utterance of TS?
+34. What is the doctrine that PTM is true called?
+35. Why is it called semantic externalism?
+36. What is the assessment of PTM and who deserves credit?
+37. What did Putnam later do under pressure from Burge?
+38. How influential was Burge's work?
+39. What broader effect did Burge's work have on analytic philosophy?
+40. What came to be widely held for 20 years due to Burge?
+41. What less innocuous claim is Burge making about Smith and Twin-Smith?
+42. What does Burge claim about the thoughts expressed in water-sentences?
+43. When did this chapter in analytic philosophy history begin?
+44. What does Burge argue?
+45. What is the qualifying condition about Twin-Earth?
+46. What does "arthritis" refer to on Earth?
+47. What does "arthritis" refer to on Twin-Earth?
+48. So what is "arthritis" on Twin-Earth NOT referring to?
+49. What should we call the Twin-Earth ailment?
+50. What does Smith on Earth regard about AU?
+51. What does Twin-Smith regard about AU?
+52. What does Burge claim about the thoughts underlying Smith's and Twin-Smith's utterances of AU?
+53. What is Twin-Smith thinking about according to Burge?
+54. What does Burge conclude about atom-for-atom duplicates?
+55. Is Burge's conclusion warranted?
+56. Is Burge right about "arthritis" on Twin-Earth?
+57. What did Putnam show that supports Burge on reference?
+58. Is Burge right about Smith and Twin-Smith being cognitively different?
+59. What is the answer to whether they're cognitively different?
+60. How does Smith learn what "arthritis" refers to?
+61. What does A₁ communicate to Smith?
+62. What is A₂ effectively saying?
+63. What message is communicated when Smith hears A₃?
+64. What message is communicated in A₄?
+65. Does Twin-Smith's life precisely parallel Smith's?
+66. What message is communicated to Twin-Smith when hearing A₃?
+67. What follows about Smith's and Twin-Smith's thoughts contrary to Burge?
+68. Why don't the sentences have the same literal meanings despite same thought contents?
+69. What false assumption would lead one to conclude thoughts differ when sentences differ?
+70. Does "arthritis is painful" have different literal meanings on Earth vs. Twin-Earth?
+71. Is Burge right to conclude Smith and Twin-Smith have different thoughts?
+72. What is the assessment of Burge's position?
+73. Does VH give a complete message?
+74. What does VH tell about the entity?
+75. What does CVR precisely state?
+76. Is CVR true or false?
+77. What does the truth status of CVR prove?
+78. What does Burge's analysis entail about the message from visual experience?
+79. Why is Burge's analysis false regarding BLNK vs CVR?
+80. What world should we continue thinking about?
+81. What do you think in W₄?
+82. Is there something you're not wrong about in W₄?
+83. What would you answer if asked about your thought in W₄?
+84. Is your answer to the second question right?
+85. Do you know what you're thinking?
+86. Is what you're thinking wrong in W₄?
+87. Are you right to think you're thinking it?
+88. What does Burge's position entail opposite to this?
+89. What is happening according to Burge in this context?
+90. Where is there a blank according to Burge?
+91. What consequence follows about answering questions about your thought?
+92. Why would you be wrong according to Burge?
+93. How many reasons are there?
+94. What is the first reason?
+95. What follows from the first reason?
+96. Is this consequence true?
+97. What is the conclusion about Burge's position?
+98. What is the status of content-externalism despite these problems?
+99. What can only be said to tenacious defenders of content-externalism?
+100. What causal powers does the alleged difference have?
+
+## PARADOXES (90 Positions)
+
+1. How do individuals at the bottom of a hierarchy respond to peers trying to rise?
+2. What is the relationship between employee uselessness and rule enforcement?
+3. What barrier do creators lacking institutional backing face regarding reviews?
+4. What dual effect does modern communications technology have on connection?
+5. What is the informational purchase dilemma?
+6. How does increased public education funding often affect outcomes in the U.S.?
+7. How might pure intelligence be paralyzed, and how can rationality break the deadlock?
+8. What is the feedback loop in obsessive-compulsive behavior?
+9. What is analysis paralysis?
+10. What characterizes the Primerica employment model?
+11. What is the Leno observation about who would benefit society by their absence?
+12. What is bureaucratic stonewalling?
+13. What is the relationship between knowing about a person and accurate judgment?
+14. What is the Larry David Rule about public declarations of merit?
+15. What is the inverse gratitude phenomenon?
+16. What is the Seinfeld success curve regarding comedy?
+17. What is the paradox of the liberal environmental footprint?
+18. What trade-off does macro-level human progress often require?
+19. What is conformist non-conformity?
+20. What produces the most self-identified rebels?
+21. What happens to the once-rebellious hippie generation?
+22. What often creates the need for a lawyer?
+23. Who does a person's suicide harm?
+24. In a democracy, who ultimately oppresses the people?
+25. What does automation often result in according to Orlov?
+26. What does economic efficiency lead to regarding employment?
+27. What does the Hilbert-Bernays example demonstrate about self-referential definitions?
+28. Can the class of recursive definitions be recursively defined?
+29. Can the process of automation be fully automated?
+30. What is the problem with asking if "heterological" is heterological?
+31. What is "I am lying" when properly analyzed?
+32. What does Berry's paradox conflate?
+33. How is Wittgenstein's rule-following skepticism resolved?
+34. How are vague predicates resolved?
+35. What is the fallacy in the silent grain paradox?
+36. How is Zeno's arrow paradox resolved?
+37. Why are "irresistible force" and "immovable object" problematic together?
+38. What is the horny nerd's dilemma?
+39. How can therapist licensing requirements affect effectiveness?
+40. What can an hour of psychiatric treatment do?
+41. What happens when economics research funding increases?
+42. What specialization do lawyers develop regarding guilty vs. innocent clients?
+43. How do unions create the problem they're needed to solve?
+44. What strategy might useless functionaries employ?
+45. What might professors do to inflate their perceived value?
+46. How is Achilles and the Tortoise resolved?
+47. To what does "everything has a place" apply?
+48. What is the probability of a coin landing in an exact region?
+49. What is the Stockdale Dichotomy?
+50. What is the double-edged nature of high self-awareness?
+51. What is ironic process theory?
+52. Why might schizophrenics have better outcomes in developing countries?
+53. How can anti-trust laws harm consumers?
+54. How does tenure pervert its intended purpose?
+55. Why is a benevolent leader more vulnerable than a vindictive one?
+56. How can a conceptual analysis be informative despite same referent?
+57. What does Fitch's knowability paradox prove?
+58. How do chronic, low-status Reddit users behave toward others seeking professional gain?
+59. How do those lowest in hierarchies behave toward their peers?
+60. What is the grassroots leadership catch-22?
+61. What is the meek inheritance strategy?
+62. What is the hyper-competence ceiling?
+63. What bind does a school psychologist face?
+64. Why do useless laws require harsh enforcement?
+65. What conflict does a useless lawyer face?
+66. What vested interest does existing scholarship create?
+67. What can an omniscient being not know?
+68. What can an omniscient being never do regarding decisions?
+69. Why is omniscience incoherent?
+70. Does inability to create a too-heavy-to-lift rock limit omnipotence?
+71. What incentive do problem-solving institutions have?
+72. Is the preface paradox genuinely paradoxical?
+73. Is "some things cannot be described" self-refuting?
+74. What is wrong with the barber paradox description?
+75. How is the unexpected hanging resolved?
+76. What is the difference between imperatives and statements regarding entailment?
+77. How is the lottery paradox resolved?
+78. What often results from trying to avoid traditional work?
+79. What happens as an economy becomes more efficient?
+80. How is the raven paradox resolved?
+81. How is Hume's riddle of induction resolved?
+82. Why are grue-like predicates illegitimate?
+83. How is Frege's puzzle resolved?
+84. How is Kripke's challenge addressed?
+85. How is the ratiocinator's regress resolved?
+86. How is Meno's paradox resolved?
+87. How is the learner's paradox resolved?
+88. How is the content externalism paradox best modeled?
+89. What is the secession paradox?
+90. What is the two-for-one psychiatrist problem?
+
+## CHAPTER 7: ANALYTIC PHILOSOPHY (Logic & Mathematics)
+
+1. What did Frege do for logic?
+2. What key insight did Frege provide about form?
+3. What does formalizing an inference mean?
+4. What did Frege successfully do with quantified inferences?
+5. What do quantifiers express?
+6. When is "Someone snores" true?
+7. What function does "everything" express?
+8. What did Frege do to conjunctions and disjunctions?
+9. Where was negation exported to?
+10. What does Frege's reparsing reveal?
+11. When is an argument form valid?
+12. What is logicism?
+13. What must be done to arithmetic for logicism?
+14. What did Frege believe about arithmetic's nature?
+15. How did Kant wrongly classify arithmetic?
+16. What did Frege show exists beyond formal truths?
+17. What does proper analysis do to references to the target concept?
+18. How can number statements be expressed?
+19. How can "There are two apples" be expressed without "two"?
+20. What are numbers according to Frege?
+21. What does "zero" denote?
+22. What does "two" denote?
+23. What are whole numbers properties of?
+24. When do two sets have the same number?
+25. How is similarity of sets defined?
+26. What is the number two?
+27. How did Frege identify numbers?
+28. What problem does identifying numbers with sets create?
+29. How does identifying numbers with properties avoid this problem?
+30. How can arithmetical operations be defined set-theoretically?
+31. What does addition correspond to?
+32. What does multiplication correspond to?
+33. How can irrational numbers be understood?
+34. What is √2 as a class of rationals?
+35. What can all real numbers be reduced to?
+36. Why did logicism fail?
+37. What did Gödel prove about formal arithmetic?
+38. What can no single algorithm do?
+39. What is formal truth a property of?
+40. What is analytic truth a property of?
+41. What is the relationship between formal and analytic truths?
+42. What does formalizing a sentence require?
+43. How does a formal decision procedure operate?
+44. What did Gödel use to prove incompleteness?
+45. What does Gödel numbering do?
+46. How can syntax be represented?
+47. What does the diagonal lemma enable?
+48. How can the predicate Eval(x,y) be expressed?
+49. What does D(x) = ¬Eval(x,x) lead to?
+50. What follows for any consistent formal system containing arithmetic?
+51. What does analysis by abstraction define?
+52. How is weight understood?
+53. How can time order be analyzed?
+54. What is simultaneity equal to?
+55. What is all knowledge of quantities fundamentally?
+56. What doesn't Frege's formalization do to thought?
+57. What do algorithms require?
+58. What does applying an algorithm require?
+59. What may be harder than the inferences an algorithm executes?
+60. What can no mechanical procedure determine?
+61. What cannot be fully mechanized?
+62. What does inference require beyond symbol manipulation?
+63. Does output being caused by symbols equal making an inference?
+64. What did Frege's work enable?
+65. What is deeply flawed about the idea that machines think via formalization?
+66. Does first-order logic have a general decision procedure?
+67. What is Gödel's proof modeled on?
+68. How do real numbers compare to rationals/whole numbers?
+69. What can infinite sets be put in correspondence with?
+70. Are whole numbers and rationals equinumerous?
+71. What does Cantor's diagonal argument prove?
+72. What must Gödel numbering be?
+73. What do syntactic operations correspond to?
+74. Is the function isWFF(n) primitive recursive?
+75. Is the substitution function subst(n,m,k) primitive recursive?
+76. How is self-reference achieved in arithmetic?
+77. What does the contradiction show about FM?
+78. What can't formal systems rich enough for arithmetic do?
+79. What did Gödel's incompleteness theorems refute?
+80. What is arithmetic truth not co-extensive with?
+81. What is analogous to Gödel's result?
+82. What does philosophy study?
+83. What does mathematics study?
+84. What does empirical science study?
+85. Is there synthetic a priori knowledge?
+86. What was wrong with Kant's theory of arithmetic?
+87. What did Frege's analysis of number lay?
+88. What did Russell refine?
+89. What is undesirable about numbers as sets of sets?
+90. What is the status of numbers as properties across possible worlds?
+91. What is true of the empty set across possible worlds?
+92. Which number is ontologically invariant on Frege's set-theoretic view?
+93. What does Gödel's proof show about truth vs. provability?
+94. What is structurally similar to Gödel's sentence?
+95. What does Gödel's result depend on?
+96. What functions are sufficient to arithmetize syntax?
+97. Is the Entscheidungsproblem solvable?
+98. What do Turing machines formalize?
+99. What does Church's thesis state?
+100. What kind of limit is Gödel's incompleteness?
+
+## CHAPTER 8: ANALYTIC PHILOSOPHY (Thought & Reference)
+
+1. What are the objects of thought always?
+2. What is the real object of thought?
+3. What are your eyes doing?
+4. What are your eyes NOT telling you about the rock?
+5. What ARE your eyes telling you about the rock?
+6. Given any sensory message and external object, what is consistent with that message?
+7. What can sense-perceptions be said to do regarding objects?
+8. What is perceiving anything other than being apprised of an existence-claim?
+9. What does your seeing Pat involve?
+10. What follows about seeing him and existence-claims?
+11. Do you just see property-instances?
+12. What do you see regarding structure?
+13. What is seeing an object other than seeing its property-instances?
+14. What does your seeing a given object consist in?
+15. Is perception descriptive?
+16. What is conception like perception?
+17. What is thinking of an object?
+18. Who saw this point about descriptive thought?
+19. Does cognitive content always coincide with literal meaning?
+20. What is the systematic relationship between cognitive content and literal meaning?
+21. What does your visual perception tell you?
+22. What does your seeing him consist in?
+23. Can semantic rules just be known without sense-perception?
+24. What are sense-perceptions for learning semantic rules replete with?
+25. What is special about information that accompanies semantic learning?
+26. What follows about what sentence-utterances convey?
+27. What does SF merely do to object x?
+28. What is the generalized point about proper names?
+29. What do names do vs. not do according to Mill?
+30. What is the characterization of names as labels?
+31. Who provided this argument about names?
+32. What does "Dartmouth" merely do?
+33. How does "The river whose mouth is at Dart" refer?
+34. How does it refer—by describing or by labeling?
+35. What would Russell and Frege say about "Gargantuan"?
+36. Is the Russell-Frege view correct?
+37. What does Mill's argument decisively show?
+38. Do proper names have Fregean senses?
+39. How do definite descriptions refer?
+40. What is the distinction between direct and indirect reference?
+41. Are these points obvious and easy to understand?
+42. Why have they been overlooked?
+43. What have talented thinkers wasted time defending?
+44. What do you know about "Larry"?
+45. What is the semantic rule for "Larry"?
+46. What is a corollary about "Larry is a talented astrologer"?
+47. What will LT convey given the circumstances?
+48. What does LT have for its literal meaning vs. what it implicates?
+49. Do you know LT isn't synonymous with (LT2)?
+50. What do you know about bolo ties and literal meaning?
+51. What would follow if "Larry" were synonymous with the description?
+52. Can you necessarily articulate this knowledge?
+53. What does this limitation mean?
+54. Can you non-descriptively think about Larry?
+55. Can Larry just be represented to you?
+56. How must he be represented?
+57. How will you always think of him?
+58. By virtue of what will you have thoughts about Larry?
+59. How many ways are there to interpret LD1?
+60. What does LD2 say about "Larry"?
+61. What does LD3 say about "Larry"?
+62. What is the difference between LD2 and LD3's use of the description?
+63. Which is correct—LD2 or LD3?
+64. Despite this, what non-literal connotations does ‹Larry has psi› have?
+65. What is the semantic rule for "Oliver"?
+66. What is OT's literal meaning?
+67. What will Brown's utterance of OT convey non-literally?
+68. What is the relationship between Oliver and Larry?
+69. Do you know this identity?
+70. What just happens to be the case?
+71. How many individuals go by "Larry" and "Oliver"?
+72. What follows about the semantic rules for "Oliver" and "Larry"?
+73. What follows about OT and LT's meanings?
+74. What is the relationship between OT1 and LT?
+75. Is there a problem?
+76. What is the problem about OT and LT?
+77. How can this be?
+78. How can LT and OT convey different propositions with the same literal meaning?
+79. What has already been explained?
+80. How are semantics learned?
+81. What must one work through to access semantic rules?
+82. What is the result regarding what is communicated vs. literal meaning?
+83. Given these circumstances, what will ‹Larry has psi› convey?
+84. What will LOI convey?
+85. What do we know from Russell's theory about DLOI's meaning?
+86. What must be remembered about names?
+87. What follows about what LOI literally means?
+88. Is what LOI communicates trivial?
+89. Despite living after Mill, what didn't Frege and Russell do?
+90. What was their reasoning?
+91. What can't you know given only appearances about Hesperus and Phosphorus?
+92. What might seem to follow about MS and ES's meanings?
+93. What did Russell and Frege infer?
+94. What is the Russell-Frege analysis of proper names?
+95. So what makes N the name of O?
+96. Was Mill wrong about proper names?
+97. Are proper names descriptive?
+98. Did Russell and Frege disagree about analyzing "the phi"?
+99. What did Frege think about "the phi"?
+100. What did Russell think about "the phi"?

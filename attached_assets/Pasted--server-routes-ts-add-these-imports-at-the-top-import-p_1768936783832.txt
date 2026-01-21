@@ -1,0 +1,120 @@
+// server/routes.ts  (add these imports at the top)
+import { processDocumentCoherently } from './services/coherence/coherenceProcessor';
+import { rewriteForCoherence } from './services/coherence/coherenceMeter';
+import { readCoherenceState } from './services/coherence/coherenceDatabase';
+import { v4 as uuidv4 } from 'uuid';
+
+// ──────────────────────────────────────────────────────
+// PAPER WRITER – FULL COHERENCE INTEGRATION (replace your old handler)
+// ──────────────────────────────────────────────────────
+
+app.post('/api/figures/:id/write-paper', async (req, res) => {
+  const { topic, wordCount = 2000, useCoherence = true } = req.body;
+  const figureId = req.params.id;
+
+  // Get philosopher name for voice
+  const figure = await getFigureById(figureId);
+  if (!figure) return res.status(404).json({ error: 'Figure not found' });
+
+  res.writeHead(200, {
+    'Content-Type': 'text/event-stream',
+    'Cache-Control': 'no-cache',
+    'Connection': 'keep-alive',
+  });
+
+  try {
+    // Step 1: Generate raw paper (your existing logic – keep whatever you have)
+    const rawPrompt = `Write a full academic paper titled "${topic}" in the exact style and voice of ${figure.name}. Length: approximately ${wordCount} words.`;
+    const rawResponse = await openai.chat.completions.create({
+      model: 'gpt-4o',
+      messages: [{ role: 'system', content: rawPrompt }],
+      stream: false,
+      temperature: 0.7,
+    });
+    let fullText = rawResponse.choices[0]?.message?.content || '';
+
+    if (!useCoherence || wordCount < 800) {
+      res.write(`data: ${JSON.stringify({ type: 'final', text: fullText })}\n\n`);
+      res.end();
+      return;
+    }
+
+    // Step 2: Run full coherence processing
+    res.write(`data: ${JSON.stringify({ type: 'status', message: 'Ensuring philosophical coherence...' })}\n\n`);
+
+    const { documentId, overallStatus } = await processDocumentCoherently(
+      fullText,
+      'philosophical',
+      figureId,
+      figure.name,
+      (index, total, status, violations) => {
+        res.write(`data: ${JSON.stringify({
+          type: 'coherence_progress',
+          chunk: index + 1,
+          total,
+          status,
+          violations
+        })}\n\n`);
+      }
+    );
+
+    // Step 3: Optional final rewrite if needed
+    if (overallStatus !== 'coherent') {
+      res.write(`data: ${JSON.stringify({ type: 'status', message: 'Fixing coherence issues...' })}\n\n`);
+      const { rewrittenText } = await rewriteForCoherence(fullText, documentId, 'philosophical', figure.name);
+      fullText = rewrittenText;
+    }
+
+    // Step 4: Final output
+    res.write(`data: ${JSON.stringify({
+      type: 'final',
+      text: fullText,
+      coherence: overallStatus,
+      documentId
+    })}\n\n`);
+    res.end();
+
+  } catch (err: any) {
+    res.write(`data: ${JSON.stringify({ type: 'error', message: err.message })}\n\n`);
+    res.end();
+  }
+});
+
+// ──────────────────────────────────────────────────────
+// DEBATE & DIALOGUE – SAME PATTERN (add these two routes)
+// ──────────────────────────────────────────────────────
+
+app.post('/api/debate', async (req, res) => {
+  const { figureIds, topic, rounds = 6 } = req.body;
+  // ... your existing debate generation logic → produces rawDebateText
+
+  // Then exactly the same coherence block as above:
+  const { documentId, overallStatus } = await processDocumentCoherently(
+    rawDebateText,
+    'philosophical',
+    undefined,
+    `${figure1.name} vs ${figure2.name}`,
+    (i, t, s, v) => res.write(`data: ${JSON.stringify({ type: 'coherence_progress', chunk: i+1, total: t, status: s, violations: v })}\n\n`)
+  );
+
+  if (overallStatus !== 'coherent') {
+    rawDebateText = (await rewriteForCoherence(rawDebateText, documentId, 'philosophical')).rewrittenText;
+  }
+
+  // send final
+});
+
+app.post('/api/dialogue', async (req, res) => {
+  // identical pattern to debate – just change mode if you want 'logical-cohesiveness'
+  // use processDocumentCoherently(..., 'philosophical' or 'logical-cohesiveness')
+});
+
+// ──────────────────────────────────────────────────────
+// RESUME ENDPOINT (optional but recommended)
+// ──────────────────────────────────────────────────────
+
+app.get('/api/coherence/:documentId', async (req, res) => {
+  const { documentId } = req.params;
+  const state = await readCoherenceState(documentId, 'philosophical');
+  res.json({ documentId, state });
+});

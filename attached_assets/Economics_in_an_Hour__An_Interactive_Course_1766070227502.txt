@@ -1,0 +1,1771 @@
+﻿                                    Economics in an hour
+
+
+                                    An interactive course
+
+
+ 
+
+
+ 
+
+
+Part 1: Basic Principles
+
+
+Lecture 1 What is an economy?
+
+
+Quiz
+
+
+Lecture 2 Economies in Relation to Currency
+
+
+Quiz
+
+
+Lecture 3 Efficiency and the Division of Labor
+
+
+Quiz
+
+
+Lecture 4 Economics Defined
+
+
+Quiz
+
+
+Lecture 5 Currency
+
+
+Quiz
+
+
+Lecture 6 Barter vs. Monetary Exchanges
+
+
+Quiz
+
+
+Part 2 Economies of Scale
+
+
+Lecture 7 Surpluses necessary for scale
+
+
+Quiz
+
+
+Lecture 8 Different kinds of scaleQuiz
+
+
+Lecture 9 Literacy as the basis of economies of scale
+
+
+Quiz
+
+
+Lecture 10 Sales Records and Promissory Notes
+
+
+Quiz
+
+
+Lecture 11 Debt-instruments
+
+
+Quiz
+
+
+Lecture 12 Mathematics as by-product of economies of scale
+
+
+Quiz
+
+
+Lecture 13 Interest and Investment
+
+
+Quiz
+
+
+Lecture 13 Finance vs. Economics
+
+
+Quiz
+
+
+Part 3 Final Exam      Part 1: Basic Principles 
+
+
+       Lecture 1 What is an economy?
+
+
+ 
+
+
+      Economics studies the generation and allocation of commercial
+
+
+resources. A commercial resource is anything that a person can use or
+
+
+own. Suppose that there were only three people in existence, Smith,
+
+
+Jones, and Brown. Smith grows crops, Brown builds huts and bridges,
+
+
+and Jones hunts. Smith, Jones, and Brown exchange the fruits of their
+
+
+labor, and this arrangement is stable. This is an economy.
+
+
+       Quiz
+
+
+ 
+
+
+      True or false? If Smith, Jones and Brown each created products, but
+
+
+they refused to trade with one another or in any benefit from one another's
+
+
+labors, they would jointly constitute an economy.
+
+
+ 
+
+
+      Answer: False
+
+
+      Explanation: There is no economy where there is no trade.
+
+
+ 
+
+
+      If Smith, Jones, and Brown each created products and they traded
+
+
+those products with one another, they would jointly constitute an economy.
+
+
+ 
+
+
+      Answer: True
+
+
+      Explanation: There is an economy wherever there is trade.
+
+
+ 
+
+
+       Lecture 2 Economies in Relation to Currency
+
+
+ 
+
+
+      An economy is therefore any plurality of people who provide goods
+
+
+and services for one another. Sometimes currency is involved; sometimes
+
+
+it is not.
+
+
+      Currency is money. Money is a certificate of wealth that is not
+
+
+itself of any value. Dollar bills have no value in and of themselves. Their
+
+
+value is purely conventional in nature. But dollar bills can be used to buy
+
+
+food and cars and other valuables.
+
+
+       Quiz
+
+
+ 
+
+
+Which of the following statements is true?
+
+
+a.           If ten different people all love each other but they do not exchange
+
+
+goods and services with one another, they constitute an economy.
+
+
+b.           If ten different people all hate each other but they exchange goods and
+
+
+services with one another, they constitute an economy.
+
+
+c.           In order for there to be a working economy, there must be currency of
+
+
+some kind.
+
+
+d.           All property is stolen from our children and there are therefore no
+
+
+genuinely functional economies.
+
+
+e.           All of the above.
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: Wherever people exchange goods and services, there is
+
+
+an economy. All other factors are irrelevant.
+
+
+       Lecture 3 Efficiency and the Division of Labor
+
+
+ 
+
+
+      If you try to do everything yourself, you will work very hard and
+
+
+your standard of living will be very low. Suppose that you had to build
+
+
+your own lodging, grow your own crops, hunt for for your own game,
+
+
+build your own farming and hunting equipment, and so on. How well
+
+
+would you live? Not well. How long would you live? Not long.
+
+
+      In order to live well, labor must be efficient. That means that a
+
+
+small amount of work must yield a large amount of value. "Value" is
+
+
+anything that is desired. The term has no moral connotations. Lodging has
+
+
+value. Clothing has value. If you like to play the piano, then pianos have
+
+
+value, at least for you.
+
+
+      In order for a small amount of work to yield a large amount of
+
+
+value, there must be division of labor. In other words, different people
+
+
+must do different things. Smith must hunt. Brown must grow crops. Jones
+
+
+must build houses. Green must build farming and hunting utensils. And so
+
+
+on.
+
+
+      Then they must exchange the fruits of their labor. Smith gives beef
+
+
+to Jones, and in exchange Jones builds (or maintains) a house for Smith.
+
+
+Brown gives potatoes to Green, and in exchange Green builds (or fixes)
+
+
+farming equipment for Brown. And so on.      Important principle of economics: The greater the division of labor,
+
+
+the more efficient the economy. We will develop this point in the next
+
+
+lecture.
+
+
+       Quiz
+
+
+      Which of the following statements is true?
+
+
+      a.           If you tried to take care of all of your own needs, your life would
+
+
+be easy and enjoyable.
+
+
+      b.           In order to work at maximal efficiency, people must never
+
+
+interact with one another.
+
+
+      c.           A working economy requires a complete lack of autonomy on
+
+
+the part of all of its members.
+
+
+      d.           An efficient economy involves different people performing
+
+
+different tasks and then exchanging goods and services with one another.
+
+
+ 
+
+
+      Answer: d
+
+
+      Explanation: where there is no division of labor, work is prohibitively
+
+
+inefficient.
+
+
+ 
+
+
+       Lecture 4 Economics Defined
+
+
+      We have considered two different economic arrangements. In one
+
+
+of them, people do not cooperate. In the other, they do cooperate.
+
+
+      We have seen that the first does not work very well. An 'economy
+
+
+of one' is not a very efficient economy. A world of total 'do-it-your-
+
+
+selfers' is a world of people who work hard, live badly, and die young.
+
+
+      We have seen that when people work together, their work tends to
+
+
+be relatively efficient and they can live relatively well.
+
+
+      The discipline of economics is not interested in economies of one.
+
+
+Economics is only interested in economies that involve cooperation
+
+
+between different people.
+
+
+      But there are many different kinds of cooperative arrangements,
+
+
+and they differ dramatically from one another. Some of them work very
+
+
+well; others work very poorly.
+
+
+      Economics tries to answer the question: Which such arrangements
+
+
+work well, and which ones don't? In other words, which such
+
+
+arrangements generate and allocate resources efficiently and in which
+
+
+ones fail to do so?
+
+
+      Thus, economics is the discipline that identifies the circumstances
+
+
+under which resources are generated and allocated with maximal
+
+
+efficiency.       Quiz
+
+
+Which of the following statements is true?
+
+
+a.           Economists would favor traditional gender relations even if they led to
+
+
+economic inefficiency.
+
+
+b.           Economists would favor democratic political systems even if they led
+
+
+to economic inefficiency.
+
+
+c.           Economists would favor democratic political systems only if they led
+
+
+to economic efficiency.
+
+
+d.           Without the use of fossil fuels and heavy industry, there cannot exist an
+
+
+economy.
+
+
+e.           None of the above.
+
+
+Answer: c
+
+
+Explanation: Economics is concerned with politics, including questions of
+
+
+political justice, only to the extent that they impact economic efficiency.
+
+
+Corollary: economics often supplies otherwise empty propositions of ethics
+
+
+and politics with operational definitions that give empirical content to those
+
+
+propositions.Lecture 5 Currency
+
+
+ 
+
+
+      Goods and services can be exchange in one of two ways: directly
+
+
+and indirectly.
+
+
+      If I give you a boat in exchange for a car, you have directly
+
+
+exchanged a car for a boat.
+
+
+      If I give you money in exchange for a car and you then use that
+
+
+money to buy a boat, you have exchanged a car for a boat, but the
+
+
+exchange was indirect, since it involved the intermediary of money.
+
+
+      Money is anything that has little or no intrinsic value but that
+
+
+serves as a medium of exchange.
+
+
+      Historically, many things have functioned as currency: bags of salt,
+
+
+pebbles, twigs, hunks of gold, and gold coins.
+
+
+      Even though some of these things, e.g. salt and twigs, may have
+
+
+some intrinsic value, they are not functioning as money as long unless
+
+
+their exchange-value exceeds their intrinsic value. The intrinsic value of
+
+
+$100 bill is nil, as is that of a gold coin; but their exchange-values are
+
+
+high. 
+
+
+      Quiz
+
+
+Which of the following statements is true?
+
+
+ 
+
+
+a.           Pebbles, bags of salt, etc. are functioning as money only if their
+
+
+exchange value equals their intrinsic value.
+
+
+b.           Pebbles, bags of salt, etc. are functioning as money only if their
+
+
+exchange value exceeds their intrinsic value.
+
+
+ 
+
+
+Answer: b
+
+
+Explanation:  It is only if a thing’s intrinsic value is trivial compared to its
+
+
+value-in-exchange that it is functioning as money.  
+
+
+       Lecture 6 Barter vs. Monetary Exchanges
+
+
+ 
+
+
+      Direct exchanges are known as 'barter.' If I give you a boat for a
+
+
+car, you and I are bartering.
+
+
+      Bartering is fine in many contexts. But it has some limitations.
+
+
+      If Smith has a car and needs a boat and Jones has a boat and needs
+
+
+a car, it is unlikely that Smith's car will equal Jones' boat in value.
+
+
+      Also, if each of Smith and Jones has both shortages and surpluses,
+
+
+it is unlikely that what Jones has is what Smith needs or that what Smith
+
+
+has is what Jones needs, and it is doubly unlikely that what each has and
+
+
+is willing to give up is exactly what the other needs.
+
+
+      So barter either results in someone getting less for more or it
+
+
+requires that there are be an improbable 'double coincidence' of wants and
+
+
+needs between the parties involved. (This term is due to W.S. Jevons, who
+
+
+used it in his book Money as the Medium of Exchange.)
+
+
+      In general, what a given person has and needs is unlikely to align,
+
+
+either qualitatively or quantitatively, with another given person needs and
+
+
+has.
+
+
+       Quiz
+
+
+Which of the following statements is true?
+
+
+a.           Inflation is not possible in a barter economy.
+
+
+b.           Inflation is possible in a barter economy.
+
+
+ 
+
+
+Answer: a
+
+
+Explanation: Inflation is when money is overvalued, and there is no money in
+
+
+a barter economy.
+
+
+       Part 2 Economies of Scale
+
+
+       Lecture 7 Surpluses necessary for scale
+
+
+ 
+
+
+      A surplus is when you have more of something than you need.
+
+
+      A shortage is when you don't have enough of something that you
+
+
+need.
+
+
+      In order for an economy to be efficient, it must have large
+
+
+surpluses. Suppose that each person only has just enough of food, just
+
+
+enough lumber, just enough lodging, just enough energy to take care of
+
+
+his own basic needs, etc. In this kind of economy, people wouldn't be able
+
+
+to trade with one another, since they couldn't part with anything without
+
+
+dying.
+
+
+      Now consider a different economy. In this economy, some people
+
+
+have extra food; other people don't have enough food but they have extra
+
+
+medical supplies; some people have enough of both but they don't have
+
+
+books or other things to keep them entertained; and so on. In this
+
+
+economy, it is possible for people to improve one another's lives by
+
+
+exchanging goods.
+
+
+      The first 'economy' is really only an economy in name only. Where
+
+
+margins are so thin that people have nothing to give, there is no trade and
+
+
+no real economy.
+
+
+      The second economy is a real economy. There are surpluses, sothere can be trade.
+
+
+In general, trade is possible when there are surpluses. Moreover, trade is
+
+
+possible to the extent that there are surpluses.      Quiz
+
+
+Which of the following statements is true?
+
+
+ 
+
+
+a.           Surpluses paralyze economic activity.
+
+
+b.           Surpluses are necessary for economic activity.
+
+
+c.           Both of the above.
+
+
+d.           Neither of the above.
+
+
+ 
+
+
+Answer: b
+
+
+Explanation: There are no economies without trade, and there is no trade
+
+
+without surpluses, since one only trades what one has a surplus of.
+
+
+       Lecture 8 Different kinds of scale
+
+
+      An economy of scale is simply a large economy.
+
+
+      But there are different ways that an economy can be large.
+
+
+      It can be large in a purely quantitative sense. It can consist of large
+
+
+numbers of people, each of whom has a tiny surpluses: an extra loaf of
+
+
+bread, a few minutes during the day when he doesn't have to working,
+
+
+maybe even a drawing that he can look at for aesthetic enjoyment.
+
+
+      If an economy of this kind of consisted of one trillion people, it
+
+
+would technically be large. But it would not be a very good economy, and
+
+
+it is not what economists mean when they talk about an 'economy of
+
+
+scale.'
+
+
+      To see what they do mean, let us consider a different kind of
+
+
+economy.
+
+
+      This time imagine a society of one million people. Let us refer to
+
+
+this society as S.
+
+
+      Some people in S have a great deal of extra food and extra clothes.
+
+
+Others are struggling and at times may not even have enough to eat.
+
+
+      But even those who are barely getting by often have surpluses of
+
+
+one kind or another. Some of them may be very knowledgeable and may
+
+
+have information that will help other people grow crops or build houses.
+
+
+Others may have talents that could be sources of entertainment. And soon.
+
+
+      People in S are not locked into just one job. They can try their hand
+
+
+at different trades. They are allowed to switch jobs and they are also
+
+
+allowed to start their own businesses.
+
+
+        Consequently, S has a very fluid and dynamic labor market. When
+
+
+people with surpluses of one kind are suffering from shortages of some
+
+
+other kind, people in S who feel that they can address those shortages get
+
+
+to work. If people who have extra food find themselves needing winter
+
+
+coats, other people in S get to work and start making those coats and
+
+
+exchanging them for food.
+
+
+      This activity in its turn leads to more surpluses--and more
+
+
+shortages. People with winter coats can work in the winter, hunting and
+
+
+building houses, and the like. Those houses are exchanged but then need
+
+
+repairs. Because of all these new houses, S needs more contractors and
+
+
+plumbers than it currently has. So there is a shortage of such people. But
+
+
+this shortage is addressed: people learn these trades and ply them.
+
+
+      And the cycle continues.
+
+
+       Quiz
+
+
+Which of the following statements below is true?
+
+
+a.           An economy in which people are not allowed to change the nature
+
+
+of their work is likely to do a good job of addressing shortages.
+
+
+b.           An efficient economy is one in which people don't change the way
+
+
+that they respond to problems, even though those methods don't work.
+
+
+c.           Economies of scale tend to result from efficiency and efficiency
+
+
+tends to require a willingness to deal with problems in new ways.
+
+
+d.           None of the above.
+
+
+Answer: c
+
+
+Explanation: Efficiency involves adaptation.
+
+
+       Lecture 9 Literacy as the basis of economies of scale
+
+
+ 
+
+
+      Writing was invented to keep records of supplies. Farmers who had
+
+
+extra grain used hash-marks to represent bushels of grain. If they had
+
+
+surpluses of other supplies, they used different symbols to represent them.
+
+
+      These records enabled those farmers to know what they needed to
+
+
+grow next season and what they did not need to grow.
+
+
+      This increased efficiency, leading to more surpluses.
+
+
+      These different methods of record keeping converged into systems
+
+
+that were intelligible to large numbers of people.
+
+
+      These common systems of writing were then used to record
+
+
+transactions.
+
+
+      At this point, they had two uses: recording supplies and recording
+
+
+sales.
+
+
+      Once sales-transactions were recorded, writing could be used to
+
+
+write promissory notes (IOU's). This began happening a few hundred
+
+
+years later.
+
+
+      In the meantime, systems of became generalized. First it was to
+
+
+record quantities of grain. Then quantities of other supplies, such as
+
+
+shoes.
+
+
+      Also, because writing is of its very nature abstract, it could not somuch as exist without bringing mathematics into existence. A single hash-
+
+
+mark was used to represent one bushel; five hash-marks, five bushels; and
+
+
+so on.
+
+
+      It was immediately seen that one bushel plus one bushel equals two
+
+
+bushels. It was soon recognized that the same principles applied to other
+
+
+things: for example, that one house plus one house equals two houses. In
+
+
+other words, one of anything plus one of that same thing equals two of
+
+
+that thing. 1+1=2, in other words.
+
+
+       Quiz
+
+
+Question: Which of the following statements is true?
+
+
+a.           Good records help people use their time and energy more efficiently.
+
+
+b.           Good records make it hard for people to use their time and energy
+
+
+efficiently.
+
+
+c.           Neither of the above.
+
+
+Answer: a
+
+
+Explanation: Ignorance is inefficient, and records minimize ignorance.
+
+
+       Lecture 10 Sales Records and Promissory Notes
+
+
+      These different methods of record keeping converged into systems
+
+
+that were intelligible to large numbers of people.
+
+
+      These common systems of writing were then used to record
+
+
+transactions.
+
+
+      At this point, they had two uses: recording supplies and recording
+
+
+sales.
+
+
+      Once sales-transactions were recorded, writing could be used to
+
+
+write promissory notes (IOU's). This began happening a few hundred
+
+
+years later.
+
+
+       Quiz
+
+
+Which of the following statements is true?
+
+
+a.           Written records make it difficult keep track of loans and therefore
+
+
+discourage investment.
+
+
+b.           If no loans were made, there would be no debt and the economy would
+
+
+therefore function at peak efficiency.
+
+
+c.           Loans can stimulate economic development when they are made to
+
+
+people whose activities generate value.
+
+
+d.           All of the above
+
+
+e.           None of the above.
+
+
+Answer: c
+
+
+Explanation: Without loans, people with viable business ideas would have to
+
+
+spend that much more time accumulating start-up capital and that much less
+
+
+time creating their businesses.
+
+
+       Lecture 11 Debt-instruments
+
+
+      Writing therefore made it easier for people to loan assets to others.
+
+
+If there are no written records of loans, debtors are likely to lie about
+
+
+what they owe and people will therefore unlikely to make loans. Not so if
+
+
+there are written records.
+
+
+        Consequently, people who needed capital (e.g. horses, food,
+
+
+clothes, tools, labor) but did not at present have anything to exchange for
+
+
+it could get loans.
+
+
+      Since people seek loans when they know of economic opportunities
+
+
+that they wish to capitalize on, this led to improvements in efficiency.
+
+
+People who knew of a new crop that people would want but that only they
+
+
+knew how to grow were able to do so, even if they did not at present have
+
+
+anything to give in exchange for the necessary supplies.
+
+
+      Capital is any asset that is used to generate anything of economic
+
+
+value. 
+
+
+      Quiz
+
+
+Which of the following statements is true?
+
+
+a.           "Capital" refers only to currency.
+
+
+b.           "Capital" refers to assets that serve no economic purpose.
+
+
+c.           "Capital" refers to assets that are intended to serve an economic
+
+
+purpose.
+
+
+d.           "Capital" refers to machinery but not to livestock or land.
+
+
+e.           None of the above.
+
+
+Answer: c
+
+
+Explanation: None needed, as this is a definitional truth.
+
+
+ 
+
+
+       Lecture 12 Mathematics as by-product of economies of scale
+
+
+      In the meantime, systems of became generalized. First it was to
+
+
+record quantities of grain. Then quantities of other supplies, such as
+
+
+shoes.
+
+
+      Also, because writing is of its very nature abstract, it could not so
+
+
+much as exist without bringing mathematics into existence. A single hash-
+
+
+mark was used to represent one bushel; five hash-marks, five bushels; and
+
+
+so on.
+
+
+      It was immediately seen that one bushel plus one bushel equals two
+
+
+bushels. It was soon recognized that the same principles applied to other
+
+
+things: for example, that one house plus one house equals two houses. In
+
+
+other words, one of anything plus one of that same thing equals two of
+
+
+that thing. 1+1=2, in other words.
+
+
+       Quiz
+
+
+Which of the following statements is true?
+
+
+a.           Because written symbols are so abstract, the existence of writing has
+
+
+had injurious effect on mathematical thought.
+
+
+b.           Because written symbols are so abstract, the existence of writing has
+
+
+had a positive effect on mathematical thought.
+
+
+Answer: b
+
+
+Explanation: mathematical thought concerns operations that tend to have no
+
+
+observable counterparts and it therefore involves the ability to use non-iconic
+
+
+symbols.
+
+
+       Lecture 13 Interest and Investment
+
+
+      When people make loans, they do so for a price. That price is
+
+
+known as interest.
+
+
+      If I loan you $10 now, I do so only because I believe that in the
+
+
+future you will pay me back more than $10. That extra amount is the
+
+
+interest on the loan.
+
+
+      The same is true if I loan you my car. I do that only because you
+
+
+promise that you will let me stay at your vacation house next summer.
+
+
+That too is interest.
+
+
+      Investment is when assets are loaned to people who are expected to
+
+
+generate wealth and who for that reason are expected to return those loans
+
+
+plus interest.
+
+
+       Quiz
+
+
+Which of the following statements is true?
+
+
+a.           If I loan you money and do not charge interest, both of us benefit
+
+
+economically.
+
+
+b.           If I loan you money and do not charge interest, only you benefit
+
+
+economically, since I cannot possibly end up ahead in that situation.
+
+
+c.           Both of the above.
+
+
+d.           None of the above.
+
+
+ 
+
+
+       Lecture 13 Finance vs. Economics
+
+
+      Finance studies the circumstances under which enterprises are
+
+
+worth investing in and how to raise the funds needed to make the
+
+
+necessary investments. In other words, finance answer the following two
+
+
+questions: When should loans be made? And how can get the money
+
+
+needed to make those loans?
+
+
+      Economics answers the question: What kinds of social systems are
+
+
+most likely to make it possible for there to be anything worth investing in
+
+
+in the first place?
+
+
+      Economists ask questions like the following: If we tax imports, will
+
+
+that create wealth? If lower taxes on farmers, will that create wealth? If
+
+
+create for-profit prisons, will that make society wealthier?
+
+
+      Financiers don't ask these questions. Financiers don't get to work
+
+
+until there is extra capital to throw around. If that capital doesn't exist,
+
+
+there are no financiers. Once it does exist, they only direct towards
+
+
+existing concerns. If Jones comes to a financier Brown and asks for
+
+
+money, saying that he has a great business idea, and Smith also goes to
+
+
+Brown asking for money, also saying that he has a great business idea,
+
+
+Brown decides between Smith and Jones. He looks at their respective
+
+
+plans, credit histories, and the like.
+
+
+      If Brown is a highly cerebral financier, he may producegeneralizations about what kinds of businesses are likely to yield what
+
+
+kinds of returns.
+
+
+      What Brown does not do is ask how society would have to be
+
+
+different in order to create investment opportunities. As a financier,
+
+
+Brown only cares about what is, not what could be.
+
+
+      The economist's job is to figure out how to tinker with society to
+
+
+create opportunities for the likes of Smith, Jones, and Brown.
+
+
+       Quiz
+
+
+What does a financier do?
+
+
+a.           Figure out how to make society more just.
+
+
+b.           Create goods and services without worrying about how to finance these
+
+
+activities.
+
+
+c.           Pick enterprises that he believes to be worth investing in and then loan
+
+
+them the money they need to operate.
+
+
+d.           None of the above.
+
+
+ 
+
+
+Answer: c
+
+
+Explanation: None needed, as it is a definitional truth.
+
+
+       Part 3 Final Exam
+
+
+ 
+
+
+        Instructions: This is your final exam. You must pass with a 80% or
+
+
+higher to pass the class. You are only allowed one attempt. You must pass
+
+
+Economics 1 to take Economics 2. Good luck!
+
+
+ 
+
+
+      Question 1
+
+
+      Which of the following statements is true?
+
+
+            a.           People work more efficiently if they try to do everything
+
+
+      themselves.
+
+
+            b.           People should be forcibly restrained from working too
+
+
+      hard since independent work is inefficient and psychologically
+
+
+      unhealthy.
+
+
+            c.           People should not be allowed to change jobs or modes of
+
+
+      employment since it leads to confusion and poverty.
+
+
+            d.           A rigid and inflexible labor market is not likely to be as
+
+
+      efficient as a flexible and adaptive labor market.
+
+
+ 
+
+
+      Answer: d
+
+
+      Explanation: Rigid economies don’t work.
+
+
+       Question 2
+
+
+      Which of the following statements is true?
+
+
+            a.           The existence of written records discourages investment.
+
+
+            b.           The existence of written records tends to make labor more
+
+
+      efficient.
+
+
+            c.           Both of the above.
+
+
+            d.           Neither of the above.
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: Efficiency requires knowledge, which tends to require
+
+
+records.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+      Question 3
+
+
+      Which of the following statements is true?
+
+
+            a.           The existence of written records discourages investment.
+
+
+            b.           The existence of written records tends to make labor more
+
+
+      efficient.
+
+
+            c.           Both of the above.            d.           None of the above.
+
+
+ 
+
+
+      Answer:
+
+
+      Explanation:
+
+
+ 
+
+
+ 
+
+
+      Question 4
+
+
+      Which of the following statements is true?
+
+
+            a.           A financier is someone who borrows money from others in
+
+
+      order to manufacture equipment or other tangibles.
+
+
+            b.           A financier is someone who loans capital to others in order
+
+
+    to help launch or sustain economic enterprises.
+
+
+            c.           Both of the above. 
+
+
+            d.           None of the above.
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: Financiers invest, meaning that they give money to
+
+
+launch or run businesses.
+
+
+ 
+
+
+      Question 5
+
+
+      True or false? The disciplines of finance and economics are identical.            a.           True
+
+
+            b.           False
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: Economics studies the creation and distribution of wealth;
+
+
+finance studies how to identify and capitalize investment-grade businesses.
+
+
+ 
+
+
+ 
+
+
+      Question 6
+
+
+      Which of the following statements is true?
+
+
+            a.           In an efficient economy, nothing is created that isn't
+
+
+      immediately consumed.
+
+
+            b.           In an efficient economy, surpluses are created but not used
+
+
+    to eliminate shortages.
+
+
+            c.           An efficient economy, surpluses are created and then used
+
+
+    to eliminate shortages.
+
+
+            d.           All of the above
+
+
+            e.           None of the above
+
+
+ 
+
+
+      Answer: c
+
+
+      Explanation: An efficient economy creates more than it needs butpromptly reinvests excesses, instead of letting idle.
+
+
+ 
+
+
+      Question 7
+
+
+      True or false? As a general rule, rigid labor markets lead to innovation
+
+
+and prosperity
+
+
+            a.           True
+
+
+            b.           False
+
+
+ 
+
+
+      Answer:  b
+
+
+      Explanation: Rigid labor markets are the kiss of macroeconomic death.
+
+
+      Discussion: Sometimes rigid labor markets are a consequence of too
+
+
+much government, and sometimes they are consequence of too little
+
+
+government. So the relevant question is ‘how much freedom is there?’, not
+
+
+‘how much freedom from government is there?’
+
+
+ 
+
+
+ 
+
+
+      Question 8
+
+
+      Which of the following statements is true?
+
+
+            a.           Investment is identical with gambling.
+
+
+            b.           Investment involves giving people access to capital for
+
+
+      which they are not at present able to pay.            c.           Both of the above.
+
+
+            d.           Neither of the above.
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: Definitional truth, no explanation necessary.
+
+
+ 
+
+
+ 
+
+
+      Question 8
+
+
+      Which of the following statements is true?
+
+
+            a.           The best way to deal the evils of inflation is to return to a
+
+
+      barter-economy.
+
+
+            b.           There cannot be inflation in a barter-economy, but
+
+
+      inflation is generally a small price to pay for the benefits of currency.
+
+
+            c.           Neither of the above.
+
+
+ 
+
+
+      Answer: b
+
+
+      Explanation: There would be no inflation in a barter economy, but life
+
+
+would be grim.
+
+
+ 
+
+
+ 
+
+
+      Question 9      True or false? A high degree of division of labor correlates with
+
+
+economic efficiency and a low degree with economic inefficiency.
+
+
+            a.           True
+
+
+            b.           False
+
+
+ 
+
+
+      Answer: a
+
+
+      Explanation: More division of labor equals more efficiency equals
+
+
+more scale.
+
+
+ 
+
+
+ 

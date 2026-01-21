@@ -1,0 +1,121 @@
+50 POSITIONS FROM "OUTLINE OF A THEORY OF KNOWLEDGE"
+
+ON PROPOSITIONS AND TRUTH
+
+1. Knowledge is always knowledge of truths, not of objects.
+
+2. A truth is a true proposition; a falsehood is a false proposition.
+
+3. Propositions are not linguistic expressions but what linguistic expressions mean.
+
+4. Propositions are not beliefs but objects of beliefs.
+
+5. Propositions are not identical with any mental entity.
+
+6. Propositions are not facts—they are not spatiotemporal entities.
+
+7. Propositions cannot be physically altered because they are not spatiotemporal.
+
+8. A proposition exists independently of its being true.
+
+9. Truths are not distributions or redistributions of mass-energy.
+
+10. A proposition is a class of properties.
+
+11. For a proposition to be true is for the members of the corresponding property-set to be jointly instantiated.
+
+12. A viable theory of truth must account for both truth-conditions and the internal structural properties of propositions.
+
+
+ON KNOWLEDGE
+
+13. Falsehoods can be believed but cannot be known.
+
+14. True beliefs must be justified to constitute knowledge.
+
+15. Not all cases of justified true belief are cases of knowledge.
+
+16. Knowledge requires that belief be the end-result of information-transmissive processes.
+
+17. Information-transmissive processes are structure-preservative processes.
+
+18. A belief based on a broken clock is not knowledge even if true and justified, because it lacks structure-preservation.
+
+
+ON TYPES OF KNOWLEDGE
+
+19. There are two kinds of knowledge: empirical and analytic.
+
+20. Analytic knowledge is knowledge of purely conceptual truths.
+
+21. Empirical truth is observation-based truth.
+
+
+ON THEORY
+
+22. A theory is an integrated body of propositions describing the structure of a significant domain.
+
+23. True theories apprise us of causal dependence-relations, not logical dependence-relations.
+
+24. Theories explain how multiple causal mechanisms are interrelated, not just single mechanisms.
+
+25. Theoretical knowledge involves inference based on interrelated causal mechanisms.
+
+26. Inferential knowledge based on a single causal mechanism is not theoretical knowledge.
+
+
+ON CAUSATION
+
+27. Causal connections are real and observable—we do have good reason to believe they exist.
+
+28. The concept of spatial occupancy is inherently causal.
+
+29. The concept of persistence is inherently causal—a thing persists when its present condition is the effect of its previous condition.
+
+30. What we call causal sequences are actually cases of two causal sequences crossing paths.
+
+31. Awareness of anything persistent necessarily involves awareness of causation.
+
+32. To know what causes what, we must know what is continuous with what.
+
+33. Statistical correlations are not themselves causal connections.
+
+34. Correlations only indicate where to look for causal connections; continuity determines actual causation.
+
+35. Causal connections are never known solely by knowing correlations.
+
+
+AGAINST SKEPTICISM
+
+36. The skeptic's position that we don't see causal connections is erroneous.
+
+37. If skepticism is correct, perceptions have no causes—they come from nothing.
+
+38. The non-skeptic's model posits continuously existing realities; the skeptic's "model" is no explanation at all.
+
+39. A theory positing fewer causal anomalies is better than one positing more (an analytic truth).
+
+40. It is more reasonable to accept the theory with fewer anomalies even if correctness doesn't strictly follow.
+
+41. The skeptic's position is not one of cautious conservatism but radical implausibility.
+
+42. The non-skeptic only needs to be right about one thing; the skeptic must be right about infinitely many independent claims.
+
+43. The skeptic cannot coherently deny that mental states endure and are causally connected.
+
+44. If the skeptic grants causal ties among mental states, his external-world skepticism becomes even more absurd.
+
+
+ON INDUCTION AND THE FUTURE
+
+45. Discontinuity is harder to explain than continuity.
+
+46. That which comes from nothing is anomalous; that which comes from something is not.
+
+47. The skeptic's claim that something from nothing is no more anomalous than something from something is absurd.
+
+48. One cannot coherently deny that one's own mind persists in time.
+
+49. We know that sometimes something comes from something; we never know that something comes from nothing.
+
+50. The non-skeptic's position is more internally coherent than the skeptic's position.

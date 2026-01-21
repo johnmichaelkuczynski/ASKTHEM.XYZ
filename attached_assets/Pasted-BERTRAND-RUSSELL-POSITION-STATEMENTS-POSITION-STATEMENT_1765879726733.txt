@@ -1,0 +1,1388 @@
+BERTRAND RUSSELL POSITION STATEMENTS 
+
+POSITION STATEMENTS: RUSSELL - THE ANALYSIS OF MATTER (1927)
+
+1. Physics tells us only about the structure of the physical world, not about its intrinsic nature.
+
+2. Our knowledge of the external world is entirely structural or relational, never qualitative.
+
+3. Events, not substances or particles, are the fundamental constituents of the physical world.
+
+4. Percepts are a subset of the events that constitute the brain.
+
+5. Naive realism is false: our percepts do not directly reveal the intrinsic qualities of external objects.
+
+6. The only things we know non-inferentially are our own percepts and their qualities.
+
+7. Physical objects are logical constructions out of events.
+
+8. Causation is to be understood in terms of functional relations between events, not as a metaphysical power.
+
+9. The distinction between mind and matter is not fundamental but reflects different causal arrangements of neutral events.
+
+10. What physics describes as matter is really groups of events connected by causal laws.
+
+11. Space-time structure is knowable through physics, but the intrinsic character of what occupies space-time is not.
+
+12. Inference from percepts to their external causes is justified by the principle of causal continuity.
+
+13. The qualities we directly experience (colors, sounds, etc.) exist only in percepts, not in external objects.
+
+14. Physical space and perceptual space are distinct; physics deals only with the former.
+
+15. The electron and other theoretical entities are logical fictions constructed from groups of events.
+
+16. The causal theory of perception is the correct account of how we perceive external objects.
+
+17. All empirical knowledge of the world beyond our percepts depends on causal inference.
+
+18. The "matter" of physics is far more abstract than common sense supposes.
+
+19. There is no good reason to believe that physical objects have any intrinsic nature beyond their structural properties.
+
+20. The world described by physics is not the world of everyday experience but a mathematical abstraction.
+
+21. Neutral monism provides a more economical ontology than either materialism or idealism.
+
+22. Mind and brain are different aspects of the same underlying neutral events.
+
+23. The only intrinsic qualities we know are the qualities of our own mental states.
+
+24. Modern physics (relativity and quantum mechanics) supports a structural rather than substantival view of matter.
+
+25. Space and time are not independent realities but aspects of the relations among events.
+
+26. Perception involves a causal chain from external object to brain event, and the percept occurs at the end of that chain.
+
+27. We cannot know whether the intrinsic nature of external events resembles the intrinsic nature of our percepts.
+
+28. The common-sense distinction between "real" and "apparent" properties cannot be maintained.
+
+29. Scientific inference from percepts to physics requires assuming that similar structures have similar causes.
+
+30. The physical world is not directly observable; all observation is of percepts.
+
+31. Traditional materialism errs in ascribing to matter qualities that belong only to percepts.
+
+32. Physical objects do not have color, sound, smell, or any secondary qualities in themselves.
+
+33. The brain is part of the physical world, and mental events are identical with certain brain events.
+
+34. Our knowledge of physics is hypothetical knowledge about structure, confirmed by its predictive success.
+
+35. The distinction between physics and psychology is a difference in the causal laws studied, not in the entities involved.
+
+36. All that physics can legitimately assert about matter is its mathematical-structural properties.
+
+37. The continuity of nature suggests that the intrinsic character of events outside brains is not wholly unlike percepts.
+
+38. There is no dualistic gap between mind and matter because both reduce to events.
+
+39. Substance is a metaphysical illusion; what exists is patterns of events.
+
+40. The inference from percepts to external causes is probabilistic, not demonstrative.
+
+41. Scientific realism must be reformulated as structural realism rather than naive realism about theoretical entities.
+
+42. Quantum mechanics reveals that the classical picture of determinate particles is false.
+
+43. The physical world is a four-dimensional manifold of events related by causal laws.
+
+44. Perception gives us direct knowledge only of the terminus of a causal process, not of its origin.
+
+45. The principle of spatiotemporal continuity in causation underwrites inference from effect to cause.
+
+46. Mental causation is a species of physical causation involving brain events.
+
+47. Epistemological dualism (between percepts and objects) does not entail ontological dualism (between mind and matter).
+
+POSITION STATEMENTS: RUSSELL - THE ANALYSIS OF MIND (1921)
+
+1. Mind and matter are both logical constructions out of a neutral stuff that is neither mental nor physical in itself.
+
+2. Consciousness is not a unique substance or entity but a particular arrangement of neutral elements.
+
+3. Sensations are the intersection point where physics and psychology meet; they belong to both domains.
+
+4. Introspection is not a separate faculty revealing a private mental realm but simply attention directed at certain events.
+
+5. The subject or ego is not a substantive entity but a logical fiction constructed from experiences.
+
+6. Belief is a quality of certain mental occurrences, not a relation between a mind and a proposition.
+
+7. Desire is to be analyzed in terms of behavior and discomfort cycles, not as a primitive mental act.
+
+8. Images differ from sensations in their causes and effects, not in their intrinsic nature.
+
+9. Memory is not direct acquaintance with the past but present images accompanied by a feeling of pastness.
+
+10. Meaning is constituted by the causal relations between words and what they signify, not by mental acts of meaning.
+
+11. Words acquire meaning through association with objects and situations, not through private definitions.
+
+12. Thought can occur without language, though language greatly extends its scope and precision.
+
+13. There is no act of consciousness distinct from its objects; consciousness is adverbial, not substantival.
+
+14. The traditional distinction between mental acts and their contents is spurious.
+
+15. Behaviorism is partially correct: much of what we call mental can be analyzed in behavioral terms.
+
+16. Behaviorism is partially incorrect: it cannot account for images, which are genuine mental particulars.
+
+17. Knowledge by acquaintance is limited to present sensations and images.
+
+18. Knowledge of the external world and other minds is entirely inferential.
+
+19. Propositions are not entities; what exists are propositional attitudes, which are complex psychological facts.
+
+20. Imagination consists of images that are copies of past sensations, operating under different causal laws.
+
+21. The distinction between true and false beliefs lies in their correspondence or non-correspondence with facts.
+
+22. Emotions are complex states involving sensations, images, and bodily feelings.
+
+23. Will is not a special faculty but desire plus belief that action will achieve the desired end.
+
+24. Habit, not reason, governs most human behavior.
+
+25. Instinct is inherited habit, modified by experience but not created by it.
+
+26. Perception is not passive reception but active construction involving inference and interpretation.
+
+27. The "self" is a series of experiences connected by memory and causal continuity, not a persisting substance.
+
+28. There is no pure ego or transcendental subject underlying experience.
+
+29. Mental events are distinguished from physical events by their causal laws, not by their intrinsic nature.
+
+30. Mnemic causation (where past events influence present behavior without intermediate links) is fundamental to psychology.
+
+31. Association of ideas is a real psychological law but does not fully explain the structure of thought.
+
+32. Attention is selective response, not a special mental power directed by a homunculus.
+
+33. Pleasure and pain are qualities of sensations, not separate mental entities.
+
+34. The "intentionality" of mental states (their aboutness) reduces to causal and associative relations.
+
+35. Language is a social phenomenon; meaning is public, not private.
+
+36. Understanding a word consists in having appropriate images or behavioral responses associated with it.
+
+37. General ideas are not abstract entities but habits of response to similarities among particulars.
+
+38. Judgment is a complex of sensations, images, and feelings, not a unique mental act relating a mind to a proposition.
+
+39. Truth is a property of beliefs, consisting in their correspondence with facts.
+
+40. Facts are not propositions but arrangements of particulars that make propositions true or false.
+
+41. The unconscious exists: mental causation can occur without conscious awareness.
+
+42. Dreams are wish-fulfillments, as Freud claimed, though his specific theories require modification.
+
+43. The analysis of mind requires both introspective and behavioral data; neither alone suffices.
+
+44. Physics and psychology study the same neutral events from different perspectives and with different groupings.
+
+45. There are no purely mental substances; the mind is a construction out of events that also constitute the body.
+
+46. Personal identity over time is a matter of degree, not an all-or-nothing affair.
+
+47. The feeling of familiarity is a distinct mental quality that can attach to any object of experience.
+
+48. Vagueness is essential to most thought and language; precision is the exception, not the rule.
+
+POSITION STATEMENTS: RUSSELL - THE PRINCIPLES OF MATHEMATICS (1903)
+
+1. Pure mathematics is the class of all propositions of the form "p implies q" where p and q contain only logical constants and variables.
+
+2. Mathematics and logic are identical; mathematics is simply logic developed to a higher degree.
+
+3. All mathematical concepts can be defined in terms of purely logical concepts.
+
+4. All mathematical truths can be derived from purely logical axioms.
+
+5. The natural numbers can be defined as classes of similar classes.
+
+6. Zero is the class of all empty classes.
+
+7. One is the class of all unit classes.
+
+8. A cardinal number is the class of all classes similar (equinumerous) to a given class.
+
+9. Similarity between classes is defined by the existence of a one-to-one correspondence.
+
+10. The successor relation among numbers is definable in purely logical terms.
+
+11. Mathematical induction is derivable from the definition of natural numbers, not an independent axiom.
+
+12. Infinity is a logical possibility and presents no inherent contradiction.
+
+13. The actual infinite exists in mathematics; potential infinity is an inadequate substitute.
+
+14. Fractions and real numbers can be constructed from natural numbers using logical operations.
+
+15. Real numbers are best defined as segments (Dedekind cuts) of the rational number series.
+
+16. Continuity is a property of series, definable without appeal to intuition.
+
+17. The calculus can be made rigorous through the arithmetization of analysis; infinitesimals are eliminable.
+
+18. Limits involve no metaphysical notion of "approaching"; they are definable in static terms.
+
+19. Geometry is a branch of pure mathematics when studied abstractly, apart from physical space.
+
+20. Projective geometry is more fundamental than metric geometry.
+
+21. Space as studied by geometry is not necessarily physical space.
+
+22. Different geometries (Euclidean, non-Euclidean) are equally consistent; which describes physical space is empirical.
+
+23. Points, lines, and planes are logical constructions, not intuited simples.
+
+24. Order is a fundamental logical concept not reducible to anything simpler.
+
+25. Asymmetrical relations are essential to mathematics and cannot be eliminated.
+
+26. Relations are as fundamental as classes; neither can be reduced to the other.
+
+27. A relation-in-intension is distinct from the class of ordered pairs that constitutes its extension.
+
+28. Serial order depends on transitive, asymmetrical, and connected relations.
+
+29. The concept of "between" is fundamental to the theory of order.
+
+30. Dense series (between any two terms there is another) are central to analysis.
+
+31. Compact series and continuous series must be carefully distinguished.
+
+32. Cantor's theory of transfinite numbers is logically sound and mathematically indispensable.
+
+33. There are different sizes of infinity; some infinite sets are larger than others.
+
+34. The power set of any set has greater cardinality than the original set.
+
+35. The continuum is larger than the set of natural numbers (uncountably infinite).
+
+36. Ordinal numbers differ from cardinal numbers and are essential for well-ordered sets.
+
+37. A well-ordered set is one in which every non-empty subset has a least element.
+
+38. The theory of types is needed to avoid logical contradictions.
+
+39. Classes and individuals belong to different logical types.
+
+40. No class can be a member of itself without generating contradiction.
+
+41. The class of all classes is an illegitimate totality.
+
+42. Propositions about "all propositions" must be interpreted with care to avoid paradox.
+
+43. Russell's paradox (the class of all classes not members of themselves) shows naive set theory is inconsistent.
+
+44. Denoting concepts are essential to understanding how general propositions work.
+
+45. "All," "some," "any," and "the" function differently and must be carefully distinguished.
+
+46. Definite descriptions ("the so-and-so") denote even when nothing satisfies them (in a sense).
+
+47. Propositional functions are more fundamental than propositions.
+
+48. A propositional function becomes a proposition when a value is assigned to its variable.
+
+49. Variables range over types; unrestricted variables lead to paradox.
+
+50. Implication is the fundamental logical relation from which others are derivable.
+
+51. Material implication differs from formal implication (which involves variables).
+
+52. Logical constants include implication, negation, disjunction, and the notion of a propositional function.
+
+53. Propositions are objective entities, not mental acts or sentences.
+
+54. True and false are indefinable properties of propositions.
+
+55. Facts are complexes consisting of terms united by relations.
+
+56. Every proposition is either true or false (bivalence holds).
+
+57. Identity is a relation, though a peculiar one that holds only between a thing and itself.
+
+58. Classes are logical fictions; talk of classes is reducible to talk of propositional functions.
+
+59. The null class exists and is unique.
+
+60. The universal class for a given type includes all entities of that type.
+
+61. Class membership and class inclusion are fundamentally different relations.
+
+62. Arithmetic can be derived entirely from logic without appeal to intuition.
+
+63. Peano's axioms for arithmetic can be proven from logical definitions.
+
+64. Addition is definable as an operation on cardinal numbers without appeal to intuition.
+
+65. Multiplication is definable logically in terms of one-many relations.
+
+66. Exponentiation is the number of ways of correlating two classes.
+
+67. Subtraction and division are not always possible within the natural numbers; this motivates extensions.
+
+68. Negative numbers and rationals are constructed as ordered pairs of natural numbers.
+
+69. Zero and one are not successive in any metaphysically deep sense; their relation is logical.
+
+70. Mathematical existence means logical consistency; no other existence is required.
+
+71. Existence in mathematics is not spatio-temporal existence.
+
+72. Definitions in mathematics are always explicit; implicit definition is a confusion.
+
+73. Axioms are not self-evident truths but primitive propositions from which others follow.
+
+74. The choice of axioms is partly conventional but constrained by logical requirements.
+
+75. Proof in mathematics is deduction from axioms and definitions using logical rules.
+
+76. Symbolic logic is an essential tool for achieving rigor in mathematics.
+
+77. Ordinary language is systematically misleading about logical form.
+
+78. The subject-predicate form of ordinary grammar does not reveal logical structure.
+
+79. Relational propositions cannot be reduced to subject-predicate form.
+
+80. Plurality is a fundamental logical concept; monism about relations is false.
+
+81. External relations are real; not all relations are reducible to properties of their terms.
+
+82. Bradley's regress against relations fails; relations are genuine constituents of facts.
+
+83. Wholes are not always prior to their parts; logical atomism is defensible.
+
+84. Analysis does not falsify; complex entities are genuinely composed of simpler ones.
+
+85. The part-whole relation differs from set membership and must not be confused with it.
+
+86. Extensive magnitude is analyzable in terms of the part-whole relation.
+
+87. Intensive magnitude presents philosophical difficulties not fully resolved by logic alone.
+
+88. Motion is analyzable as a function from times to positions; Zeno's paradoxes are soluble.
+
+89. Zeno's paradoxes rest on confusions about infinity and continuity that modern analysis resolves.
+
+90. Time, like space, can be represented by a continuous series of instants.
+
+91. Instants are logical constructions from events or other temporal relations.
+
+92. Change is analyzable as different properties at different times; no contradiction arises.
+
+93. Causation is not a logical relation; it is not part of pure mathematics.
+
+94. Necessity in mathematics is logical necessity, not causal or metaphysical necessity.
+
+95. Modality (possibility, necessity) in mathematics reduces to consistency and derivability.
+
+96. Nominalism about universals is false; relations and properties are genuine entities.
+
+97. Universals exist independently of their instances; Platonism about mathematical objects is correct.
+
+98. Classes, numbers, and relations are abstract objects with genuine being.
+
+99. Philosophy must use the methods of logic and analysis, not speculation or intuition.
+
+100. The foundations of mathematics require philosophical clarification that only logic can provide.
+
+
+POSITION STATEMENTS: RUSSELL - THE ANALYSIS OF MIND (1921) [CONTINUED]
+
+49. The word "mental" should be defined by the causal laws governing certain events, not by reference to a special substance.
+
+50. Cognition is not a unique relation between mind and object but a complex of causally connected events.
+
+51. The "given" in experience is not raw sensation but already contains interpretive elements.
+
+52. Perception involves habits built up from past experience that shape how we respond to stimuli.
+
+53. There is no sharp boundary between perception and hallucination; both are causally explicable.
+
+54. The external reference of sensations is not intrinsic to them but added by belief and habit.
+
+55. Sensations do not inherently point beyond themselves to external objects; this reference is constructed.
+
+56. Images can be mistaken for sensations, particularly in cases of vivid imagination or hallucination.
+
+57. The privacy of mental life is exaggerated; much of what we call private is publicly inferrable.
+
+58. Other minds are known by analogy with our own case, supported by behavioral evidence.
+
+59. Animals possess minds in the same sense humans do; the difference is one of degree, not kind.
+
+60. Infant minds develop through the gradual organization of initially chaotic sensations.
+
+61. Expectation is a present mental state with future reference, analyzable without postulating future entities.
+
+62. Surprise occurs when expectations built from habit are violated by present sensation.
+
+63. Recognition is a present feeling, not a comparison between present perception and stored memory image.
+
+64. The feeling of knowing differs from actual knowledge; one can feel certain yet be wrong.
+
+65. Concepts are not abstract objects grasped by intellect but habits of using words similarly.
+
+66. Abstract ideas are verbal habits, not mental pictures of general qualities.
+
+67. The meaning of a word is not an image but the entire system of reactions the word produces.
+
+68. Sentences, not words, are the primary units of meaning.
+
+69. A word in isolation has only "dictionary meaning"; full meaning requires sentential context.
+
+70. Logical words ("not," "or," "all") cannot be understood through images; their meaning is functional.
+
+71. Propositional attitudes differ in their behavioral and physiological manifestations, not in relating to different abstract entities.
+
+72. Doubt is a genuine mental state distinct from both belief and disbelief.
+
+73. Questioning is a mental state with its own distinctive feeling-tone and behavioral expression.
+
+74. Error arises from treating images as sensations or from inappropriate habitual inferences.
+
+75. Negative facts do not exist; negation is a feature of propositions and beliefs, not of reality.
+
+76. True beliefs are those whose behavioral consequences succeed; false beliefs lead to surprise and frustration.
+
+77. Inference is primarily a process of habit, not a conscious application of logical rules.
+
+78. Reasoning is serial association constrained by habitual patterns of connection.
+
+79. Logic describes ideal inference; psychology describes actual inference, which often departs from the ideal.
+
+80. Instinct is modified by experience much more readily in humans than in lower animals.
+
+81. The greater plasticity of human instinct explains the greater role of learning in human life.
+
+82. Imitation is a fundamental mechanism by which habits spread through a community.
+
+83. Sympathy is the tendency to feel emotions similar to those we perceive in others.
+
+84. Social feeling develops from primitive sympathy modified by experience and habit.
+
+85. Language is the primary vehicle by which individual experience becomes social.
+
+86. Thought without language is imagistic and imprecise; language makes abstract thought possible.
+
+87. Inner speech (verbal imagery) is central to adult human cognition.
+
+88. Children think in images before they think in words; verbal thought is a later development.
+
+89. The meaning of a word for an individual depends on that individual's history of associations.
+
+90. Definitions in ordinary language differ from definitions in logic; the former are always somewhat vague.
+
+91. Vague beliefs can be true; precision is not required for truth.
+
+92. Emotional associations attach to words and color our beliefs about what the words denote.
+
+93. Propaganda works by exploiting the emotional associations of words rather than their cognitive content.
+
+94. Desire is essentially connected with discomfort and the activity aimed at removing it.
+
+95. The object of desire is often unknown to the desiring subject until satisfaction is achieved.
+
+96. Purpose is analyzable in terms of desire and belief without postulating a separate faculty of will.
+
+97. Pleasure accompanies the satisfaction of desire; it is not itself the object of desire.
+
+98. Displeasure accompanies the frustration of desire and drives behavior aimed at alleviating it.
+
+99. The James-Lange theory of emotion is substantially correct: emotions are largely constituted by bodily feelings.
+
+100. Fear, anger, and other emotions are best understood as patterns of bodily sensation plus behavioral tendency.
+
+101. Consciousness admits of degrees; there is no sharp line between conscious and unconscious processes.
+
+102. The unconscious influences behavior through habits and associations of which we are unaware.
+
+103. Forgetting is not the destruction of memory traces but the inhibition of their influence.
+
+104. Repression is a real phenomenon; some memories are actively prevented from influencing consciousness.
+
+105. The "censor" of psychoanalysis can be understood in terms of conflicting habit systems.
+
+106. Dreams draw on desires that are suppressed during waking life.
+
+107. The apparent irrationality of dreams reflects the loosening of habitual constraints on association.
+
+108. Sleep reduces the influence of present sensation, allowing memory and imagination freer play.
+
+109. Attention involves the selective enhancement of certain stimuli and the inhibition of others.
+
+110. Concentration is sustained attention maintained by interest or effort.
+
+111. Fatigue in mental work is primarily fatigue of attention, not of any cognitive faculty.
+
+112. The stream of consciousness is not a single unified flow but a complex of interacting processes.
+
+113. The feeling of activity is a genuine component of experience, accompanying effortful mental work.
+
+114. Conation (striving) is a real feature of mental life, not reducible to mere sensation.
+
+115. The self is not the cause of mental processes but their result; it is constructed, not given.
+
+116. Self-consciousness is awareness of certain mental events, not awareness of a substantial ego.
+
+117. The unity of mind is functional, not substantial; it consists in the integration of habits.
+
+118. Split personality cases show that the unity of mind can break down; it is not metaphysically guaranteed.
+
+119. Personal identity is constituted by memory continuity and bodily continuity, not by a soul.
+
+120. Death is the termination of the causal series that constitutes a mind; no further existence is implied.
+
+POSITION STATEMENTS: RUSSELL - THE ANALYSIS OF MIND (1921) [CONTINUED]
+
+121. Sensations are caused by stimuli external to the nervous system; images are caused by processes within it.
+
+122. The distinction between sensation and image is causal, not introspectively infallible.
+
+123. Centrally-caused images and peripherally-caused sensations may be qualitatively indistinguishable.
+
+124. Hallucinations are images mistaken for sensations due to their abnormal vividness or context.
+
+125. The prototype of all images is the memory image, which copies past sensation.
+
+126. Imagination operates by recombining elements derived from past sensations.
+
+127. Creative imagination does not produce genuinely new elements but only novel combinations.
+
+128. The laws of association (contiguity, similarity) govern the sequence of images in thought.
+
+129. Association by contiguity is the fundamental law; association by similarity derives from it.
+
+130. Similarity itself is not a simple relation but depends on partial identity of constituents.
+
+131. Conditioned reflexes (Pavlov) illustrate the mechanism of association in its simplest form.
+
+132. Learning is the modification of behavior through the formation of new associative connections.
+
+133. Knowledge of universals reduces to the habit of responding similarly to similar particulars.
+
+134. There are no abstract ideas over and above particular images used in a general way.
+
+135. Berkeley was right that all ideas are particular; he erred in thinking this undermines general knowledge.
+
+136. Generality resides in the use of an image, not in any intrinsic property of the image itself.
+
+137. Words can function as substitutes for images, serving the same role in thought.
+
+138. Much adult thought proceeds via words alone, without accompanying imagery.
+
+139. Verbal thinking is more precise and controllable than imagistic thinking.
+
+140. The behaviorist can explain verbal behavior but not the images that accompany it.
+
+141. Images are the chief evidence against pure behaviorism as a complete psychology.
+
+142. Introspective reports are behavioral data; they do not give privileged access to a private realm.
+
+143. What introspection reports is influenced by theory and expectation; it is not infallible.
+
+144. The existence of images is established by their causal efficacy, not by introspective certainty.
+
+145. After-images prove that sensory experience can occur without external stimuli.
+
+146. Eidetic imagery in some individuals shows that images can have sensory vividness.
+
+147. The difference between imagining and perceiving lies in causal context, not phenomenal quality.
+
+148. Beliefs are true when they are suitably related to facts that would verify them.
+
+149. Verification is the behavioral test by which true and false beliefs are distinguished.
+
+150. The pragmatic theory of truth captures something important but must be refined.
+
+151. Truth is not constituted by usefulness but is reliably correlated with it.
+
+152. False beliefs tend to produce actions that fail, which is why truth matters practically.
+
+153. The correspondence theory of truth is correct but must be stated in terms of structural isomorphism.
+
+154. A belief corresponds to a fact when there is a structural similarity between belief-components and fact-components.
+
+155. Facts are not propositions but complexes of particulars in relation.
+
+156. Negative propositions are made true by positive facts plus the non-existence of certain other facts.
+
+157. General propositions are made true by conjunctions of particular facts.
+
+158. Existence-propositions assert that a propositional function is sometimes true.
+
+159. Knowledge is a species of belief but requires additional conditions beyond truth.
+
+160. Knowledge requires appropriate causal connection between belief and fact.
+
+161. True belief accidentally arrived at does not constitute knowledge.
+
+162. Degrees of belief are psychologically real and influence behavior accordingly.
+
+163. Assertion expresses a high degree of belief; questioning expresses suspended belief.
+
+164. Memory-knowledge is as direct as any knowledge can be, though not infallible.
+
+165. The pastness of a remembered event is not a relation we perceive but a quality we feel.
+
+166. Memory can be mistaken about whether an event occurred, not just about its details.
+
+167. Deja vu illustrates that the feeling of familiarity can attach to genuinely novel experiences.
+
+168. Recognition-memory differs from recall; one can recognize without being able to recall.
+
+169. Habit-memory (knowing how) differs from explicit memory (knowing that).
+
+170. Skills are retained in habit-memory even when explicit memory of learning them is lost.
+
+171. The past is not directly present to memory; what is present is a present image with past reference.
+
+172. The reference to the past is constituted by belief, not by any intrinsic feature of the memory-image.
+
+173. Expectation involves present imagery with future reference, structured analogously to memory.
+
+174. The future-reference of expectation is also constituted by belief attached to present images.
+
+175. Temporal orientation (past, present, future) is imposed on experience by belief, not directly sensed.
+
+176. The specious present is the span of time experienced as "now," varying with attention and context.
+
+177. Succession within the specious present is directly experienced; succession beyond it is inferred.
+
+178. The feeling of duration is a genuine datum, though judgments of duration are often inaccurate.
+
+179. Time perception depends on rhythm, change, and the fullness or emptiness of experienced content.
+
+180. Boredom lengthens experienced time; interest shortens it.
+
+181. Perception is never instantaneous; it always occupies a finite span of the specious present.
+
+182. The construction of objective time from experienced temporal relations is a logical achievement.
+
+183. Temporal relations in physics are inferred from, not directly given in, experience.
+
+184. The privacy of temporal experience contrasts with the publicity of physical time.
+
+185. Spatial perception is constructed from sensory cues interpreted through habit.
+
+186. The correlation of visual, tactile, and kinaesthetic data creates the perception of external space.
+
+187. Depth perception is learned, not innate; it results from experience with movement and touch.
+
+188. The thing seen and the thing touched are identified through habitual correlation, not direct perception.
+
+189. Perceptual constancy (size, shape, color) results from habitual interpretation, not raw sensation.
+
+190. We perceive things, not sensations; sensations are discovered by subsequent analysis.
+
+191. Common sense objects are logical constructions from sensory particulars.
+
+192. The common sense world is a pragmatic construction useful for action, not a metaphysical given.
+
+193. Science reconstructs the common sense world using inferences from sensory data.
+
+194. Neither common sense nor science gives the ultimate reality; both are constructions.
+
+195. Philosophy must analyze constructions to discover the elements from which they are built.
+
+196. The method of logical analysis reveals the structure hidden beneath ordinary speech and thought.
+
+197. Analysis does not destroy its object but clarifies its components and relations.
+
+198. Synthesis from analyzed elements recreates the original whole with added understanding.
+
+POSITION STATEMENTS: RUSSELL - THE PRINCIPLES OF MATHEMATICS (1903) [CONTINUED]
+
+101. The notion of "class" is fundamental to mathematics and cannot be defined in terms of anything more primitive.
+
+102. A class is wholly determined by its members; classes with the same members are identical.
+
+103. The null class is not nothing; it is a genuine class that happens to have no members.
+
+104. The class of all entities is a legitimate notion within any single type but not across types.
+
+105. Intensional and extensional definitions of classes must be carefully distinguished.
+
+106. Two propositional functions may be materially equivalent yet intensionally distinct.
+
+107. The extension of a propositional function is the class of arguments satisfying it.
+
+108. Predicates do not name classes; the relation between predicate and class is indirect.
+
+109. Not every grammatical predicate corresponds to a genuine propositional function.
+
+110. Self-referential propositional functions must be excluded to avoid paradox.
+
+111. The hierarchy of types applies to propositional functions as well as to classes.
+
+112. A propositional function cannot take itself as argument without type violation.
+
+113. Quantification ("all," "some") ranges over a determinate type, not over everything whatsoever.
+
+114. Unrestricted quantification leads to the paradoxes that afflict naive logic.
+
+115. The theory of types is the only known solution to the logical paradoxes.
+
+116. The vicious circle principle forbids defining an entity in terms of a totality containing it.
+
+117. Impredicative definitions are those violating the vicious circle principle and must be rejected.
+
+118. The ancestral relation (transitive closure) is definable in purely logical terms.
+
+119. Mathematical induction is a consequence of defining natural numbers via the ancestral of succession.
+
+120. Finite and infinite are definable without appeal to intuition or counting.
+
+121. A class is infinite if and only if it is similar to a proper subclass of itself (Dedekind's definition).
+
+122. Finite classes cannot be put in one-to-one correspondence with proper subclasses.
+
+123. The axiom of infinity asserts the existence of at least one infinite class.
+
+124. Whether the axiom of infinity is a logical truth is uncertain; it may be an empirical hypothesis.
+
+125. The existence of infinite classes cannot be proven from pure logic alone.
+
+126. Denumerable infinity (aleph-null) is the smallest infinite cardinal.
+
+127. The rational numbers are denumerable; they can be counted by the natural numbers.
+
+128. The real numbers are non-denumerable; no enumeration can exhaust them.
+
+129. Cantor's diagonal argument proves the non-denumerability of the continuum.
+
+130. The power of the continuum exceeds the power of the natural numbers.
+
+131. Whether there is an intermediate infinity between aleph-null and the continuum is undecided (continuum hypothesis).
+
+132. Ordinal arithmetic differs from cardinal arithmetic; order matters for ordinals.
+
+133. The ordinal of the natural numbers is omega, the first transfinite ordinal.
+
+134. Ordinals beyond omega are generated by the successor operation and limit operations.
+
+135. Well-ordering is essential to the theory of ordinals; not all sets can be well-ordered without the axiom of choice.
+
+136. The axiom of choice asserts that for any collection of non-empty sets, a selection function exists.
+
+137. The axiom of choice is independent of the other axioms; its status is philosophically controversial.
+
+138. Multiplicative axiom and axiom of choice are equivalent formulations of the same principle.
+
+139. Many important mathematical theorems depend on the axiom of choice.
+
+140. Zermelo's well-ordering theorem follows from the axiom of choice.
+
+141. The theory of selections and the theory of relations are intimately connected.
+
+142. A relation is asymmetric if it never holds both ways between distinct terms.
+
+143. A relation is transitive if whenever it holds from a to b and b to c, it holds from a to c.
+
+144. A relation is connected if for any two distinct terms, it holds one way or the other.
+
+145. Serial relations are transitive, asymmetric, and connected.
+
+146. Every series determines an order among its terms.
+
+147. Two series are similar if there is a one-one relation preserving order between them.
+
+148. The ordinal number of a series is what all similar series have in common.
+
+149. Between any two rational numbers there is another; the rationals are dense.
+
+150. The real numbers fill the "gaps" among the rationals; they are continuous.
+
+151. Dedekind's definition of continuity requires that every cut determines a real number.
+
+152. Cantor's definition of continuity involves limits of sequences.
+
+153. The two definitions of continuity are equivalent for the real number system.
+
+154. Compact series are those where between any two terms there is a third; density plus other conditions.
+
+155. Continuous series satisfy compactness plus Dedekind's cut condition.
+
+156. The order type of the rational numbers is called eta.
+
+157. The order type of the real numbers is called theta.
+
+158. Distinct well-ordered series with the same ordinal number are similar.
+
+159. Not every dense series is continuous; the rationals are dense but not continuous.
+
+160. Limits are definable in terms of segments and their boundary elements.
+
+161. The notion of limit involves no reference to motion or temporal approach.
+
+162. Weierstrass's arithmetization of analysis eliminates geometric and kinetic intuitions.
+
+163. Infinitesimals are logically unnecessary; limits accomplish all that infinitesimals were supposed to do.
+
+164. The calculus is entirely explicable in terms of the theory of limits and real numbers.
+
+165. Derivatives are limits of difference quotients, not ratios of infinitesimals.
+
+166. Integrals are limits of sums, not sums of infinitely small quantities.
+
+167. Continuous functions are those where small changes in input produce small changes in output.
+
+168. Uniform continuity differs from pointwise continuity and is required for some theorems.
+
+169. A function is a many-one relation assigning to each argument exactly one value.
+
+170. Functions are not processes or operations but static correlations.
+
+171. The domain of a function is the class of arguments; the range is the class of values.
+
+172. Composition of functions is itself a function; functions are closed under composition.
+
+173. Inverse functions exist only for one-one functions.
+
+174. The identity function leaves every argument unchanged.
+
+175. Functions can take functions as arguments; this generates a hierarchy of function types.
+
+176. Predicative functions are those definable without reference to totalities of functions.
+
+177. The ramified theory of types classifies functions by their order as well as their type.
+
+178. Reducibility axiom asserts that every function is equivalent to a predicative function.
+
+179. The reducibility axiom is philosophically dubious but mathematically convenient.
+
+180. Arithmetic is independent of geometry; numbers do not depend on spatial intuition.
+
+181. Geometry without arithmetic is possible; relational structures suffice.
+
+182. The parallel postulate is independent of the other Euclidean axioms.
+
+183. Non-Euclidean geometries are consistent if Euclidean geometry is consistent.
+
+184. Which geometry describes physical space is an empirical, not a priori, question.
+
+185. Pure geometry studies abstract structures; applied geometry studies physical space.
+
+186. Metric geometry presupposes projective geometry; distance is definable projectively.
+
+187. Projective geometry is the most fundamental form of geometry.
+
+188. Descriptive geometry deals with order and betweenness without metrical notions.
+
+189. Topology studies properties invariant under continuous deformation.
+
+190. Dimensionality is a topological invariant; a line cannot be continuously mapped onto a plane bijectively.
+
+191. Points may be defined as classes of nested volumes or as limits of convergent sequences.
+
+192. Lines may be defined as classes of points satisfying certain order relations.
+
+193. Planes and higher-dimensional spaces are constructed analogously.
+
+194. Space is relational, not substantial; it consists of relations among objects.
+
+195. Absolute space (Newton) and absolute motion are metaphysically indefensible.
+
+196. Motion is change of spatial relations over time.
+
+197. Zeno's dichotomy paradox is resolved by the mathematical theory of convergent series.
+
+198. Zeno's Achilles paradox confuses the infinite number of steps with infinite time.
+
+199. Zeno's arrow paradox confuses instantaneous velocity with lack of motion.
+
+200. Zeno's stadium paradox rests on confusion about relative and absolute motion.
+
+POSITION STATEMENTS: RUSSELL - THE PRINCIPLES OF MATHEMATICS (1903) [CONTINUED]
+
+201. The concept of magnitude is distinct from the concept of number; magnitudes may be non-numerical.
+
+202. Extensive magnitudes have parts that are themselves magnitudes of the same kind.
+
+203. Intensive magnitudes (like temperature or brightness) admit of degree but not of spatial addition.
+
+204. Measurement assigns numbers to magnitudes by comparing them with a unit.
+
+205. The choice of unit is arbitrary; what is objective is the ratio between magnitudes.
+
+206. Equal magnitudes are those bearing the same ratio to the unit.
+
+207. Comparison of magnitudes presupposes a serial order among them.
+
+208. Not all magnitudes are commensurable; incommensurables require the theory of real numbers.
+
+209. The discovery of incommensurables by the Greeks was a crisis for ancient mathematics.
+
+210. Dedekind's theory of cuts resolves the problem of incommensurables rigorously.
+
+211. Quantity and quality are not contradictory; qualities may vary in degree.
+
+212. The distinction between quantity and quality is not absolute but relative to context.
+
+213. Counting presupposes the ability to distinguish units and to correlate them one-to-one.
+
+214. The act of counting is psychological; the numbers counted are not.
+
+215. Numbers are discovered, not invented; they are independent of mental acts.
+
+216. Nominalism about numbers is refuted by the objectivity of mathematical truth.
+
+217. Psychologism in logic confuses the laws of thought with the laws of valid inference.
+
+218. Logic is normative for thought but not constituted by thought.
+
+219. The laws of logic hold independently of whether anyone thinks them.
+
+220. Logical truths are true in all possible worlds; they have maximum generality.
+
+221. Logical constants are topic-neutral; they apply to all subject matters.
+
+222. Material implication is the weakest form of implication; it requires only truth-value connection.
+
+223. Strict implication would require necessary connection, but necessity is problematic.
+
+224. Paradoxes of material implication are merely counterintuitive, not genuinely paradoxical.
+
+225. A false proposition materially implies any proposition; this is logically correct if odd.
+
+226. A true proposition is materially implied by any proposition; equally correct and odd.
+
+227. Formal implication generalizes material implication over all values of a variable.
+
+228. "All A are B" is a formal implication: for all x, if x is A then x is B.
+
+229. The existential import of universal propositions is zero; "all unicorns are white" is vacuously true.
+
+230. Particular propositions ("some A are B") do have existential import.
+
+231. The traditional square of opposition must be revised in light of modern logic.
+
+232. Subalternation fails when the universal is vacuously true but the particular requires existence.
+
+233. Contraposition is valid for material implication: if p implies q, then not-q implies not-p.
+
+234. Transposition (contraposition) is a fundamental inference rule.
+
+235. Modus ponens is the fundamental rule of detachment: from p and p-implies-q, infer q.
+
+236. Modus tollens follows from modus ponens plus contraposition.
+
+237. Hypothetical syllogism chains implications: if p implies q and q implies r, then p implies r.
+
+238. Disjunctive syllogism allows inference from "p or q" and "not p" to q.
+
+239. Disjunction in logic is inclusive: "p or q" is true if either or both are true.
+
+240. Exclusive disjunction is definable from inclusive disjunction and negation.
+
+241. Conjunction is true only when both conjuncts are true.
+
+242. Negation reverses truth value; double negation returns the original value.
+
+243. The law of excluded middle holds: every proposition is either true or false.
+
+244. The law of non-contradiction holds: no proposition is both true and false.
+
+245. These laws are not psychological generalizations but logical necessities.
+
+246. Logical necessity is distinct from causal necessity; logic does not depend on natural law.
+
+247. Logical truths are analytic; they are true in virtue of meaning alone.
+
+248. The analytic-synthetic distinction is fundamental to understanding mathematics.
+
+249. Mathematical truths are analytic, not synthetic a priori as Kant held.
+
+250. Kant was wrong that mathematics requires pure intuition; logic suffices.
+
+251. Arithmetic does not depend on the intuition of time, contra Kant.
+
+252. Geometry does not depend on the intuition of space when considered purely formally.
+
+253. The synthetic a priori is an unnecessary hypothesis; logicism eliminates it.
+
+254. Mill was wrong that mathematical truths are empirical generalizations.
+
+255. Mathematical necessity cannot be explained by habitual association.
+
+256. The certainty of mathematics exceeds that of any empirical science.
+
+257. Mathematical truths are known a priori, though the process of discovery may be empirical.
+
+258. Discovery is psychological; justification is logical—the two must not be confused.
+
+259. Axioms are not self-evident starting points but propositions chosen for their deductive fertility.
+
+260. Different axiomatizations of the same theory may be equally legitimate.
+
+261. The primitives of a theory are those notions not defined within the theory.
+
+262. Some notions must be taken as primitive to avoid infinite regress of definitions.
+
+263. Definition is the introduction of a new symbol as shorthand for a complex expression.
+
+264. Definitions are theoretically eliminable; they add convenience, not content.
+
+265. Real definitions (of things) differ from nominal definitions (of words).
+
+266. Mathematics deals primarily with nominal definitions; real definitions are philosophical.
+
+267. Philosophical analysis seeks real definitions of fundamental concepts.
+
+268. Analysis terminates in indefinables known by acquaintance.
+
+269. Logical constants are among the indefinables; they cannot be further analyzed.
+
+270. The concept of "term" is the most general concept; everything thinkable is a term.
+
+271. Terms include things, concepts, relations, propositions, and classes.
+
+272. Every term has being; not every term has existence (spatio-temporal location).
+
+273. Being is wider than existence; numbers have being but do not exist in space and time.
+
+274. The distinction between being and existence is metaphysically fundamental.
+
+275. Existence in the logical sense means being the value of a variable satisfying a propositional function.
+
+276. "There exists an x such that..." is the existential quantifier.
+
+277. The existential quantifier is definable in terms of the universal quantifier and negation.
+
+278. The universal quantifier is not a conjunction; it applies even to infinite domains.
+
+279. Quantifiers bind variables; a bound variable is not a name.
+
+280. Free variables make a proposition into a propositional function.
+
+281. The substitution of constants for free variables yields a determinate proposition.
+
+282. The scope of a quantifier must be precisely delimited to avoid ambiguity.
+
+283. Scope distinctions resolve many apparent puzzles about quantification.
+
+284. Descriptions ("the so-and-so") are incomplete symbols requiring contextual definition.
+
+285. Descriptions do not function as names; they are quantificational constructions.
+
+286. "The present King of France is bald" is false, not meaningless, because the description is empty.
+
+287. Existence is not a predicate; "exists" is properly expressed by the existential quantifier.
+
+288. The ontological argument fails because existence cannot be included in a concept.
+
+289. Concepts are not in the mind; they are objective entities that minds can grasp.
+
+290. Grasping a concept is a relation between a mind and an abstract entity.
+
+291. Abstract entities are not created by abstraction; they exist independently.
+
+292. Abstraction is a psychological process; what it discovers is not psychological.
+
+293. Sets are not created by collecting; they exist prior to any mental act.
+
+294. Mathematical objects are eternal and unchanging; they are outside time.
+
+295. Mathematical truths are necessary truths; they could not have been otherwise.
+
+296. Possible worlds are logical possibilities; the actual world is one among many.
+
+297. Logical space contains all possible configurations of objects and relations.
+
+298. Impossibilities are excluded from logical space; they are not even thinkable consistently.
+
+299. Consistency is the criterion of logical possibility.
+
+300. The actual world differs from merely possible worlds by some non-logical feature (existence).
+
+INTRODUCTION TO MATHEMATICAL PHILOSOPHY POSITION STATEMENT 
+
+1. Mathematics and logic have the same scope, dealing with objects having certain properties and relations.
+
+2. Pure mathematics consists entirely of assertions that if one thing has a certain property and implies another, then the latter has that property.
+
+3. All pure mathematics is a priori and deducible from the general principles of logic.
+
+4. The fact that mathematical propositions appear to deal with material objects is an accidental characteristic of historically contingent symbolism.
+
+5. Mathematical knowledge is not obtained by induction from experience.
+
+6. The solution to the contradictions that plagued traditional infinitesimal calculus lies in the logical theory of infinite number and continuity.
+
+7. Philosophy must analyze the general nature of propositions, propositional functions, classes, and relations to clarify mathematics.
+
+8. Modern mathematical philosophy begins with the realization that number is not a property of aggregates but applies to classes.
+
+9. A philosophical account of number must avoid psychological elements and focus on logical definitions.
+
+10. All traditional pure mathematics can be derived from the primitive ideas and propositions of Principia Mathematica.
+
+11. Three different matters are lumped together under the name “number”: cardinal numbers, ordinal numbers, and numbers as exponents (e.g., in “a²”).
+
+12. Cardinal numbers are concerned with “how many” items are in a class.
+
+13. Two classes have the same cardinal number if there is a one-to-one relation between their terms.
+
+14. Cardinal numbers are themselves classes of similar classes.
+
+15. The cardinal number of a class α is the class of all classes similar (equipotent) to α.
+
+16. Zero is the class containing only the null-class.
+
+17. Finite cardinal numbers are those belonging to every inductive class (starting from 0 and closed under the successor relation).
+
+18. The successor of a cardinal number n is the number of the class obtained by adding one new member to a class with n members.
+
+19. Addition of cardinal numbers is defined via disjoint classes and their union.
+
+20. Multiplication of cardinal numbers is defined via the logical product (intersection) of classes and one-to-one correspondence.
+
+21. Dedekind’s definition of infinite classes: a class is infinite if it is similar to a proper part of itself.
+
+22. Reflexive classes (finite) are those not similar to any proper part of themselves.
+
+23. The axiom of infinity is required to guarantee the existence of infinite classes in the actual world.
+
+24. Ordinal similarity: two relations P and Q are ordinally similar if there is a one-to-one relation S correlating their fields such that if P holds between x and y, then Q holds between S(x) and S(y).
+
+25. Ordinal numbers are relation-types under ordinal similarity.
+
+26. The ordinal number of a well-ordered series is the class of all well-ordered series ordinally similar to it.
+
+27. Every well-ordered series has a unique ordinal number.
+
+28. Transfinite ordinal numbers exist beyond the finite ordinals.
+
+29. ω is the ordinal number of the series of finite integers in their natural order.
+
+30. Addition of ordinals is not commutative (e.g., 1 + ω = ω, but ω + 1 ≠ ω).
+
+31. Multiplication of ordinals is also not commutative.
+
+32. The series of ordinals is itself well-ordered and has no maximum.
+
+33. The continuum hypothesis and the problem of finding the number of possible ordinals less than the continuum remain open.
+
+34. A series has continuity if it is Dedekindian (every subclass with a first term has a successor) and compact (every subclass has both a first and last term or is endless in one direction).
+
+35. The rational numbers in order of magnitude form a series that is Dedekindian but not compact.
+
+36. The real numbers in order of magnitude form a perfect series (both Dedekindian and compact).
+
+37. Zermelo’s theorem: every class can be well-ordered if the axiom of choice is assumed.
+
+38. Description is a denoting phrase that denotes an object via a unique property, but the object itself is not a constituent of propositions containing the description.
+
+39. A propositional function φx is any expression containing x that becomes a proposition when a definite value is assigned to x.
+
+40. Propositional functions may be true for all values of x, some values, or no values.
+
+41. The assertion “∃x . φx” means that φx is true for at least one value of x.
+
+42. Formal implication “φx ⊃ ψx” means that for all x, if φx then ψx.
+
+43. Classes are defined extensionally as the collection of all objects satisfying a given propositional function.
+
+44. The null-class is the class of objects satisfying a contradictory propositional function.
+
+45. The universal class is the class of objects satisfying a tautological propositional function.
+
+46. Unit classes are classes containing exactly one member.
+
+47. The relation of a member to its unit class is fundamental and indefinable.
+
+48. Relations are extensional: two relations are identical if they hold between the same pairs.
+
+49. The relative product R|S of two relations is the relation that holds when there is an intermediate term connected by both R and S.
+
+50. The converse of a relation R is the relation that holds in the reverse order.
+
+51. The domain of a relation is the class of terms that have the relation to something.
+
+52. The converse domain is the class of terms to which something has the relation.
+
+53. The field of a relation is the sum of domain and converse domain.
+
+54. A relation is connex when for any two distinct terms in its field, one has the relation to the other or vice versa.
+
+55. Series are relations that are transitive, asymmetrical, and connex in their field.
+
+56. The principle of abstraction states that every many-one relation defines a class of equivalent terms.
+
+57. The axiom of reducibility ensures the existence of predicative functions equivalent to any function.
+
+58. Mathematical induction is valid for finite numbers because they are defined inductively.
+
+59. Infinite collections require new axioms (e.g., axiom of infinity) beyond pure logic.
+
+60. Geometry can be treated purely analytically without reference to space as a separate entity.
+
+61. Points, lines, and planes are logical constructions from relations.
+
+62. The apparent necessity of mathematical propositions is explained by their tautological character.
+
+63. Kant’s synthetic a priori judgments in mathematics are rejected; all mathematical truths are analytic.
+
+64. The philosophy of mathematics must distinguish between the psychological process of discovery and the logical structure of the finished science.
+
+65. Definitions in mathematics are not arbitrary but must preserve the meaning of the defined term in its previous uses.
+
+66. The vicious-circle paradoxes (e.g., Russell’s paradox) are resolved by the theory of types and the hierarchy of propositional functions.
+
+67. Simple type theory arranges objects, functions of individuals, functions of functions, etc., into distinct types.
+
+68. The ramified theory of types further distinguishes orders within each type to avoid impredicative definitions.
+
+69. The no-classes theory eliminates classes as entities by treating statements about classes as statements about propositional functions.
+
+70. Identity is not a relation between objects but a logical device for asserting that two names denote the same object.
+
+71. The statement “Scott is the author of Waverley” expresses an identity, not a relation of predication.
+
+72. Definite descriptions (“the so-and-so”) are incomplete symbols that disappear on logical analysis.
+
+73. The theory of definite descriptions resolves puzzles like “the present King of France is bald.”
+
+74. Scope distinctions in descriptions resolve ambiguities in negation and modality.
+
+75. Mathematics is the science in which we never know what we are talking about nor whether what we say is true (in the sense of being about indefinable primitives).
+
+76. The primitives of logic (e.g., negation, disjunction, universal quantification) suffice to define all mathematical concepts.
+
+77. The reduction of mathematics to logic shows that mathematical certainty rests on logical certainty.
+
+78. Empiricist attempts to derive mathematics from experience fail because mathematical propositions are necessary and universal.
+
+79. The logistic thesis (Frege-Russell) that mathematics is an extension of logic is defended against Poincaré and other critics.
+
+80. Infinity is not a single idea but a hierarchy: infinite cardinals, infinite ordinals, the continuum, etc.
+
+81. The transfinite is as legitimate as the finite once the correct logical definitions are given.
+
+82. The paradoxes of infinity (Galileo, Bolzano) are resolved by distinguishing cardinal and ordinal aspects.
+
+83. Cantor’s theory of transfinite numbers is accepted and integrated into logic.
+
+84. The power-class (set of all subsets) of an infinite set is larger than the set itself.
+
+85. There is no greatest cardinal number.
+
+86. The arithmetic of transfinite cardinals obeys different laws from finite arithmetic (e.g., ℵ₀ + 1 = ℵ₀).
+
+87. The continuum has cardinality 2^ℵ₀, which may or may not equal ℵ₁.
+
+88. Order-types provide a more refined classification than mere cardinality.
+
+89. Well-ordering is not an intrinsic property of series but depends on the choice of ordering relation.
+
+90. The multiplicative axiom (axiom of choice) is independent of other logical principles.
+
+91. Mathematics without the axiom of choice is weaker but still consistent.
+
+92. Physical applications of infinity (e.g., space, time) are philosophically problematic but mathematically legitimate.
+
+93. The logical antinomies show the need for a rigorous theory of types.
+
+94. Impredicative definitions are legitimate if confined within the same type and order via reducibility.
+
+95. The future development of mathematical philosophy lies in further analysis of order, series, and continuity.
+
+96. Mathematics is distinguished from empirical science by its independence from sensory observation.
+
+97. The certainty of mathematics derives from its tautological nature once primitives are granted.
+
+98. Philosophy benefits from mathematical logic by gaining precision and freedom from contradictions.
+
+99. The ultimate primitives of logic remain indefinable, known by acquaintance.
+
+100. The aim of mathematical philosophy is to exhibit mathematics as a consistent, purely deductive system built on the fewest possible primitive ideas and propositions.
+
+HUMAN KNOWLEDGE ITS SCOPE AND LIMITS POSITION STATEMENT 
+
+1. The aim of the book is to examine what can be genuinely known and the degrees of doubt or certainty attaching to different kinds of putative knowledge.
+
+2. Knowledge is divided into two main kinds: knowledge by acquaintance and knowledge by description.
+
+3. Knowledge by acquaintance is direct awareness without inference (e.g., sense-data, memory-images, introspection of mental states, and possibly universals).
+
+4. Knowledge by description always depends ultimately on knowledge by acquaintance.
+
+5. Sense-data are the immediate objects of perception; physical objects are inferred from them.
+
+6. Physical objects (tables, chairs, stars) are not known by acquaintance but are logical constructions out of sense-data and sensibilia.
+
+7. The external world is known only as the class of actual and possible sense-data satisfying certain causal laws.
+
+8. Solipsism is logically irrefutable but psychologically incredible.
+
+9. The principle of induction cannot be proved by experience, yet it is presupposed by all empirical knowledge.
+
+10. There are five postulates of scientific inference needed to justify induction and the belief in an external world.
+
+11. The first postulate: the postulate of quasi-permanence (things change slowly).
+
+12. The second postulate: separate causal lines (events have relatively independent causal histories).
+
+13. The third postulate: spatio-temporal continuity in causal chains.
+
+14. The fourth postulate: the structural postulate (similar causes have similar effects).
+
+15. The fifth postulate: the postulate of causality (every event has a cause).
+
+16. These postulates are not logically necessary but are justified pragmatically by the success of science.
+
+17. Memory is not infallible; it provides only probable knowledge.
+
+18. Introspective knowledge of current mental states is the most certain kind of knowledge.
+
+19. Universals (relations such as “before,” “greater than,” “resembles”) are known by acquaintance.
+
+20. All a priori knowledge deals with relations of universals.
+
+21. Logical principles (e.g., law of contradiction) are known by intuition of universals.
+
+22. The law of contradiction is not known to hold in the empirical world with certainty.
+
+23. Probability, not certainty, is the guide in most empirical beliefs.
+
+24. There are two kinds of probability: mathematical (degree of credibility) and empirical (relative frequency).
+
+25. The principle of induction itself has only probabilistic justification.
+
+26. Scientific laws are not known to be true but to be increasingly probable as evidence accumulates.
+
+27. Causality is not a relation between events but a functional relation between kinds of events.
+
+28. Determinism is neither provable nor refutable by science.
+
+29. The concept of “cause” in advanced science is replaced by functional laws.
+
+30. Space and time are not absolute (as Newton thought) nor purely subjective (as Kant thought).
+
+31. Physical space is a construction from perspectival spaces derived from different observers.
+
+32. Einstein’s theory of relativity provides the best current account of space-time.
+
+33. Matter is a logical construction from events and their causal relations.
+
+34. The distinction between mind and matter becomes less sharp when both are constructed from neutral events.
+
+35. Consciousness is not a datum for science; physics can be complete without mentioning it.
+
+36. The causal efficacy of mind (mental causation) remains philosophically problematic.
+
+37. Self-consciousness gives knowledge of the self only as the subject of current experience.
+
+38. The continuity of the self through time is an inference, not a datum.
+
+39. Other minds are known only by analogy from behavior.

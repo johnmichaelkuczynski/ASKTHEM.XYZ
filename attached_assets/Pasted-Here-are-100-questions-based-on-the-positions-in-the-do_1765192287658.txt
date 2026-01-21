@@ -1,0 +1,141 @@
+Here are **100 questions** based on the positions in the document, grouped into sets of 5:
+
+**Questions 1–5 (Skepticism & Induction)**
+1. How does skepticism differ from disbelief?
+2. What are the two main forms of philosophical skepticism?
+3. Why did Hume argue that inductive inference cannot be justified?
+4. How does inference to the best explanation differ from induction by enumeration?
+5. What principle replaces the Uniformity Principle in justifying non-deductive inference?
+
+**Questions 6–10 (Knowledge & Justification)**
+6. What three conditions must a belief satisfy to be considered knowledge?
+7. Why is a justified true belief not always knowledge?
+8. What is hyper-justified true belief?
+9. What are the three sources of justification?
+10. How does procedural knowledge differ from discursive knowledge?
+
+**Questions 11–15 (Descartes & Rationalism)**
+11. How did Descartes attempt to refute skepticism?
+12. What is Descartes' argument for God's existence based on the causal principle?
+13. Why does Descartes believe that God's existence ensures the reliability of our senses?
+14. How does Descartes distinguish between knowledge of self and knowledge of the external world?
+15. What is the "intensional fallacy" in Descartes' argument for dualism?
+
+**Questions 16–20 (Mind & Body)**
+16. What is the difference between dualism and materialism?
+17. How does functionalism define mental states?
+18. Why does epiphenomenalism fail as an account of mind-body interaction?
+19. What is the explanatory gap between mental and physical phenomena?
+20. How does multiple realizability challenge the identity theory?
+
+**Questions 21–25 (Linguistic Meaning)**
+21. What is semantic externalism?
+22. How does Putnam's Twin-Earth thought experiment challenge psychological theories of meaning?
+23. Why is "meaning is use" an incoherent doctrine?
+24. What is the two-dimensional semantic structure of indexicals?
+25. How do proper names differ from definite descriptions?
+
+**Questions 26–30 (Analytic Philosophy & Logic)**
+26. How did Frege revolutionize logic?
+27. What is logicism and why did it fail?
+28. What does Gödel's incompleteness theorem show?
+29. How does the halting problem relate to Gödel's results?
+30. Why can't thought be fully mechanized?
+
+**Questions 31–35 (Perception & Thought)**
+31. Why is perception purely descriptive?
+32. How does the object of thought always involve a truth or falsehood?
+33. What is the relationship between literal meaning and what is conveyed?
+34. How do sense-perceptions convey non-semantic information?
+35. Why can't we think of objects non-descriptively?
+
+**Questions 36–40 (Universities & Education)**
+36. What do universities primarily sell?
+37. Why are universities resistant to change?
+38. How does the university business model differ from open market companies?
+39. What do most college students actually want?
+40. Why do high dropout rates not represent a tragedy?
+
+**Questions 41–45 (DMO Proposal)**
+41. What is the core principle of DMO?
+42. How does DMO's payment structure differ from traditional universities?
+43. Why does DMO eliminate grades?
+44. How does DMO handle non-STEM disciplines?
+45. What are the key desiderata for DMO's design?
+
+**Questions 46–50 (Paradoxes)**
+46. How is the Liar Paradox resolved?
+47. What is the solution to the Sorites Paradox?
+48. Why does the Barber Paradox not describe a real barber?
+49. How is the Raven Paradox dissolved?
+50. What is the resolution of the Unexpected Hanging Paradox?
+
+**Questions 51–55 (Knowledge Management)**
+51. Why can't knowledge management principles improve universities?
+52. How does selling results differ from selling services?
+53. Why are internal communications poor in service organizations?
+54. How does digitization transform education?
+55. Why do universities depend on poor internal communications?
+
+**Questions 56–60 (Economics of Higher Ed)**
+56. How does an advanced economy allow many people to be "useful"?
+57. Why are students in soft majors not seeking employability?
+58. What is the paradox of macroeconomic efficiency?
+59. Why is dropping out often a rational decision?
+60. How does a degree function like a union card?
+
+**Questions 61–65 (Philosophy of Language)**
+61. Why are there no context-insensitive sentence-types in natural language?
+62. How do expression-types differ from expression-tokens?
+63. Why must all expressions be defined contextually?
+64. How does grammatical form diverge from logical form?
+65. What is the semantic rule for quantified sentences?
+
+**Questions 66–70 (Recursion & Formalism)**
+66. Why is the class of all recursive logics not recursively enumerable?
+67. What does it mean that "recursivity cannot recursively enumerate itself"?
+68. How does the main theorem show that formalism cannot formalize its own boundaries?
+69. Why is the space of formal systems non-enumerable?
+70. How does the theorem extend to natural language hierarchies?
+
+**Questions 71–75 (Rationality & AI)**
+71. Why is the equation "Rational = Recursive" false?
+72. How does modern AI succeed where GOFAI failed?
+73. Why does Hume's problem of induction dissolve?
+74. How is scientific discovery non-recursive but rational?
+75. What does it mean that "rationality is seeing, not calculating"?
+
+**Questions 76–80 (Linguistic Competence)**
+76. What is the two-part architecture of natural language?
+77. Why is semantics not fully recursive?
+78. What does Universal Grammar not explain?
+79. How does the meta-semantic capacity (X) work?
+80. Why can't computational linguistics model full linguistic competence?
+
+**Questions 81–85 (Incompleteness & Limits)**
+81. How does Gödel's result differ from the main theorem?
+82. Why does incompleteness "go all the way up"?
+83. What is the infinite regress problem in metalanguage?
+84. Why is there no maximal set of knowable truths?
+85. How does the theorem apply to modal and epistemic logics?
+
+**Questions 86–90 (Analytic Philosophy History)**
+86. How did Frege's analysis of number influence analytic philosophy?
+87. Why did Kant mistakenly classify arithmetic as synthetic a priori?
+88. How does Russell's theory of descriptions analyze definite descriptions?
+89. What is the difference between Mill's and Frege/Russell's views on proper names?
+90. How does the paradox of analysis dissolve?
+
+**Questions 91–95 (Consciousness & Self-Knowledge)**
+91. What is the difference between consciousness and knowledge?
+92. How is self-knowledge more direct than knowledge of the external world?
+93. Why are some mental entities not constituents of consciousness?
+94. What does "something it is like" mean in philosophy of mind?
+95. How can we have knowledge of other minds?
+
+**Questions 96–100 (General Philosophy)**
+96. Why is there no synthetic a priori knowledge?
+97. How does the principle of minimizing causal anomalies justify induction?
+98. Why is inference to the best explanation more fundamental than induction by enumeration?
+99. How does the uniformity principle differ from the minimization principle?
+100. Why is the attempt to refute skepticism in the chapter not fully adequate?

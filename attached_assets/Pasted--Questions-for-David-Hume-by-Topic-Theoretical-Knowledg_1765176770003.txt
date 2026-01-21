@@ -1,0 +1,101 @@
+# Questions for David Hume by Topic
+
+## Theoretical Knowledge
+- What can we actually claim to *know* about the world beyond our immediate impressions, and how do we justify that claim?
+- Is there any form of knowledge about matters of fact that achieves genuine certainty, or must all such knowledge remain probabilistic?
+- When I claim to know something about the external world, what exactly am I claiming?
+
+## Causal Knowledge
+- Do we ever perceive causation itself, or only sequences of events that we habitually associate?
+- If I've observed A followed by B a thousand times, what exactly do I know that I didn't know after observing it once?
+- Is there any difference between a genuine causal connection and a mere constant conjunction that we happen never to observe violated?
+
+## Inferential Knowledge
+- What licenses me to move from observed cases to unobserved cases?
+- When I reason from past experience to future expectation, am I performing a genuine inference or merely obeying a habit of mind?
+- Can demonstrative reasoning ever yield knowledge about matters of fact, or is it confined to relations of ideas?
+
+## Analytic Knowledge
+- Is our knowledge of mathematical and logical truths genuinely different in kind from our knowledge of empirical matters, or merely in degree of firmness?
+- When I know that a triangle has three sides, what exactly is the object of my knowledge—an idea in my mind, a relation among ideas, or something else?
+- Can we err about relations of ideas, and if so, how?
+
+## Non-Analytic Knowledge
+- What grounds our confidence in synthetic claims about the world when they cannot be derived from the meaning of terms alone?
+- Is all our knowledge of matters of fact ultimately reducible to memory and habit, or is there some other source?
+- How do we distinguish genuine knowledge of contingent truths from mere confident belief?
+
+## Knowledge of Self
+- What do I actually apprehend when I turn my attention inward—is it a self, or only a succession of perceptions?
+- If I cannot find a stable self in introspection, how do I know that the perceptions I survey are *mine*?
+- Can I be mistaken about my own current mental states, and if so, what does this imply about self-knowledge?
+
+## The Nature of the Self
+- What binds the bundle of perceptions into a single person persisting through time?
+- If personal identity is a fiction constructed by imagination, is it a useful fiction or a harmful one?
+- When I say "I" will exist tomorrow, what makes that claim true or false?
+
+## The Nature of Emotion
+- Are passions simply impressions of a distinctive kind, or do they have some additional structure?
+- What is the relationship between a passion and the beliefs that occasion it—can reason ever *produce* a passion, or only direct one already present?
+- When I feel anger or love, am I perceiving something, desiring something, or doing something else entirely?
+
+## Unconscious Mental Activity
+- Can there be impressions or ideas that influence conduct without entering conscious awareness?
+- When custom or habit operates on the mind, must I be aware of this operation, or can it work silently?
+- If the imagination performs operations beneath the threshold of awareness, does this threaten the authority of introspection?
+
+## Psychological Projection and Knowledge
+- When I attribute power or necessity to causes, am I reading into nature something that originates in my own mind?
+- How much of what we take for features of the external world is actually a projection of internal sentiments?
+- If we systematically project mental features onto external objects, can we ever disentangle what is truly "out there" from what we have imposed?
+
+## Rationalization
+- Do we typically discover our reasons for belief and action, or do we fabricate them after the fact?
+- When a man explains why he holds a belief, how confident should we be that his stated reasons are his actual reasons?
+- Is the mind capable of deceiving itself about its own motives, and if so, by what mechanism?
+
+## Man's Inborn Instinctual Endowment
+- What principles of human nature are so fundamental that they operate prior to all experience and learning?
+- Is sympathy an original instinct, or is it derived from some more basic principle?
+- How much of what we call reason is actually instinct dressed in argumentative clothing?
+
+## Human Freedom
+- When I deliberate and choose, am I doing something that could have gone otherwise, or am I simply unaware of the causes determining my choice?
+- What does it mean to act freely if all actions arise from motives and motives arise from character and circumstance?
+- Is the feeling of freedom evidence of actual freedom, or merely evidence that we are ignorant of our own determination?
+
+## Determinism
+- If every event has a cause, and causes necessitate their effects, can anything happen other than what does happen?
+- Is necessity something in objects themselves, or only a determination of the mind to pass from cause to effect?
+- Does the regularity of human action establish that humans are as determined as billiard balls?
+
+## Determinism in Relation to Freedom
+- Is there any coherent notion of freedom that survives the recognition that all actions are caused?
+- If liberty means only the absence of external constraint, is this liberty worth wanting?
+- Can we hold men responsible for actions that flow necessarily from their characters, given that they did not choose their characters?
+
+## Historiography
+- What distinguishes genuine historical knowledge from mere chronicle or antiquarian accumulation?
+- Can we discern general principles of human nature from the study of history, or only particular facts?
+- How should the historian weigh testimony, and what makes some witnesses more credible than others?
+
+## Religion
+- Can the existence of God be established by argument, and if so, what kind of argument—demonstrative or probable?
+- If we judge the cause from the effect, what features can we legitimately ascribe to the author of nature?
+- Is religious belief grounded in reason, in passion, or in something else entirely?
+
+## The History of Religion
+- Did religion originate in rational reflection on nature or in fear and ignorance?
+- Why do human societies oscillate between polytheism and monotheism, and what drives these transitions?
+- Is there progress in religious understanding, or only variation?
+
+## Morality
+- When I call an action virtuous, am I describing a feature of the action or expressing my own sentiment of approbation?
+- What makes some sentiments authoritative for moral judgment while others are dismissed as prejudice?
+- If morality is grounded in sentiment, can there be genuine moral error, or only differences in feeling?
+
+## Aesthetics
+- What is the relationship between beauty and the pleasure we take in beautiful objects—is beauty the cause of pleasure or constituted by it?
+- Can taste be cultivated, and if so, what does a well-cultivated taste perceive that an uncultivated taste misses?
+- Is there a standard of taste that transcends individual preference, or is beauty truly in the eye of the beholder?

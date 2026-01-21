@@ -307,11 +307,25 @@ export async function registerRoutes(app: Express): Promise<Server> {
       async (req: any, res) => {
         try {
           const user = req.user;
+          console.log("[Google Auth] Callback - user:", user?.id, user?.username);
+          
           if (user) {
             req.session.userId = user.id;
             req.session.username = user.username;
+            
+            // Explicitly save session before redirect
+            req.session.save((err: any) => {
+              if (err) {
+                console.error("[Google Auth] Session save error:", err);
+                return res.redirect("/?auth=error");
+              }
+              console.log("[Google Auth] Session saved successfully, redirecting...");
+              res.redirect("/?auth=success");
+            });
+          } else {
+            console.log("[Google Auth] No user returned from passport");
+            res.redirect("/?auth=failed");
           }
-          res.redirect("/?auth=success");
         } catch (error) {
           console.error("[Google Auth] Callback error:", error);
           res.redirect("/?auth=error");

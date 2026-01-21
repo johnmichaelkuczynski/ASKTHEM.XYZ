@@ -46,6 +46,7 @@ import { stekelTopics } from "@/data/stekel-topics";
 import { hegelTopics } from "@/data/hegel-topics";
 import { larochefoucauldTopics } from "@/data/larochefoucauld-topics";
 import { poincareTopics } from "@/data/poincare-topics";
+import { dworkinTopics } from "@/data/dworkin-topics";
 
 interface WhatToAskModalProps {
   open: boolean;
@@ -198,6 +199,9 @@ export function WhatToAskModal({
     }
     if (figureName.toLowerCase().includes("poincar") || figureId === "poincare") {
       return poincareTopics;
+    }
+    if (figureName.toLowerCase().includes("dworkin") || figureId === "dworkin") {
+      return dworkinTopics;
     }
     return [];
   };

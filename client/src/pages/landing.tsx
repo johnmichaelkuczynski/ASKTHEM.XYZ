@@ -21,7 +21,7 @@ export default function Landing() {
                 </div>
               </div>
               <h1 className="text-4xl font-serif font-bold tracking-tight">
-                Ask A Philosopher
+                Ask Them
               </h1>
               <p className="text-lg text-muted-foreground">
                 Receive profound philosophical guidance powered by AI

@@ -13,7 +13,7 @@ export function WelcomeScreen({ onOpenSettings, onOpenGoals }: WelcomeScreenProp
       <div className="max-w-2xl w-full space-y-8 text-center">
         <div className="space-y-4">
           <h1 className="font-display text-5xl md:text-6xl font-light text-foreground">
-            Ask A Philosopher
+            Ask Them
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground leading-relaxed">
             Receive compassionate spiritual guidance tailored to your journey.

@@ -1,4 +1,4 @@
-# Ask A Philosopher - Philosophical Q&A Application
+# Ask Them - Philosophical Q&A Application
 
 ### Recent Changes (January 21, 2026)
 - **Google OAuth Removed**: Removed Google login - app now uses username-only login for simplicity

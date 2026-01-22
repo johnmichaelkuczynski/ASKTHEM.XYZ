@@ -1,0 +1,50 @@
+2026-01-22T13:44:07Z clientIP="151.115.100.33" requestID="eff48bb9-ace0-4555" responseTimeMS=1164 responseBytes=3321190 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:07Z clientIP="151.115.100.33" requestID="8736ce5a-9ad0-4c8d" responseTimeMS=1099 responseBytes=2426701 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:07Z clientIP="151.115.100.33" requestID="e2c8f61e-e544-4ee3" responseTimeMS=1241 responseBytes=3167239 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="e7fe44f1-06c8-45f2" responseTimeMS=1070 responseBytes=1793085 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="288dbc54-164d-436f" responseTimeMS=1361 responseBytes=1714290 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="0baa6493-c19b-4c80" responseTimeMS=1299 responseBytes=1918541 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="6a79642f-e36f-4c0b" responseTimeMS=1376 responseBytes=2348138 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="5a00e8d5-1b29-416f" responseTimeMS=1226 responseBytes=3066768 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="10ac8342-e12d-4192" responseTimeMS=1351 responseBytes=2078314 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="f0df4b05-d940-4fe7" responseTimeMS=1168 responseBytes=3005047 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="439d368f-be4c-464a" responseTimeMS=1219 responseBytes=3152721 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="a4857a71-b560-4cf7" responseTimeMS=1142 responseBytes=3002038 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="274c84f2-fede-4cb1" responseTimeMS=1380 responseBytes=2675046 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="3bd8def5-ecfc-46df" responseTimeMS=1494 responseBytes=2687907 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08Z clientIP="151.115.100.33" requestID="9272ecbc-6bba-4a71" responseTimeMS=1165 responseBytes=3021945 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:08.292889615Z > NODE_ENV=production node dist/index.js
+2026-01-22T13:44:08.292892175Z 
+2026-01-22T13:44:11.058300721Z ==> No open ports detected, continuing to scan...
+2026-01-22T13:44:11.206033975Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding
+2026-01-22T13:44:11.695015082Z [Google Auth] Configuring with callback URL: https://askthem.xyz/api/auth/google/callback
+2026-01-22T13:44:11.697040696Z [Google Auth] Google OAuth routes registered
+2026-01-22T13:44:11.806650419Z 1:44:11 PM [express] Serving static files from: /opt/render/project/src/dist/public
+2026-01-22T13:44:11.813981225Z 1:44:11 PM [express] serving on port 10000
+2026-01-22T13:44:19Z clientIP="151.115.100.33" requestID="57f9989b-ccce-4083" responseTimeMS=3 responseBytes=1490 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:19.142296184Z ==> Your service is live 🎉
+2026-01-22T13:44:19.830485761Z ==> 
+2026-01-22T13:44:19.873964238Z ==> ///////////////////////////////////////////////////////////
+2026-01-22T13:44:19.914819755Z ==> 
+2026-01-22T13:44:19.98160144Z ==> Available at your primary URL https://askthem.xyz + 2 more domains
+2026-01-22T13:44:20Z clientIP="151.115.100.33" requestID="c1d14dc2-72dc-4f72" responseTimeMS=5 responseBytes=946 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:20.037022306Z ==> 
+2026-01-22T13:44:20.075741613Z ==> ///////////////////////////////////////////////////////////
+2026-01-22T13:44:21Z clientIP="35.197.97.226" requestID="e457dad1-bd7c-4e4f" responseTimeMS=4 responseBytes=946 userAgent="Go-http-client/2.0"
+2026-01-22T13:44:32Z clientIP="151.115.100.33" requestID="4c1bdd37-7b17-4cf2" responseTimeMS=4 responseBytes=946 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:32Z clientIP="151.115.100.33" requestID="2ff70610-67cc-4326" responseTimeMS=8 responseBytes=946 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:44:32Z clientIP="151.115.100.33" requestID="92a2e8b7-f00e-41e5" responseTimeMS=4 responseBytes=946 userAgent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.3"
+2026-01-22T13:46:30Z clientIP="139.99.236.252" requestID="b0b9d2e2-a2cd-4c4d" responseTimeMS=6 responseBytes=946 userAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.3"
+2026-01-22T13:46:32Z clientIP="139.99.236.252" requestID="cf4f1942-c05f-4df6" responseTimeMS=4 responseBytes=946 userAgent=""
+2026-01-22T13:46:34Z clientIP="139.99.236.252" requestID="3ff7df4a-c4d4-40ca" responseTimeMS=44 responseBytes=946 userAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.3"
+2026-01-22T13:46:43Z clientIP="139.99.236.252" requestID="a711d70d-fe3f-4a82" responseTimeMS=5 responseBytes=1490 userAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.3"
+2026-01-22T13:46:49Z clientIP="139.99.236.252" requestID="99cc3b08-2c79-4ea7" responseTimeMS=2 responseBytes=384 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:46:49Z clientIP="139.99.236.252" requestID="9702a947-c8d9-442e" responseTimeMS=3 responseBytes=946 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:46:50Z clientIP="139.99.236.252" requestID="a7833068-81a6-49d9" responseTimeMS=4 responseBytes=345 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:46:50Z clientIP="139.99.236.252" requestID="cc055f2e-331b-4faf" responseTimeMS=2 responseBytes=400 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:46:50Z clientIP="139.99.236.252" requestID="15c05b59-9230-45c6" responseTimeMS=1 responseBytes=385 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:46:50Z clientIP="139.99.236.252" requestID="3051d303-cead-48c1" responseTimeMS=7 responseBytes=18200 userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.246"
+2026-01-22T13:48:56Z clientIP="139.99.236.252" requestID="5b88262f-1d98-4e8c" responseTimeMS=4 responseBytes=1490 userAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.3"
+2026-01-22T13:49:08Z clientIP="139.99.236.252" requestID="4bb5c19a-df70-413a" responseTimeMS=2 responseBytes=1490 userAgent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.3"
+2026-01-22T13:49:18.956980445Z ==> Detected service running on port 10000
+2026-01-22T13:49:19.047202795Z ==> Docs on specifying a port: https://render.com/docs/web-services#port-binding

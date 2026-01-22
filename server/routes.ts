@@ -402,6 +402,17 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Get current user
   app.get("/api/user", async (req: any, res) => {
     try {
+      // Auto-login in development for testing
+      if (!isProduction && !req.session.userId) {
+        const devEmail = "johnmichaelkuczynski@gmail.com";
+        const devUsername = "johnmichaelkuczynski";
+        const user = await storage.createOrGetUserByUsername(devUsername);
+        req.session.userId = user.id;
+        req.session.username = devUsername;
+        req.session.save();
+        console.log("[Dev] Auto-logged in as:", devUsername);
+      }
+      
       if (!req.session.userId || !req.session.username) {
         return res.json({ user: null });
       }

@@ -285,22 +285,37 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Create a STANDARD pg Pool for session store (connect-pg-simple doesn't work with Neon serverless pool)
   const sessionDbUrl = process.env.CUSTOM_DATABASE_URL || process.env.DATABASE_URL;
   console.log("[Session Store] Creating standard pg pool for sessions...");
+  console.log("[Session Store] Database URL exists:", !!sessionDbUrl);
   
-  const sessionPool = new PgPool({
-    connectionString: sessionDbUrl,
-    ssl: { rejectUnauthorized: false }, // Required for Neon
-  });
+  let sessionPool: PgPool;
+  let pgStore: any;
   
-  // Create session store with error handling
-  const pgStore = new PgStore({
-    pool: sessionPool,
-    tableName: 'session',
-    createTableIfMissing: true,
-    errorLog: (err) => console.error("[Session Store Error]", err),
-  });
-  
-  // Log which database is being used
-  console.log("[Session Store] Using database:", process.env.CUSTOM_DATABASE_URL ? 'CUSTOM_DATABASE_URL' : 'DATABASE_URL');
+  try {
+    sessionPool = new PgPool({
+      connectionString: sessionDbUrl,
+      ssl: { rejectUnauthorized: false }, // Required for Neon
+    });
+    
+    // Test the connection
+    sessionPool.query('SELECT 1').then(() => {
+      console.log("[Session Store] Database connection verified");
+    }).catch((err) => {
+      console.error("[Session Store] Database connection failed:", err.message);
+    });
+    
+    // Create session store with error handling
+    pgStore = new PgStore({
+      pool: sessionPool,
+      tableName: 'session',
+      createTableIfMissing: true,
+      errorLog: (err: any) => console.error("[Session Store Error]", err),
+    });
+    
+    console.log("[Session Store] Using database:", process.env.CUSTOM_DATABASE_URL ? 'CUSTOM_DATABASE_URL' : 'DATABASE_URL');
+  } catch (err: any) {
+    console.error("[Session Store] Failed to create pool:", err.message);
+    throw err;
+  }
   
   // Session configuration with PostgreSQL store
   const sessionConfig: session.SessionOptions = {
@@ -340,18 +355,25 @@ export async function registerRoutes(app: Express): Promise<Server> {
         try {
           const user = req.user;
           console.log("[Google Auth] Callback - user:", user?.id, user?.username);
+          console.log("[Google Auth] Session ID before save:", req.sessionID);
+          console.log("[Google Auth] Session store type:", req.session?.store?.constructor?.name);
           
           if (user) {
             req.session.userId = user.id;
             req.session.username = user.username;
             
+            console.log("[Google Auth] Setting session data - userId:", user.id, "username:", user.username);
+            
             // Explicitly save session before redirect
             req.session.save((err: any) => {
               if (err) {
                 console.error("[Google Auth] Session save error:", err);
+                console.error("[Google Auth] Error details:", JSON.stringify(err));
                 return res.redirect("/?auth=error");
               }
-              console.log("[Google Auth] Session saved successfully, redirecting...");
+              console.log("[Google Auth] Session saved successfully!");
+              console.log("[Google Auth] Session ID after save:", req.sessionID);
+              console.log("[Google Auth] Redirecting to /?auth=success");
               res.redirect("/?auth=success");
             });
           } else {

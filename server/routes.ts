@@ -282,23 +282,32 @@ export async function registerRoutes(app: Express): Promise<Server> {
   const sessionTtl = 7 * 24 * 60 * 60 * 1000; // 1 week
   const isProduction = process.env.NODE_ENV === 'production';
   
+  // Create session store with error handling
+  const pgStore = new PgStore({
+    pool: pool,
+    tableName: 'session',
+    createTableIfMissing: true,
+    errorLog: (err) => console.error("[Session Store Error]", err),
+  });
+  
+  // Log which database is being used
+  console.log("[Session Store] Using database:", process.env.CUSTOM_DATABASE_URL ? 'CUSTOM_DATABASE_URL' : 'DATABASE_URL');
+  
   // Session configuration with PostgreSQL store
   const sessionConfig: session.SessionOptions = {
-    store: new PgStore({
-      pool: pool,
-      tableName: 'session',
-      createTableIfMissing: false,
-    }),
+    store: pgStore,
     secret: process.env.SESSION_SECRET!,
-    resave: false,
-    saveUninitialized: false,
+    resave: true,
+    saveUninitialized: true, // Always create a session
     cookie: {
       httpOnly: true,
       maxAge: sessionTtl,
       sameSite: 'lax',
-      secure: isProduction || process.env.BASE_URL?.startsWith('https://'),
+      secure: isProduction, // Only require HTTPS in production
     },
   };
+  
+  console.log("[Session Config] secure:", isProduction, "saveUninitialized: true");
   
   app.use(session(sessionConfig));
 
@@ -412,6 +421,12 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Get current user
   app.get("/api/user", async (req: any, res) => {
     try {
+      // Debug session info
+      console.log("[/api/user] Session ID:", req.sessionID);
+      console.log("[/api/user] Session userId:", req.session?.userId);
+      console.log("[/api/user] Session username:", req.session?.username);
+      console.log("[/api/user] Cookie header:", req.headers.cookie?.substring(0, 100));
+      
       // Auto-login in development for testing
       if (!isProduction && !req.session.userId) {
         const devEmail = "johnmichaelkuczynski@gmail.com";

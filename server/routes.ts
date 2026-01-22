@@ -4,7 +4,7 @@ import { storage } from "./storage";
 import { z } from "zod";
 import session from "express-session";
 import pgSession from "connect-pg-simple";
-import { pool } from "./db";
+import { Pool as PgPool } from "pg"; // Standard pg for session store
 import OpenAI from "openai";
 import Anthropic from "@anthropic-ai/sdk";
 import * as sdk from "microsoft-cognitiveservices-speech-sdk";
@@ -282,9 +282,18 @@ export async function registerRoutes(app: Express): Promise<Server> {
   const sessionTtl = 7 * 24 * 60 * 60 * 1000; // 1 week
   const isProduction = process.env.NODE_ENV === 'production';
   
+  // Create a STANDARD pg Pool for session store (connect-pg-simple doesn't work with Neon serverless pool)
+  const sessionDbUrl = process.env.CUSTOM_DATABASE_URL || process.env.DATABASE_URL;
+  console.log("[Session Store] Creating standard pg pool for sessions...");
+  
+  const sessionPool = new PgPool({
+    connectionString: sessionDbUrl,
+    ssl: { rejectUnauthorized: false }, // Required for Neon
+  });
+  
   // Create session store with error handling
   const pgStore = new PgStore({
-    pool: pool,
+    pool: sessionPool,
     tableName: 'session',
     createTableIfMissing: true,
     errorLog: (err) => console.error("[Session Store Error]", err),

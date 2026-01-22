@@ -3,6 +3,8 @@ import { createServer, type Server } from "http";
 import { storage } from "./storage";
 import { z } from "zod";
 import session from "express-session";
+import pgSession from "connect-pg-simple";
+import { pool } from "./db";
 import OpenAI from "openai";
 import Anthropic from "@anthropic-ai/sdk";
 import * as sdk from "microsoft-cognitiveservices-speech-sdk";
@@ -275,26 +277,28 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Trust proxy - required for secure cookies behind reverse proxies (Render, Cloudflare, etc)
   app.set('trust proxy', 1);
 
-  // Setup sessions (but not auth)
+  // Setup PostgreSQL session store for persistent sessions across restarts/instances
+  const PgStore = pgSession(session);
   const sessionTtl = 7 * 24 * 60 * 60 * 1000; // 1 week
   const isProduction = process.env.NODE_ENV === 'production';
   
-  // Session configuration
-  const sessionConfig: any = {
-    secret: process.env.SESSION_SECRET,
+  // Session configuration with PostgreSQL store
+  const sessionConfig: session.SessionOptions = {
+    store: new PgStore({
+      pool: pool,
+      tableName: 'session',
+      createTableIfMissing: true,
+    }),
+    secret: process.env.SESSION_SECRET!,
     resave: false,
     saveUninitialized: false,
     cookie: {
       httpOnly: true,
       maxAge: sessionTtl,
-      sameSite: 'lax' as const,
+      sameSite: 'lax',
+      secure: isProduction || process.env.BASE_URL?.startsWith('https://'),
     },
   };
-  
-  // In production or when BASE_URL is HTTPS, use secure cookies
-  if (isProduction || process.env.BASE_URL?.startsWith('https://')) {
-    sessionConfig.cookie.secure = true;
-  }
   
   app.use(session(sessionConfig));
 

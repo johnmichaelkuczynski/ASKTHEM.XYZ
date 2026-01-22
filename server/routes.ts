@@ -350,6 +350,16 @@ export async function registerRoutes(app: Express): Promise<Server> {
     console.log("[Google Auth] Google OAuth routes registered");
   } else {
     console.log("[Google Auth] Skipping Google OAuth routes - credentials not configured");
+    console.log("[Google Auth] GOOGLE_CLIENT_ID set:", !!process.env.GOOGLE_CLIENT_ID);
+    console.log("[Google Auth] GOOGLE_CLIENT_SECRET set:", !!process.env.GOOGLE_CLIENT_SECRET);
+    
+    // Add fallback route that shows helpful error
+    app.get("/api/auth/google", (req, res) => {
+      res.status(503).json({ 
+        error: "Google OAuth not configured",
+        message: "GOOGLE_CLIENT_ID and GOOGLE_CLIENT_SECRET environment variables are required"
+      });
+    });
   }
 
   // ============ USERNAME-BASED LOGIN (NO PASSWORD) ============

@@ -272,21 +272,31 @@ export async function registerRoutes(app: Express): Promise<Server> {
   // Serve attached_assets folder for avatar images
   app.use('/attached_assets', express.static(path.join(process.cwd(), 'attached_assets')));
 
+  // Trust proxy - required for secure cookies behind reverse proxies (Render, Cloudflare, etc)
+  app.set('trust proxy', 1);
+
   // Setup sessions (but not auth)
   const sessionTtl = 7 * 24 * 60 * 60 * 1000; // 1 week
   const isProduction = process.env.NODE_ENV === 'production';
   
-  app.use(session({
+  // Session configuration
+  const sessionConfig: any = {
     secret: process.env.SESSION_SECRET,
     resave: false,
-    saveUninitialized: true,
+    saveUninitialized: false,
     cookie: {
       httpOnly: true,
-      secure: isProduction, // Require HTTPS in production
       maxAge: sessionTtl,
-      sameSite: 'lax', // CSRF protection
+      sameSite: 'lax' as const,
     },
-  }));
+  };
+  
+  // In production or when BASE_URL is HTTPS, use secure cookies
+  if (isProduction || process.env.BASE_URL?.startsWith('https://')) {
+    sessionConfig.cookie.secure = true;
+  }
+  
+  app.use(session(sessionConfig));
 
   // ============ GOOGLE OAUTH LOGIN ============
   const { setupGoogleAuth } = await import("./googleAuth");

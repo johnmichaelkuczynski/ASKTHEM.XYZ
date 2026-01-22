@@ -39,6 +39,7 @@ packages = ["psmisc", "python312Packages.psycopg2", "lsof"]
 [userenv]
 
 [userenv.shared]
+BASE_URL = "https://askthem.xyz"
 
 [deployment]
 deploymentTarget = "autoscale"
